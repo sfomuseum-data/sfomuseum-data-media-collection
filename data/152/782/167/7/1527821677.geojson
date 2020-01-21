@@ -2,74 +2,167 @@
   "id": 1527821677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
-    "geom:longitude":-122.386155,
-    "iso:country":"XX",
-    "media:medium":"image",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:filename":"38920.tif",
-    "sfomuseum:image_id":38920,
-    "sfomuseum:image_index":5,
-    "sfomuseum:object_id":114222,
-    "sfomuseum:placetype":"image",
-    "sfomuseum:primary_image":1,
-    "wof:belongsto":[
-        1511214209,
-        1511943753,
-        102527513,
-        102191575,
-        85633793,
-        1511213801,
-        85922583,
-        102087579,
-        1511214277,
-        1511214203,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"XX",
-    "wof:created":1578949613,
-    "wof:depicts":[
-        1511943753
-    ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
+    "geom:latitude": 37.616358,
+    "geom:longitude": -122.386155,
+    "iso:country": "XX",
+    "media:fingerprint": "3a42f3046e8abe1a3c1b453283f0f376ad4dbbb7",
+    "media:imagehash_avg": "a:ffffffef03000000",
+    "media:imagehash_diff": "d:60225a5a2e8c0450",
+    "media:medium": "image",
+    "media:mimetype": "image/tiff",
+    "media:properties": {
+      "colours": [
         {
-            "arcade_id":1511213801,
-            "building_id":1511214277,
-            "campus_id":102527513,
-            "concourse_id":1511214209,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1527821677,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":1511943753,
-            "wing_id":1511214203
+          "hex": "#808080",
+          "name": "#808080",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#b8b8b8",
+          "name": "#b8b8b8",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#404040",
+          "name": "#404040",
+          "reference": "vibrant"
         }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 767,
+          "mimetype": "image/jpeg",
+          "secret": "nPFmBMhwjzodFTqCfUxrxTJ9vxJ1Rd8P",
+          "width": 988
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "nPFmBMhwjzodFTqCfUxrxTJ9vxJ1Rd8P",
+          "width": 772
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "nPFmBMhwjzodFTqCfUxrxTJ9vxJ1Rd8P",
+          "width": 772
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "nPFmBMhwjzodFTqCfUxrxTJ9vxJ1Rd8P",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1535,
+          "mimetype": "image/jpeg",
+          "secret": "nPFmBMhwjzodFTqCfUxrxTJ9vxJ1Rd8P",
+          "width": 1976
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "nPFmBMhwjzodFTqCfUxrxTJ9vxJ1Rd8P",
+          "width": 308
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2140,
+          "mimetype": "image/jpeg",
+          "secret": "AKs6w0zgSAVivBsb1pGCrzvkRjpmwGRo",
+          "width": 2754
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "nPFmBMhwjzodFTqCfUxrxTJ9vxJ1Rd8P",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "nPFmBMhwjzodFTqCfUxrxTJ9vxJ1Rd8P",
+          "width": 617
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/167/7/1527821677_{secret}_{label}.{extention}",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:filename": "38920.tif",
+    "sfomuseum:image_id": 38920,
+    "sfomuseum:image_index": 5,
+    "sfomuseum:object_id": 114222,
+    "sfomuseum:placetype": "image",
+    "sfomuseum:primary_image": 1,
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1511213801, 
+      1527821677, 
+      102191575, 
+      102087579, 
+      102527513, 
+      1511214209, 
+      85633793, 
+      1511214277, 
+      1511214203, 
+      85922583, 
+      85688637, 
+      1511943753
     ],
-    "wof:id":1527821677,
-    "wof:lastmodified":1579212273,
-    "wof:name":"negative: San Francisco Airport, runway maintenance",
-    "wof:parent_id":1511943753,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-collection",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "XX",
+    "wof:created": 1578949613,
+    "wof:depicts": [
+      1511943753
+    ],
+    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:hierarchy": [
+      {
+        "arcade_id": 1511213801,
+        "building_id": 1511214277,
+        "campus_id": 102527513,
+        "concourse_id": 1511214209,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1527821677,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 1511943753,
+        "wing_id": 1511214203
+      }
+    ],
+    "wof:id": 1527821677,
+    "wof:lastmodified": 1579646952,
+    "wof:name": "negative: San Francisco Airport, runway maintenance",
+    "wof:parent_id": 1511943753,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media-collection",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
+    -122.386155, 
+    37.616358, 
+    -122.386155, 
     37.616358
-],
+  ],
   "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

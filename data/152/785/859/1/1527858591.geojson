@@ -2,74 +2,167 @@
   "id": 1527858591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
-    "geom:longitude":-122.386155,
-    "iso:country":"XX",
-    "media:medium":"image",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:filename":"2016.096.001_ft.tif",
-    "sfomuseum:image_id":189780,
-    "sfomuseum:image_index":0,
-    "sfomuseum:object_id":179554,
-    "sfomuseum:placetype":"image",
-    "sfomuseum:primary_image":1,
-    "wof:belongsto":[
-        1511214209,
-        1511958755,
-        102527513,
-        102191575,
-        85633793,
-        1511213367,
-        85922583,
-        102087579,
-        1511214277,
-        1511214203,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"XX",
-    "wof:created":1578955472,
-    "wof:depicts":[
-        1511958755
-    ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
+    "geom:latitude": 37.616358,
+    "geom:longitude": -122.386155,
+    "iso:country": "XX",
+    "media:fingerprint": "377dc0cc3fc8e88c4be51ee13e34465f2411c18c",
+    "media:imagehash_avg": "a:ffc1c1c1c1c1c9ff",
+    "media:imagehash_diff": "d:07171d19291b1b0f",
+    "media:medium": "image",
+    "media:mimetype": "image/tiff",
+    "media:properties": {
+      "colours": [
         {
-            "arcade_id":1511213367,
-            "building_id":1511214277,
-            "campus_id":102527513,
-            "concourse_id":1511214209,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1527858591,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":1511958755,
-            "wing_id":1511214203
+          "hex": "#828276",
+          "name": "#828276",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#cbc6b2",
+          "name": "#cbc6b2",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#44463c",
+          "name": "#44463c",
+          "reference": "vibrant"
         }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "djq0Ti0H9TqmAn4WEqvzNhDxwzIpfxhC",
+          "width": 489
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "djq0Ti0H9TqmAn4WEqvzNhDxwzIpfxhC",
+          "width": 382
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "djq0Ti0H9TqmAn4WEqvzNhDxwzIpfxhC",
+          "width": 382
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "djq0Ti0H9TqmAn4WEqvzNhDxwzIpfxhC",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "djq0Ti0H9TqmAn4WEqvzNhDxwzIpfxhC",
+          "width": 978
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 239,
+          "mimetype": "image/jpeg",
+          "secret": "djq0Ti0H9TqmAn4WEqvzNhDxwzIpfxhC",
+          "width": 152
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2741,
+          "mimetype": "image/jpeg",
+          "secret": "WM3JPSoGLwZPmj6iF2LUjiJlgSoGObnp",
+          "width": 1746
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "djq0Ti0H9TqmAn4WEqvzNhDxwzIpfxhC",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 479,
+          "mimetype": "image/jpeg",
+          "secret": "djq0Ti0H9TqmAn4WEqvzNhDxwzIpfxhC",
+          "width": 305
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/859/1/1527858591_{secret}_{label}.{extention}",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:filename": "2016.096.001_ft.tif",
+    "sfomuseum:image_id": 189780,
+    "sfomuseum:image_index": 0,
+    "sfomuseum:object_id": 179554,
+    "sfomuseum:placetype": "image",
+    "sfomuseum:primary_image": 1,
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85633793, 
+      102087579, 
+      1511214277, 
+      102527513, 
+      1527858591, 
+      1511958755, 
+      1511214203, 
+      85688637, 
+      1511213367, 
+      1511214209, 
+      102191575, 
+      85922583
     ],
-    "wof:id":1527858591,
-    "wof:lastmodified":1579212214,
-    "wof:name":"photograph: Civil Aeronautics Board, Clarence M. Young",
-    "wof:parent_id":1511958755,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-collection",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "XX",
+    "wof:created": 1578955472,
+    "wof:depicts": [
+      1511958755
+    ],
+    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:hierarchy": [
+      {
+        "arcade_id": 1511213367,
+        "building_id": 1511214277,
+        "campus_id": 102527513,
+        "concourse_id": 1511214209,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1527858591,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 1511958755,
+        "wing_id": 1511214203
+      }
+    ],
+    "wof:id": 1527858591,
+    "wof:lastmodified": 1579689515,
+    "wof:name": "photograph: Civil Aeronautics Board, Clarence M. Young",
+    "wof:parent_id": 1511958755,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media-collection",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
+    -122.386155, 
+    37.616358, 
+    -122.386155, 
     37.616358
-],
+  ],
   "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

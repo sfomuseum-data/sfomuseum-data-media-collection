@@ -2,74 +2,167 @@
   "id": 1527858155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
-    "geom:longitude":-122.386155,
-    "iso:country":"XX",
-    "media:medium":"image",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:filename":"2001.146.038.tif",
-    "sfomuseum:image_id":163564,
-    "sfomuseum:image_index":0,
-    "sfomuseum:object_id":63882,
-    "sfomuseum:placetype":"image",
-    "sfomuseum:primary_image":1,
-    "wof:belongsto":[
-        1511214205,
-        1511922431,
-        102527513,
-        102191575,
-        85633793,
-        1511213155,
-        85922583,
-        102087579,
-        1511214277,
-        1511214203,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"XX",
-    "wof:created":1578955406,
-    "wof:depicts":[
-        1511922431
-    ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
+    "geom:latitude": 37.616358,
+    "geom:longitude": -122.386155,
+    "iso:country": "XX",
+    "media:fingerprint": "8db1823eb36a4c7b656b6a97f400f3f91c4643e1",
+    "media:imagehash_avg": "a:3ce7c38181c1fbff",
+    "media:imagehash_diff": "d:f8cc8e27370787f0",
+    "media:medium": "image",
+    "media:mimetype": "image/tiff",
+    "media:properties": {
+      "colours": [
         {
-            "arcade_id":1511213155,
-            "building_id":1511214277,
-            "campus_id":102527513,
-            "concourse_id":1511214205,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1527858155,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":1511922431,
-            "wing_id":1511214203
+          "hex": "#7c7d7f",
+          "name": "#7c7d7f",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#bec3c8",
+          "name": "#bec3c8",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#353841",
+          "name": "#353841",
+          "reference": "vibrant"
         }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 753,
+          "mimetype": "image/jpeg",
+          "secret": "b2tCT0LMdIr8IEmqIAUi4Giud2eU9f4U",
+          "width": 1023
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 588,
+          "mimetype": "image/jpeg",
+          "secret": "b2tCT0LMdIr8IEmqIAUi4Giud2eU9f4U",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 588,
+          "mimetype": "image/jpeg",
+          "secret": "b2tCT0LMdIr8IEmqIAUi4Giud2eU9f4U",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "b2tCT0LMdIr8IEmqIAUi4Giud2eU9f4U",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1506,
+          "mimetype": "image/jpeg",
+          "secret": "b2tCT0LMdIr8IEmqIAUi4Giud2eU9f4U",
+          "width": 2047
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 235,
+          "mimetype": "image/jpeg",
+          "secret": "b2tCT0LMdIr8IEmqIAUi4Giud2eU9f4U",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1226,
+          "mimetype": "image/jpeg",
+          "secret": "ZVgJkbkfAnlPIYzjutDSrueKFvqlQaq3",
+          "width": 1667
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "b2tCT0LMdIr8IEmqIAUi4Giud2eU9f4U",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 470,
+          "mimetype": "image/jpeg",
+          "secret": "b2tCT0LMdIr8IEmqIAUi4Giud2eU9f4U",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/815/5/1527858155_{secret}_{label}.{extention}",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:filename": "2001.146.038.tif",
+    "sfomuseum:image_id": 163564,
+    "sfomuseum:image_index": 0,
+    "sfomuseum:object_id": 63882,
+    "sfomuseum:placetype": "image",
+    "sfomuseum:primary_image": 1,
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1511213155, 
+      85922583, 
+      1511214205, 
+      102191575, 
+      1511214203, 
+      1511922431, 
+      102527513, 
+      85633793, 
+      102087579, 
+      85688637, 
+      1527858155, 
+      1511214277
     ],
-    "wof:id":1527858155,
-    "wof:lastmodified":1579212242,
-    "wof:name":"airline bag: United Air Lines",
-    "wof:parent_id":1511922431,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-collection",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "XX",
+    "wof:created": 1578955406,
+    "wof:depicts": [
+      1511922431
+    ],
+    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:hierarchy": [
+      {
+        "arcade_id": 1511213155,
+        "building_id": 1511214277,
+        "campus_id": 102527513,
+        "concourse_id": 1511214205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1527858155,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 1511922431,
+        "wing_id": 1511214203
+      }
+    ],
+    "wof:id": 1527858155,
+    "wof:lastmodified": 1579689050,
+    "wof:name": "airline bag: United Air Lines",
+    "wof:parent_id": 1511922431,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media-collection",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
+    -122.386155, 
+    37.616358, 
+    -122.386155, 
     37.616358
-],
+  ],
   "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

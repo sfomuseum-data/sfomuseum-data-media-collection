@@ -2,74 +2,167 @@
   "id": 1527826571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude":37.616358,
-    "geom:longitude":-122.386155,
-    "iso:country":"XX",
-    "media:medium":"image",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:filename":"43700.tif",
-    "sfomuseum:image_id":43700,
-    "sfomuseum:image_index":5,
-    "sfomuseum:object_id":116443,
-    "sfomuseum:placetype":"image",
-    "sfomuseum:primary_image":1,
-    "wof:belongsto":[
-        1511214209,
-        1511947609,
-        102527513,
-        102191575,
-        85633793,
-        1511213367,
-        85922583,
-        102087579,
-        1511214277,
-        1511214203,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"XX",
-    "wof:created":1578950387,
-    "wof:depicts":[
-        1511947609
-    ],
-    "wof:geomhash":"bd906905ce4be6c0651c90b0fc24804c",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
+    "geom:latitude": 37.616358,
+    "geom:longitude": -122.386155,
+    "iso:country": "XX",
+    "media:fingerprint": "de6bbcc7146a8b21bf2b7324595d49003481d711",
+    "media:imagehash_avg": "a:ffffffff00000000",
+    "media:imagehash_diff": "d:f0d0d21b3bfcc0d0",
+    "media:medium": "image",
+    "media:mimetype": "image/tiff",
+    "media:properties": {
+      "colours": [
         {
-            "arcade_id":1511213367,
-            "building_id":1511214277,
-            "campus_id":102527513,
-            "concourse_id":1511214209,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1527826571,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":1511947609,
-            "wing_id":1511214203
+          "hex": "#808080",
+          "name": "#808080",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#b8b8b8",
+          "name": "#b8b8b8",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#484848",
+          "name": "#484848",
+          "reference": "vibrant"
         }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "pvXRnpRqwm1p7zNR6sJwXV2edWB0GdBX",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "pvXRnpRqwm1p7zNR6sJwXV2edWB0GdBX",
+          "width": 600
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "pvXRnpRqwm1p7zNR6sJwXV2edWB0GdBX",
+          "width": 600
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "pvXRnpRqwm1p7zNR6sJwXV2edWB0GdBX",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "pvXRnpRqwm1p7zNR6sJwXV2edWB0GdBX",
+          "width": 1536
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "pvXRnpRqwm1p7zNR6sJwXV2edWB0GdBX",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1740,
+          "mimetype": "image/jpeg",
+          "secret": "UHjuFx4oNTOanvH7X72Ng9NEQXzjnGIa",
+          "width": 1740
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "pvXRnpRqwm1p7zNR6sJwXV2edWB0GdBX",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "pvXRnpRqwm1p7zNR6sJwXV2edWB0GdBX",
+          "width": 480
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/657/1/1527826571_{secret}_{label}.{extention}",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:filename": "43700.tif",
+    "sfomuseum:image_id": 43700,
+    "sfomuseum:image_index": 5,
+    "sfomuseum:object_id": 116443,
+    "sfomuseum:placetype": "image",
+    "sfomuseum:primary_image": 1,
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1511947609, 
+      1511214203, 
+      1511214277, 
+      1527826571, 
+      85688637, 
+      85633793, 
+      102087579, 
+      85922583, 
+      102527513, 
+      102191575, 
+      1511213367, 
+      1511214209
     ],
-    "wof:id":1527826571,
-    "wof:lastmodified":1579212293,
-    "wof:name":"photograph: San Francisco International Airport (SFO), construction, damaged equipment",
-    "wof:parent_id":1511947609,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-collection",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "XX",
+    "wof:created": 1578950387,
+    "wof:depicts": [
+      1511947609
+    ],
+    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:hierarchy": [
+      {
+        "arcade_id": 1511213367,
+        "building_id": 1511214277,
+        "campus_id": 102527513,
+        "concourse_id": 1511214209,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1527826571,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 1511947609,
+        "wing_id": 1511214203
+      }
+    ],
+    "wof:id": 1527826571,
+    "wof:lastmodified": 1579652082,
+    "wof:name": "photograph: San Francisco International Airport (SFO), construction, damaged equipment",
+    "wof:parent_id": 1511947609,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media-collection",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
+    -122.386155, 
+    37.616358, 
+    -122.386155, 
     37.616358
-],
+  ],
   "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

@@ -20,22 +20,22 @@
           "hex": "#409dd6",
           "name": "#409dd6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#78bbe9",
           "name": "#78bbe9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#1a4e73",
           "name": "#1a4e73",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6d95ac",
           "name": "#6d95ac",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b8c0c8",
           "name": "#b8c0c8",
@@ -111,6 +111,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/775/5/1527857755_{secret}_{label}.{extention}",
+    "millsfield:category_id": -1,
+    "millsfield:collection_id": -1,
+    "millsfield:subcategory_id": -1,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1996.07.03_05.tif",
@@ -121,29 +124,29 @@
     "sfomuseum:primary_image": 0,
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191581, 
-      1511907215, 
-      85633337, 
-      136253051, 
-      1511214235, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1511213161, 
-      85922583, 
-      102087579, 
-      1511214277, 
-      1511214203, 
+      102191581,
+      1511907215,
+      85633337,
+      136253051,
+      1511214235,
+      102527513,
+      102191575,
+      85633793,
+      1511213161,
+      85922583,
+      102087579,
+      1511214277,
+      1511214203,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "NL",
     "wof:created": 1578955342,
     "wof:depicts": [
-      1159289873, 
-      1159289915, 
-      1159293593, 
-      1159284613, 
+      1159289873,
+      1159289915,
+      1159293593,
+      1159284613,
       1511907215
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
@@ -154,7 +157,7 @@
         "empire_id": 136253051,
         "media_id": 1527857755,
         "venue_id": 1511907215
-      }, 
+      },
       {
         "arcade_id": 1511213161,
         "building_id": 1511214277,
@@ -172,7 +175,7 @@
       }
     ],
     "wof:id": 1527857755,
-    "wof:lastmodified": 1618963407,
+    "wof:lastmodified": 1618963611,
     "wof:name": "model airplane: KLM (Royal Dutch Airlines), Boeing 747-400",
     "wof:parent_id": 1511907215,
     "wof:placetype": "media",
@@ -182,9 +185,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155, 
-    37.616358, 
-    -122.386155, 
+    -122.386155,
+    37.616358,
+    -122.386155,
     37.616358
   ],
   "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}

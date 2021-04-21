@@ -20,17 +20,17 @@
           "hex": "#e1cca4",
           "name": "#e1cca4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b5a270",
           "name": "#b5a270",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#dbd0b1",
           "name": "#dbd0b1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#544d39",
           "name": "#544d39",
@@ -106,6 +106,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/571/1/1729565711_{secret}_{label}.{extention}",
+    "millsfield:category_id": -1,
+    "millsfield:collection_id": -1,
+    "millsfield:subcategory_id": -1,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "2001.082.010_verso.tif",
@@ -116,25 +119,25 @@
     "sfomuseum:primary_image": 0,
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      1729563973, 
-      85633793, 
-      136253057, 
-      1511214215, 
-      102527513, 
-      1511213363, 
-      85922583, 
-      102087579, 
-      1511214277, 
-      1511214207, 
+      102191575,
+      1729563973,
+      85633793,
+      136253057,
+      1511214215,
+      102527513,
+      1511213363,
+      85922583,
+      102087579,
+      1511214277,
+      1511214207,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1607095310,
     "wof:depicts": [
-      1159285393, 
-      1159289759, 
+      1159285393,
+      1159289759,
       1729563973
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
@@ -145,7 +148,7 @@
         "empire_id": 136253057,
         "media_id": 1729565711,
         "venue_id": 1729563973
-      }, 
+      },
       {
         "arcade_id": 1511213363,
         "building_id": 1511214277,
@@ -163,7 +166,7 @@
       }
     ],
     "wof:id": 1729565711,
-    "wof:lastmodified": 1618963436,
+    "wof:lastmodified": 1618963613,
     "wof:name": "postcard: TWA (Trans World Airlines), Boeing 727",
     "wof:parent_id": 1729563973,
     "wof:placetype": "media",
@@ -173,9 +176,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155, 
-    37.616357, 
-    -122.386155, 
+    -122.386155,
+    37.616357,
+    -122.386155,
     37.616357
   ],
   "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}

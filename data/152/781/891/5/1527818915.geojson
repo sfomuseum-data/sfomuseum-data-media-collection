@@ -20,12 +20,12 @@
           "hex": "#7a7a7a",
           "name": "#7a7a7a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b6b6b6",
           "name": "#b6b6b6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#404040",
           "name": "#404040",
@@ -101,6 +101,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/781/891/5/1527818915_{secret}_{label}.{extention}",
+    "millsfield:category_id": -1,
+    "millsfield:collection_id": -1,
+    "millsfield:subcategory_id": -1,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "19825.jpg",
@@ -111,27 +114,27 @@
     "sfomuseum:primary_image": 1,
     "src:geom": "unknown",
     "wof:belongsto": [
-      1511214209, 
-      1511924203, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1511213367, 
-      85922583, 
-      102087579, 
-      1511214277, 
-      1511214203, 
-      85688637, 
+      1511214209,
+      1511924203,
+      102527513,
+      102191575,
+      85633793,
+      1511213367,
+      85922583,
+      102087579,
+      1511214277,
+      1511214203,
+      85688637,
       136253057
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1578949177,
     "wof:depicts": [
-      102527513, 
-      1159289873, 
-      1159293593, 
-      1159284989, 
+      102527513,
+      1159289873,
+      1159293593,
+      1159284989,
       1511924203
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
@@ -150,7 +153,7 @@
         "region_id": 85688637,
         "venue_id": 1511924203,
         "wing_id": 1511214203
-      }, 
+      },
       {
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -160,7 +163,7 @@
       }
     ],
     "wof:id": 1527818915,
-    "wof:lastmodified": 1618963406,
+    "wof:lastmodified": 1618963615,
     "wof:name": "photograph: San Francisco International Airport (SFO), Pan American World Airways, Boeing 747",
     "wof:parent_id": 1511924203,
     "wof:placetype": "media",
@@ -170,9 +173,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155, 
-    37.616358, 
-    -122.386155, 
+    -122.386155,
+    37.616358,
+    -122.386155,
     37.616358
   ],
   "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}

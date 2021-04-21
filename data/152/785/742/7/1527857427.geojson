@@ -20,22 +20,22 @@
           "hex": "#294976",
           "name": "#294976",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#243a5b",
           "name": "#243a5b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5373a9",
           "name": "#5373a9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b8b8b8",
           "name": "#b8b8b8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4a4646",
           "name": "#4a4646",
@@ -111,6 +111,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/742/7/1527857427_{secret}_{label}.{extention}",
+    "millsfield:category_id": -1,
+    "millsfield:collection_id": -1,
+    "millsfield:subcategory_id": -1,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1995.76.01ab_03.tif",
@@ -121,29 +124,29 @@
     "sfomuseum:primary_image": 0,
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191569, 
-      1511907497, 
-      85632429, 
-      1511214235, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1511213161, 
-      85922583, 
-      102087579, 
-      1511214277, 
-      1511214203, 
+      102191569,
+      1511907497,
+      85632429,
+      1511214235,
+      102527513,
+      102191575,
+      85633793,
+      1511213161,
+      85922583,
+      102087579,
+      1511214277,
+      1511214203,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "JP",
     "wof:created": 1578955292,
     "wof:depicts": [
-      1159289897, 
-      1159293593, 
-      1159289873, 
-      1159289891, 
-      1159284873, 
+      1159289897,
+      1159293593,
+      1159289873,
+      1159289891,
+      1159284873,
       1511907497
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
@@ -153,7 +156,7 @@
         "country_id": 85632429,
         "media_id": 1527857427,
         "venue_id": 1511907497
-      }, 
+      },
       {
         "arcade_id": 1511213161,
         "building_id": 1511214277,
@@ -171,7 +174,7 @@
       }
     ],
     "wof:id": 1527857427,
-    "wof:lastmodified": 1618963404,
+    "wof:lastmodified": 1618963610,
     "wof:name": "model airplane: Nippon Cargo Airlines (Cargo), Boeing 747-200F",
     "wof:parent_id": 1511907497,
     "wof:placetype": "media",
@@ -181,9 +184,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155, 
-    37.616358, 
-    -122.386155, 
+    -122.386155,
+    37.616358,
+    -122.386155,
     37.616358
   ],
   "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}

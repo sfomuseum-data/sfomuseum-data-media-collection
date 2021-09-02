@@ -111,6 +111,12 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/005/1/1527850051_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159283973
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213703,
@@ -140,10 +146,10 @@
     "wof:country": "XX",
     "wof:created": 1578954126,
     "wof:depicts": [
-      1159289819,
-      1159293593,
       1159283973,
-      1511926907
+      1511926907,
+      1159289819,
+      1159293593
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -164,7 +170,7 @@
       }
     ],
     "wof:id": 1527850051,
-    "wof:lastmodified": 1618963624,
+    "wof:lastmodified": 1630543265,
     "wof:name": "safety information card: Bahamasair, Boeing 737",
     "wof:parent_id": 1511926907,
     "wof:placetype": "media",

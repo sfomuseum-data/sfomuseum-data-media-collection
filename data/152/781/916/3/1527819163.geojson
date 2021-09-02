@@ -106,6 +106,12 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/781/916/3/1527819163_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102531041,
+      -1,
+      102529283,
+      1360695653
+    ],
     "millsfield:category_id": 1511214241,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213327,
@@ -135,13 +141,13 @@
     "wof:country": "XX",
     "wof:created": 1578949215,
     "wof:depicts": [
-      85921881,
-      85688637,
-      85633793,
       102531041,
       102529283,
       1360695653,
-      1511910163
+      1511910163,
+      85921881,
+      85688637,
+      85633793
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -162,7 +168,7 @@
       }
     ],
     "wof:id": 1527819163,
-    "wof:lastmodified": 1618963616,
+    "wof:lastmodified": 1630543241,
     "wof:name": "map: San Francisco Bay Area, airfields",
     "wof:parent_id": 1511910163,
     "wof:placetype": "media",

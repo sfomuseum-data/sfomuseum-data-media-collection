@@ -106,9 +106,16 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/764/1/1527857641_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284009,
+      1159286455
+    ],
+    "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:subcategory_id": -1,
+    "millsfield:subcategory_id": 1511213161,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1999.061.060_02.tif",
@@ -136,10 +143,12 @@
     "wof:country": "US",
     "wof:created": 1578955324,
     "wof:depicts": [
-      1511909369,
-      1159289789,
       1159293593,
-      1159289759
+      1159289759,
+      1159284009,
+      1159286455,
+      1511909369,
+      1159289789
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -167,7 +176,7 @@
       }
     ],
     "wof:id": 1527857641,
-    "wof:lastmodified": 1618963610,
+    "wof:lastmodified": 1630543271,
     "wof:name": "model airplane: Braniff International, Boeing 727-200",
     "wof:parent_id": 1511909369,
     "wof:placetype": "media",

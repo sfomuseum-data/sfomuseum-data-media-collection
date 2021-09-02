@@ -111,6 +111,12 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/815/9/1527858159_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284613
+    ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213161,
@@ -140,11 +146,11 @@
     "wof:country": "XX",
     "wof:created": 1578955407,
     "wof:depicts": [
-      1159289873,
       1159289915,
       1159293593,
       1159284613,
-      1511935485
+      1511935485,
+      1159289873
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +171,7 @@
       }
     ],
     "wof:id": 1527858159,
-    "wof:lastmodified": 1618963612,
+    "wof:lastmodified": 1630543272,
     "wof:name": "model airplane: KLM (Royal Dutch Airlines), Boeing 747-400",
     "wof:parent_id": 1511935485,
     "wof:placetype": "media",

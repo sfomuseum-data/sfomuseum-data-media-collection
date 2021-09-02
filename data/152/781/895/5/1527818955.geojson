@@ -111,9 +111,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/781/895/5/1527818955_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285413
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
+    "millsfield:category_id": 1511214209,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213367,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "19845.jpg",
@@ -141,12 +150,12 @@
     "wof:country": "US",
     "wof:created": 1578949183,
     "wof:depicts": [
+      1511924243,
       102527513,
       1159289759,
       1159293593,
       1159289777,
-      1159285413,
-      1511924243
+      1159285413
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -174,7 +183,7 @@
       }
     ],
     "wof:id": 1527818955,
-    "wof:lastmodified": 1618963615,
+    "wof:lastmodified": 1630543240,
     "wof:name": "photograph: United Airlines, Boeing 727-100",
     "wof:parent_id": 1511924243,
     "wof:placetype": "media",

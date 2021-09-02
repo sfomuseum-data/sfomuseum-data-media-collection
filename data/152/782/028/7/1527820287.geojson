@@ -111,6 +111,12 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/028/7/1527820287_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284991
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213159,
@@ -140,11 +146,11 @@
     "wof:country": "XX",
     "wof:created": 1578949397,
     "wof:depicts": [
-      1159289625,
-      1159293593,
       1159284991,
       1159289619,
-      1511922417
+      1511922417,
+      1159289625,
+      1159293593
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +171,7 @@
       }
     ],
     "wof:id": 1527820287,
-    "wof:lastmodified": 1618963593,
+    "wof:lastmodified": 1630543241,
     "wof:name": "airmail flight cover: Pan American Airways, Boeing 314",
     "wof:parent_id": 1511922417,
     "wof:placetype": "media",

@@ -111,6 +111,12 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/017/3/1527850173_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159294431
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213703,
@@ -140,11 +146,11 @@
     "wof:country": "XX",
     "wof:created": 1578954146,
     "wof:depicts": [
+      1159294431,
+      1511924513,
       1159293083,
       1159291259,
-      1159293561,
-      1159294431,
-      1511924513
+      1159293561
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +171,7 @@
       }
     ],
     "wof:id": 1527850173,
-    "wof:lastmodified": 1618963620,
+    "wof:lastmodified": 1630543266,
     "wof:name": "safety information card: Western Airlines, McDonnell Douglas DC-10",
     "wof:parent_id": 1511924513,
     "wof:placetype": "media",

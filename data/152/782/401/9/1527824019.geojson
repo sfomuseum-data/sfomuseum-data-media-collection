@@ -100,7 +100,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/401/9/1527824019_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/401/9/1527824019_{secret}_{label}.{extention}",
     "millsfield:airport_id": [
       102527513
     ],
@@ -115,7 +115,7 @@
     "sfomuseum:object_id": 114981,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511945337,
@@ -133,12 +133,12 @@
     "wof:country": "XX",
     "wof:created": 1578949993,
     "wof:depicts": [
+      102527513,
+      1511945337,
       85865991,
       85922583,
       85688637,
-      85633793,
-      102527513,
-      1511945337
+      85633793
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -159,7 +159,7 @@
       }
     ],
     "wof:id": 1527824019,
-    "wof:lastmodified": 1630543245,
+    "wof:lastmodified": 1630543788,
     "wof:name": "negative: San Francisco, view toward Golden Gate Bridge",
     "wof:parent_id": 1511945337,
     "wof:placetype": "media",

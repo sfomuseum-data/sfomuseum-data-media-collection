@@ -110,7 +110,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/594/3/1527855943_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/594/3/1527855943_{secret}_{label}.{extention}",
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -122,7 +122,7 @@
     "sfomuseum:object_id": 110219,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511942789,
@@ -140,10 +140,10 @@
     "wof:country": "XX",
     "wof:created": 1578955058,
     "wof:depicts": [
-      85921881,
       85688637,
       85633793,
-      1511942789
+      1511942789,
+      85921881
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -164,7 +164,7 @@
       }
     ],
     "wof:id": 1527855943,
-    "wof:lastmodified": 1618963605,
+    "wof:lastmodified": 1630543817,
     "wof:name": "photograph: San Francisco Bay Area aerial, Oakland port, canal",
     "wof:parent_id": 1511942789,
     "wof:placetype": "media",

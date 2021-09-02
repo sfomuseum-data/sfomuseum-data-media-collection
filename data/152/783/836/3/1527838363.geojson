@@ -110,7 +110,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/836/3/1527838363_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/836/3/1527838363_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
       1159285415
     ],
@@ -125,7 +125,7 @@
     "sfomuseum:object_id": 48917,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1511909191,
@@ -144,11 +144,11 @@
     "wof:country": "US",
     "wof:created": 1578952236,
     "wof:depicts": [
-      85921881,
-      85688637,
       85633793,
       1159285415,
-      1511909191
+      1511909191,
+      85921881,
+      85688637
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -176,7 +176,7 @@
       }
     ],
     "wof:id": 1527838363,
-    "wof:lastmodified": 1630543256,
+    "wof:lastmodified": 1630543801,
     "wof:name": "timetable: United Air Lines, quick reference, San Francisco and Oakland",
     "wof:parent_id": 1511909191,
     "wof:placetype": "media",

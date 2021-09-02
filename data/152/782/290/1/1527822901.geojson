@@ -100,7 +100,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/290/1/1527822901_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/290/1/1527822901_{secret}_{label}.{extention}",
     "millsfield:airport_id": [
       102527513
     ],
@@ -115,7 +115,7 @@
     "sfomuseum:object_id": 114726,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511944795,
@@ -133,8 +133,8 @@
     "wof:country": "XX",
     "wof:created": 1578949818,
     "wof:depicts": [
-      1511944795,
-      102527513
+      102527513,
+      1511944795
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -155,7 +155,7 @@
       }
     ],
     "wof:id": 1527822901,
-    "wof:lastmodified": 1630543244,
+    "wof:lastmodified": 1630543787,
     "wof:name": "negative: San Francisco International Airport (SFO), architectural diagram",
     "wof:parent_id": 1511944795,
     "wof:placetype": "media",

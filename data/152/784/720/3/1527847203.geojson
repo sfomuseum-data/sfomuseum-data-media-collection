@@ -110,7 +110,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/720/3/1527847203_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/720/3/1527847203_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
       1159283813,
       1159285415
@@ -126,7 +126,7 @@
     "sfomuseum:object_id": 87214,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511930383,
@@ -144,9 +144,9 @@
     "wof:country": "XX",
     "wof:created": 1578953634,
     "wof:depicts": [
-      1511930383,
       1159283813,
-      1159285415
+      1159285415,
+      1511930383
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1527847203,
-    "wof:lastmodified": 1630543263,
+    "wof:lastmodified": 1630543809,
     "wof:name": "timetable: Alaska Airlines, United Air Lines",
     "wof:parent_id": 1511930383,
     "wof:placetype": "media",

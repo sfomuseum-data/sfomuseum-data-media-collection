@@ -100,7 +100,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/686/5/1527826865_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/686/5/1527826865_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
       1159285141
     ],
@@ -118,7 +118,7 @@
     "sfomuseum:object_id": 116574,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511947905,
@@ -136,14 +136,14 @@
     "wof:country": "XX",
     "wof:created": 1578950433,
     "wof:depicts": [
-      1159291711,
-      85922583,
-      102527513,
-      1511947905,
       1108830801,
       85688637,
       85633793,
-      1159285141
+      1159285141,
+      1159291711,
+      85922583,
+      102527513,
+      1511947905
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -164,7 +164,7 @@
       }
     ],
     "wof:id": 1527826865,
-    "wof:lastmodified": 1630543247,
+    "wof:lastmodified": 1630543791,
     "wof:name": "negative: SFO Helicopter Airlines, downtown San Francisco heliport",
     "wof:parent_id": 1511947905,
     "wof:placetype": "media",

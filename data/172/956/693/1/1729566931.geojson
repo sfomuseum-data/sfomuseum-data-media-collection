@@ -100,7 +100,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/693/1/1729566931_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/693/1/1729566931_{secret}_{label}.{extention}",
     "millsfield:aircraft_id": [
       -1
     ],
@@ -119,7 +119,7 @@
     "sfomuseum:object_id": 61551,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214235,
       1511922065,
@@ -138,11 +138,11 @@
     "wof:country": "US",
     "wof:created": 1607097525,
     "wof:depicts": [
-      1159289653,
-      1159293593,
       1159284009,
       1159286455,
-      1511922065
+      1511922065,
+      1159289653,
+      1159293593
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -170,7 +170,7 @@
       }
     ],
     "wof:id": 1729566931,
-    "wof:lastmodified": 1630543273,
+    "wof:lastmodified": 1630543820,
     "wof:name": "model airplane: Braniff International, Boeing 707",
     "wof:parent_id": 1511922065,
     "wof:placetype": "media",

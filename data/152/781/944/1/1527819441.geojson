@@ -110,7 +110,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/781/944/1/1527819441_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/781/944/1/1527819441_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
       1159283627
     ],
@@ -125,7 +125,7 @@
     "sfomuseum:object_id": 146133,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511956175,
@@ -143,10 +143,10 @@
     "wof:country": "XX",
     "wof:created": 1578949262,
     "wof:depicts": [
-      1159293593,
-      1159283627,
       1511956175,
-      1159289653
+      1159289653,
+      1159293593,
+      1159283627
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1527819441,
-    "wof:lastmodified": 1630543241,
+    "wof:lastmodified": 1630543784,
     "wof:name": "advertisement: Air France",
     "wof:parent_id": 1511956175,
     "wof:placetype": "media",

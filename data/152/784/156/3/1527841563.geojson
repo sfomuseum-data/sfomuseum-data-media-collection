@@ -110,7 +110,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/156/3/1527841563_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/156/3/1527841563_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
       1159283845
     ],
@@ -125,7 +125,7 @@
     "sfomuseum:object_id": 100001,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511938893,
@@ -143,10 +143,10 @@
     "wof:country": "XX",
     "wof:created": 1578952728,
     "wof:depicts": [
-      1159289819,
-      1159293593,
       1159283845,
-      1511938893
+      1511938893,
+      1159289819,
+      1159293593
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1527841563,
-    "wof:lastmodified": 1630543258,
+    "wof:lastmodified": 1630543804,
     "wof:name": "timetable: Aloha Airlines",
     "wof:parent_id": 1511938893,
     "wof:placetype": "media",

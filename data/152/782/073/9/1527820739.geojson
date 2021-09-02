@@ -110,7 +110,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/073/9/1527820739_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/073/9/1527820739_{secret}_{label}.{extention}",
     "millsfield:aircraft_id": [
       -1
     ],
@@ -128,7 +128,7 @@
     "sfomuseum:object_id": 125522,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511951579,
@@ -146,10 +146,10 @@
     "wof:country": "XX",
     "wof:created": 1578949467,
     "wof:depicts": [
-      1159289873,
       1159293593,
       1159284913,
-      1511951579
+      1511951579,
+      1159289873
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -170,7 +170,7 @@
       }
     ],
     "wof:id": 1527820739,
-    "wof:lastmodified": 1630543242,
+    "wof:lastmodified": 1630543785,
     "wof:name": "advertisement: Northwest Orient Airlines, Boeing 747",
     "wof:parent_id": 1511951579,
     "wof:placetype": "media",

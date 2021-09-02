@@ -110,7 +110,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/911/5/1527839115_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/911/5/1527839115_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
       1159284965
     ],
@@ -125,7 +125,7 @@
     "sfomuseum:object_id": 99627,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511938205,
@@ -143,11 +143,11 @@
     "wof:country": "XX",
     "wof:created": 1578952352,
     "wof:depicts": [
-      85921881,
-      85688637,
       85633793,
       1159284965,
-      1511938205
+      1511938205,
+      85921881,
+      85688637
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -168,7 +168,7 @@
       }
     ],
     "wof:id": 1527839115,
-    "wof:lastmodified": 1630543256,
+    "wof:lastmodified": 1630543802,
     "wof:name": "timetable: Pacific Express / Pan American World Airways",
     "wof:parent_id": 1511938205,
     "wof:placetype": "media",

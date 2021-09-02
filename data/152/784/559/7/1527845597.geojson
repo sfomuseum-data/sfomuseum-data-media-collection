@@ -110,7 +110,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/559/7/1527845597_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/559/7/1527845597_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
       1159285415
     ],
@@ -128,7 +128,7 @@
     "sfomuseum:object_id": 76413,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511925637,
       102527513,
@@ -143,9 +143,9 @@
     "wof:country": "XX",
     "wof:created": 1578953380,
     "wof:depicts": [
-      1159285415,
       102533631,
-      1511925637
+      1511925637,
+      1159285415
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -163,7 +163,7 @@
       }
     ],
     "wof:id": 1527845597,
-    "wof:lastmodified": 1630543262,
+    "wof:lastmodified": 1630543808,
     "wof:name": "menu: United Air Lines",
     "wof:parent_id": 1511925637,
     "wof:placetype": "media",

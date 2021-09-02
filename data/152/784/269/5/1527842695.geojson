@@ -110,7 +110,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/269/5/1527842695_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/269/5/1527842695_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
       1159284535,
       1159285589
@@ -126,7 +126,7 @@
     "sfomuseum:object_id": 120974,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511950351,
@@ -144,9 +144,9 @@
     "wof:country": "XX",
     "wof:created": 1578952911,
     "wof:depicts": [
-      1159284535,
       1159285589,
-      1511950351
+      1511950351,
+      1159284535
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -167,7 +167,7 @@
       }
     ],
     "wof:id": 1527842695,
-    "wof:lastmodified": 1630543259,
+    "wof:lastmodified": 1630543805,
     "wof:name": "timetable: Swissair, Interflug",
     "wof:parent_id": 1511950351,
     "wof:placetype": "media",

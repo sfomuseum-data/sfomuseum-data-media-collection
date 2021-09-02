@@ -110,7 +110,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/018/9/1527850189_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/018/9/1527850189_{secret}_{label}.{extention}",
     "millsfield:aircraft_id": [
       -1
     ],
@@ -128,7 +128,7 @@
     "sfomuseum:object_id": 82532,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511928857,
@@ -146,11 +146,11 @@
     "wof:country": "XX",
     "wof:created": 1578954148,
     "wof:depicts": [
-      1159293083,
-      1159291259,
       1159293561,
       1159285411,
-      1511928857
+      1511928857,
+      1159293083,
+      1159291259
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -171,7 +171,7 @@
       }
     ],
     "wof:id": 1527850189,
-    "wof:lastmodified": 1630543266,
+    "wof:lastmodified": 1630543812,
     "wof:name": "safety information card: UTA (Union de Transports Aériens), McDonnell Douglas DC-10",
     "wof:parent_id": 1511928857,
     "wof:placetype": "media",

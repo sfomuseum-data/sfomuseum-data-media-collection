@@ -105,7 +105,7 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/810/3/1527838103_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/810/3/1527838103_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
       1159285141
     ],
@@ -123,7 +123,7 @@
     "sfomuseum:object_id": 94066,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511934315,
@@ -141,9 +141,9 @@
     "wof:country": "XX",
     "wof:created": 1578952197,
     "wof:depicts": [
-      1159285141,
       102527513,
-      1511934315
+      1511934315,
+      1159285141
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -164,7 +164,7 @@
       }
     ],
     "wof:id": 1527838103,
-    "wof:lastmodified": 1630543256,
+    "wof:lastmodified": 1630543801,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1511934315,
     "wof:placetype": "media",

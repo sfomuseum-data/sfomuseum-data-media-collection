@@ -100,7 +100,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/523/3/1527825233_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/523/3/1527825233_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213801,
@@ -112,7 +115,7 @@
     "sfomuseum:object_id": 115593,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511946159,
@@ -130,11 +133,11 @@
     "wof:country": "XX",
     "wof:created": 1578950181,
     "wof:depicts": [
+      1511946159,
       85922583,
       85688637,
       85633793,
-      102527513,
-      1511946159
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -155,7 +158,7 @@
       }
     ],
     "wof:id": 1527825233,
-    "wof:lastmodified": 1618963606,
+    "wof:lastmodified": 1630543790,
     "wof:name": "negative: San Francisco Transbay Terminal",
     "wof:parent_id": 1511946159,
     "wof:placetype": "media",

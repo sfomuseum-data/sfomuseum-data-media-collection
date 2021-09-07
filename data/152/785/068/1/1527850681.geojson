@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/068/1/1527850681_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/068/1/1527850681_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285043
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 103559,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511941127,
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527850681,
-    "wof:lastmodified": 1618963624,
+    "wof:lastmodified": 1630543813,
     "wof:name": "timetable: Qantas Airways",
     "wof:parent_id": 1511941127,
     "wof:placetype": "media",

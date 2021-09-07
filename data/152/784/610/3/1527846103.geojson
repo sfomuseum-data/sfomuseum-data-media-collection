@@ -100,7 +100,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/610/3/1527846103_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/610/3/1527846103_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285413
+    ],
     "millsfield:category_id": 1159162825,
     "millsfield:collection_id": 1159160869,
     "millsfield:subcategory_id": -1,
@@ -112,7 +115,7 @@
     "sfomuseum:object_id": 61631,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511922099,
       102527513,
@@ -146,7 +149,7 @@
       }
     ],
     "wof:id": 1527846103,
-    "wof:lastmodified": 1618963606,
+    "wof:lastmodified": 1630543808,
     "wof:name": "menu: United Airlines, Economy Class",
     "wof:parent_id": 1511922099,
     "wof:placetype": "media",

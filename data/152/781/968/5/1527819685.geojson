@@ -110,7 +110,14 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/781/968/5/1527819685_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/781/968/5/1527819685_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1,
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285393
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213565,
@@ -122,7 +129,7 @@
     "sfomuseum:object_id": 86641,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511930229,
@@ -140,12 +147,12 @@
     "wof:country": "XX",
     "wof:created": 1578949299,
     "wof:depicts": [
+      1511930229,
       1159291095,
       1159293697,
       1159292981,
       1159285393,
-      1159289651,
-      1511930229
+      1159289651
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -166,7 +173,7 @@
       }
     ],
     "wof:id": 1527819685,
-    "wof:lastmodified": 1618963618,
+    "wof:lastmodified": 1630543784,
     "wof:name": "flight information packet: TWA (Trans World Airlines), Lockheed L-049 Constellation, Boeing 377",
     "wof:parent_id": 1511930229,
     "wof:placetype": "media",

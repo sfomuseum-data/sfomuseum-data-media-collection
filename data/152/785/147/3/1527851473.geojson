@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/147/3/1527851473_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/147/3/1527851473_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284021
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 120988,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511950361,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527851473,
-    "wof:lastmodified": 1618963593,
+    "wof:lastmodified": 1630543813,
     "wof:name": "timetable: British Airways Super Shuttle",
     "wof:parent_id": 1511950361,
     "wof:placetype": "media",

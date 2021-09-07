@@ -100,7 +100,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/099/1/1527820991_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/099/1/1527820991_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -112,7 +118,7 @@
     "sfomuseum:object_id": 90227,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511931457,
@@ -130,9 +136,9 @@
     "wof:country": "XX",
     "wof:created": 1578949504,
     "wof:depicts": [
+      1511931457,
       1159284989,
-      1159289651,
-      1511931457
+      1159289651
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -153,7 +159,7 @@
       }
     ],
     "wof:id": 1527820991,
-    "wof:lastmodified": 1618963595,
+    "wof:lastmodified": 1630543785,
     "wof:name": "photograph: Pan American World Airways, Clipper Flying Cloud",
     "wof:parent_id": 1511931457,
     "wof:placetype": "media",

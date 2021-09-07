@@ -100,7 +100,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/080/5/1527820805_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/080/5/1527820805_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284865
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -112,7 +115,7 @@
     "sfomuseum:object_id": 90057,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511931271,
@@ -160,7 +163,7 @@
       }
     ],
     "wof:id": 1527820805,
-    "wof:lastmodified": 1618963595,
+    "wof:lastmodified": 1630543785,
     "wof:name": "photograph: New York, Rio \u0026 Buenos Aires Line (NYRBA)",
     "wof:parent_id": 1511931271,
     "wof:placetype": "media",

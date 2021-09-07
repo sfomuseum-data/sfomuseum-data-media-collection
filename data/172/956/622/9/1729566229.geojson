@@ -107,7 +107,13 @@
     },
     "media:source": "unknown",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/622/9/1729566229_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/622/9/1729566229_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285393
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213703,
@@ -119,7 +125,7 @@
     "sfomuseum:object_id": 70614,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1729564183,
@@ -160,7 +166,7 @@
       }
     ],
     "wof:id": 1729566229,
-    "wof:lastmodified": 1620693628,
+    "wof:lastmodified": 1630543812,
     "wof:name": "safety information card: TWA (Trans World Airlines), American Airlines, McDonnell Douglas MD-80",
     "wof:parent_id": 1729564183,
     "wof:placetype": "media",

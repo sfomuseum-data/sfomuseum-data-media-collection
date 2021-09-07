@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/499/7/1527834997_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/499/7/1527834997_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159283957
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213315,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 138263,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
       102087579,
@@ -163,7 +166,7 @@
       }
     ],
     "wof:id": 1527834997,
-    "wof:lastmodified": 1618963596,
+    "wof:lastmodified": 1630543798,
     "wof:name": "luggage label: Avianca Airlines",
     "wof:parent_id": 1511952859,
     "wof:placetype": "media",

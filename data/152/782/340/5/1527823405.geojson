@@ -110,10 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/340/5/1527823405_{secret}_{label}.{extention}",
-    "millsfield:category_id": 1159162825,
-    "millsfield:collection_id": 1159160869,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/340/5/1527823405_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159283651
+    ],
+    "millsfield:category_id": 1511214243,
+    "millsfield:collection_id": 1511214203,
+    "millsfield:subcategory_id": 1511213185,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "41536.tif",
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 47680,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511908383,
       102527513,
@@ -137,8 +140,8 @@
     "wof:country": "XX",
     "wof:created": 1578949897,
     "wof:depicts": [
-      1159283651,
-      1511908383
+      1511908383,
+      1159283651
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -156,7 +159,7 @@
       }
     ],
     "wof:id": 1527823405,
-    "wof:lastmodified": 1618963601,
+    "wof:lastmodified": 1630543788,
     "wof:name": "airsickness bag: Air Inter",
     "wof:parent_id": 1511908383,
     "wof:placetype": "media",

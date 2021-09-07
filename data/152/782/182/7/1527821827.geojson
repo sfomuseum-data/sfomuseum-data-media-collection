@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/182/7/1527821827_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/182/7/1527821827_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214261,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213191,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 52368,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214261,
       1511910399,
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527821827,
-    "wof:lastmodified": 1618963597,
+    "wof:lastmodified": 1630543786,
     "wof:name": "architectural design drawing: San Francisco International Airport (SFO), Skidmore, Owings \u0026 Merrill (SOM)",
     "wof:parent_id": 1511910399,
     "wof:placetype": "media",

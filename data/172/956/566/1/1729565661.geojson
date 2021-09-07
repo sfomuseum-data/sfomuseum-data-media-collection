@@ -102,7 +102,13 @@
     },
     "media:source": "unknown",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/566/1/1729565661_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/566/1/1729565661_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285393
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213363,
@@ -114,7 +120,7 @@
     "sfomuseum:object_id": 47471,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1729563787,
@@ -155,7 +161,7 @@
       }
     ],
     "wof:id": 1729565661,
-    "wof:lastmodified": 1620695834,
+    "wof:lastmodified": 1630543810,
     "wof:name": "postcard: TWA (Trans World Airlines), Lockheed L-1049 Super Constellation",
     "wof:parent_id": 1729563787,
     "wof:placetype": "media",

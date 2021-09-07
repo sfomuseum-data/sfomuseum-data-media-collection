@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/703/9/1527857039_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/703/9/1527857039_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      1360695653
+    ],
     "millsfield:category_id": 1511214239,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213483,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 165129,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214239,
       1511958027,
@@ -135,12 +138,12 @@
     "wof:country": "XX",
     "wof:created": 1578955229,
     "wof:depicts": [
+      1360695653,
+      1511958027,
       85865991,
       85922583,
       85688637,
-      85633793,
-      1360695653,
-      1511958027
+      85633793
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -161,7 +164,7 @@
       }
     ],
     "wof:id": 1527857039,
-    "wof:lastmodified": 1618963608,
+    "wof:lastmodified": 1630543819,
     "wof:name": "correspondence: Aviation Committee of Down Town Association, Mills Field Municipal Airport of San Francisco",
     "wof:parent_id": 1511958027,
     "wof:placetype": "media",

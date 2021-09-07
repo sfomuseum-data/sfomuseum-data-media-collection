@@ -110,10 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/400/9/1527854009_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/400/9/1527854009_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      1360691531
+    ],
+    "millsfield:category_id": 1511214215,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1998.170.005_verso.tif",
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 47955,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1511908777,
@@ -172,7 +175,7 @@
       }
     ],
     "wof:id": 1527854009,
-    "wof:lastmodified": 1618963600,
+    "wof:lastmodified": 1630543815,
     "wof:name": "airmail flight cover: Kai Tak Airport (Hong Kong)",
     "wof:parent_id": 1511908777,
     "wof:placetype": "media",

@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/519/5/1527855195_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/519/5/1527855195_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284711
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213565,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 122077,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511951079,
@@ -140,10 +143,10 @@
     "wof:country": "XX",
     "wof:created": 1578954946,
     "wof:depicts": [
-      1159289389,
       1159293829,
       1159284711,
-      1511951079
+      1511951079,
+      1159289389
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -164,7 +167,7 @@
       }
     ],
     "wof:id": 1527855195,
-    "wof:lastmodified": 1618963603,
+    "wof:lastmodified": 1630543816,
     "wof:name": "flight information packet: Lufthansa German Airlines",
     "wof:parent_id": 1511951079,
     "wof:placetype": "media",

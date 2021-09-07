@@ -100,7 +100,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/395/7/1527833957_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/395/7/1527833957_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213159,
@@ -112,7 +115,7 @@
     "sfomuseum:object_id": 139310,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1511953931,
@@ -152,7 +155,7 @@
       }
     ],
     "wof:id": 1527833957,
-    "wof:lastmodified": 1618963593,
+    "wof:lastmodified": 1630543798,
     "wof:name": "airmail flight cover: Pan American World Airways, Tokyo - Los Angeles route",
     "wof:parent_id": 1511953931,
     "wof:placetype": "media",

@@ -97,7 +97,11 @@
     },
     "media:source": "unknown",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/129/3/1527821293_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/129/3/1527821293_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513,
+      1360695653
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213801,
@@ -109,7 +113,7 @@
     "sfomuseum:object_id": 117588,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511949791,
@@ -150,7 +154,11 @@
       }
     ],
     "wof:id": 1527821293,
+<<<<<<< HEAD
     "wof:lastmodified": 1620753123,
+=======
+    "wof:lastmodified": 1630543786,
+>>>>>>> 52860e2e5df51cae1da37c0416d949e6269d870f
     "wof:name": "negative: Mills Field Municipal Airport of San Francisco, Hangar No. 2 construction",
     "wof:parent_id": 1511949791,
     "wof:placetype": "media",

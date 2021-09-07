@@ -110,10 +110,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/993/7/1527829937_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/993/7/1527829937_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284989
+    ],
+    "millsfield:category_id": 1511214215,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "48787.tif",
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 43773,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1511907469,
@@ -142,10 +148,10 @@
     "wof:country": "JP",
     "wof:created": 1578950915,
     "wof:depicts": [
-      1159289651,
-      1159293593,
       1159284989,
-      1511907469
+      1511907469,
+      1159289651,
+      1159293593
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -172,7 +178,7 @@
       }
     ],
     "wof:id": 1527829937,
-    "wof:lastmodified": 1618963621,
+    "wof:lastmodified": 1630543794,
     "wof:name": "airmail flight cover: Pan American World Airways, Tokyo - Rangoon route",
     "wof:parent_id": 1511907469,
     "wof:placetype": "media",

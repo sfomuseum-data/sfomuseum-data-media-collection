@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/706/7/1527857067_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/706/7/1527857067_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      1360695653
+    ],
     "millsfield:category_id": 1511214239,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213717,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 148073,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214239,
       1511956375,
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527857067,
-    "wof:lastmodified": 1618963608,
+    "wof:lastmodified": 1630543819,
     "wof:name": "report: San Francisco Department of Public Works, Bureau of Engineering, proposed airport site",
     "wof:parent_id": 1511956375,
     "wof:placetype": "media",

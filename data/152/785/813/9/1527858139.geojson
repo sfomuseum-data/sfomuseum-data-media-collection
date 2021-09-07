@@ -100,7 +100,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/813/9/1527858139_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/813/9/1527858139_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284153
+    ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213161,
@@ -112,7 +118,7 @@
     "sfomuseum:object_id": 76618,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214235,
       1511925679,
@@ -130,11 +136,11 @@
     "wof:country": "XX",
     "wof:created": 1578955403,
     "wof:depicts": [
+      1511925679,
       1159289873,
       1159289915,
       1159293593,
-      1159284153,
-      1511925679
+      1159284153
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -155,7 +161,7 @@
       }
     ],
     "wof:id": 1527858139,
-    "wof:lastmodified": 1618963612,
+    "wof:lastmodified": 1630543820,
     "wof:name": "model airplane: China Airlines, Boeing 747-400",
     "wof:parent_id": 1511925679,
     "wof:placetype": "media",

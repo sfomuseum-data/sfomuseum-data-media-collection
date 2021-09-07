@@ -105,7 +105,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/675/3/1729566753_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/675/3/1729566753_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285043
+    ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213161,
@@ -117,7 +123,7 @@
     "sfomuseum:object_id": 124826,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85633793,
       85922583,
@@ -158,7 +164,7 @@
       }
     ],
     "wof:id": 1729566753,
-    "wof:lastmodified": 1618963617,
+    "wof:lastmodified": 1630543820,
     "wof:name": "model airplane: Qantas Airways, Boeing 707",
     "wof:parent_id": 1729564833,
     "wof:placetype": "media",

@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/402/3/1527854023_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/402/3/1527854023_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213159,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 57951,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1511920145,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527854023,
-    "wof:lastmodified": 1618963600,
+    "wof:lastmodified": 1630543815,
     "wof:name": "airmail flight cover: Dedication of San Francisco International Airport (SFO), Terminal Building",
     "wof:parent_id": 1511920145,
     "wof:placetype": "media",

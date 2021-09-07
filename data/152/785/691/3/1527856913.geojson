@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/691/3/1527856913_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/691/3/1527856913_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      1360695653
+    ],
     "millsfield:category_id": 1511214239,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213483,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 165030,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214239,
       1511957965,
@@ -135,8 +138,8 @@
     "wof:country": "XX",
     "wof:created": 1578955210,
     "wof:depicts": [
-      1360695653,
-      1511957965
+      1511957965,
+      1360695653
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527856913,
-    "wof:lastmodified": 1618963608,
+    "wof:lastmodified": 1630543818,
     "wof:name": "correspondence: Joseph J. Phillips, Right of Way Agent for City and County of San Francisco",
     "wof:parent_id": 1511957965,
     "wof:placetype": "media",

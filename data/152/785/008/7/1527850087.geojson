@@ -110,7 +110,14 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/008/7/1527850087_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/008/7/1527850087_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1,
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284711
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213703,
@@ -122,7 +129,7 @@
     "sfomuseum:object_id": 121201,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511950379,
@@ -165,7 +172,7 @@
       }
     ],
     "wof:id": 1527850087,
-    "wof:lastmodified": 1618963620,
+    "wof:lastmodified": 1630543812,
     "wof:name": "safety information card: Lufthansa German Airlines, Airbus A380-800",
     "wof:parent_id": 1511950379,
     "wof:placetype": "media",

@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/481/1/1527844811_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/481/1/1527844811_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284563
+    ],
     "millsfield:category_id": 1159162825,
     "millsfield:collection_id": 1159160869,
     "millsfield:subcategory_id": -1,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 60697,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511921485,
       102527513,
@@ -151,7 +154,7 @@
       }
     ],
     "wof:id": 1527844811,
-    "wof:lastmodified": 1618963602,
+    "wof:lastmodified": 1630543807,
     "wof:name": "menu: JAL (Japan Airlines)",
     "wof:parent_id": 1511921485,
     "wof:placetype": "media",

@@ -110,7 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/284/5/1527842845_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/284/5/1527842845_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285461
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 60241,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511921289,
@@ -163,7 +169,7 @@
       }
     ],
     "wof:id": 1527842845,
-    "wof:lastmodified": 1618963596,
+    "wof:lastmodified": 1630543805,
     "wof:name": "timetable: VARIG, Lockheed L-1049G Super G Constellation",
     "wof:parent_id": 1511921289,
     "wof:placetype": "media",

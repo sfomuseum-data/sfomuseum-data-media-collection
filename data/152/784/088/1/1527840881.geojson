@@ -110,7 +110,14 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/088/1/1527840881_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/088/1/1527840881_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285413,
+      1159285417
+    ],
+    "millsfield:airport_id": [
+      102556703
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -122,7 +129,7 @@
     "sfomuseum:object_id": 81705,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511928345,
@@ -140,10 +147,10 @@
     "wof:country": "XX",
     "wof:created": 1578952622,
     "wof:depicts": [
-      1159285413,
       1159285417,
       102556703,
-      1511928345
+      1511928345,
+      1159285413
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -164,7 +171,7 @@
       }
     ],
     "wof:id": 1527840881,
-    "wof:lastmodified": 1618963624,
+    "wof:lastmodified": 1630543804,
     "wof:name": "timetable: United Airlines",
     "wof:parent_id": 1511928345,
     "wof:placetype": "media",

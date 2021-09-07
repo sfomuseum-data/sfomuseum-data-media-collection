@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/670/9/1729566709_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/670/9/1729566709_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285825
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213155,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 64428,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214207,
       102191575,
@@ -135,8 +138,8 @@
     "wof:country": "XX",
     "wof:created": 1607091339,
     "wof:depicts": [
-      1159285825,
-      1729564035
+      1729564035,
+      1159285825
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1729566709,
-    "wof:lastmodified": 1618963617,
+    "wof:lastmodified": 1630543819,
     "wof:name": "airline bag: Qantas Empire Airways",
     "wof:parent_id": 1729564035,
     "wof:placetype": "media",

@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/661/5/1729566615_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/661/5/1729566615_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284025
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213433,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 159754,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214207,
       1511214205,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1729566615,
-    "wof:lastmodified": 1618963616,
+    "wof:lastmodified": 1630543818,
     "wof:name": "tourist information: British Commonwealth Pacific Airlines (BCPA)",
     "wof:parent_id": 1729564953,
     "wof:placetype": "media",

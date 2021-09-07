@@ -105,7 +105,17 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/823/3/1527828233_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/823/3/1527828233_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159283627,
+      1159284021
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213801,
@@ -117,7 +127,7 @@
     "sfomuseum:object_id": 117181,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511949265,
@@ -135,12 +145,12 @@
     "wof:country": "XX",
     "wof:created": 1578950649,
     "wof:depicts": [
-      102527513,
       1159290173,
       1159293811,
       1159283627,
       1159284021,
-      1511949265
+      1511949265,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -161,7 +171,7 @@
       }
     ],
     "wof:id": 1527828233,
-    "wof:lastmodified": 1618963616,
+    "wof:lastmodified": 1630543792,
     "wof:name": "negative: San Francisco International Airport (SFO), Concorde",
     "wof:parent_id": 1511949265,
     "wof:placetype": "media",

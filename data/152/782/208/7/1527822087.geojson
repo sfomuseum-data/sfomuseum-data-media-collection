@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/208/7/1527822087_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/208/7/1527822087_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213801,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 114350,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511944007,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527822087,
-    "wof:lastmodified": 1618963598,
+    "wof:lastmodified": 1630543786,
     "wof:name": "negative: San Francisco International Airport (SFO), aerial",
     "wof:parent_id": 1511944007,
     "wof:placetype": "media",

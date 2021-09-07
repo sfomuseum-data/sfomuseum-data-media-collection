@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/275/7/1527852757_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/275/7/1527852757_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284507
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213631,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 141602,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511955439,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527852757,
-    "wof:lastmodified": 1618963597,
+    "wof:lastmodified": 1630543814,
     "wof:name": "brochure: Hughes Airwest",
     "wof:parent_id": 1511955439,
     "wof:placetype": "media",

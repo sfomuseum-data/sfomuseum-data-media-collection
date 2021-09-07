@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/701/5/1527827015_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/701/5/1527827015_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213801,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 116640,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511948053,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527827015,
-    "wof:lastmodified": 1618963612,
+    "wof:lastmodified": 1630543791,
     "wof:name": "negative: San Francisco International Airport (SFO), exhibit for California State Fair",
     "wof:parent_id": 1511948053,
     "wof:placetype": "media",

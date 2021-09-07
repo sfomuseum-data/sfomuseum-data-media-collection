@@ -110,7 +110,11 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/334/5/1527843345_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/334/5/1527843345_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102556713,
+      102556703
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -122,7 +126,7 @@
     "sfomuseum:object_id": 120986,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511950359,
@@ -163,7 +167,7 @@
       }
     ],
     "wof:id": 1527843345,
-    "wof:lastmodified": 1618963598,
+    "wof:lastmodified": 1630543806,
     "wof:name": "timetable: Gatwick Heathrow Airlink",
     "wof:parent_id": 1511950359,
     "wof:placetype": "media",

@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/633/9/1527856339_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/633/9/1527856339_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285415
+    ],
     "millsfield:category_id": 1511214229,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213291,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 86846,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214229,
       1511930261,
@@ -140,8 +143,8 @@
     "wof:country": "XX",
     "wof:created": 1578955120,
     "wof:depicts": [
-      1159285415,
-      1511930261
+      1511930261,
+      1159285415
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527856339,
-    "wof:lastmodified": 1618963606,
+    "wof:lastmodified": 1630543818,
     "wof:name": "stewardess hat: United Air Lines",
     "wof:parent_id": 1511930261,
     "wof:placetype": "media",

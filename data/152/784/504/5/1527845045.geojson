@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/504/5/1527845045_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/504/5/1527845045_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284613
+    ],
     "millsfield:category_id": 1159162825,
     "millsfield:collection_id": 1159160869,
     "millsfield:subcategory_id": -1,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 80546,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511927725,
       102527513,
@@ -132,8 +135,8 @@
     "wof:country": "XX",
     "wof:created": 1578953292,
     "wof:depicts": [
-      1159284613,
-      1511927725
+      1511927725,
+      1159284613
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -151,7 +154,7 @@
       }
     ],
     "wof:id": 1527845045,
-    "wof:lastmodified": 1618963602,
+    "wof:lastmodified": 1630543807,
     "wof:name": "menu: KLM (Royal Dutch Airlines), Business Class",
     "wof:parent_id": 1511927725,
     "wof:placetype": "media",

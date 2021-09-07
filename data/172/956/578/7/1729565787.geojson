@@ -110,7 +110,14 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/578/7/1729565787_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/578/7/1729565787_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1,
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285393
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213363,
@@ -122,7 +129,7 @@
     "sfomuseum:object_id": 60843,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1511214207,
@@ -140,9 +147,9 @@
     "wof:country": "XX",
     "wof:created": 1607041254,
     "wof:depicts": [
+      1729564001,
       1159285393,
-      1159289949,
-      1729564001
+      1159289949
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -163,7 +170,7 @@
       }
     ],
     "wof:id": 1729565787,
-    "wof:lastmodified": 1618963613,
+    "wof:lastmodified": 1630543810,
     "wof:name": "postcard: TWA (Trans World Airlines), Boeing 767",
     "wof:parent_id": 1729564001,
     "wof:placetype": "media",

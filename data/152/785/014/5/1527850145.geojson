@@ -110,10 +110,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/014/5/1527850145_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/014/5/1527850145_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284507
+    ],
+    "millsfield:category_id": 1511214215,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213363,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1997.04.02a_b.tif",
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 45637,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1511907941,
@@ -141,11 +147,11 @@
     "wof:country": "US",
     "wof:created": 1578954141,
     "wof:depicts": [
+      1159291223,
+      1511907941,
       1159291285,
       1159293561,
-      1159284507,
-      1159291223,
-      1511907941
+      1159284507
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -173,7 +179,7 @@
       }
     ],
     "wof:id": 1527850145,
-    "wof:lastmodified": 1618963620,
+    "wof:lastmodified": 1630543812,
     "wof:name": "postcard: Hughes Airwest, McDonnell Douglas MD-80",
     "wof:parent_id": 1511907941,
     "wof:placetype": "media",

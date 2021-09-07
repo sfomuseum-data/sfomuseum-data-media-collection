@@ -110,7 +110,18 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/384/7/1527853847_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/384/7/1527853847_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285589
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213569,
@@ -122,7 +133,7 @@
     "sfomuseum:object_id": 142060,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511955487,
@@ -140,22 +151,22 @@
     "wof:country": "XX",
     "wof:created": 1578954730,
     "wof:depicts": [
-      1159293083,
-      1159291223,
-      1159291259,
-      1159293561,
-      1159289873,
-      1159293593,
-      1159289401,
-      1159293829,
-      1159289759,
       1159289771,
+      1159291255,
+      1159293083,
       1159291267,
       1159285589,
-      1159290643,
-      1159291255,
       1159292537,
-      1511955487
+      1159293829,
+      1159293561,
+      1159293593,
+      1511955487,
+      1159290643,
+      1159291223,
+      1159289759,
+      1159289401,
+      1159291259,
+      1159289873
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -176,7 +187,7 @@
       }
     ],
     "wof:id": 1527853847,
-    "wof:lastmodified": 1618963599,
+    "wof:lastmodified": 1630543815,
     "wof:name": "seating guide: Swissair",
     "wof:parent_id": 1511955487,
     "wof:placetype": "media",

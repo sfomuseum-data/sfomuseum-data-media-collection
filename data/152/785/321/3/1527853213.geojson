@@ -110,7 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/321/3/1527853213_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/321/3/1527853213_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285159
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213703,
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 143929,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511956079,
@@ -164,7 +170,7 @@
       }
     ],
     "wof:id": 1527853213,
-    "wof:lastmodified": 1618963598,
+    "wof:lastmodified": 1630543815,
     "wof:name": "safety information card: Silk Air, Airbus A320",
     "wof:parent_id": 1511956079,
     "wof:placetype": "media",

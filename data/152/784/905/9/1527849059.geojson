@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/905/9/1527849059_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/905/9/1527849059_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      1360695655
+    ],
     "millsfield:category_id": 1511214261,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213191,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 57325,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214261,
       1511919601,
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527849059,
-    "wof:lastmodified": 1618963614,
+    "wof:lastmodified": 1630543811,
     "wof:name": "architectural drawing: San Francisco Airport, Administration Building",
     "wof:parent_id": 1511919601,
     "wof:placetype": "media",

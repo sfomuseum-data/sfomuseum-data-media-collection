@@ -100,7 +100,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/528/5/1729565285_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/528/5/1729565285_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159283945
+    ],
+    "millsfield:airport_id": [
+      1360695655
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -112,7 +121,7 @@
     "sfomuseum:object_id": 92744,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85633793,
       102527513,
@@ -162,7 +171,7 @@
       }
     ],
     "wof:id": 1729565285,
-    "wof:lastmodified": 1618963610,
+    "wof:lastmodified": 1630543785,
     "wof:name": "photograph: Australian National Airways, Douglas DC-4, San Francisco Airport",
     "wof:parent_id": 1729564783,
     "wof:placetype": "media",

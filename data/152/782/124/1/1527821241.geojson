@@ -97,7 +97,11 @@
     },
     "media:source": "unknown",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/124/1/1527821241_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/124/1/1527821241_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513,
+      1360695653
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213801,
@@ -109,7 +113,7 @@
     "sfomuseum:object_id": 117558,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511949723,
@@ -127,12 +131,12 @@
     "wof:country": "XX",
     "wof:created": 1578949541,
     "wof:depicts": [
+      1360695653,
+      1511949723,
       1159289601,
       1159293593,
       1159289603,
-      102527513,
-      1360695653,
-      1511949723
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -153,7 +157,7 @@
       }
     ],
     "wof:id": 1527821241,
-    "wof:lastmodified": 1620754941,
+    "wof:lastmodified": 1630543786,
     "wof:name": "negative: Mills Field Municipal Airport of San Francisco, Boeing 40 A  biplane, C.A.M. 18",
     "wof:parent_id": 1511949723,
     "wof:placetype": "media",

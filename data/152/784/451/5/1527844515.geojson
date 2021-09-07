@@ -110,7 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/451/5/1527844515_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/451/5/1527844515_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285415
+    ],
     "millsfield:category_id": 1511214241,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213383,
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 50928,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214241,
       1511910263,
@@ -163,7 +169,7 @@
       }
     ],
     "wof:id": 1527844515,
-    "wof:lastmodified": 1618963601,
+    "wof:lastmodified": 1630543807,
     "wof:name": "route map: United Air Lines, domestic routes",
     "wof:parent_id": 1511910263,
     "wof:placetype": "media",

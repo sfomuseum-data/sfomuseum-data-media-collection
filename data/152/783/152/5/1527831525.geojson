@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/152/5/1527831525_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/152/5/1527831525_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214239,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213681,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 140901,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214239,
       1511954979,
@@ -140,8 +143,8 @@
     "wof:country": "XX",
     "wof:created": 1578951165,
     "wof:depicts": [
-      102527513,
-      1511954979
+      1511954979,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527831525,
-    "wof:lastmodified": 1618963618,
+    "wof:lastmodified": 1630543795,
     "wof:name": "airport bond: City and County of San Francisco",
     "wof:parent_id": 1511954979,
     "wof:placetype": "media",

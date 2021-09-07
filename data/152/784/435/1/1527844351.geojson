@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/435/1/1527844351_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/435/1/1527844351_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159283495
+    ],
     "millsfield:category_id": 1159162825,
     "millsfield:collection_id": 1159160869,
     "millsfield:subcategory_id": -1,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 80395,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511927529,
       102527513,
@@ -151,7 +154,7 @@
       }
     ],
     "wof:id": 1527844351,
-    "wof:lastmodified": 1618963600,
+    "wof:lastmodified": 1630543807,
     "wof:name": "menu: Aer Lingus",
     "wof:parent_id": 1511927529,
     "wof:placetype": "media",

@@ -110,7 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/469/3/1527844693_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/469/3/1527844693_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1159162825,
     "millsfield:collection_id": 1159160869,
     "millsfield:subcategory_id": -1,
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 43014,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511907067,
       102527513,
@@ -157,7 +163,7 @@
       }
     ],
     "wof:id": 1527844693,
-    "wof:lastmodified": 1618963601,
+    "wof:lastmodified": 1630543807,
     "wof:name": "menu: Pan American World Airways",
     "wof:parent_id": 1511907067,
     "wof:placetype": "media",

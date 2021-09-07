@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/889/9/1527848899_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/889/9/1527848899_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159283697
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213737,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 86933,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511930287,
@@ -140,8 +143,8 @@
     "wof:country": "XX",
     "wof:created": 1578953929,
     "wof:depicts": [
-      1159283697,
-      1511930287
+      1511930287,
+      1159283697
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527848899,
-    "wof:lastmodified": 1618963614,
+    "wof:lastmodified": 1630543811,
     "wof:name": "traveler information: Air New Zealand",
     "wof:parent_id": 1511930287,
     "wof:placetype": "media",

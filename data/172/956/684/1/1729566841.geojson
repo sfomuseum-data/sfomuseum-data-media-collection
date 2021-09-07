@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/684/1/1729566841_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/684/1/1729566841_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285291
+    ],
     "millsfield:category_id": 1511214225,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213739,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 135389,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214225,
       1511952617,
@@ -140,8 +143,8 @@
     "wof:country": "XX",
     "wof:created": 1607097400,
     "wof:depicts": [
-      1159285291,
-      1511952617
+      1511952617,
+      1159285291
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1729566841,
-    "wof:lastmodified": 1618963623,
+    "wof:lastmodified": 1630543820,
     "wof:name": "steward wings: Thai Airways International",
     "wof:parent_id": 1511952617,
     "wof:placetype": "media",

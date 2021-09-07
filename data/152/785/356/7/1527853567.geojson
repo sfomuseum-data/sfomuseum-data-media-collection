@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/356/7/1527853567_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/356/7/1527853567_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285163
+    ],
     "millsfield:category_id": 1159162825,
     "millsfield:collection_id": 1159160869,
     "millsfield:subcategory_id": -1,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 117385,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511949657,
       102527513,
@@ -151,7 +154,7 @@
       }
     ],
     "wof:id": 1527853567,
-    "wof:lastmodified": 1618963599,
+    "wof:lastmodified": 1630543815,
     "wof:name": "menu: Singapore Airlines, Economy Class",
     "wof:parent_id": 1511949657,
     "wof:placetype": "media",

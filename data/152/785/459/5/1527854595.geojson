@@ -110,7 +110,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/459/5/1527854595_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/459/5/1527854595_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284583
+    ],
+    "millsfield:airport_id": [
+      102534365
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213401,
@@ -122,7 +131,7 @@
     "sfomuseum:object_id": 77449,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511925919,
@@ -140,11 +149,11 @@
     "wof:country": "XX",
     "wof:created": 1578954852,
     "wof:depicts": [
-      1159289409,
-      102534365,
       1159293829,
       1159284583,
-      1511925919
+      1511925919,
+      1159289409,
+      102534365
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +174,7 @@
       }
     ],
     "wof:id": 1527854595,
-    "wof:lastmodified": 1618963601,
+    "wof:lastmodified": 1630543816,
     "wof:name": "slide: JetBlue Airways, Airbus A320, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1511925919,
     "wof:placetype": "media",

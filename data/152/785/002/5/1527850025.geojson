@@ -110,7 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/002/5/1527850025_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/002/5/1527850025_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159283589
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213703,
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 68186,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511923871,
@@ -140,10 +146,10 @@
     "wof:country": "XX",
     "wof:created": 1578954121,
     "wof:depicts": [
-      1159289819,
       1159293593,
       1159283589,
-      1511923871
+      1511923871,
+      1159289819
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -164,7 +170,7 @@
       }
     ],
     "wof:id": 1527850025,
-    "wof:lastmodified": 1618963620,
+    "wof:lastmodified": 1630543812,
     "wof:name": "safety information card: Air Belgium, Boeing 737",
     "wof:parent_id": 1511923871,
     "wof:placetype": "media",

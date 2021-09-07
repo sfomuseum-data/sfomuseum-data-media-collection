@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/817/5/1527858175_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/817/5/1527858175_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284511
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213155,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 64385,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511922503,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527858175,
-    "wof:lastmodified": 1618963612,
+    "wof:lastmodified": 1630543820,
     "wof:name": "airline bag: Iberia",
     "wof:parent_id": 1511922503,
     "wof:placetype": "media",

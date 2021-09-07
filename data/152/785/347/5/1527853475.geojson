@@ -100,7 +100,11 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/347/5/1527853475_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/347/5/1527853475_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513,
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -112,7 +116,7 @@
     "sfomuseum:object_id": 113964,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511943425,
@@ -130,8 +134,8 @@
     "wof:country": "XX",
     "wof:created": 1578954671,
     "wof:depicts": [
-      102527513,
-      1511943425
+      1511943425,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -152,7 +156,7 @@
       }
     ],
     "wof:id": 1527853475,
-    "wof:lastmodified": 1618963598,
+    "wof:lastmodified": 1630543815,
     "wof:name": "photograph: Mills Field Municipal Airport of San Francisco, model",
     "wof:parent_id": 1511943425,
     "wof:placetype": "media",

@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/328/1/1527853281_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/328/1/1527853281_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284907
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213223,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 64956,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511922905,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527853281,
-    "wof:lastmodified": 1618963598,
+    "wof:lastmodified": 1630543815,
     "wof:name": "pocket calendar: Northwest Airlines, 1952",
     "wof:parent_id": 1511922905,
     "wof:placetype": "media",

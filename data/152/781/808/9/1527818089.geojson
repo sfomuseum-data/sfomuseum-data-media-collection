@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/781/808/9/1527818089_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/781/808/9/1527818089_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285415
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213561,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 66911,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511923493,
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527818089,
-    "wof:lastmodified": 1618963611,
+    "wof:lastmodified": 1630543783,
     "wof:name": "miniature airline bag: United Air Lines",
     "wof:parent_id": 1511923493,
     "wof:placetype": "media",

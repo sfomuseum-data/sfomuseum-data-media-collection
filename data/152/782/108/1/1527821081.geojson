@@ -100,10 +100,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/108/1/1527821081_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/108/1/1527821081_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284723
+    ],
+    "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:subcategory_id": -1,
+    "millsfield:subcategory_id": 1511213367,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "33796.tif",
@@ -112,7 +118,7 @@
     "sfomuseum:object_id": 50763,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1511910213,
@@ -132,7 +138,8 @@
     "wof:created": 1578949517,
     "wof:depicts": [
       1511910213,
-      1159292297
+      1159292297,
+      1159284723
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -160,7 +167,7 @@
       }
     ],
     "wof:id": 1527821081,
-    "wof:lastmodified": 1618963595,
+    "wof:lastmodified": 1630543786,
     "wof:name": "photograph: Maddux Air Lines, Ford Tri-Motor",
     "wof:parent_id": 1511910213,
     "wof:placetype": "media",

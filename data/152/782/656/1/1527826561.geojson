@@ -100,7 +100,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/656/1/1527826561_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/656/1/1527826561_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284973
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -112,7 +118,7 @@
     "sfomuseum:object_id": 116439,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511947601,
@@ -153,7 +159,7 @@
       }
     ],
     "wof:id": 1527826561,
-    "wof:lastmodified": 1618963611,
+    "wof:lastmodified": 1630543791,
     "wof:name": "photograph: San Francisco International Airport (SFO), construction of Pacific Southwest Airlines (PSA) pier and jetway",
     "wof:parent_id": 1511947601,
     "wof:placetype": "media",

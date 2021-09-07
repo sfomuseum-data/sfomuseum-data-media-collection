@@ -110,10 +110,14 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/117/1/1527821171_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/117/1/1527821171_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513,
+      102527513
+    ],
+    "millsfield:category_id": 1511214209,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213367,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1999.052.015.tif",
@@ -122,7 +126,7 @@
     "sfomuseum:object_id": 49067,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1511909285,
@@ -170,7 +174,7 @@
       }
     ],
     "wof:id": 1527821171,
-    "wof:lastmodified": 1618963596,
+    "wof:lastmodified": 1630543786,
     "wof:name": "photograph: Mills Field Municipal Airport of San Francisco, Aloha-Hawaiian Flyer",
     "wof:parent_id": 1511909285,
     "wof:placetype": "media",

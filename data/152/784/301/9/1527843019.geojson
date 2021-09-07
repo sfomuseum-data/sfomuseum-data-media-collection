@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/301/9/1527843019_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/301/9/1527843019_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285461
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 103651,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511941325,
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527843019,
-    "wof:lastmodified": 1618963597,
+    "wof:lastmodified": 1630543805,
     "wof:name": "timetable: VARIG",
     "wof:parent_id": 1511941325,
     "wof:placetype": "media",

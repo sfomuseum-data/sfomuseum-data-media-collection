@@ -110,10 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/946/3/1527829463_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/946/3/1527829463_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284989
+    ],
+    "millsfield:category_id": 1511214215,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "48253.tif",
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 77390,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191569,
       1511925857,
@@ -142,8 +145,8 @@
     "wof:country": "TH",
     "wof:created": 1578950844,
     "wof:depicts": [
-      1159284989,
-      1511925857
+      1511925857,
+      1159284989
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -170,7 +173,7 @@
       }
     ],
     "wof:id": 1527829463,
-    "wof:lastmodified": 1618963620,
+    "wof:lastmodified": 1630543793,
     "wof:name": "airmail flight cover: Pan American World Airways, Bangkok - Manila route",
     "wof:parent_id": 1511925857,
     "wof:placetype": "media",

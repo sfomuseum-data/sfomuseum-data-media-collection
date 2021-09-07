@@ -100,7 +100,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/178/9/1527821789_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/178/9/1527821789_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284991
+    ],
     "millsfield:category_id": 1159162825,
     "millsfield:collection_id": 1159160869,
     "millsfield:subcategory_id": -1,
@@ -112,7 +115,7 @@
     "sfomuseum:object_id": 89649,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511931029,
       102527513,
@@ -146,7 +149,7 @@
       }
     ],
     "wof:id": 1527821789,
-    "wof:lastmodified": 1618963597,
+    "wof:lastmodified": 1630543786,
     "wof:name": "menu: Pan American Airways, Eastern division sales meeting",
     "wof:parent_id": 1511931029,
     "wof:placetype": "media",

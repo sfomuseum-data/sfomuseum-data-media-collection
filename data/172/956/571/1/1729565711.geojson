@@ -105,10 +105,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/571/1/1729565711_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/571/1/1729565711_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285393
+    ],
+    "millsfield:category_id": 1511214215,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213363,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "2001.082.010_verso.tif",
@@ -117,7 +123,7 @@
     "sfomuseum:object_id": 60514,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1729563973,
@@ -166,7 +172,7 @@
       }
     ],
     "wof:id": 1729565711,
-    "wof:lastmodified": 1618963613,
+    "wof:lastmodified": 1630543810,
     "wof:name": "postcard: TWA (Trans World Airlines), Boeing 727",
     "wof:parent_id": 1729563973,
     "wof:placetype": "media",

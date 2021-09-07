@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/030/9/1527830309_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/030/9/1527830309_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213657,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 42866,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1511906827,
@@ -170,7 +173,7 @@
       }
     ],
     "wof:id": 1527830309,
-    "wof:lastmodified": 1618963615,
+    "wof:lastmodified": 1630543794,
     "wof:name": "sheet music: Yankee Bird March and Two-Step, by Chas. L. Johnson",
     "wof:parent_id": 1511906827,
     "wof:placetype": "media",

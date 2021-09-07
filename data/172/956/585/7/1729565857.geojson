@@ -110,7 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/585/7/1729565857_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/585/7/1729565857_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285393
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213363,
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 73877,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
       85633793,
@@ -140,9 +146,9 @@
     "wof:country": "XX",
     "wof:created": 1607041450,
     "wof:depicts": [
-      1159285393,
       1159289653,
-      1729564401
+      1729564401,
+      1159285393
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -163,7 +169,7 @@
       }
     ],
     "wof:id": 1729565857,
-    "wof:lastmodified": 1618963613,
+    "wof:lastmodified": 1630543810,
     "wof:name": "postcard: TWA (Trans World Airlines), Boeing 707",
     "wof:parent_id": 1729564401,
     "wof:placetype": "media",

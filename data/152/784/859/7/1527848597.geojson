@@ -100,7 +100,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/859/7/1527848597_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/859/7/1527848597_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214261,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213191,
@@ -112,7 +115,7 @@
     "sfomuseum:object_id": 46393,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214261,
       1511908143,
@@ -160,7 +163,7 @@
       }
     ],
     "wof:id": 1527848597,
-    "wof:lastmodified": 1618963613,
+    "wof:lastmodified": 1630543810,
     "wof:name": "architectural drawing: San Francisco International Airport (SFO), Lobby Area Seating",
     "wof:parent_id": 1511908143,
     "wof:placetype": "media",

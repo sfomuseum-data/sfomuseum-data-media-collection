@@ -105,10 +105,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/467/1/1527824671_{secret}_{label}.{extention}",
-    "millsfield:category_id": 1159162825,
-    "millsfield:collection_id": 1159160869,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/467/1/1527824671_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284309
+    ],
+    "millsfield:category_id": 1511214243,
+    "millsfield:collection_id": 1511214203,
+    "millsfield:subcategory_id": 1511213185,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "42723.tif",
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 47775,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511908591,
       102527513,
@@ -132,8 +135,8 @@
     "wof:country": "XX",
     "wof:created": 1578950090,
     "wof:depicts": [
-      1159284309,
-      1511908591
+      1511908591,
+      1159284309
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -151,7 +154,7 @@
       }
     ],
     "wof:id": 1527824671,
-    "wof:lastmodified": 1618963605,
+    "wof:lastmodified": 1630543789,
     "wof:name": "airsickness bag: Eastern Air Lines",
     "wof:parent_id": 1511908591,
     "wof:placetype": "media",

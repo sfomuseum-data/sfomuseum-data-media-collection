@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/580/1/1729565801_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/580/1/1729565801_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285395
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213363,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 73862,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1729564373,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1729565801,
-    "wof:lastmodified": 1618963623,
+    "wof:lastmodified": 1630543810,
     "wof:name": "postcard: Transcontinental \u0026 Western Air (TWA)",
     "wof:parent_id": 1729564373,
     "wof:placetype": "media",

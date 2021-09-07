@@ -110,10 +110,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/608/1/1527856081_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/608/1/1527856081_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159283849
+    ],
+    "millsfield:category_id": 1511214241,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213383,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1994.25.06_interior.tif",
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 42672,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214241,
       1511906765,
@@ -141,9 +147,9 @@
     "wof:country": "US",
     "wof:created": 1578955079,
     "wof:depicts": [
+      1511906765,
       1159290435,
-      1159283849,
-      1511906765
+      1159283849
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -171,7 +177,7 @@
       }
     ],
     "wof:id": 1527856081,
-    "wof:lastmodified": 1618963605,
+    "wof:lastmodified": 1630543817,
     "wof:name": "route map: American Airlines, system map",
     "wof:parent_id": 1511906765,
     "wof:placetype": "media",

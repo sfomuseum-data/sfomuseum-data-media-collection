@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/609/9/1527856099_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/609/9/1527856099_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284261
+    ],
     "millsfield:category_id": 1511214241,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213383,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 64773,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214241,
       1511922781,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527856099,
-    "wof:lastmodified": 1618963605,
+    "wof:lastmodified": 1630543817,
     "wof:name": "route map: Delta Air Lines, domestic and Caribbean routes",
     "wof:parent_id": 1511922781,
     "wof:placetype": "media",

@@ -100,10 +100,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/860/9/1527848609_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/860/9/1527848609_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
+    "millsfield:category_id": 1511214261,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213191,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1997.52.028.07 copy.tif",
@@ -112,7 +115,7 @@
     "sfomuseum:object_id": 46401,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214261,
       1511908147,
@@ -131,8 +134,8 @@
     "wof:country": "US",
     "wof:created": 1578953877,
     "wof:depicts": [
-      102527513,
-      1511908147
+      1511908147,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -160,7 +163,7 @@
       }
     ],
     "wof:id": 1527848609,
-    "wof:lastmodified": 1618963613,
+    "wof:lastmodified": 1630543810,
     "wof:name": "architectural drawing: San Francisco International Airport (SFO), Furnishings for Terminal Building and Concourses, Through Section for Benches S5 and S6",
     "wof:parent_id": 1511908147,
     "wof:placetype": "media",

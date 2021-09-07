@@ -110,7 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/781/918/5/1527819185_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/781/918/5/1527819185_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284511
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213631,
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 86750,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511930239,
@@ -140,13 +146,13 @@
     "wof:country": "XX",
     "wof:created": 1578949219,
     "wof:depicts": [
-      1159293083,
       1159291259,
       1159293561,
       1159291267,
       1159284511,
       1159292537,
-      1511930239
+      1511930239,
+      1159293083
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -167,7 +173,7 @@
       }
     ],
     "wof:id": 1527819185,
-    "wof:lastmodified": 1618963616,
+    "wof:lastmodified": 1630543784,
     "wof:name": "brochure: Iberia, McDonnell Douglas DC-10-30",
     "wof:parent_id": 1511930239,
     "wof:placetype": "media",

@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/826/7/1527858267_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/826/7/1527858267_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285395
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213151,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 109826,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511942361,
@@ -140,8 +143,8 @@
     "wof:country": "XX",
     "wof:created": 1578955423,
     "wof:depicts": [
-      1159285395,
-      1511942361
+      1511942361,
+      1159285395
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527858267,
-    "wof:lastmodified": 1618963612,
+    "wof:lastmodified": 1630543820,
     "wof:name": "stand-up counter sign: Transcontinental \u0026 Western Air (TWA)",
     "wof:parent_id": 1511942361,
     "wof:placetype": "media",

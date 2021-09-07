@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/532/3/1527855323_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/532/3/1527855323_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284993
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213565,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 42466,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511906713,
@@ -141,10 +144,10 @@
     "wof:country": "",
     "wof:created": 1578954965,
     "wof:depicts": [
-      1159290437,
       1159290435,
       1159284993,
-      1511906713
+      1511906713,
+      1159290437
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -170,7 +173,7 @@
       }
     ],
     "wof:id": 1527855323,
-    "wof:lastmodified": 1618963603,
+    "wof:lastmodified": 1630543817,
     "wof:name": "flight information packet: Panagra (Pan American-Grace Airways)",
     "wof:parent_id": 1511906713,
     "wof:placetype": "media",

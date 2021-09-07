@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/389/1/1527853891_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/389/1/1527853891_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285591
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213323,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 72042,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511924741,
@@ -140,8 +143,8 @@
     "wof:country": "XX",
     "wof:created": 1578954736,
     "wof:depicts": [
-      1159285591,
-      1511924741
+      1511924741,
+      1159285591
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527853891,
-    "wof:lastmodified": 1618963600,
+    "wof:lastmodified": 1630543815,
     "wof:name": "mileage program information: Southwest Airlines, The Company Club",
     "wof:parent_id": 1511924741,
     "wof:placetype": "media",

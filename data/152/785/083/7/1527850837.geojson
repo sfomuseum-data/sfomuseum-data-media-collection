@@ -105,7 +105,15 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/083/7/1527850837_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/083/7/1527850837_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1,
+      -1,
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284907
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213703,
@@ -117,7 +125,7 @@
     "sfomuseum:object_id": 69081,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511924045,
@@ -135,12 +143,12 @@
     "wof:country": "XX",
     "wof:created": 1578954258,
     "wof:depicts": [
+      1511924045,
       1159291223,
       1159291225,
       1159284907,
       1159291227,
-      1159291245,
-      1511924045
+      1159291245
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -161,7 +169,7 @@
       }
     ],
     "wof:id": 1527850837,
-    "wof:lastmodified": 1618963622,
+    "wof:lastmodified": 1630543813,
     "wof:name": "safety information card: Northwest Airlines, Douglas DC-9 Series 30 / 40 / 50",
     "wof:parent_id": 1511924045,
     "wof:placetype": "media",

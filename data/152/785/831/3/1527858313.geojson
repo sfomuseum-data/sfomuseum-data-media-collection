@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/831/3/1527858313_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/831/3/1527858313_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284201
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213155,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 61554,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511922071,
@@ -165,7 +168,7 @@
       }
     ],
     "wof:id": 1527858313,
-    "wof:lastmodified": 1618963612,
+    "wof:lastmodified": 1630543820,
     "wof:name": "airline bag: Continental Airlines",
     "wof:parent_id": 1511922071,
     "wof:placetype": "media",

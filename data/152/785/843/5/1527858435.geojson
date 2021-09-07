@@ -110,10 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/843/5/1527858435_{secret}_{label}.{extention}",
-    "millsfield:category_id": 1511214245,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/843/5/1527858435_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284201
+    ],
+    "millsfield:category_id": 1746152551,
     "millsfield:collection_id": 1511214203,
-    "millsfield:subcategory_id": -1,
+    "millsfield:subcategory_id": 1746152563,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "2002.065.004.tif",
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 67011,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       85633793,
@@ -140,7 +143,8 @@
     "wof:country": "XX",
     "wof:created": 1578955448,
     "wof:depicts": [
-      1511923559
+      1511923559,
+      1159284201
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -161,7 +165,7 @@
       }
     ],
     "wof:id": 1527858435,
-    "wof:lastmodified": 1618963613,
+    "wof:lastmodified": 1630543820,
     "wof:name": "entree dish: Continental Airlines",
     "wof:parent_id": 1511923559,
     "wof:placetype": "media",

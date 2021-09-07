@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/102/7/1527851027_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/102/7/1527851027_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284509
+    ],
     "millsfield:category_id": 1511214251,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213503,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 124845,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214251,
       1511951497,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527851027,
-    "wof:lastmodified": 1618963622,
+    "wof:lastmodified": 1630543813,
     "wof:name": "union agreement: Air West, Air Line Employees Association International",
     "wof:parent_id": 1511951497,
     "wof:placetype": "media",

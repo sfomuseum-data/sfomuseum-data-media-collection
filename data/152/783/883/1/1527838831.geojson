@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/883/1/1527838831_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/883/1/1527838831_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285413
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 49806,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511909727,
@@ -170,7 +173,7 @@
       }
     ],
     "wof:id": 1527838831,
-    "wof:lastmodified": 1618963606,
+    "wof:lastmodified": 1630543802,
     "wof:name": "timetable: United Airlines and Cumberland Airlines, quick reference Pittsburgh",
     "wof:parent_id": 1511909727,
     "wof:placetype": "media",

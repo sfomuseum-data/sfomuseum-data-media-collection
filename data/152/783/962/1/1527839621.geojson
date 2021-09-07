@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/962/1/1527839621_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/962/1/1527839621_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284487
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 92609,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511932745,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527839621,
-    "wof:lastmodified": 1618963609,
+    "wof:lastmodified": 1630543802,
     "wof:name": "timetable: Havasu Airlines, quick reference",
     "wof:parent_id": 1511932745,
     "wof:placetype": "media",

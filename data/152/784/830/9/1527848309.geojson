@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/830/9/1527848309_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/830/9/1527848309_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284003
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 97640,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511936035,
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527848309,
-    "wof:lastmodified": 1618963612,
+    "wof:lastmodified": 1630543810,
     "wof:name": "timetable: Bonanza Air Lines",
     "wof:parent_id": 1511936035,
     "wof:placetype": "media",

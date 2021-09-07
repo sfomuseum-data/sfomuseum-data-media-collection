@@ -110,7 +110,14 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/344/9/1527833449_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/344/9/1527833449_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284989,
+      1159284993
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213159,
@@ -122,7 +129,7 @@
     "sfomuseum:object_id": 139256,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1511953811,
@@ -164,7 +171,7 @@
       }
     ],
     "wof:id": 1527833449,
-    "wof:lastmodified": 1618963622,
+    "wof:lastmodified": 1630543797,
     "wof:name": "airmail flight cover: Pan American World Airways, Panagra, Douglas DC-8",
     "wof:parent_id": 1511953811,
     "wof:placetype": "media",

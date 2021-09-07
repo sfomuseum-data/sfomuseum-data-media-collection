@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/359/5/1527843595_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/359/5/1527843595_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1511214241,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213383,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 42800,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214241,
       1511906799,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527843595,
-    "wof:lastmodified": 1618963598,
+    "wof:lastmodified": 1630543806,
     "wof:name": "route map: Pan American World Airways, system map",
     "wof:parent_id": 1511906799,
     "wof:placetype": "media",

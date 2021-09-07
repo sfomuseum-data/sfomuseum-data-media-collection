@@ -100,7 +100,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/542/5/1729565425_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/542/5/1729565425_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285395
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -112,7 +115,7 @@
     "sfomuseum:object_id": 73787,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85922583,
       1511214207,
@@ -130,8 +133,8 @@
     "wof:country": "XX",
     "wof:created": 1607039746,
     "wof:depicts": [
-      1159285395,
-      1729564333
+      1729564333,
+      1159285395
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -152,7 +155,7 @@
       }
     ],
     "wof:id": 1729565425,
-    "wof:lastmodified": 1618963611,
+    "wof:lastmodified": 1630543786,
     "wof:name": "photograph: Transcontinental \u0026 Western Air (TWA), air hostess Betty Smith",
     "wof:parent_id": 1729564333,
     "wof:placetype": "media",

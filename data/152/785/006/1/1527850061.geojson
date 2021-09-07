@@ -110,7 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/006/1/1527850061_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/006/1/1527850061_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284563
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213703,
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 68970,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511924027,
@@ -140,10 +146,10 @@
     "wof:country": "XX",
     "wof:created": 1578954127,
     "wof:depicts": [
-      1159290443,
       1159290471,
       1159284563,
-      1511924027
+      1511924027,
+      1159290443
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -164,7 +170,7 @@
       }
     ],
     "wof:id": 1527850061,
-    "wof:lastmodified": 1618963624,
+    "wof:lastmodified": 1630543812,
     "wof:name": "safety information card: JAL (Japan Airlines), Douglas DC-8-62",
     "wof:parent_id": 1511924027,
     "wof:placetype": "media",

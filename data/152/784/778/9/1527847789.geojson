@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/778/9/1527847789_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/778/9/1527847789_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      -1
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213633,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 128139,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85922583,
       102527513,
@@ -161,7 +164,7 @@
       }
     ],
     "wof:id": 1527847789,
-    "wof:lastmodified": 1618963610,
+    "wof:lastmodified": 1630543809,
     "wof:name": "brochure: Hartsfield Atlanta International Airport",
     "wof:parent_id": 1511951689,
     "wof:placetype": "media",

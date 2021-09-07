@@ -100,7 +100,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/137/3/1527831373_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/137/3/1527831373_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213333,
@@ -112,7 +115,7 @@
     "sfomuseum:object_id": 142379,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511955647,
@@ -152,7 +155,7 @@
       }
     ],
     "wof:id": 1527831373,
-    "wof:lastmodified": 1618963618,
+    "wof:lastmodified": 1630543795,
     "wof:name": "glass negative: Panama-Pacific International Exposition, Christofferson flying boat, Carl J. Schilling and Ada Schilling ",
     "wof:parent_id": 1511955647,
     "wof:placetype": "media",

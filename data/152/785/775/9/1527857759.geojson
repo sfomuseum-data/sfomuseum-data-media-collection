@@ -110,10 +110,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/775/9/1527857759_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/775/9/1527857759_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284613
+    ],
+    "millsfield:category_id": 1511214235,
+    "millsfield:collection_id": 1511214203,
+    "millsfield:subcategory_id": 1511213161,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1996.07.03_06.tif",
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 43577,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191581,
       1511907215,
@@ -140,14 +146,14 @@
       85688637
     ],
     "wof:breaches": [],
-    "wof:country": "NL",
+    "wof:country": "IT",
     "wof:created": 1578955342,
     "wof:depicts": [
+      1511907215,
       1159289873,
       1159289915,
       1159293593,
-      1159284613,
-      1511907215
+      1159284613
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -175,7 +181,7 @@
       }
     ],
     "wof:id": 1527857759,
-    "wof:lastmodified": 1618963611,
+    "wof:lastmodified": 1630544033,
     "wof:name": "model airplane: KLM (Royal Dutch Airlines), Boeing 747-400",
     "wof:parent_id": 1511907215,
     "wof:placetype": "media",

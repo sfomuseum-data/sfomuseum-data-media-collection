@@ -105,7 +105,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/929/5/1527829295_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/929/5/1527829295_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284309
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213401,
@@ -117,7 +126,7 @@
     "sfomuseum:object_id": 132823,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511952401,
@@ -159,7 +168,7 @@
       }
     ],
     "wof:id": 1527829295,
-    "wof:lastmodified": 1618963619,
+    "wof:lastmodified": 1630543793,
     "wof:name": "slide: San Francisco International Airport (SFO), Eastern Air Lines",
     "wof:parent_id": 1511952401,
     "wof:placetype": "media",

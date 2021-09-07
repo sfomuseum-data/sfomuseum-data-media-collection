@@ -110,7 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/747/1/1527857471_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/747/1/1527857471_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284099
+    ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213161,
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 49299,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214235,
       1511909389,
@@ -142,7 +148,8 @@
     "wof:created": 1578955298,
     "wof:depicts": [
       1511909389,
-      1159290443
+      1159290443,
+      1159284099
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -170,7 +177,7 @@
       }
     ],
     "wof:id": 1527857471,
-    "wof:lastmodified": 1618963610,
+    "wof:lastmodified": 1630543819,
     "wof:name": "model airplane: Capitol International Airways, Douglas DC-8",
     "wof:parent_id": 1511909389,
     "wof:placetype": "media",

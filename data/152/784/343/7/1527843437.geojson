@@ -107,7 +107,11 @@
     },
     "media:source": "unknown",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/343/7/1527843437_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/343/7/1527843437_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513,
+      102527513
+    ],
     "millsfield:category_id": 1511214231,
     "millsfield:collection_id": 1511214217,
     "millsfield:subcategory_id": 1511213325,
@@ -119,7 +123,7 @@
     "sfomuseum:object_id": 47018,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214231,
       1511908275,
@@ -167,7 +171,7 @@
       }
     ],
     "wof:id": 1527843437,
-    "wof:lastmodified": 1620686458,
+    "wof:lastmodified": 1630543806,
     "wof:name": "San Francisco Airport: a report",
     "wof:parent_id": 1511908275,
     "wof:placetype": "media",

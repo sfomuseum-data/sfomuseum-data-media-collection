@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/963/7/1527849637_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/963/7/1527849637_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285105
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 103579,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511941173,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527849637,
-    "wof:lastmodified": 1618963616,
+    "wof:lastmodified": 1630543811,
     "wof:name": "timetable: Sabena Belgian World Airlines",
     "wof:parent_id": 1511941173,
     "wof:placetype": "media",

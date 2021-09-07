@@ -100,7 +100,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/545/9/1729565459_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/545/9/1729565459_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285393
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -112,7 +118,7 @@
     "sfomuseum:object_id": 60804,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214277,
       1511214209,
@@ -153,7 +159,7 @@
       }
     ],
     "wof:id": 1729565459,
-    "wof:lastmodified": 1618963611,
+    "wof:lastmodified": 1630543794,
     "wof:name": "photograph: TWA (Trans World Airlines), airplane marshaller",
     "wof:parent_id": 1729563987,
     "wof:placetype": "media",

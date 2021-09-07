@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/561/5/1527845615_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/561/5/1527845615_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284021
+    ],
     "millsfield:category_id": 1159162825,
     "millsfield:collection_id": 1159160869,
     "millsfield:subcategory_id": -1,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 113635,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511943411,
       102527513,
@@ -151,7 +154,7 @@
       }
     ],
     "wof:id": 1527845615,
-    "wof:lastmodified": 1618963604,
+    "wof:lastmodified": 1630543808,
     "wof:name": "menu: British Airways, First Class",
     "wof:parent_id": 1511943411,
     "wof:placetype": "media",

@@ -100,7 +100,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/258/9/1527822589_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/258/9/1527822589_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159283849
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213801,
@@ -112,7 +121,7 @@
     "sfomuseum:object_id": 114588,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511944493,
@@ -130,10 +139,10 @@
     "wof:country": "XX",
     "wof:created": 1578949770,
     "wof:depicts": [
-      102527513,
-      1159283849,
       1159290435,
-      1511944493
+      1511944493,
+      102527513,
+      1159283849
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -154,7 +163,7 @@
       }
     ],
     "wof:id": 1527822589,
-    "wof:lastmodified": 1618963599,
+    "wof:lastmodified": 1630543787,
     "wof:name": "negative: San Francisco International Airport (SFO), American Airlines, cargo operations",
     "wof:parent_id": 1511944493,
     "wof:placetype": "media",

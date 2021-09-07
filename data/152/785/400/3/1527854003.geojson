@@ -110,10 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/400/3/1527854003_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/400/3/1527854003_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:category_id": 1511214215,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1998.108.387_verso.tif",
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 48672,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1511908829,
@@ -141,9 +144,9 @@
     "wof:country": "",
     "wof:created": 1578954755,
     "wof:depicts": [
+      1511908829,
       1159291835,
-      1159294325,
-      1511908829
+      1159294325
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -169,7 +172,7 @@
       }
     ],
     "wof:id": 1527854003,
-    "wof:lastmodified": 1618963600,
+    "wof:lastmodified": 1630543815,
     "wof:name": "airmail flight cover: Spitfire, 40th Anniversary of first flight",
     "wof:parent_id": 1511908829,
     "wof:placetype": "media",

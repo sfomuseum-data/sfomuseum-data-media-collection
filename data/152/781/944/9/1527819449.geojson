@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/781/944/9/1527819449_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/781/944/9/1527819449_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284819
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213149,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 118067,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511949981,
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527819449,
-    "wof:lastmodified": 1618963617,
+    "wof:lastmodified": 1630543784,
     "wof:name": "advertisement: Mohawk Airlines",
     "wof:parent_id": 1511949981,
     "wof:placetype": "media",

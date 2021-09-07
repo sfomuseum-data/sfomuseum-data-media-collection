@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/867/5/1527828675_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/867/5/1527828675_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      1360695653
+    ],
     "millsfield:category_id": 1511214263,
     "millsfield:collection_id": 1511214217,
     "millsfield:subcategory_id": 1511213207,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 50692,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214263,
       1511910199,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527828675,
-    "wof:lastmodified": 1618963617,
+    "wof:lastmodified": 1630543793,
     "wof:name": "The Pacific Commerce [1 issue: January 5, 1927]",
     "wof:parent_id": 1511910199,
     "wof:placetype": "media",

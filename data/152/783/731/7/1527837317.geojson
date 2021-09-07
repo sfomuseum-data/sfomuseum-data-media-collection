@@ -110,7 +110,11 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/731/7/1527837317_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/731/7/1527837317_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159283923,
+      1159283927
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -122,7 +126,7 @@
     "sfomuseum:object_id": 49173,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1511909349,
@@ -141,9 +145,9 @@
     "wof:country": "US",
     "wof:created": 1578952075,
     "wof:depicts": [
-      1159283923,
       1159283927,
-      1511909349
+      1511909349,
+      1159283923
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -171,7 +175,7 @@
       }
     ],
     "wof:id": 1527837317,
-    "wof:lastmodified": 1618963602,
+    "wof:lastmodified": 1630543800,
     "wof:name": "timetable: ATA Airlines",
     "wof:parent_id": 1511909349,
     "wof:placetype": "media",

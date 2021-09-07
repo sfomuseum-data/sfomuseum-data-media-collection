@@ -100,7 +100,11 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/116/9/1527821169_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/116/9/1527821169_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513,
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -112,7 +116,7 @@
     "sfomuseum:object_id": 49059,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511909283,
@@ -160,7 +164,7 @@
       }
     ],
     "wof:id": 1527821169,
-    "wof:lastmodified": 1618963596,
+    "wof:lastmodified": 1630543786,
     "wof:name": "photograph: Mills Field Municipal Airport of San Francisco, three biplanes",
     "wof:parent_id": 1511909283,
     "wof:placetype": "media",

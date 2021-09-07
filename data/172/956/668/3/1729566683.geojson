@@ -110,7 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/668/3/1729566683_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/668/3/1729566683_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285825
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213363,
@@ -122,7 +128,7 @@
     "sfomuseum:object_id": 180921,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1511214277,
@@ -140,9 +146,9 @@
     "wof:country": "XX",
     "wof:created": 1607091231,
     "wof:depicts": [
-      1159285825,
       1159292981,
-      1729565025
+      1729565025,
+      1159285825
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -163,7 +169,7 @@
       }
     ],
     "wof:id": 1729566683,
-    "wof:lastmodified": 1618963617,
+    "wof:lastmodified": 1630543818,
     "wof:name": "postcard: Qantas Empire Airways, Lockheed Super Constellation",
     "wof:parent_id": 1729565025,
     "wof:placetype": "media",

@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/598/1/1527845981_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/598/1/1527845981_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159283791
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213721,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 124357,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511951471,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527845981,
-    "wof:lastmodified": 1618963605,
+    "wof:lastmodified": 1630543808,
     "wof:name": "drink coupon: AirCal",
     "wof:parent_id": 1511951471,
     "wof:placetype": "media",

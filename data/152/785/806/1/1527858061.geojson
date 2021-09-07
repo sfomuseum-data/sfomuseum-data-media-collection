@@ -100,10 +100,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/806/1/1527858061_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/806/1/1527858061_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159283697
+    ],
+    "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:subcategory_id": -1,
+    "millsfield:subcategory_id": 1511213161,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1999.061.078ab_03.tif",
@@ -112,7 +118,7 @@
     "sfomuseum:object_id": 49287,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191581,
       1511909377,
@@ -132,10 +138,11 @@
     "wof:country": "IT",
     "wof:created": 1578955392,
     "wof:depicts": [
-      1511909377,
-      1159289873,
       1159293593,
-      1159289891
+      1159289891,
+      1159283697,
+      1511909377,
+      1159289873
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -162,7 +169,7 @@
       }
     ],
     "wof:id": 1527858061,
-    "wof:lastmodified": 1618963611,
+    "wof:lastmodified": 1630543820,
     "wof:name": "model airplane: Air New Zealand, Boeing 747-200",
     "wof:parent_id": 1511909377,
     "wof:placetype": "media",

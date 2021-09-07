@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/910/5/1527849105_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/910/5/1527849105_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214239,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213189,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 66010,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214239,
       1511923161,
@@ -135,8 +138,8 @@
     "wof:country": "XX",
     "wof:created": 1578953968,
     "wof:depicts": [
-      102527513,
-      1511923161
+      1511923161,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527849105,
-    "wof:lastmodified": 1618963615,
+    "wof:lastmodified": 1630543811,
     "wof:name": "annual report: San Francisco International Airport (SFO), 1982/1983 [1 issue: 1982/1983]",
     "wof:parent_id": 1511923161,
     "wof:placetype": "media",

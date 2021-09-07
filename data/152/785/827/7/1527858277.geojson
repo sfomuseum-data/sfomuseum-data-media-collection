@@ -110,10 +110,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/827/7/1527858277_{secret}_{label}.{extention}",
-    "millsfield:category_id": -1,
-    "millsfield:collection_id": -1,
-    "millsfield:subcategory_id": -1,
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/827/7/1527858277_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285415
+    ],
+    "millsfield:category_id": 1511214241,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:subcategory_id": 1511213383,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "1999.015.063_full.tif",
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 48803,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214241,
       1511908993,
@@ -141,8 +144,8 @@
     "wof:country": "US",
     "wof:created": 1578955425,
     "wof:depicts": [
-      1159285415,
-      1511908993
+      1511908993,
+      1159285415
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -170,7 +173,7 @@
       }
     ],
     "wof:id": 1527858277,
-    "wof:lastmodified": 1618963612,
+    "wof:lastmodified": 1630543820,
     "wof:name": "route map: United Air Lines",
     "wof:parent_id": 1511908993,
     "wof:placetype": "media",

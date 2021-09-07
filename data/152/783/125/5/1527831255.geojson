@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/125/5/1527831255_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/125/5/1527831255_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285415
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 142196,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511955503,
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527831255,
-    "wof:lastmodified": 1618963618,
+    "wof:lastmodified": 1630543795,
     "wof:name": "photograph: United Air Lines, Helene Dessiaume",
     "wof:parent_id": 1511955503,
     "wof:placetype": "media",

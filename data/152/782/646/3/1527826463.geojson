@@ -100,7 +100,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/646/3/1527826463_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/646/3/1527826463_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285415
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -112,7 +118,7 @@
     "sfomuseum:object_id": 116395,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85922583,
       1511947501,
@@ -153,7 +159,7 @@
       }
     ],
     "wof:id": 1527826463,
-    "wof:lastmodified": 1618963610,
+    "wof:lastmodified": 1630543791,
     "wof:name": "photograph: San Francisco International Airport (SFO), United Air Lines service center construction",
     "wof:parent_id": 1511947501,
     "wof:placetype": "media",

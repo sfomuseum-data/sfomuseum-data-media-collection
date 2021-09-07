@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/600/7/1527846007_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/600/7/1527846007_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159283697
+    ],
     "millsfield:category_id": 1511214205,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213631,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 86920,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214205,
       1511930285,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527846007,
-    "wof:lastmodified": 1618963605,
+    "wof:lastmodified": 1630543808,
     "wof:name": "brochure: Air New Zealand, Olympic Games",
     "wof:parent_id": 1511930285,
     "wof:placetype": "media",

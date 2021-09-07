@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/837/3/1527828373_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/837/3/1527828373_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213801,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 117243,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85922583,
       102191575,
@@ -135,8 +138,8 @@
     "wof:country": "XX",
     "wof:created": 1578950670,
     "wof:depicts": [
-      102527513,
-      1511949405
+      1511949405,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527828373,
-    "wof:lastmodified": 1618963616,
+    "wof:lastmodified": 1630543792,
     "wof:name": "negative: San Francisco International Airport (SFO), Medical Clinic dedication",
     "wof:parent_id": 1511949405,
     "wof:placetype": "media",

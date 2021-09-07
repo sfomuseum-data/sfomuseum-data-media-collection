@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/900/1/1527829001_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/900/1/1527829001_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284991
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213159,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 42912,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1511906907,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527829001,
-    "wof:lastmodified": 1618963618,
+    "wof:lastmodified": 1630543793,
     "wof:name": "airmail flight cover: Pan American Airways, Singapore - Manila route",
     "wof:parent_id": 1511906907,
     "wof:placetype": "media",

@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/835/7/1527858357_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/835/7/1527858357_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159283527
+    ],
     "millsfield:category_id": 1511214225,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213595,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 111096,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214225,
       1511943023,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527858357,
-    "wof:lastmodified": 1618963612,
+    "wof:lastmodified": 1630543820,
     "wof:name": "hat badge: Aeroflot Soviet Airlines",
     "wof:parent_id": 1511943023,
     "wof:placetype": "media",

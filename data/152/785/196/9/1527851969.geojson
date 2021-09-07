@@ -105,7 +105,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/196/9/1527851969_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/196/9/1527851969_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285393
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -117,7 +126,7 @@
     "sfomuseum:object_id": 45743,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511907947,
@@ -136,12 +145,12 @@
     "wof:country": "US",
     "wof:created": 1578954439,
     "wof:depicts": [
-      102527513,
-      1159289653,
-      1159293593,
       1159285393,
       1159289681,
-      1511907947
+      1511907947,
+      102527513,
+      1159289653,
+      1159293593
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -169,7 +178,7 @@
       }
     ],
     "wof:id": 1527851969,
-    "wof:lastmodified": 1618963595,
+    "wof:lastmodified": 1630543814,
     "wof:name": "photograph: TWA (Trans World Airlines), Boeing 707, San Francisco International Airport (SFO)",
     "wof:parent_id": 1511907947,
     "wof:placetype": "media",

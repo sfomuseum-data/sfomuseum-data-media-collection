@@ -100,7 +100,14 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/138/9/1527821389_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/782/138/9/1527821389_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airport_id": [
+      102527513,
+      1360695655
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213801,
@@ -112,7 +119,7 @@
     "sfomuseum:object_id": 114125,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511943535,
@@ -153,7 +160,7 @@
       }
     ],
     "wof:id": 1527821389,
-    "wof:lastmodified": 1618963596,
+    "wof:lastmodified": 1630543786,
     "wof:name": "negative: San Francisco Airport, aviatrixes",
     "wof:parent_id": 1511943535,
     "wof:placetype": "media",

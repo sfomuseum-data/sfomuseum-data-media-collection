@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/292/7/1527852927_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/292/7/1527852927_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214203,
     "millsfield:subcategory_id": 1511213799,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 137031,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
       1511952635,
@@ -140,10 +143,10 @@
     "wof:country": "XX",
     "wof:created": 1578954584,
     "wof:depicts": [
+      1511952635,
       1159289633,
       1159293593,
-      1159284989,
-      1511952635
+      1159284989
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -164,7 +167,7 @@
       }
     ],
     "wof:id": 1527852927,
-    "wof:lastmodified": 1618963597,
+    "wof:lastmodified": 1630543815,
     "wof:name": "children’s activity kit: Pan American World Airways",
     "wof:parent_id": 1511952635,
     "wof:placetype": "media",

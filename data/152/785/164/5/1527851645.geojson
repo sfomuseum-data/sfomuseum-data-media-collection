@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/164/5/1527851645_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/164/5/1527851645_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285415
+    ],
     "millsfield:category_id": 1511214239,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213695,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 49969,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1511909975,
@@ -141,8 +144,8 @@
     "wof:country": "US",
     "wof:created": 1578954389,
     "wof:depicts": [
-      1159285415,
-      1511909975
+      1511909975,
+      1159285415
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -170,7 +173,7 @@
       }
     ],
     "wof:id": 1527851645,
-    "wof:lastmodified": 1618963594,
+    "wof:lastmodified": 1630543813,
     "wof:name": "employee handbook: United Air Lines",
     "wof:parent_id": 1511909975,
     "wof:placetype": "media",

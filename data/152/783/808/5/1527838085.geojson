@@ -110,7 +110,11 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/783/808/5/1527838085_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/783/808/5/1527838085_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159285183,
+      1159285187
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -122,7 +126,7 @@
     "sfomuseum:object_id": 81434,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511928127,
@@ -163,7 +167,7 @@
       }
     ],
     "wof:id": 1527838085,
-    "wof:lastmodified": 1618963604,
+    "wof:lastmodified": 1630543801,
     "wof:name": "timetable: South African Airways (SAL)",
     "wof:parent_id": 1511928127,
     "wof:placetype": "media",

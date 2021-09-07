@@ -110,7 +110,16 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/226/1/1527852261_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/226/1/1527852261_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159284309
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -122,7 +131,7 @@
     "sfomuseum:object_id": 113970,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214209,
       1511943437,
@@ -165,7 +174,7 @@
       }
     ],
     "wof:id": 1527852261,
-    "wof:lastmodified": 1618963595,
+    "wof:lastmodified": 1630543814,
     "wof:name": "photograph: Eastern Air Lines, Airbus A300, San Francisco International Airport (SFO)",
     "wof:parent_id": 1511943437,
     "wof:placetype": "media",

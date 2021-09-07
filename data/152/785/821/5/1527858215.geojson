@@ -105,7 +105,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/785/821/5/1527858215_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/785/821/5/1527858215_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      1360695653
+    ],
     "millsfield:category_id": 1511214239,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213341,
@@ -117,7 +120,7 @@
     "sfomuseum:object_id": 50694,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214239,
       1511910203,
@@ -157,7 +160,7 @@
       }
     ],
     "wof:id": 1527858215,
-    "wof:lastmodified": 1618963612,
+    "wof:lastmodified": 1630543820,
     "wof:name": "report: Mills Field Municipal Airport of San Francisco, Buckley \u0026 Curtin",
     "wof:parent_id": 1511910203,
     "wof:placetype": "media",

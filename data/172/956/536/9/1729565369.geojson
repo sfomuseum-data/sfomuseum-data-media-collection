@@ -100,7 +100,13 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/956/536/9/1729565369_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/172/956/536/9/1729565369_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      -1
+    ],
+    "millsfield:airline_id": [
+      1159285395
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213367,
@@ -112,7 +118,7 @@
     "sfomuseum:object_id": 73723,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       102087579,
@@ -153,7 +159,7 @@
       }
     ],
     "wof:id": 1729565369,
-    "wof:lastmodified": 1618963610,
+    "wof:lastmodified": 1630543786,
     "wof:name": "photograph: Transcontinental \u0026 Western Air (TWA), Douglas DC-1",
     "wof:parent_id": 1729564271,
     "wof:placetype": "media",

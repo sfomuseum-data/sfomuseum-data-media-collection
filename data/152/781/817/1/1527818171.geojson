@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/781/817/1/1527818171_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/781/817/1/1527818171_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102527513
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213363,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 58222,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214215,
       1511920299,
@@ -140,8 +143,8 @@
     "wof:country": "XX",
     "wof:created": 1578949066,
     "wof:depicts": [
-      102527513,
-      1511920299
+      1511920299,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527818171,
-    "wof:lastmodified": 1618963623,
+    "wof:lastmodified": 1630543783,
     "wof:name": "postcard: San Francisco Airport, Skyway Cafe",
     "wof:parent_id": 1511920299,
     "wof:placetype": "media",

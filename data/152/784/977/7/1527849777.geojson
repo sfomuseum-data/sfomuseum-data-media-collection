@@ -110,7 +110,10 @@
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/977/7/1527849777_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/152/784/977/7/1527849777_{secret}_{label}.{extention}",
+    "millsfield:airport_id": [
+      102528817
+    ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213425,
@@ -122,7 +125,7 @@
     "sfomuseum:object_id": 91862,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214223,
       1511932011,
@@ -162,7 +165,7 @@
       }
     ],
     "wof:id": 1527849777,
-    "wof:lastmodified": 1618963617,
+    "wof:lastmodified": 1630543812,
     "wof:name": "timetable: Washington Dulles International Airport, fall and winter schedule",
     "wof:parent_id": 1511932011,
     "wof:placetype": "media",

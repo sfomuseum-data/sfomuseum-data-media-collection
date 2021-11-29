@@ -111,6 +111,12 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/784/800/5/1527848005_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289651
+    ],
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1511214243,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213565,
@@ -119,6 +125,7 @@
     "sfomuseum:filename": "1997.59.31.tif",
     "sfomuseum:image_id": 72162,
     "sfomuseum:image_index": 5,
+    "sfomuseum:image_type": "studio",
     "sfomuseum:object_id": 46877,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
@@ -141,9 +148,10 @@
     "wof:country": "US",
     "wof:created": 1578953773,
     "wof:depicts": [
-      1511908221,
       1159289651,
-      1159293593
+      1159293593,
+      1159284989,
+      1511908221
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -173,7 +181,7 @@
       }
     ],
     "wof:id": 1527848005,
-    "wof:lastmodified": 1631228150,
+    "wof:lastmodified": 1638212123,
     "wof:name": "in-flight information guide: Pan American World Airways, Boeing 377 Stratocruiser",
     "wof:parent_id": 1511908221,
     "wof:placetype": "custom",

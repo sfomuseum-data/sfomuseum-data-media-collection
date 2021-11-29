@@ -111,6 +111,12 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/782/988/5/1527829885_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289651
+    ],
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213159,
@@ -119,6 +125,7 @@
     "sfomuseum:filename": "48764.tif",
     "sfomuseum:image_id": 48764,
     "sfomuseum:image_index": 5,
+    "sfomuseum:image_type": "studio",
     "sfomuseum:object_id": 43762,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
@@ -141,10 +148,10 @@
     "wof:country": "US",
     "wof:created": 1578950907,
     "wof:depicts": [
-      1159289651,
-      1159293593,
       1159284989,
-      1511907443
+      1511907443,
+      1159289651,
+      1159293593
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -174,7 +181,7 @@
       }
     ],
     "wof:id": 1527829885,
-    "wof:lastmodified": 1631228143,
+    "wof:lastmodified": 1638212121,
     "wof:name": "airmail flight cover: Pan American World Airways, San Francisco - Rangoon route",
     "wof:parent_id": 1511907443,
     "wof:placetype": "custom",

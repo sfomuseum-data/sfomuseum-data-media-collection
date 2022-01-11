@@ -3,176 +3,35 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
+    "edtf:deprecated": "2022-01-10",
     "edtf:inception": "",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
-    "media:fingerprint": "916b6b0380b962bba724279d1f83a4af93cdbcb1",
-    "media:imagehash_avg": "a:fde1ffff81000004",
-    "media:imagehash_diff": "d:4541c7cd2fcd4d7d",
-    "media:mimetype": "image/tiff",
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#c4b035",
-          "name": "#c4b035",
-          "reference": "vibrant"
-        },
-        {
-          "hex": "#6d4e22",
-          "name": "#6d4e22",
-          "reference": "vibrant"
-        },
-        {
-          "hex": "#5b8ab1",
-          "name": "#5b8ab1",
-          "reference": "vibrant"
-        },
-        {
-          "hex": "#cbd2bb",
-          "name": "#cbd2bb",
-          "reference": "vibrant"
-        },
-        {
-          "hex": "#2f3f61",
-          "name": "#2f3f61",
-          "reference": "vibrant"
-        }
-      ],
-      "sizes": {
-        "b": {
-          "extension": "jpg",
-          "height": 731,
-          "mimetype": "image/jpeg",
-          "secret": "JK0Np0L2tiH5GUxVJvnbS2bzbMZo1oDA",
-          "width": 1023
-        },
-        "c": {
-          "extension": "jpg",
-          "height": 571,
-          "mimetype": "image/jpeg",
-          "secret": "JK0Np0L2tiH5GUxVJvnbS2bzbMZo1oDA",
-          "width": 800
-        },
-        "dc": {
-          "extension": "jpg",
-          "height": 571,
-          "mimetype": "image/jpeg",
-          "secret": "JK0Np0L2tiH5GUxVJvnbS2bzbMZo1oDA",
-          "width": 800
-        },
-        "ds": {
-          "extension": "jpg",
-          "height": 320,
-          "mimetype": "image/jpeg",
-          "secret": "JK0Np0L2tiH5GUxVJvnbS2bzbMZo1oDA",
-          "width": 320
-        },
-        "k": {
-          "extension": "jpg",
-          "height": 1463,
-          "mimetype": "image/jpeg",
-          "secret": "JK0Np0L2tiH5GUxVJvnbS2bzbMZo1oDA",
-          "width": 2047
-        },
-        "n": {
-          "extension": "jpg",
-          "height": 228,
-          "mimetype": "image/jpeg",
-          "secret": "JK0Np0L2tiH5GUxVJvnbS2bzbMZo1oDA",
-          "width": 320
-        },
-        "o": {
-          "extension": "jpg",
-          "height": 1254,
-          "mimetype": "image/jpeg",
-          "secret": "EnmRnNnViEd5wrTVWiLbn4RPNZnoIETW",
-          "width": 1755
-        },
-        "s": {
-          "extension": "jpg",
-          "height": 320,
-          "mimetype": "image/jpeg",
-          "secret": "JK0Np0L2tiH5GUxVJvnbS2bzbMZo1oDA",
-          "width": 320
-        },
-        "z": {
-          "extension": "jpg",
-          "height": 457,
-          "mimetype": "image/jpeg",
-          "secret": "JK0Np0L2tiH5GUxVJvnbS2bzbMZo1oDA",
-          "width": 640
-        }
-      }
-    },
-    "media:source": "unknown",
-    "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/174/630/801/5/1746308015_{secret}_{label}.{extention}",
-    "millsfield:aircraft_id": [
-      1159292537
-    ],
-    "millsfield:airline_id": [
-      1159285411
-    ],
-    "millsfield:category_id": 1511214215,
-    "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159293561,
-      1159291259
-    ],
-    "millsfield:subcategory_id": 1511213363,
-    "mz:is_current": 1,
-    "sfomuseum:filename": "2008.055.706.tif",
-    "sfomuseum:image_id": 74197,
-    "sfomuseum:image_index": 5,
-    "sfomuseum:image_type": "studio",
-    "sfomuseum:object_id": 91360,
+    "mz:is_current": 0,
     "sfomuseum:placetype": "image",
-    "sfomuseum:primary_image": 1,
     "src:geom": "sfomuseum",
-    "wof:belongsto": [
-      102527513,
-      1159162825,
-      102191575,
-      85633793,
-      102087579,
-      85922583,
-      1746308003,
-      85688637,
-      1159160869
-    ],
+    "wof:belongsto": [],
     "wof:country": "XY",
     "wof:created": 1631039234,
     "wof:depicts": [
-      1159291259,
       1746308003,
       1159292537,
       1159285411,
-      1159293561
+      1159293561,
+      1159291259
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
       {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "image_id": 1746308015,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1746308003,
-        "region_id": 85688637,
-        "wing_id": 1159160869
+        "image_id": 1746308015
       }
     ],
     "wof:id": 1746308015,
-    "wof:lastmodified": 1640913404,
-    "wof:name": "postcard: UTA (Union de Transports Aériens), McDonnell Douglas DC-10-30, Tahiti",
-    "wof:parent_id": 1746308003,
+    "wof:lastmodified": 1641860896,
+    "wof:name": "This record has been deprecated.",
+    "wof:parent_id": -1,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
     "wof:repo": "sfomuseum-data-media-collection",

@@ -2,13 +2,22 @@
   "id": 1527822031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1953-01-01",
+    "date:cessation_upper": "1953-12-31",
+    "date:inception_lower": "1953-01-01",
+    "date:inception_upper": "1953-12-31",
+    "edtf:cessation": "1953",
+    "edtf:inception": "1953",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
+    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
+    "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
-    "iso:country": "XX",
+    "geotag:angle": 49.452148,
+    "geotag:camera_latitude": 37.617127,
+    "geotag:camera_longitude": -122.38294,
+    "geotag:target_latitude": 37.613226,
+    "geotag:target_longitude": -122.397774,
+    "iso:country": "US",
     "media:fingerprint": "2b9f12a2648493ee5d9360ca30269b0cdd7436f8",
     "media:imagehash_avg": "a:ffffff0000000000",
     "media:imagehash_diff": "d:80c0f1f3b7e0f0f0",
@@ -118,6 +127,9 @@
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
     "src:geom": "sfomuseum",
+    "src:geom_alt": [
+      "geotag-fov"
+    ],
     "wof:belongsto": [
       1511214209,
       1511943951,
@@ -132,14 +144,14 @@
       85688637
     ],
     "wof:breaches": [],
-    "wof:country": "XX",
+    "wof:country": "US",
     "wof:created": 1578949672,
     "wof:depicts": [
       1360695655,
       1511943951,
       102527513
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213801,
@@ -159,7 +171,7 @@
       }
     ],
     "wof:id": 1527822031,
-    "wof:lastmodified": 1640913403,
+    "wof:lastmodified": 1643738282,
     "wof:name": "negative: San Francisco Airport, Terminal Building construction",
     "wof:parent_id": 1511943951,
     "wof:placetype": "custom",
@@ -171,9 +183,9 @@
   },
   "bbox": [
     -122.386155,
-    37.616358,
+    37.616357,
     -122.386155,
-    37.616358
+    37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

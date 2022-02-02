@@ -2,8 +2,13 @@
   "id": 1527838901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1971-01-01",
+    "date:cessation_upper": "1971-12-31",
+    "date:inception_lower": "1971-01-01",
+    "date:inception_upper": "1971-12-31",
+    "edtf:cessation": "1971",
+    "edtf:date": "1971",
+    "edtf:inception": "1971",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,12 +153,12 @@
     "wof:country": "US",
     "wof:created": 1578952318,
     "wof:depicts": [
+      1159285415,
       1511920811,
       85921881,
       85688637,
       85633793,
-      1159288779,
-      1159285415
+      1159288779
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -183,7 +188,7 @@
       }
     ],
     "wof:id": 1527838901,
-    "wof:lastmodified": 1640913390,
+    "wof:lastmodified": 1643762134,
     "wof:name": "timetable: United Air Lines, San Francisco / Oakland / San Jose",
     "wof:parent_id": 1511920811,
     "wof:placetype": "custom",

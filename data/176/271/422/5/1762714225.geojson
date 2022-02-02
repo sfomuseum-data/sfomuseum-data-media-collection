@@ -2,8 +2,12 @@
   "id": 1762714225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1985-01-01",
+    "date:cessation_upper": "1985-12-31",
+    "date:inception_lower": "1985-01-01",
+    "date:inception_upper": "1985-12-31",
+    "edtf:cessation": "1985",
+    "edtf:inception": "1985",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -141,9 +145,9 @@
     "wof:country": "XY",
     "wof:created": 1641351424,
     "wof:depicts": [
-      1762692977,
       1159284613,
-      1159287541
+      1159287541,
+      1762692977
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -164,7 +168,7 @@
       }
     ],
     "wof:id": 1762714225,
-    "wof:lastmodified": 1643412673,
+    "wof:lastmodified": 1643762173,
     "wof:name": "timetable: KLM (Royal Dutch Airlines)",
     "wof:parent_id": 1762692977,
     "wof:placetype": "custom",

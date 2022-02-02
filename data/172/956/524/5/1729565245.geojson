@@ -2,8 +2,13 @@
   "id": 1729565245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1946-01-01",
+    "date:cessation_upper": "1946-12-31",
+    "date:inception_lower": "1946-01-01",
+    "date:inception_upper": "1946-12-31",
+    "edtf:cessation": "1946",
+    "edtf:date": "1946",
+    "edtf:inception": "1946",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -145,10 +150,10 @@
     "wof:country": "XX",
     "wof:created": 1607038303,
     "wof:depicts": [
-      1159285393,
-      1159291139,
       1729564597,
-      1159293697
+      1159293697,
+      1159285393,
+      1159291139
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -170,7 +175,7 @@
       }
     ],
     "wof:id": 1729565245,
-    "wof:lastmodified": 1640913394,
+    "wof:lastmodified": 1643762121,
     "wof:name": "photograph: TWA (Trans World Airline), Lockheed L-1049 Super Constellation",
     "wof:parent_id": 1729564597,
     "wof:placetype": "custom",

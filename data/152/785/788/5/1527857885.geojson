@@ -2,8 +2,13 @@
   "id": 1527857885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1975-01-01",
+    "date:cessation_upper": "1975-12-31",
+    "date:inception_lower": "1975-01-01",
+    "date:inception_upper": "1975-12-31",
+    "edtf:cessation": "1975~",
+    "edtf:date": "1975~",
+    "edtf:inception": "1975~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -141,13 +146,13 @@
     "wof:country": "US",
     "wof:created": 1578955360,
     "wof:depicts": [
-      1159293593,
       1159289759,
       1159284009,
       1159286951,
       1159286455,
       1511925715,
-      1159289789
+      1159289789,
+      1159293593
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -177,7 +182,7 @@
       }
     ],
     "wof:id": 1527857885,
-    "wof:lastmodified": 1640913387,
+    "wof:lastmodified": 1643762170,
     "wof:name": "model airplane: Braniff International, Boeing 727-200",
     "wof:parent_id": 1511925715,
     "wof:placetype": "custom",

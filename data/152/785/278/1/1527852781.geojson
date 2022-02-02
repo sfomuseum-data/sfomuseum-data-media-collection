@@ -2,8 +2,13 @@
   "id": 1527852781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1975-01-01",
+    "date:cessation_upper": "1975-12-31",
+    "date:inception_lower": "1975-01-01",
+    "date:inception_upper": "1975-12-31",
+    "edtf:cessation": "1975~",
+    "edtf:date": "1975~",
+    "edtf:inception": "1975~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -150,11 +155,11 @@
     "wof:country": "XX",
     "wof:created": 1578954563,
     "wof:depicts": [
-      1159284711,
-      1511955451,
       1159289759,
       1159288215,
-      1159293593
+      1159293593,
+      1159284711,
+      1511955451
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -176,7 +181,7 @@
       }
     ],
     "wof:id": 1527852781,
-    "wof:lastmodified": 1640913367,
+    "wof:lastmodified": 1643762148,
     "wof:name": "brochure: Lufthansa German Airlines, Boeing 727",
     "wof:parent_id": 1511955451,
     "wof:placetype": "custom",

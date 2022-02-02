@@ -2,8 +2,13 @@
   "id": 1527842171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1945-01-01",
+    "date:cessation_upper": "1945-12-31",
+    "date:inception_lower": "1945-01-01",
+    "date:inception_upper": "1945-12-31",
+    "edtf:cessation": "1945",
+    "edtf:date": "1945",
+    "edtf:inception": "1945",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,9 +153,9 @@
     "wof:country": "US",
     "wof:created": 1578952822,
     "wof:depicts": [
-      1159285623,
       1511955745,
-      1159288275
+      1159288275,
+      1159285623
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -180,7 +185,7 @@
       }
     ],
     "wof:id": 1527842171,
-    "wof:lastmodified": 1640913366,
+    "wof:lastmodified": 1643762137,
     "wof:name": "timetable: Cubana de Aviacion",
     "wof:parent_id": 1511955745,
     "wof:placetype": "custom",

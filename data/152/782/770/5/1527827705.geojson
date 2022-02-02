@@ -2,8 +2,13 @@
   "id": 1527827705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-12-31",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-12-31",
+    "edtf:cessation": "1970",
+    "edtf:date": "1970",
+    "edtf:inception": "1970",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -143,11 +148,11 @@
     "wof:country": "XX",
     "wof:created": 1578950566,
     "wof:depicts": [
+      1159285415,
       1511948739,
       1159288779,
       102527513,
-      1159290443,
-      1159285415
+      1159290443
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -169,7 +174,7 @@
       }
     ],
     "wof:id": 1527827705,
-    "wof:lastmodified": 1640913402,
+    "wof:lastmodified": 1643762125,
     "wof:name": "negative: San Francisco International Airport (SFO), airfield",
     "wof:parent_id": 1511948739,
     "wof:placetype": "custom",

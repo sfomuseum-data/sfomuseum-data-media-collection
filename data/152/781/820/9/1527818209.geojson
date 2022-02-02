@@ -2,8 +2,13 @@
   "id": 1527818209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1950-12-01",
+    "date:cessation_upper": "1950-12-31",
+    "date:inception_lower": "1950-09-01",
+    "date:inception_upper": "1950-09-30",
+    "edtf:cessation": "1950-12",
+    "edtf:date": "1950-01/1950-04~",
+    "edtf:inception": "1950-09",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,9 +152,9 @@
     "wof:country": "XX",
     "wof:created": 1578949071,
     "wof:depicts": [
-      1159287407,
       1511907589,
-      1159284913
+      1159284913,
+      1159287407
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -171,7 +176,7 @@
       }
     ],
     "wof:id": 1527818209,
-    "wof:lastmodified": 1640913365,
+    "wof:lastmodified": 1643762118,
     "wof:name": "luggage label: Northwest Orient Airlines",
     "wof:parent_id": 1511907589,
     "wof:placetype": "custom",

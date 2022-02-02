@@ -2,8 +2,13 @@
   "id": 1527854667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1976-01-01",
+    "date:cessation_upper": "1976-12-31",
+    "date:inception_lower": "1976-01-01",
+    "date:inception_upper": "1976-12-31",
+    "edtf:cessation": "1976",
+    "edtf:date": "1976",
+    "edtf:inception": "1976",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,10 +152,10 @@
     "wof:country": "XX",
     "wof:created": 1578954863,
     "wof:depicts": [
-      1511932587,
-      1159286455,
       1159284009,
-      1159286951
+      1159286951,
+      1511932587,
+      1159286455
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -172,7 +177,7 @@
       }
     ],
     "wof:id": 1527854667,
-    "wof:lastmodified": 1640913375,
+    "wof:lastmodified": 1643762150,
     "wof:name": "timetable: Braniff Airlines, fall",
     "wof:parent_id": 1511932587,
     "wof:placetype": "custom",

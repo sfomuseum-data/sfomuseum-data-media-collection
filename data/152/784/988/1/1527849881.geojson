@@ -2,8 +2,13 @@
   "id": 1527849881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1988-01-01",
+    "date:cessation_upper": "1988-12-31",
+    "date:inception_lower": "1988-01-01",
+    "date:inception_upper": "1988-12-31",
+    "edtf:cessation": "1988",
+    "edtf:date": "1988",
+    "edtf:inception": "1988",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -112,7 +117,7 @@
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/152/784/988/1/1527849881_{secret}_{label}.{extention}",
     "millsfield:airport_id": [
-      102527529
+      -1
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
@@ -144,8 +149,8 @@
     "wof:country": "XX",
     "wof:created": 1578954099,
     "wof:depicts": [
-      102527529,
-      1511950479
+      1511950479,
+      102527529
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -167,7 +172,7 @@
       }
     ],
     "wof:id": 1527849881,
-    "wof:lastmodified": 1640913394,
+    "wof:lastmodified": 1643762145,
     "wof:name": "timetable: San Jose International Airport",
     "wof:parent_id": 1511950479,
     "wof:placetype": "custom",

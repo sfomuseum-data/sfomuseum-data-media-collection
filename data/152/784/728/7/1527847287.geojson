@@ -2,8 +2,13 @@
   "id": 1527847287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1989-01-01",
+    "date:cessation_upper": "1989-12-31",
+    "date:inception_lower": "1989-01-01",
+    "date:inception_upper": "1989-12-31",
+    "edtf:cessation": "1989",
+    "edtf:date": "1989",
+    "edtf:inception": "1989",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,10 +153,10 @@
     "wof:country": "XX",
     "wof:created": 1578953648,
     "wof:depicts": [
-      1159283813,
-      1159284505,
       1511932891,
-      1159287275
+      1159287275,
+      1159283813,
+      1159284505
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -173,7 +178,7 @@
       }
     ],
     "wof:id": 1527847287,
-    "wof:lastmodified": 1640913384,
+    "wof:lastmodified": 1643762142,
     "wof:name": "timetable: Alaska Airlines, including Horizon Air",
     "wof:parent_id": 1511932891,
     "wof:placetype": "custom",

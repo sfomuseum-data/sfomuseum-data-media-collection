@@ -2,8 +2,13 @@
   "id": 1527850207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1981-01-01",
+    "date:cessation_upper": "1981-12-31",
+    "date:inception_lower": "1981-01-01",
+    "date:inception_upper": "1981-12-31",
+    "edtf:cessation": "1981~",
+    "edtf:date": "1981~",
+    "edtf:inception": "1981~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,11 +152,11 @@
     "wof:country": "XX",
     "wof:created": 1578954152,
     "wof:depicts": [
-      102526751,
-      1159294431,
       1511908761,
       102533795,
-      1159287595
+      1159287595,
+      102526751,
+      1159294431
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -173,7 +178,7 @@
       }
     ],
     "wof:id": 1527850207,
-    "wof:lastmodified": 1640913360,
+    "wof:lastmodified": 1643762146,
     "wof:name": "ticket jacket: Western Airlines",
     "wof:parent_id": 1511908761,
     "wof:placetype": "custom",

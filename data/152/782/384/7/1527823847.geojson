@@ -2,8 +2,13 @@
   "id": 1527823847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1990-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1990-01-01",
+    "date:inception_upper": "1999-12-31",
+    "edtf:cessation": "199X",
+    "edtf:date": "199x",
+    "edtf:inception": "199X",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,9 +152,9 @@
     "wof:country": "CN",
     "wof:created": 1578949961,
     "wof:depicts": [
-      1511908817,
       1159284157,
-      1159288413
+      1159288413,
+      1511908817
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -176,7 +181,7 @@
       }
     ],
     "wof:id": 1527823847,
-    "wof:lastmodified": 1640913398,
+    "wof:lastmodified": 1643762123,
     "wof:name": "airsickness bag: China Eastern Airlines",
     "wof:parent_id": 1511908817,
     "wof:placetype": "custom",

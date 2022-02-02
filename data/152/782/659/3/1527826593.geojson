@@ -2,8 +2,13 @@
   "id": 1527826593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1968-01-01",
+    "date:cessation_upper": "1968-12-31",
+    "date:inception_lower": "1968-01-01",
+    "date:inception_upper": "1968-12-31",
+    "edtf:cessation": "1968",
+    "edtf:date": "1968",
+    "edtf:inception": "1968",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -140,10 +145,10 @@
     "wof:country": "XX",
     "wof:created": 1578950391,
     "wof:depicts": [
-      102527513,
-      1511947633,
       1159284973,
-      1159286629
+      1159286629,
+      102527513,
+      1511947633
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +170,7 @@
       }
     ],
     "wof:id": 1527826593,
-    "wof:lastmodified": 1640913401,
+    "wof:lastmodified": 1643762124,
     "wof:name": "photograph: San Francisco International Airport (SFO), construction of Pacific Southwest Airlines (PSA) pier and jetway",
     "wof:parent_id": 1511947633,
     "wof:placetype": "custom",

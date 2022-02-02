@@ -2,8 +2,13 @@
   "id": 1527836215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1989-01-01",
+    "date:cessation_upper": "1989-12-31",
+    "date:inception_lower": "1989-01-01",
+    "date:inception_upper": "1989-12-31",
+    "edtf:cessation": "1989",
+    "edtf:date": "1989",
+    "edtf:inception": "1989",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,12 +152,12 @@
     "wof:country": "XX",
     "wof:created": 1578951895,
     "wof:depicts": [
-      1511939141,
-      1159287931,
       85921881,
       85688637,
       85633793,
-      1159284261
+      1159284261,
+      1511939141,
+      1159287931
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -174,7 +179,7 @@
       }
     ],
     "wof:id": 1527836215,
-    "wof:lastmodified": 1640913380,
+    "wof:lastmodified": 1643762132,
     "wof:name": "timetable: Delta Air Lines, quick reference, San Francisco / Sacramento / San Jose / Oakland / Fresno",
     "wof:parent_id": 1511939141,
     "wof:placetype": "custom",

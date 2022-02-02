@@ -2,8 +2,13 @@
   "id": 1527854637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1940-01-01",
+    "date:cessation_upper": "1940-12-31",
+    "date:inception_lower": "1940-01-01",
+    "date:inception_upper": "1940-12-31",
+    "edtf:cessation": "1940",
+    "edtf:date": "1940",
+    "edtf:inception": "1940",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -145,10 +150,10 @@
     "wof:country": "US",
     "wof:created": 1578954858,
     "wof:depicts": [
-      1159285809,
       1159284991,
       1511955743,
-      1159286839
+      1159286839,
+      1159285809
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -178,7 +183,7 @@
       }
     ],
     "wof:id": 1527854637,
-    "wof:lastmodified": 1640913374,
+    "wof:lastmodified": 1643762150,
     "wof:name": "timetable: Pan American Airways, Atlantic / Pacific",
     "wof:parent_id": 1511955743,
     "wof:placetype": "custom",

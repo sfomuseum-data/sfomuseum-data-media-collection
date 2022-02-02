@@ -2,12 +2,18 @@
   "id": 1746308101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1990-01-01",
+    "date:cessation_upper": "1990-12-31",
+    "date:inception_lower": "1990-01-01",
+    "date:inception_upper": "1990-12-31",
+    "edtf:cessation": "1990~",
+    "edtf:date": "1996~",
+    "edtf:inception": "1990~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "iso:country": "XX",
     "media:fingerprint": "57928bb5c5c45801818e7754913d867f4320dfb3",
     "media:imagehash_avg": "a:ffff8381c3ffffff",
     "media:imagehash_diff": "d:620e0e0f0e3e8606",
@@ -141,9 +147,9 @@
     "wof:country": "XX",
     "wof:created": 1631039263,
     "wof:depicts": [
-      1159284989,
       1511951021,
-      1159286839
+      1159286839,
+      1159284989
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -163,7 +169,7 @@
       }
     ],
     "wof:id": 1746308101,
-    "wof:lastmodified": 1640913370,
+    "wof:lastmodified": 1643762177,
     "wof:name": "menu: Pan American World Airways, First Class",
     "wof:parent_id": 1511951021,
     "wof:placetype": "custom",

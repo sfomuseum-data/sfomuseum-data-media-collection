@@ -2,8 +2,12 @@
   "id": 1762899137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1999-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1999-01-01",
+    "date:inception_upper": "1999-12-31",
+    "edtf:cessation": "1999",
+    "edtf:inception": "1999",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -144,10 +148,10 @@
     "wof:country": "XY",
     "wof:created": 1643415779,
     "wof:depicts": [
-      1159285173,
       102527513,
       1159288145,
-      1762759217
+      1762759217,
+      1159285173
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -168,7 +172,7 @@
       }
     ],
     "wof:id": 1762899137,
-    "wof:lastmodified": 1643656801,
+    "wof:lastmodified": 1643762174,
     "wof:name": "slide: Skyservice USA, Airbus A320, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762759217,
     "wof:placetype": "custom",

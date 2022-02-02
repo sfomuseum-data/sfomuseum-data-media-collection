@@ -2,8 +2,13 @@
   "id": 1527837533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1986-01-01",
+    "date:cessation_upper": "1986-12-31",
+    "date:inception_lower": "1986-01-01",
+    "date:inception_upper": "1986-12-31",
+    "edtf:cessation": "1986",
+    "edtf:date": "1986",
+    "edtf:inception": "1986",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,10 +153,10 @@
     "wof:country": "XX",
     "wof:created": 1578952109,
     "wof:depicts": [
+      1511932145,
       1159287361,
       1159284907,
-      1159285067,
-      1511932145
+      1159285067
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -173,7 +178,7 @@
       }
     ],
     "wof:id": 1527837533,
-    "wof:lastmodified": 1640913385,
+    "wof:lastmodified": 1643762133,
     "wof:name": "timetable: Northwest Airlines, includes Republic Airlines",
     "wof:parent_id": 1511932145,
     "wof:placetype": "custom",

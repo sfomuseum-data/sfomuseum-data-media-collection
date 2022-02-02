@@ -2,8 +2,13 @@
   "id": 1527850057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1978-01-01",
+    "date:cessation_upper": "1978-12-31",
+    "date:inception_lower": "1978-01-01",
+    "date:inception_upper": "1978-12-31",
+    "edtf:cessation": "1978~",
+    "edtf:date": "1978~",
+    "edtf:inception": "1978~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -150,10 +155,10 @@
     "wof:country": "XX",
     "wof:created": 1578954127,
     "wof:depicts": [
-      1159283731,
       1159291963,
       1511927071,
-      1159293777
+      1159293777,
+      1159283731
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -175,7 +180,7 @@
       }
     ],
     "wof:id": 1527850057,
-    "wof:lastmodified": 1640913360,
+    "wof:lastmodified": 1643762145,
     "wof:name": "safety information card: Air Rhodesia",
     "wof:parent_id": 1511927071,
     "wof:placetype": "custom",

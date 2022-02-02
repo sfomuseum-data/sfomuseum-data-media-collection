@@ -2,8 +2,13 @@
   "id": 1527837317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1999-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1999-01-01",
+    "date:inception_upper": "1999-12-31",
+    "edtf:cessation": "1999",
+    "edtf:date": "1999",
+    "edtf:inception": "1999",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -149,10 +154,10 @@
     "wof:country": "US",
     "wof:created": 1578952075,
     "wof:depicts": [
+      1159283927,
       1159288343,
       1511909349,
-      1159283923,
-      1159283927
+      1159283923
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -182,7 +187,7 @@
       }
     ],
     "wof:id": 1527837317,
-    "wof:lastmodified": 1640913384,
+    "wof:lastmodified": 1643762133,
     "wof:name": "timetable: ATA Airlines",
     "wof:parent_id": 1511909349,
     "wof:placetype": "custom",

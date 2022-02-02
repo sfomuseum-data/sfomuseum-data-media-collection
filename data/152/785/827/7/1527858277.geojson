@@ -2,8 +2,13 @@
   "id": 1527858277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1946-01-01",
+    "date:cessation_upper": "1946-12-31",
+    "date:inception_lower": "1946-01-01",
+    "date:inception_upper": "1946-12-31",
+    "edtf:cessation": "1946",
+    "edtf:date": "1946",
+    "edtf:inception": "1946",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,9 +153,9 @@
     "wof:country": "US",
     "wof:created": 1578955425,
     "wof:depicts": [
+      1159288779,
       1511908993,
-      1159285415,
-      1159288779
+      1159285415
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -180,7 +185,7 @@
       }
     ],
     "wof:id": 1527858277,
-    "wof:lastmodified": 1640913388,
+    "wof:lastmodified": 1643762171,
     "wof:name": "route map: United Air Lines",
     "wof:parent_id": 1511908993,
     "wof:placetype": "custom",

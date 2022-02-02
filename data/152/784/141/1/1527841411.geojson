@@ -2,8 +2,13 @@
   "id": 1527841411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1968-01-01",
+    "date:cessation_upper": "1968-12-31",
+    "date:inception_lower": "1968-01-01",
+    "date:inception_upper": "1968-12-31",
+    "edtf:cessation": "1968",
+    "edtf:date": "1968",
+    "edtf:inception": "1968",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,9 +152,9 @@
     "wof:country": "XX",
     "wof:created": 1578952705,
     "wof:depicts": [
-      1159284711,
       1511954773,
-      1159288215
+      1159288215,
+      1159284711
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -171,7 +176,7 @@
       }
     ],
     "wof:id": 1527841411,
-    "wof:lastmodified": 1640913364,
+    "wof:lastmodified": 1643762137,
     "wof:name": "timetable: Lufthansa, summer schedule",
     "wof:parent_id": 1511954773,
     "wof:placetype": "custom",

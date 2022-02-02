@@ -2,8 +2,13 @@
   "id": 1527845797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2001-01-01",
+    "date:cessation_upper": "2001-12-31",
+    "date:inception_lower": "2001-01-01",
+    "date:inception_upper": "2001-12-31",
+    "edtf:cessation": "2001",
+    "edtf:date": "2001",
+    "edtf:inception": "2001",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,9 +152,9 @@
     "wof:country": "XX",
     "wof:created": 1578953409,
     "wof:depicts": [
-      1511939323,
       1159284705,
-      1159288877
+      1159288877,
+      1511939323
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -171,7 +176,7 @@
       }
     ],
     "wof:id": 1527845797,
-    "wof:lastmodified": 1640913379,
+    "wof:lastmodified": 1643762140,
     "wof:name": "timetable: LOT (Polish Airlines)",
     "wof:parent_id": 1511939323,
     "wof:placetype": "custom",

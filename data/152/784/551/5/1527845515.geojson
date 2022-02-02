@@ -2,8 +2,13 @@
   "id": 1527845515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1980-01-01",
+    "date:cessation_upper": "1980-12-31",
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "1980~",
+    "edtf:date": "1980~",
+    "edtf:inception": "1980~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -145,10 +150,10 @@
     "wof:country": "XX",
     "wof:created": 1578953367,
     "wof:depicts": [
-      1511928841,
-      1159286813,
       1159285183,
-      1159285187
+      1159285187,
+      1511928841,
+      1159286813
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -167,7 +172,7 @@
       }
     ],
     "wof:id": 1527845515,
-    "wof:lastmodified": 1640913378,
+    "wof:lastmodified": 1643762140,
     "wof:name": "menu: South African Airways, Blue Diamond (First) Class",
     "wof:parent_id": 1511928841,
     "wof:placetype": "custom",

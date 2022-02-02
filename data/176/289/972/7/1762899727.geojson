@@ -2,8 +2,12 @@
   "id": 1762899727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1929-07-01",
+    "date:cessation_upper": "1929-07-31",
+    "date:inception_lower": "1929-07-01",
+    "date:inception_upper": "1929-07-31",
+    "edtf:cessation": "1929-07",
+    "edtf:inception": "1929-07",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -105,7 +109,7 @@
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/972/7/1762899727_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
-      1159285357
+      1159285393
     ],
     "millsfield:category_id": 1511214263,
     "millsfield:collection_id": 1511214217,
@@ -136,9 +140,10 @@
     "wof:country": "XY",
     "wof:created": 1643415996,
     "wof:depicts": [
-      1159287811,
       1762759893,
-      1159285357
+      1159285357,
+      1159285393,
+      1159287811
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -159,7 +164,7 @@
       }
     ],
     "wof:id": 1762899727,
-    "wof:lastmodified": 1643657189,
+    "wof:lastmodified": 1643762177,
     "wof:name": "newsletter: Transcontinental Air Transport (TAT), Plane talk [1 issue, July 1929 (vol. 1 no. 7)]",
     "wof:parent_id": 1762759893,
     "wof:placetype": "custom",

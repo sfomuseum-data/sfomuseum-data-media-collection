@@ -2,12 +2,18 @@
   "id": 1746680117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2009-01-01",
+    "date:cessation_upper": "2009-12-31",
+    "date:inception_lower": "2009-01-01",
+    "date:inception_upper": "2009-12-31",
+    "edtf:cessation": "2009",
+    "edtf:date": "2009",
+    "edtf:inception": "2009",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "iso:country": "XX",
     "media:fingerprint": "bbb9249f1debbe7c7dedb970530d425ac4fbbcf1",
     "media:imagehash_avg": "a:ffa9a880808081ff",
     "media:imagehash_diff": "d:5959535353595151",
@@ -143,9 +149,9 @@
     "wof:country": "XX",
     "wof:created": 1637706200,
     "wof:depicts": [
-      1511941439,
       1159284711,
-      1159288215
+      1159288215,
+      1511941439
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -166,7 +172,7 @@
       }
     ],
     "wof:id": 1746680117,
-    "wof:lastmodified": 1641427133,
+    "wof:lastmodified": 1643762118,
     "wof:name": "slippers: Lufthansa",
     "wof:parent_id": 1511941439,
     "wof:placetype": "custom",

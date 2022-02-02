@@ -2,8 +2,13 @@
   "id": 1527854999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-12-31",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-12-31",
+    "edtf:cessation": "2014",
+    "edtf:date": "2014",
+    "edtf:inception": "2014",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -144,9 +149,9 @@
     "wof:country": "XX",
     "wof:created": 1578954916,
     "wof:depicts": [
-      1159283849,
       1511956757,
-      1360700619
+      1360700619,
+      1159283849
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +170,7 @@
       }
     ],
     "wof:id": 1527854999,
-    "wof:lastmodified": 1640913376,
+    "wof:lastmodified": 1643762151,
     "wof:name": "menu: American Airlines",
     "wof:parent_id": 1511956757,
     "wof:placetype": "custom",

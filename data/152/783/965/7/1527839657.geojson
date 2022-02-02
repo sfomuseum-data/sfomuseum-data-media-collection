@@ -2,8 +2,13 @@
   "id": 1527839657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-12-31",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-12-31",
+    "edtf:cessation": "1970",
+    "edtf:date": "1970",
+    "edtf:inception": "1970",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -150,10 +155,10 @@
     "wof:country": "XX",
     "wof:created": 1578952435,
     "wof:depicts": [
-      1511936437,
-      102527513,
       1159284451,
-      1159288705
+      1159288705,
+      1511936437,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -175,7 +180,7 @@
       }
     ],
     "wof:id": 1527839657,
-    "wof:lastmodified": 1640913393,
+    "wof:lastmodified": 1643762135,
     "wof:name": "timetable: Golden Pacific Airlines",
     "wof:parent_id": 1511936437,
     "wof:placetype": "custom",

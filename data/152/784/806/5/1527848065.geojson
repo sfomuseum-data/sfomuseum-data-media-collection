@@ -2,8 +2,13 @@
   "id": 1527848065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1950-12-01",
+    "date:cessation_upper": "1950-12-31",
+    "date:inception_lower": "1950-09-01",
+    "date:inception_upper": "1950-09-30",
+    "edtf:cessation": "1950-12",
+    "edtf:date": "1950-01/1950-04~",
+    "edtf:inception": "1950-09",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -144,9 +149,9 @@
     "wof:country": "XX",
     "wof:created": 1578953784,
     "wof:depicts": [
-      1511925137,
       1159287531,
-      1159285393
+      1159285393,
+      1511925137
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +170,7 @@
       }
     ],
     "wof:id": 1527848065,
-    "wof:lastmodified": 1640913387,
+    "wof:lastmodified": 1643762143,
     "wof:name": "menu: TWA (Trans World Airlines), Royal Ambassador (First) Class",
     "wof:parent_id": 1511925137,
     "wof:placetype": "custom",

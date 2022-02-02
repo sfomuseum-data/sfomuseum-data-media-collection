@@ -2,8 +2,13 @@
   "id": 1527847939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1980-01-01",
+    "date:cessation_upper": "1980-12-31",
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "1980~",
+    "edtf:date": "1980~",
+    "edtf:inception": "1980~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -144,9 +149,9 @@
     "wof:country": "XX",
     "wof:created": 1578953756,
     "wof:depicts": [
+      1159288779,
       1511921141,
-      1159285413,
-      1159288779
+      1159285413
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +170,7 @@
       }
     ],
     "wof:id": 1527847939,
-    "wof:lastmodified": 1640913387,
+    "wof:lastmodified": 1643762142,
     "wof:name": "menu: United Airlines, Royal Hawaiian service",
     "wof:parent_id": 1511921141,
     "wof:placetype": "custom",

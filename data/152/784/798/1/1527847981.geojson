@@ -2,8 +2,13 @@
   "id": 1527847981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1950-01-01",
+    "date:cessation_upper": "1950-12-31",
+    "date:inception_lower": "1950-01-01",
+    "date:inception_upper": "1950-12-31",
+    "edtf:cessation": "1950~",
+    "edtf:date": "1950~",
+    "edtf:inception": "1950~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -151,10 +156,10 @@
     "wof:country": "",
     "wof:created": 1578953769,
     "wof:depicts": [
-      1159284993,
       1511907059,
       1159288567,
-      1159290427
+      1159290427,
+      1159284993
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -182,7 +187,7 @@
       }
     ],
     "wof:id": 1527847981,
-    "wof:lastmodified": 1640913387,
+    "wof:lastmodified": 1643762143,
     "wof:name": "brochure: Panagra (Pan American-Grace Airways), Douglas DC-6, South America",
     "wof:parent_id": 1511907059,
     "wof:placetype": "custom",

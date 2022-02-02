@@ -2,12 +2,18 @@
   "id": 1746680865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1969-01-01",
+    "date:cessation_upper": "1969-12-31",
+    "date:inception_lower": "1969-01-01",
+    "date:inception_upper": "1969-12-31",
+    "edtf:cessation": "1969",
+    "edtf:date": "1969-12",
+    "edtf:inception": "1969",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "iso:country": "US",
     "media:fingerprint": "f41d5c9cd56c470807dfc3bf203a6086268ed182",
     "media:imagehash_avg": "a:00007e7e7c000000",
     "media:imagehash_diff": "d:80c0e0f0f0180000",
@@ -144,9 +150,9 @@
     "wof:country": "US",
     "wof:created": 1637706387,
     "wof:depicts": [
-      1159290273,
       1511907533,
-      1159293889
+      1159293889,
+      1159290273
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -174,7 +180,7 @@
       }
     ],
     "wof:id": 1746680865,
-    "wof:lastmodified": 1640913378,
+    "wof:lastmodified": 1643762149,
     "wof:name": "model airplane: Curtiss JN-4D Jenny",
     "wof:parent_id": 1511907533,
     "wof:placetype": "custom",

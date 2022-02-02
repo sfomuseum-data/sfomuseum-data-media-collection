@@ -2,8 +2,13 @@
   "id": 1527851415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1958-01-01",
+    "date:cessation_upper": "1958-12-31",
+    "date:inception_lower": "1958-01-01",
+    "date:inception_upper": "1958-12-31",
+    "edtf:cessation": "1958",
+    "edtf:date": "1958",
+    "edtf:inception": "1958",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,9 +152,9 @@
     "wof:country": "XX",
     "wof:created": 1578954353,
     "wof:depicts": [
+      1159287343,
       1159285505,
-      1511937723,
-      1159287343
+      1511937723
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -171,7 +176,7 @@
       }
     ],
     "wof:id": 1527851415,
-    "wof:lastmodified": 1640913364,
+    "wof:lastmodified": 1643762147,
     "wof:name": "timetable: West Coast Airlines",
     "wof:parent_id": 1511937723,
     "wof:placetype": "custom",

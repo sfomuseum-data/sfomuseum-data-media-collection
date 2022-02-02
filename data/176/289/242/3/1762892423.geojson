@@ -2,8 +2,12 @@
   "id": 1762892423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1990-01-01",
+    "date:cessation_upper": "1990-12-31",
+    "date:inception_lower": "1990-01-01",
+    "date:inception_upper": "1990-12-31",
+    "edtf:cessation": "1990",
+    "edtf:inception": "1990",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -99,6 +103,9 @@
     "media:source": "unknown",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/242/3/1762892423_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1511214251,
     "millsfield:collection_id": 1511214207,
     "millsfield:subcategory_id": 1511213683,
@@ -125,7 +132,8 @@
     "wof:country": "XY",
     "wof:created": 1643413389,
     "wof:depicts": [
-      1762886797
+      1762886797,
+      1159284989
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -146,7 +154,7 @@
       }
     ],
     "wof:id": 1762892423,
-    "wof:lastmodified": 1643659195,
+    "wof:lastmodified": 1643762127,
     "wof:name": "career history questionnaire: World Wings International, Angeline (Nikki) Natalie Jester",
     "wof:parent_id": 1762886797,
     "wof:placetype": "custom",

@@ -2,8 +2,13 @@
   "id": 1527842819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1989-01-01",
+    "date:cessation_upper": "1989-12-31",
+    "date:inception_lower": "1989-01-01",
+    "date:inception_upper": "1989-12-31",
+    "edtf:cessation": "1989",
+    "edtf:date": "1989",
+    "edtf:inception": "1989",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,9 +152,9 @@
     "wof:country": "XX",
     "wof:created": 1578952936,
     "wof:depicts": [
-      1159285291,
       1511941315,
-      1159287133
+      1159287133,
+      1159285291
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -171,7 +176,7 @@
       }
     ],
     "wof:id": 1527842819,
-    "wof:lastmodified": 1640913368,
+    "wof:lastmodified": 1643762138,
     "wof:name": "timetable: Thai Airways International",
     "wof:parent_id": 1511941315,
     "wof:placetype": "custom",

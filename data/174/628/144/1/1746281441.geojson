@@ -2,12 +2,18 @@
   "id": 1746281441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1990-01-01",
+    "date:cessation_upper": "1990-12-31",
+    "date:inception_lower": "1990-01-01",
+    "date:inception_upper": "1990-12-31",
+    "edtf:cessation": "1990",
+    "edtf:date": "1990",
+    "edtf:inception": "1990",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "iso:country": "US",
     "media:fingerprint": "5b8e24372b856b37e1c0dff7c9993f10af2136ca",
     "media:imagehash_avg": "a:c1000000303f3fbf",
     "media:imagehash_diff": "d:0101516565666470",
@@ -150,11 +156,11 @@
     "wof:country": "US",
     "wof:created": 1630600350,
     "wof:depicts": [
-      102527513,
-      1159284711,
       1729554329,
       1729563725,
-      1159288215
+      1159288215,
+      102527513,
+      1159284711
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -182,7 +188,7 @@
       }
     ],
     "wof:id": 1746281441,
-    "wof:lastmodified": 1640913369,
+    "wof:lastmodified": 1643762149,
     "wof:name": "booklet: Lufthansa, Boeing 707-430, San Francisco International Airport (SFO)",
     "wof:parent_id": 1729563725,
     "wof:placetype": "custom",

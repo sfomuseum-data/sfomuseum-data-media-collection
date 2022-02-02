@@ -2,12 +2,18 @@
   "id": 1746681193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1965-01-01",
+    "date:cessation_upper": "1965-12-31",
+    "date:inception_lower": "1965-01-01",
+    "date:inception_upper": "1965-12-31",
+    "edtf:cessation": "1965~",
+    "edtf:date": "1965~",
+    "edtf:inception": "1965~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "iso:country": "XX",
     "media:fingerprint": "f1ade34091f81b3d385ac9c377cd203d13e5b49b",
     "media:imagehash_avg": "a:ffffefc3838100f0",
     "media:imagehash_diff": "d:61621f1f0f0f0fc0",
@@ -143,9 +149,9 @@
     "wof:country": "XX",
     "wof:created": 1637706473,
     "wof:depicts": [
-      1729564661,
       1159285393,
-      1159287531
+      1159287531,
+      1729564661
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -166,7 +172,7 @@
       }
     ],
     "wof:id": 1746681193,
-    "wof:lastmodified": 1640913379,
+    "wof:lastmodified": 1643762171,
     "wof:name": "decal: TWA (Trans World Airlines)",
     "wof:parent_id": 1729564661,
     "wof:placetype": "custom",

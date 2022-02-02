@@ -2,12 +2,18 @@
   "id": 1746680509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1999-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1999-01-01",
+    "date:inception_upper": "1999-12-31",
+    "edtf:cessation": "1999",
+    "edtf:date": "1999",
+    "edtf:inception": "1999",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "iso:country": "XX",
     "media:fingerprint": "bff8371b477f976510d1fd543d5edf73d1ccb85e",
     "media:imagehash_avg": "a:db8fbf1f01010181",
     "media:imagehash_diff": "d:333f3a6d656d7933",
@@ -143,9 +149,9 @@
     "wof:country": "XX",
     "wof:created": 1637706298,
     "wof:depicts": [
-      1511937487,
       1159285393,
-      1159287531
+      1159287531,
+      1511937487
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -166,7 +172,7 @@
       }
     ],
     "wof:id": 1746680509,
-    "wof:lastmodified": 1640913378,
+    "wof:lastmodified": 1643762131,
     "wof:name": "timetable: TWA (Trans World Airlines)",
     "wof:parent_id": 1511937487,
     "wof:placetype": "custom",

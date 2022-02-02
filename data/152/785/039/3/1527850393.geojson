@@ -2,8 +2,13 @@
   "id": 1527850393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1955-01-01",
+    "date:cessation_upper": "1955-12-31",
+    "date:inception_lower": "1955-01-01",
+    "date:inception_upper": "1955-12-31",
+    "edtf:cessation": "1955",
+    "edtf:date": "1955",
+    "edtf:inception": "1955",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -150,11 +155,11 @@
     "wof:country": "XX",
     "wof:created": 1578954183,
     "wof:depicts": [
+      1159285801,
+      1511928255,
       1159290435,
       1159288429,
-      1159284841,
-      1159285801,
-      1511928255
+      1159284841
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -176,7 +181,7 @@
       }
     ],
     "wof:id": 1527850393,
-    "wof:lastmodified": 1640913361,
+    "wof:lastmodified": 1643762146,
     "wof:name": "timetable: National Airline of the Stars",
     "wof:parent_id": 1511928255,
     "wof:placetype": "custom",

@@ -2,8 +2,13 @@
   "id": 1527846073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1968-01-01",
+    "date:cessation_upper": "1968-12-31",
+    "date:inception_lower": "1968-01-01",
+    "date:inception_upper": "1968-12-31",
+    "edtf:cessation": "1968~",
+    "edtf:date": "1968~",
+    "edtf:inception": "1968~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,10 +153,10 @@
     "wof:country": "XX",
     "wof:created": 1578953453,
     "wof:depicts": [
-      1159284261,
       1159284509,
       1511930429,
-      1159288859
+      1159288859,
+      1159284261
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -173,7 +178,7 @@
       }
     ],
     "wof:id": 1527846073,
-    "wof:lastmodified": 1640913380,
+    "wof:lastmodified": 1643762141,
     "wof:name": "brochure: Air West and Delta Air Lines",
     "wof:parent_id": 1511930429,
     "wof:placetype": "custom",

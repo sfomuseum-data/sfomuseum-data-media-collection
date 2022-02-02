@@ -2,8 +2,13 @@
   "id": 1527830231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1985-01-01",
+    "date:cessation_upper": "1985-12-31",
+    "date:inception_lower": "1985-01-01",
+    "date:inception_upper": "1985-12-31",
+    "edtf:cessation": "1985~",
+    "edtf:date": "1985~",
+    "edtf:inception": "1985~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -152,11 +157,11 @@
     "wof:country": "ES",
     "wof:created": 1578950965,
     "wof:depicts": [
-      1159283849,
       1511922259,
       1159289389,
       1159293829,
-      1360700619
+      1360700619,
+      1159283849
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -185,7 +190,7 @@
       }
     ],
     "wof:id": 1527830231,
-    "wof:lastmodified": 1640913360,
+    "wof:lastmodified": 1643762127,
     "wof:name": "greeting card: American Airlines, Airbus A300",
     "wof:parent_id": 1511922259,
     "wof:placetype": "custom",

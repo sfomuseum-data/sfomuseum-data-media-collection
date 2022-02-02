@@ -2,8 +2,13 @@
   "id": 1527858073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1980-12-01",
+    "date:cessation_upper": "1980-12-31",
+    "date:inception_lower": "1980-09-01",
+    "date:inception_upper": "1980-09-30",
+    "edtf:cessation": "1980-12",
+    "edtf:date": "1980-01/1980-04~",
+    "edtf:inception": "1980-09",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -151,12 +156,12 @@
     "wof:country": "US",
     "wof:created": 1578955394,
     "wof:depicts": [
-      1159293593,
-      1159288505,
       1159289885,
       1159285785,
       1511910309,
-      1159289873
+      1159289873,
+      1159293593,
+      1159288505
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -186,7 +191,7 @@
       }
     ],
     "wof:id": 1527858073,
-    "wof:lastmodified": 1640913388,
+    "wof:lastmodified": 1643762171,
     "wof:name": "model airplane: JAL (Japan Air Lines), Boeing 747-100",
     "wof:parent_id": 1511910309,
     "wof:placetype": "custom",

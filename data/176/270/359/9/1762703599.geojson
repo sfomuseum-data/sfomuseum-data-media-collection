@@ -2,8 +2,12 @@
   "id": 1762703599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1950-12-01",
+    "date:cessation_upper": "1950-12-31",
+    "date:inception_lower": "1950-09-01",
+    "date:inception_upper": "1950-09-30",
+    "edtf:cessation": "1950-12",
+    "edtf:inception": "1950-09",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -141,9 +145,9 @@
     "wof:country": "XY",
     "wof:created": 1641347594,
     "wof:depicts": [
-      1159288221,
       1762688877,
-      1159283823
+      1159283823,
+      1159288221
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -164,7 +168,7 @@
       }
     ],
     "wof:id": 1762703599,
-    "wof:lastmodified": 1643412663,
+    "wof:lastmodified": 1643762159,
     "wof:name": "postcard: Alitalia, Sud Aviation Caravelle",
     "wof:parent_id": 1762688877,
     "wof:placetype": "custom",

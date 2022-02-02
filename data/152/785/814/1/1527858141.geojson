@@ -2,8 +2,13 @@
   "id": 1527858141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2000-01-01",
+    "date:cessation_upper": "2000-12-31",
+    "date:inception_lower": "2000-01-01",
+    "date:inception_upper": "2000-12-31",
+    "edtf:cessation": "2000~",
+    "edtf:date": "2000~",
+    "edtf:inception": "2000~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -145,10 +150,10 @@
     "wof:country": "XX",
     "wof:created": 1578955404,
     "wof:depicts": [
-      1159284819,
       1159290197,
       1511939923,
-      1159287245
+      1159287245,
+      1159284819
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -170,7 +175,7 @@
       }
     ],
     "wof:id": 1527858141,
-    "wof:lastmodified": 1640913388,
+    "wof:lastmodified": 1643762171,
     "wof:name": "model airplane: Mohawk Airlines, Convair 240 ",
     "wof:parent_id": 1511939923,
     "wof:placetype": "custom",

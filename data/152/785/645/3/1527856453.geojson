@@ -2,8 +2,13 @@
   "id": 1527856453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1934-10-01",
+    "date:cessation_upper": "1934-10-01",
+    "date:inception_lower": "1934-10-01",
+    "date:inception_upper": "1934-10-01",
+    "edtf:cessation": "1934-10-01",
+    "edtf:date": "1934-10-01",
+    "edtf:inception": "1934-10-01",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -150,10 +155,10 @@
     "wof:country": "XX",
     "wof:created": 1578955139,
     "wof:depicts": [
-      1159289611,
       1159288779,
       1511957481,
-      1159285415
+      1159285415,
+      1159289611
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -175,7 +180,7 @@
       }
     ],
     "wof:id": 1527856453,
-    "wof:lastmodified": 1640913381,
+    "wof:lastmodified": 1643762160,
     "wof:name": "airmail flight cover: Los Angeles - New York route",
     "wof:parent_id": 1511957481,
     "wof:placetype": "custom",

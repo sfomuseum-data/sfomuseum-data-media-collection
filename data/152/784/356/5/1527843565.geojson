@@ -2,8 +2,13 @@
   "id": 1527843565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2000-01-01",
+    "date:cessation_upper": "2009-12-31",
+    "date:inception_lower": "2000-01-01",
+    "date:inception_upper": "2009-12-31",
+    "edtf:cessation": "200X",
+    "edtf:date": "200x",
+    "edtf:inception": "200X",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -144,9 +149,9 @@
     "wof:country": "XX",
     "wof:created": 1578953063,
     "wof:depicts": [
-      1159284153,
       1511927605,
-      1159288057
+      1159288057,
+      1159284153
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +170,7 @@
       }
     ],
     "wof:id": 1527843565,
-    "wof:lastmodified": 1640913370,
+    "wof:lastmodified": 1643762139,
     "wof:name": "menu: China Airlines, Dynasty (Business) Class",
     "wof:parent_id": 1511927605,
     "wof:placetype": "custom",

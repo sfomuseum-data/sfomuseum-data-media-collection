@@ -2,8 +2,13 @@
   "id": 1527838091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1982-01-01",
+    "date:cessation_upper": "1982-12-31",
+    "date:inception_lower": "1982-01-01",
+    "date:inception_upper": "1982-12-31",
+    "edtf:cessation": "1982",
+    "edtf:date": "1982",
+    "edtf:inception": "1982",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -150,10 +155,10 @@
     "wof:country": "XX",
     "wof:created": 1578952195,
     "wof:depicts": [
-      1159285141,
-      102527513,
       1511934303,
-      1159288051
+      1159288051,
+      1159285141,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -175,7 +180,7 @@
       }
     ],
     "wof:id": 1527838091,
-    "wof:lastmodified": 1640913387,
+    "wof:lastmodified": 1643762134,
     "wof:name": "timetable: SFO Helicopter Airlines",
     "wof:parent_id": 1511934303,
     "wof:placetype": "custom",

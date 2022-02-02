@@ -2,8 +2,13 @@
   "id": 1527856237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1950-01-01",
+    "date:cessation_upper": "1959-12-31",
+    "date:inception_lower": "1950-01-01",
+    "date:inception_upper": "1959-12-31",
+    "edtf:cessation": "195X",
+    "edtf:date": "195x",
+    "edtf:inception": "195X",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -144,9 +149,9 @@
     "wof:country": "XX",
     "wof:created": 1578955103,
     "wof:depicts": [
-      1159284989,
       1511956955,
-      1159286839
+      1159286839,
+      1159284989
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +170,7 @@
       }
     ],
     "wof:id": 1527856237,
-    "wof:lastmodified": 1640913381,
+    "wof:lastmodified": 1643762153,
     "wof:name": "menu: Pan American World Airways",
     "wof:parent_id": 1511956955,
     "wof:placetype": "custom",

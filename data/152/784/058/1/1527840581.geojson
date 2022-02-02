@@ -2,8 +2,13 @@
   "id": 1527840581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1998-01-01",
+    "date:cessation_upper": "1998-12-31",
+    "date:inception_lower": "1998-01-01",
+    "date:inception_upper": "1998-12-31",
+    "edtf:cessation": "1998",
+    "edtf:date": "1998",
+    "edtf:inception": "1998",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,11 +153,11 @@
     "wof:country": "XX",
     "wof:created": 1578952572,
     "wof:depicts": [
-      1511938807,
-      1159289419,
       1159293829,
       1159284083,
-      1159286693
+      1159286693,
+      1511938807,
+      1159289419
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -174,7 +179,7 @@
       }
     ],
     "wof:id": 1527840581,
-    "wof:lastmodified": 1640913361,
+    "wof:lastmodified": 1643762136,
     "wof:name": "timetable: Canada 3000, winter schedule",
     "wof:parent_id": 1511938807,
     "wof:placetype": "custom",

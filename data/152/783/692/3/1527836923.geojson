@@ -2,8 +2,13 @@
   "id": 1527836923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1959-01-01",
+    "date:cessation_upper": "1959-12-31",
+    "date:inception_lower": "1959-01-01",
+    "date:inception_upper": "1959-12-31",
+    "edtf:cessation": "1959",
+    "edtf:date": "1959",
+    "edtf:inception": "1959",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -151,11 +156,11 @@
     "wof:country": "US",
     "wof:created": 1578952009,
     "wof:depicts": [
-      1159294431,
       1511906761,
       1159287595,
       1159290431,
-      1159290427
+      1159290427,
+      1159294431
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -185,7 +190,7 @@
       }
     ],
     "wof:id": 1527836923,
-    "wof:lastmodified": 1640913383,
+    "wof:lastmodified": 1643762133,
     "wof:name": "fare schedule: Western Airlines, Douglas DC-6B",
     "wof:parent_id": 1511906761,
     "wof:placetype": "custom",

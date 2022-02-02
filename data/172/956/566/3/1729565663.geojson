@@ -2,8 +2,13 @@
   "id": 1729565663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1970-04-01",
+    "date:cessation_upper": "1970-04-30",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-31",
+    "edtf:cessation": "1970-04",
+    "edtf:date": "1970-09/1970-12~",
+    "edtf:inception": "1970-01",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -150,10 +155,10 @@
     "wof:country": "XX",
     "wof:created": 1607040751,
     "wof:depicts": [
-      1159289873,
       1159287531,
       1729563789,
-      1159285393
+      1159285393,
+      1159289873
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -175,7 +180,7 @@
       }
     ],
     "wof:id": 1729565663,
-    "wof:lastmodified": 1640913395,
+    "wof:lastmodified": 1643762143,
     "wof:name": "postcard: TWA (Trans World Airlines), Boeing 747",
     "wof:parent_id": 1729563789,
     "wof:placetype": "custom",

@@ -2,12 +2,18 @@
   "id": 1746512077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1966-01-01",
+    "date:cessation_upper": "1966-12-31",
+    "date:inception_lower": "1966-01-01",
+    "date:inception_upper": "1966-12-31",
+    "edtf:cessation": "1966",
+    "edtf:date": "1966",
+    "edtf:inception": "1966",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "iso:country": "US",
     "media:fingerprint": "ed93fee99abd28275c9bb7df052d5bc29ec786df",
     "media:imagehash_avg": "a:0098bcbc1c060600",
     "media:imagehash_diff": "d:30707070b8cccc66",
@@ -134,9 +140,9 @@
     "wof:country": "US",
     "wof:created": 1634846097,
     "wof:depicts": [
-      1159285393,
       1729563717,
-      1159287531
+      1159287531,
+      1159285393
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -164,7 +170,7 @@
       }
     ],
     "wof:id": 1746512077,
-    "wof:lastmodified": 1640913371,
+    "wof:lastmodified": 1643762126,
     "wof:name": "negative: TWA (Trans World Airlines), James J. Kerley",
     "wof:parent_id": 1729563717,
     "wof:placetype": "custom",

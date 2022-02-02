@@ -2,8 +2,13 @@
   "id": 1527825349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1965-01-01",
+    "date:cessation_upper": "1965-12-31",
+    "date:inception_lower": "1965-01-01",
+    "date:inception_upper": "1965-12-31",
+    "edtf:cessation": "1965",
+    "edtf:date": "1965",
+    "edtf:inception": "1965",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -140,14 +145,14 @@
     "wof:country": "XX",
     "wof:created": 1578950199,
     "wof:depicts": [
-      85633793,
-      1159285141,
       85922583,
       102527513,
       1159288051,
       1511946375,
       1108830801,
-      85688637
+      85688637,
+      85633793,
+      1159285141
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -169,7 +174,7 @@
       }
     ],
     "wof:id": 1527825349,
-    "wof:lastmodified": 1640913400,
+    "wof:lastmodified": 1643762124,
     "wof:name": "negative: SFO Helicopter Airlines, downtown San Francisco heliport site",
     "wof:parent_id": 1511946375,
     "wof:placetype": "custom",

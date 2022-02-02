@@ -2,8 +2,13 @@
   "id": 1527848149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1999-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1999-01-01",
+    "date:inception_upper": "1999-12-31",
+    "edtf:cessation": "1999",
+    "edtf:date": "1999",
+    "edtf:inception": "1999",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -134,9 +139,9 @@
     "wof:country": "XX",
     "wof:created": 1578953798,
     "wof:depicts": [
-      1511924729,
       1159288779,
-      1159285413
+      1159285413,
+      1511924729
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -155,7 +160,7 @@
       }
     ],
     "wof:id": 1527848149,
-    "wof:lastmodified": 1640913388,
+    "wof:lastmodified": 1643762143,
     "wof:name": "menu: United Airlines, First Class",
     "wof:parent_id": 1511924729,
     "wof:placetype": "custom",

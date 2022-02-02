@@ -2,12 +2,18 @@
   "id": 1746680731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1967-01-01",
+    "date:cessation_upper": "1967-12-31",
+    "date:inception_lower": "1967-01-01",
+    "date:inception_upper": "1967-12-31",
+    "edtf:cessation": "1967",
+    "edtf:date": "1967",
+    "edtf:inception": "1967",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "iso:country": "XX",
     "media:fingerprint": "89806a9855b7dfb14022c1c1eb25b44d7b61e4ce",
     "media:imagehash_avg": "a:9f8181818385a5e7",
     "media:imagehash_diff": "d:7347474d4f4d490d",
@@ -133,9 +139,9 @@
     "wof:country": "XX",
     "wof:created": 1637706353,
     "wof:depicts": [
-      1159284973,
       1159286629,
-      1511936929
+      1511936929,
+      1159284973
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -156,7 +162,7 @@
       }
     ],
     "wof:id": 1746680731,
-    "wof:lastmodified": 1640913378,
+    "wof:lastmodified": 1643762131,
     "wof:name": "timetable: Pacific Southwest Airlines (PSA), holiday schedule",
     "wof:parent_id": 1511936929,
     "wof:placetype": "custom",

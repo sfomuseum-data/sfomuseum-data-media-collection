@@ -2,8 +2,13 @@
   "id": 1527834233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1999-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1999-01-01",
+    "date:inception_upper": "1999-12-31",
+    "edtf:cessation": "1999",
+    "edtf:date": "1999",
+    "edtf:inception": "1999",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,11 +152,11 @@
     "wof:country": "XX",
     "wof:created": 1578951588,
     "wof:depicts": [
-      1159289819,
       1159293593,
       1159283479,
       1511938749,
-      1159287611
+      1159287611,
+      1159289819
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -173,7 +178,7 @@
       }
     ],
     "wof:id": 1527834233,
-    "wof:lastmodified": 1640913373,
+    "wof:lastmodified": 1643762130,
     "wof:name": "timetable: Access Air",
     "wof:parent_id": 1511938749,
     "wof:placetype": "custom",

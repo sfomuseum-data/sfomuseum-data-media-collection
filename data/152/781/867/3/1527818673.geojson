@@ -2,8 +2,13 @@
   "id": 1527818673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1948-01-01",
+    "date:cessation_upper": "1948-12-31",
+    "date:inception_lower": "1948-01-01",
+    "date:inception_upper": "1948-12-31",
+    "edtf:cessation": "1948",
+    "edtf:date": "1948",
+    "edtf:inception": "1948",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,10 +153,10 @@
     "wof:country": "US",
     "wof:created": 1578949142,
     "wof:depicts": [
-      1159290427,
-      1159288779,
       1159285415,
-      1511909441
+      1511909441,
+      1159290427,
+      1159288779
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -181,7 +186,7 @@
       }
     ],
     "wof:id": 1527818673,
-    "wof:lastmodified": 1640913366,
+    "wof:lastmodified": 1643762119,
     "wof:name": "timetable: United Air Lines",
     "wof:parent_id": 1511909441,
     "wof:placetype": "custom",

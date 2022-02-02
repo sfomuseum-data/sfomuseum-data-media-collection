@@ -2,8 +2,13 @@
   "id": 1527824843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2000-01-01",
+    "date:cessation_upper": "2000-12-31",
+    "date:inception_lower": "2000-01-01",
+    "date:inception_upper": "2000-12-31",
+    "edtf:cessation": "2000~",
+    "edtf:date": "2000~",
+    "edtf:inception": "2000~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -144,9 +149,9 @@
     "wof:country": "XX",
     "wof:created": 1578950116,
     "wof:depicts": [
+      1159288585,
       1511927441,
-      1159284563,
-      1159288585
+      1159284563
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -165,7 +170,7 @@
       }
     ],
     "wof:id": 1527824843,
-    "wof:lastmodified": 1640913399,
+    "wof:lastmodified": 1643762123,
     "wof:name": "airsickness bag: JAL (Japan Airlines)",
     "wof:parent_id": 1511927441,
     "wof:placetype": "custom",

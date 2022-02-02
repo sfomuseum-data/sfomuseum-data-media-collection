@@ -2,8 +2,13 @@
   "id": 1527845033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1981-01-01",
+    "date:cessation_upper": "1981-12-31",
+    "date:inception_lower": "1981-01-01",
+    "date:inception_upper": "1981-12-31",
+    "edtf:cessation": "1981",
+    "edtf:date": "1981",
+    "edtf:inception": "1981",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -145,9 +150,9 @@
     "wof:country": "US",
     "wof:created": 1578953290,
     "wof:depicts": [
-      1159284309,
       1511922079,
-      1159287349
+      1159287349,
+      1159284309
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -174,7 +179,7 @@
       }
     ],
     "wof:id": 1527845033,
-    "wof:lastmodified": 1640913376,
+    "wof:lastmodified": 1643762140,
     "wof:name": "menu: Eastern Air Lines, First Class",
     "wof:parent_id": 1511922079,
     "wof:placetype": "custom",

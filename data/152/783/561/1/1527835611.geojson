@@ -2,8 +2,13 @@
   "id": 1527835611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1979-01-01",
+    "date:cessation_upper": "1979-12-31",
+    "date:inception_lower": "1979-01-01",
+    "date:inception_upper": "1979-12-31",
+    "edtf:cessation": "1979",
+    "edtf:date": "1979",
+    "edtf:inception": "1979",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,9 +153,9 @@
     "wof:country": "US",
     "wof:created": 1578951799,
     "wof:depicts": [
+      1159286629,
       1159284973,
-      1511923085,
-      1159286629
+      1511923085
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -180,7 +185,7 @@
       }
     ],
     "wof:id": 1527835611,
-    "wof:lastmodified": 1640913378,
+    "wof:lastmodified": 1643762131,
     "wof:name": "timetable: Pacific Southwest Airlines (PSA)",
     "wof:parent_id": 1511923085,
     "wof:placetype": "custom",

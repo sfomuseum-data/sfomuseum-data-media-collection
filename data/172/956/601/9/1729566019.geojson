@@ -2,8 +2,13 @@
   "id": 1729566019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1948-01-01",
+    "date:cessation_upper": "1948-12-31",
+    "date:inception_lower": "1948-01-01",
+    "date:inception_upper": "1948-12-31",
+    "edtf:cessation": "1948~",
+    "edtf:date": "1948~",
+    "edtf:inception": "1948~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -153,10 +158,10 @@
     "wof:country": "AU",
     "wof:created": 1607041996,
     "wof:depicts": [
-      1159286739,
       1159284025,
       1159290427,
-      1729564031
+      1729564031,
+      1159286739
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -186,7 +191,7 @@
       }
     ],
     "wof:id": 1729566019,
-    "wof:lastmodified": 1640913396,
+    "wof:lastmodified": 1643762145,
     "wof:name": "postcard: British Commonwealth Pacific Airlines (BCPA), Southern Cross and Douglas DC-6",
     "wof:parent_id": 1729564031,
     "wof:placetype": "custom",

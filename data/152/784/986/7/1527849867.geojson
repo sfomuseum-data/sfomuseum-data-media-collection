@@ -2,8 +2,13 @@
   "id": 1527849867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1987-01-01",
+    "date:cessation_upper": "1987-12-31",
+    "date:inception_lower": "1987-01-01",
+    "date:inception_upper": "1987-12-31",
+    "edtf:cessation": "1987",
+    "edtf:date": "1987",
+    "edtf:inception": "1987",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -144,11 +149,11 @@
     "wof:country": "XX",
     "wof:created": 1578954097,
     "wof:depicts": [
-      1511950447,
       85921881,
       85688637,
       85633793,
-      102531041
+      102531041,
+      1511950447
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -170,7 +175,7 @@
       }
     ],
     "wof:id": 1527849867,
-    "wof:lastmodified": 1640913394,
+    "wof:lastmodified": 1643762145,
     "wof:name": "timetable: Oakland International Airport",
     "wof:parent_id": 1511950447,
     "wof:placetype": "custom",

@@ -2,8 +2,13 @@
   "id": 1527854259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2012-01-01",
+    "date:cessation_upper": "2012-12-31",
+    "date:inception_lower": "2012-01-01",
+    "date:inception_upper": "2012-12-31",
+    "edtf:cessation": "2012",
+    "edtf:date": "2012",
+    "edtf:inception": "2012",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -151,11 +156,11 @@
     "wof:country": "XX",
     "wof:created": 1578954801,
     "wof:depicts": [
-      1159293593,
-      1159289995,
       1159285413,
       1511951921,
-      1159292849
+      1159292849,
+      1159293593,
+      1159289995
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -177,7 +182,7 @@
       }
     ],
     "wof:id": 1527854259,
-    "wof:lastmodified": 1640913372,
+    "wof:lastmodified": 1643762150,
     "wof:name": "poster: United Airlines, Boeing 787 Dreamliner",
     "wof:parent_id": 1511951921,
     "wof:placetype": "custom",

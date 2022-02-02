@@ -2,8 +2,13 @@
   "id": 1527855301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1951-01-01",
+    "date:cessation_upper": "1951-12-31",
+    "date:inception_lower": "1951-01-01",
+    "date:inception_upper": "1951-12-31",
+    "edtf:cessation": "1951",
+    "edtf:date": "1951",
+    "edtf:inception": "1951",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -151,10 +156,10 @@
     "wof:country": "US",
     "wof:created": 1578954962,
     "wof:depicts": [
-      1159284989,
       1511909403,
       1159289651,
-      1159293593
+      1159293593,
+      1159284989
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -184,7 +189,7 @@
       }
     ],
     "wof:id": 1527855301,
-    "wof:lastmodified": 1640913378,
+    "wof:lastmodified": 1643762151,
     "wof:name": "flight information packet: Pan American World Airways, Boeing 377 Stratocruiser",
     "wof:parent_id": 1511909403,
     "wof:placetype": "custom",

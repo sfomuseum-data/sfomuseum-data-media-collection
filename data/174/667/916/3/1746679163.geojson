@@ -2,8 +2,12 @@
   "id": 1746679163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-12-31",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-12-31",
+    "edtf:cessation": "1970~",
+    "edtf:inception": "1970~",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -110,7 +114,7 @@
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/174/667/916/3/1746679163_{secret}_{label}.{extention}",
     "millsfield:airline_id": [
-      1159285415
+      1159285413
     ],
     "millsfield:category_id": 1511214259,
     "millsfield:collection_id": 1511214203,
@@ -141,10 +145,10 @@
     "wof:country": "XY",
     "wof:created": 1637696028,
     "wof:depicts": [
-      1746678751,
-      1159285413,
       1159285415,
-      1159288779
+      1159288779,
+      1746678751,
+      1159285413
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -165,7 +169,7 @@
       }
     ],
     "wof:id": 1746679163,
-    "wof:lastmodified": 1640913372,
+    "wof:lastmodified": 1643762155,
     "wof:name": "flight attendant skirt: United Airlines",
     "wof:parent_id": 1746678751,
     "wof:placetype": "custom",

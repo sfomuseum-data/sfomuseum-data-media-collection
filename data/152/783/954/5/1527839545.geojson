@@ -2,8 +2,13 @@
   "id": 1527839545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1980-01-01",
+    "date:cessation_upper": "1980-12-31",
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "1980",
+    "edtf:date": "1980",
+    "edtf:inception": "1980",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,9 +153,9 @@
     "wof:country": "US",
     "wof:created": 1578952419,
     "wof:depicts": [
+      1159288859,
       1511907571,
-      1159284507,
-      1159288859
+      1159284507
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -180,7 +185,7 @@
       }
     ],
     "wof:id": 1527839545,
-    "wof:lastmodified": 1640913392,
+    "wof:lastmodified": 1643762135,
     "wof:name": "timetable: Hughes Airwest",
     "wof:parent_id": 1511907571,
     "wof:placetype": "custom",

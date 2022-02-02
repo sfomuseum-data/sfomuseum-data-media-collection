@@ -2,8 +2,13 @@
   "id": 1729565675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1950-01-01",
+    "date:cessation_upper": "1959-12-31",
+    "date:inception_lower": "1950-01-01",
+    "date:inception_upper": "1959-12-31",
+    "edtf:cessation": "195X",
+    "edtf:date": "195x",
+    "edtf:inception": "195X",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -147,9 +152,9 @@
     "wof:country": "XX",
     "wof:created": 1607040776,
     "wof:depicts": [
-      1159285393,
       1729564089,
-      1159287531
+      1159287531,
+      1159285393
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -171,7 +176,7 @@
       }
     ],
     "wof:id": 1729565675,
-    "wof:lastmodified": 1640913395,
+    "wof:lastmodified": 1643762143,
     "wof:name": "postcard: TWA (Trans World Airlines)",
     "wof:parent_id": 1729564089,
     "wof:placetype": "custom",

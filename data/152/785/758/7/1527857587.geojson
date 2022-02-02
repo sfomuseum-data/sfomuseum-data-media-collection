@@ -2,8 +2,13 @@
   "id": 1527857587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1990-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1990-01-01",
+    "date:inception_upper": "1999-12-31",
+    "edtf:cessation": "199X",
+    "edtf:date": "199x",
+    "edtf:inception": "199X",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -141,12 +146,12 @@
     "wof:country": "US",
     "wof:created": 1578955316,
     "wof:depicts": [
-      1159289935,
-      1159288779,
       1159293593,
       1159289947,
       1159285413,
-      1511910021
+      1511910021,
+      1159289935,
+      1159288779
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -176,7 +181,7 @@
       }
     ],
     "wof:id": 1527857587,
-    "wof:lastmodified": 1640913386,
+    "wof:lastmodified": 1643762170,
     "wof:name": "model airplane: United Airlines, Boeing 757-500",
     "wof:parent_id": 1511910021,
     "wof:placetype": "custom",

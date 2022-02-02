@@ -2,8 +2,13 @@
   "id": 1527836943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1961-01-01",
+    "date:cessation_upper": "1961-12-31",
+    "date:inception_lower": "1961-01-01",
+    "date:inception_upper": "1961-12-31",
+    "edtf:cessation": "1961",
+    "edtf:date": "1961",
+    "edtf:inception": "1961",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -148,9 +153,9 @@
     "wof:country": "US",
     "wof:created": 1578952013,
     "wof:depicts": [
+      1159287595,
       1159294431,
-      1511922961,
-      1159287595
+      1511922961
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -180,7 +185,7 @@
       }
     ],
     "wof:id": 1527836943,
-    "wof:lastmodified": 1640913383,
+    "wof:lastmodified": 1643762133,
     "wof:name": "timetable: Western Airlines",
     "wof:parent_id": 1511922961,
     "wof:placetype": "custom",

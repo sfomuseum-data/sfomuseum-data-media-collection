@@ -2,8 +2,13 @@
   "id": 1527853231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1961-01-01",
+    "date:cessation_upper": "1961-12-31",
+    "date:inception_lower": "1961-01-01",
+    "date:inception_upper": "1961-12-31",
+    "edtf:cessation": "1961~",
+    "edtf:date": "1961~",
+    "edtf:inception": "1961~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -150,9 +155,9 @@
     "wof:country": "XX",
     "wof:created": 1578954632,
     "wof:depicts": [
+      1360700617,
       1159283627,
-      1511956105,
-      1360700617
+      1511956105
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -174,7 +179,7 @@
       }
     ],
     "wof:id": 1527853231,
-    "wof:lastmodified": 1640913369,
+    "wof:lastmodified": 1643762149,
     "wof:name": "flight information packet: Air France, Boeing, Caravelle",
     "wof:parent_id": 1511956105,
     "wof:placetype": "custom",

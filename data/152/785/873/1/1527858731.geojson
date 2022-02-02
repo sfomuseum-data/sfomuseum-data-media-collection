@@ -2,8 +2,13 @@
   "id": 1527858731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1971-01-01",
+    "date:cessation_upper": "1971-12-31",
+    "date:inception_lower": "1971-01-01",
+    "date:inception_upper": "1971-12-31",
+    "edtf:cessation": "1971~",
+    "edtf:date": "1971~",
+    "edtf:inception": "1971~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -150,12 +155,12 @@
     "wof:country": "XX",
     "wof:created": 1578955492,
     "wof:depicts": [
-      1159285411,
-      1511930269,
-      1159289873,
       1159286685,
       1159293593,
-      1159289891
+      1159289891,
+      1159285411,
+      1511930269,
+      1159289873
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -177,7 +182,7 @@
       }
     ],
     "wof:id": 1527858731,
-    "wof:lastmodified": 1640913390,
+    "wof:lastmodified": 1643762174,
     "wof:name": "brochure: UTA (Union de Transports Aériens), Boeing 747-200",
     "wof:parent_id": 1511930269,
     "wof:placetype": "custom",

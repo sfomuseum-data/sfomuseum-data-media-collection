@@ -2,12 +2,18 @@
   "id": 1746512239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1955-01-01",
+    "date:cessation_upper": "1955-12-31",
+    "date:inception_lower": "1955-01-01",
+    "date:inception_upper": "1955-12-31",
+    "edtf:cessation": "1955~",
+    "edtf:date": "1955~",
+    "edtf:inception": "1955~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "iso:country": "XX",
     "media:fingerprint": "82ebcb8c66813e36450b7c125206c084191b1e55",
     "media:imagehash_avg": "a:000030e387e7f7ff",
     "media:imagehash_diff": "d:e0e0e64e2f0c0e10",
@@ -136,10 +142,10 @@
     "wof:country": "XX",
     "wof:created": 1634846155,
     "wof:depicts": [
-      1159290431,
-      1159286839,
       1511922859,
-      1159284989
+      1159284989,
+      1159290431,
+      1159286839
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -160,7 +166,7 @@
       }
     ],
     "wof:id": 1746512239,
-    "wof:lastmodified": 1640913371,
+    "wof:lastmodified": 1643762177,
     "wof:name": "model airplane: Pan American World Airways, Douglas DC-6B",
     "wof:parent_id": 1511922859,
     "wof:placetype": "custom",

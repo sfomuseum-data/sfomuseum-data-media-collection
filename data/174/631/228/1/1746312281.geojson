@@ -2,12 +2,18 @@
   "id": 1746312281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1960-01-01",
+    "date:cessation_upper": "1969-12-31",
+    "date:inception_lower": "1960-01-01",
+    "date:inception_upper": "1969-12-31",
+    "edtf:cessation": "196X",
+    "edtf:date": "196x",
+    "edtf:inception": "196X",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "iso:country": "XX",
     "media:fingerprint": "332e62729319f3f39253f1b6fb59baeeb0175369",
     "media:imagehash_avg": "a:7e7effc3c3c1c7ff",
     "media:imagehash_diff": "d:f0f0f096869f9ef0",
@@ -138,9 +144,9 @@
     "wof:country": "XX",
     "wof:created": 1631137975,
     "wof:depicts": [
-      1159287479,
       1159285825,
-      1729564035
+      1729564035,
+      1159287479
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -161,7 +167,7 @@
       }
     ],
     "wof:id": 1746312281,
-    "wof:lastmodified": 1640913371,
+    "wof:lastmodified": 1643762177,
     "wof:name": "airline bag: Qantas Empire Airways",
     "wof:parent_id": 1729564035,
     "wof:placetype": "custom",

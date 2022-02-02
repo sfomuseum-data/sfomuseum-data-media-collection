@@ -2,8 +2,13 @@
   "id": 1527832245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1973-01-01",
+    "date:cessation_upper": "1973-12-31",
+    "date:inception_lower": "1973-01-01",
+    "date:inception_upper": "1973-12-31",
+    "edtf:cessation": "1973",
+    "edtf:date": "1973",
+    "edtf:inception": "1973",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -147,11 +152,11 @@
     "wof:country": "XX",
     "wof:created": 1578951276,
     "wof:depicts": [
-      1159293593,
       1159283793,
       1511935675,
       1159286809,
-      1159289819
+      1159289819,
+      1159293593
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -173,7 +178,7 @@
       }
     ],
     "wof:id": 1527832245,
-    "wof:lastmodified": 1640913366,
+    "wof:lastmodified": 1643762128,
     "wof:name": "timetable: Air California",
     "wof:parent_id": 1511935675,
     "wof:placetype": "custom",

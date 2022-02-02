@@ -2,8 +2,13 @@
   "id": 1729566611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1950-01-01",
+    "date:cessation_upper": "1950-12-31",
+    "date:inception_lower": "1950-01-01",
+    "date:inception_upper": "1950-12-31",
+    "edtf:cessation": "1950~",
+    "edtf:date": "1950~",
+    "edtf:inception": "1950~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
@@ -147,9 +152,9 @@
     "wof:country": "XX",
     "wof:created": 1607097103,
     "wof:depicts": [
+      1729564951,
       1159287479,
-      1159285825,
-      1729564951
+      1159285825
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -171,7 +176,7 @@
       }
     ],
     "wof:id": 1729566611,
-    "wof:lastmodified": 1640913399,
+    "wof:lastmodified": 1643762155,
     "wof:name": "route map: Qantas Empire Airways",
     "wof:parent_id": 1729564951,
     "wof:placetype": "custom",

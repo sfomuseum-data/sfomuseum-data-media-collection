@@ -2,8 +2,13 @@
   "id": 1527854203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1935-04-23",
+    "date:cessation_upper": "1935-04-23",
+    "date:inception_lower": "1935-04-23",
+    "date:inception_upper": "1935-04-23",
+    "edtf:cessation": "1935-04-23",
+    "edtf:date": "1935-04-23",
+    "edtf:inception": "1935-04-23",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -151,10 +156,10 @@
     "wof:country": "US",
     "wof:created": 1578954787,
     "wof:depicts": [
-      1159284991,
       1159291669,
       1159286839,
-      1511909205
+      1511909205,
+      1159284991
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -184,7 +189,7 @@
       }
     ],
     "wof:id": 1527854203,
-    "wof:lastmodified": 1640913372,
+    "wof:lastmodified": 1643762150,
     "wof:name": "airmail flight cover: Pan American Airways, first survey flight, San Francisco - Honolulu route",
     "wof:parent_id": 1511909205,
     "wof:placetype": "custom",

@@ -2,8 +2,13 @@
   "id": 1527828747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1939-01-01",
+    "date:cessation_upper": "1939-12-31",
+    "date:inception_lower": "1939-01-01",
+    "date:inception_upper": "1939-12-31",
+    "edtf:cessation": "1939",
+    "edtf:date": "1939",
+    "edtf:inception": "1939",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -135,11 +140,11 @@
     "wof:country": "US",
     "wof:created": 1578950726,
     "wof:depicts": [
+      1511909409,
+      85921881,
       85688637,
       85633793,
-      1360695655,
-      1511909409,
-      85921881
+      1360695655
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -169,7 +174,7 @@
       }
     ],
     "wof:id": 1527828747,
-    "wof:lastmodified": 1640913361,
+    "wof:lastmodified": 1643762126,
     "wof:name": "map: San Francisco Public Utilities Commission, Airport Department, airfield locations",
     "wof:parent_id": 1511909409,
     "wof:placetype": "custom",

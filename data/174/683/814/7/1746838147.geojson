@@ -2,8 +2,12 @@
   "id": 1746838147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1955-01-01",
+    "date:cessation_upper": "1955-12-31",
+    "date:inception_lower": "1955-01-01",
+    "date:inception_upper": "1955-12-31",
+    "edtf:cessation": "1955~",
+    "edtf:inception": "1955~",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -141,9 +145,9 @@
     "wof:country": "XY",
     "wof:created": 1639525640,
     "wof:depicts": [
-      1746836409,
       1159285393,
-      1159287531
+      1159287531,
+      1746836409
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -164,7 +168,7 @@
       }
     ],
     "wof:id": 1746838147,
-    "wof:lastmodified": 1640913393,
+    "wof:lastmodified": 1643762151,
     "wof:name": "poster: TWA (Trans World Airlines), Lockheed Constellation, Los Angeles",
     "wof:parent_id": 1746836409,
     "wof:placetype": "custom",

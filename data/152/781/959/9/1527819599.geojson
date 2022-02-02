@@ -2,8 +2,13 @@
   "id": 1527819599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2010-01-01",
+    "date:cessation_upper": "2010-12-31",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-12-31",
+    "edtf:cessation": "2010",
+    "edtf:date": "2010",
+    "edtf:inception": "2010",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -150,12 +155,12 @@
     "wof:country": "XX",
     "wof:created": 1578949286,
     "wof:depicts": [
-      1159286977,
       1528104579,
       1159285391,
       1511943115,
       1159289979,
-      1159293593
+      1159293593,
+      1159286977
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -177,7 +182,7 @@
       }
     ],
     "wof:id": 1527819599,
-    "wof:lastmodified": 1640913367,
+    "wof:lastmodified": 1643762120,
     "wof:name": "flight information packet: Turkish Airlines",
     "wof:parent_id": 1511943115,
     "wof:placetype": "custom",

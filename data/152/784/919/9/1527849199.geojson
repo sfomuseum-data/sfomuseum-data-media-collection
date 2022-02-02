@@ -2,8 +2,13 @@
   "id": 1527849199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1933-01-01",
+    "date:cessation_upper": "1933-12-31",
+    "date:inception_lower": "1933-01-01",
+    "date:inception_upper": "1933-12-31",
+    "edtf:cessation": "1933",
+    "edtf:date": "1933",
+    "edtf:inception": "1933",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -151,12 +156,12 @@
     "wof:country": "US",
     "wof:created": 1578953983,
     "wof:depicts": [
-      1360700619,
-      1159285341,
-      1159286017,
       1511921579,
       1159284309,
-      1159284991
+      1159284991,
+      1360700619,
+      1159285341,
+      1159286017
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -186,7 +191,7 @@
       }
     ],
     "wof:id": 1527849199,
-    "wof:lastmodified": 1640913392,
+    "wof:lastmodified": 1643762144,
     "wof:name": "joint timetable: American Airways, Pan American Airways, Transamerican Airlines, Eastern Air Lines",
     "wof:parent_id": 1511921579,
     "wof:placetype": "custom",

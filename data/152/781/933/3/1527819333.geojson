@@ -2,8 +2,13 @@
   "id": 1527819333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1972-01-01",
+    "date:cessation_upper": "1972-12-31",
+    "date:inception_lower": "1972-01-01",
+    "date:inception_upper": "1972-12-31",
+    "edtf:cessation": "1972~",
+    "edtf:date": "1972~",
+    "edtf:inception": "1972~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -137,9 +142,9 @@
     "wof:country": "XX",
     "wof:created": 1578949245,
     "wof:depicts": [
-      1159283771,
       1511942151,
-      1159287421
+      1159287421,
+      1159283771
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -161,7 +166,7 @@
       }
     ],
     "wof:id": 1527819333,
-    "wof:lastmodified": 1640913367,
+    "wof:lastmodified": 1643762120,
     "wof:name": "miniature airline bag: Air Vietnam",
     "wof:parent_id": 1511942151,
     "wof:placetype": "custom",

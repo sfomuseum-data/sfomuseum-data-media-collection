@@ -113,8 +113,20 @@
     "media:source": "unknown",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/824/5/1762898245_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291253
+    ],
+    "millsfield:airline_id": [
+      1159284201
+    ],
+    "millsfield:airport_id": [
+      102527529
+    ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159291223
+    ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tail_numbers": [
       "N9802F"
@@ -145,6 +157,10 @@
     "wof:country": "XY",
     "wof:created": 1643415445,
     "wof:depicts": [
+      1159284201,
+      102527529,
+      1159291253,
+      1159291223,
       1762829261
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
@@ -166,7 +182,7 @@
       }
     ],
     "wof:id": 1762898245,
-    "wof:lastmodified": 1643934751,
+    "wof:lastmodified": 1648683230,
     "wof:name": "slide: Continental Airlines, Douglas DC-9-80, San Jose International Airport (SJC)",
     "wof:parent_id": 1762829261,
     "wof:placetype": "custom",

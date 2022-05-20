@@ -2,12 +2,12 @@
   "id": 1763137317,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1985-01-01",
-    "date:cessation_upper": "1985-12-31",
-    "date:inception_lower": "1985-01-01",
-    "date:inception_upper": "1985-12-31",
-    "edtf:cessation": "1985~",
-    "edtf:inception": "1985~",
+    "date:cessation_lower": "1990-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1990-01-01",
+    "date:inception_upper": "1999-12-31",
+    "edtf:cessation": "199X",
+    "edtf:inception": "199X",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -113,8 +113,14 @@
     "media:source": "unknown",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/313/731/7/1763137317_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159283697
+    ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159287125
+    ],
     "millsfield:subcategory_id": 1511213161,
     "mz:is_current": 1,
     "sfomuseum:filename": "2001.106.039ab_02.tif",
@@ -139,7 +145,9 @@
     "wof:country": "XY",
     "wof:created": 1645561824,
     "wof:depicts": [
-      1763136877
+      1763136877,
+      1159283697,
+      1159287125
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -160,7 +168,7 @@
       }
     ],
     "wof:id": 1763137317,
-    "wof:lastmodified": 1645562202,
+    "wof:lastmodified": 1651088135,
     "wof:name": "model airplane: Air New Zealand, Boeing 747",
     "wof:parent_id": 1763136877,
     "wof:placetype": "custom",

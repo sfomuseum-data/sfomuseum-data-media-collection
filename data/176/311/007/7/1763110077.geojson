@@ -103,8 +103,17 @@
     "media:source": "unknown",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/311/007/7/1763110077_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291129
+    ],
+    "millsfield:airline_id": [
+      1159284261
+    ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159293697
+    ],
     "millsfield:subcategory_id": 1511213161,
     "millsfield:tailnumbers": [
       "N1011D"
@@ -132,7 +141,10 @@
     "wof:country": "XY",
     "wof:created": 1645220473,
     "wof:depicts": [
-      1763109775
+      1763109775,
+      1159284261,
+      1159291129,
+      1159293697
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -153,7 +165,7 @@
       }
     ],
     "wof:id": 1763110077,
-    "wof:lastmodified": 1645224487,
+    "wof:lastmodified": 1648683227,
     "wof:name": "model airplane: Delta Air Lines, Lockheed L-1011 TriStar",
     "wof:parent_id": 1763109775,
     "wof:placetype": "custom",

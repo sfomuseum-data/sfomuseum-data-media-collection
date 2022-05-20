@@ -12,6 +12,7 @@
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "iso:country": "US",
     "media:fingerprint": "f59b13f1a17f26aa348588e7c5f1674b4b98e6a3",
     "media:imagehash_avg": "a:0020e6fee66600fd",
     "media:imagehash_diff": "d:e3d6ccf0cccc4761",
@@ -113,8 +114,17 @@
     "media:source": "unknown",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/330/856/7/1763308567_{secret}_{label}.{extention}",
-    "millsfield:category_id": 1511214205,
-    "millsfield:collection_id": 1511214207,
+    "millsfield:airline_id": [
+      1159285141
+    ],
+    "millsfield:airport_id": [
+      102527513
+    ],
+    "millsfield:category_id": 1763416373,
+    "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159288051
+    ],
     "millsfield:subcategory_id": 1511213155,
     "mz:is_current": 1,
     "sfomuseum:filename": "2004.061.009_bk.tif",
@@ -136,10 +146,13 @@
       85688637,
       1159160869
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1647675862,
     "wof:depicts": [
-      1763308181
+      1159288051,
+      1763308181,
+      1159285141,
+      102527513
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -160,7 +173,7 @@
       }
     ],
     "wof:id": 1763308567,
-    "wof:lastmodified": 1647676312,
+    "wof:lastmodified": 1651823091,
     "wof:name": "miniature airline bag: SFO Helicopter Airlines",
     "wof:parent_id": 1763308181,
     "wof:placetype": "custom",

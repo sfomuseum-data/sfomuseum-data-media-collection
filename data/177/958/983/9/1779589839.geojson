@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "zZahzh5mX8cWMCFdF8w0cx2qkJLs6VjI"
+          "secret": "7WBXHKSanCMVOdUciF9SXmVYXk3AdWzh"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "zZahzh5mX8cWMCFdF8w0cx2qkJLs6VjI"
+          "secret": "7WBXHKSanCMVOdUciF9SXmVYXk3AdWzh"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "zZahzh5mX8cWMCFdF8w0cx2qkJLs6VjI"
+          "secret": "7WBXHKSanCMVOdUciF9SXmVYXk3AdWzh"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/983/9/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/983/9_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:29:15",
     "sfomuseum:document_id": 2648,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589839,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848115,
     "wof:name": "Sound clip transcript: Captain Ashley Wilson describes the various duties of the flight officers on the Martin M-130",
     "wof:parent_id": 1779495919,
     "wof:placetype": "custom",

@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "1PFrk5RA5i7koH3sj4TDCBZPyajM7nXZ"
+          "secret": "F9L6ZnPlwkv67K8i9qkOfP6I3EPM5iQY"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "1PFrk5RA5i7koH3sj4TDCBZPyajM7nXZ"
+          "secret": "F9L6ZnPlwkv67K8i9qkOfP6I3EPM5iQY"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "1PFrk5RA5i7koH3sj4TDCBZPyajM7nXZ"
+          "secret": "F9L6ZnPlwkv67K8i9qkOfP6I3EPM5iQY"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/990/3/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/990/3_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:08:06",
     "sfomuseum:document_id": 2678,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589903,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848118,
     "wof:name": "Sound clip transcript: Captain Arthur Hillier describes the process of celestial navigation",
     "wof:parent_id": 1779496187,
     "wof:placetype": "custom",

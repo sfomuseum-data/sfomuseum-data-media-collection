@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "dVKVGAIMEpA0c2LelVo52nXdw40hB4mb"
+          "secret": "rJ3nsmlIr1JXR8M5YNZtujm0jhSA0k0b"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "dVKVGAIMEpA0c2LelVo52nXdw40hB4mb"
+          "secret": "rJ3nsmlIr1JXR8M5YNZtujm0jhSA0k0b"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "dVKVGAIMEpA0c2LelVo52nXdw40hB4mb"
+          "secret": "rJ3nsmlIr1JXR8M5YNZtujm0jhSA0k0b"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/995/9/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/995/9_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:39:59",
     "sfomuseum:document_id": 2703,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589959,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848128,
     "wof:name": "Sound clip transcript: Captain Charles Cutting describes his role as a flight instructor and his creation of the paper trainer",
     "wof:parent_id": 1779566359,
     "wof:placetype": "custom",

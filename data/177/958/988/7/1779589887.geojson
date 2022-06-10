@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "frN61rDhnWzpfeGEIfEkDeFTbFQUkhjk"
+          "secret": "g5UfM2Ul4bhCInc6McIw8VQo5bZMhe7j"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "frN61rDhnWzpfeGEIfEkDeFTbFQUkhjk"
+          "secret": "g5UfM2Ul4bhCInc6McIw8VQo5bZMhe7j"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "frN61rDhnWzpfeGEIfEkDeFTbFQUkhjk"
+          "secret": "g5UfM2Ul4bhCInc6McIw8VQo5bZMhe7j"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/988/7/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/988/7_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:56:47",
     "sfomuseum:document_id": 2671,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589887,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848122,
     "wof:name": "Finding aid for Captain Wood Lockhart oral history interview",
     "wof:parent_id": 1779566363,
     "wof:placetype": "custom",

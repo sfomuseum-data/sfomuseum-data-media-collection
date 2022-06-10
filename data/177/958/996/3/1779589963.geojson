@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "lfv4xrASMxEDajneVuaGBkfLFxGTu1O3"
+          "secret": "9ePKsKpsO5HDGAk5yaza08ctDy3ZQcuW"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "lfv4xrASMxEDajneVuaGBkfLFxGTu1O3"
+          "secret": "9ePKsKpsO5HDGAk5yaza08ctDy3ZQcuW"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "lfv4xrASMxEDajneVuaGBkfLFxGTu1O3"
+          "secret": "9ePKsKpsO5HDGAk5yaza08ctDy3ZQcuW"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/996/3/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/996/3_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:41:19",
     "sfomuseum:document_id": 2705,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589963,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848162,
     "wof:name": "Sound clip transcript: Captain Ross Butler describes flying the polar route for Pan American",
     "wof:parent_id": 1779566369,
     "wof:placetype": "custom",

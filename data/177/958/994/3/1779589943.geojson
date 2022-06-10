@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "GzG4bgaN8MnSMBAhR54y3ivsqeUtwojx"
+          "secret": "2MTJZgWJqwAsV9zWNCcFL6CyCDSCBEsR"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "GzG4bgaN8MnSMBAhR54y3ivsqeUtwojx"
+          "secret": "2MTJZgWJqwAsV9zWNCcFL6CyCDSCBEsR"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "GzG4bgaN8MnSMBAhR54y3ivsqeUtwojx"
+          "secret": "2MTJZgWJqwAsV9zWNCcFL6CyCDSCBEsR"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/994/3/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/994/3_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:33:07",
     "sfomuseum:document_id": 2696,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589943,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848129,
     "wof:name": "Sound clip transcript: Captain William Dixon describes the routes he flew for TWA",
     "wof:parent_id": 1779496165,
     "wof:placetype": "custom",

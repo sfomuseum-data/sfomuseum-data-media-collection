@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "yTPY5LiBXEBLbSZGbsV61Pv56fewfnlJ"
+          "secret": "FAShULXRIDlzd7ruwlwgIkGok35nti3u"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "yTPY5LiBXEBLbSZGbsV61Pv56fewfnlJ"
+          "secret": "FAShULXRIDlzd7ruwlwgIkGok35nti3u"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "yTPY5LiBXEBLbSZGbsV61Pv56fewfnlJ"
+          "secret": "FAShULXRIDlzd7ruwlwgIkGok35nti3u"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/991/1/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/991/1_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:12:39",
     "sfomuseum:document_id": 2682,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589911,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848131,
     "wof:name": "Sound clip transcript: Captain Stanley Griffin discusses the differences between the Sikorsky S-42 and the Martin M-130",
     "wof:parent_id": 1779496171,
     "wof:placetype": "custom",

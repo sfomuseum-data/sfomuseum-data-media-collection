@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "lxQ1PuHflKfj2OrV7r1AKE6gn26Tts4f"
+          "secret": "9hA3IgRorjgGJx7dzUzY40CazO8qEmgY"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "lxQ1PuHflKfj2OrV7r1AKE6gn26Tts4f"
+          "secret": "9hA3IgRorjgGJx7dzUzY40CazO8qEmgY"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "lxQ1PuHflKfj2OrV7r1AKE6gn26Tts4f"
+          "secret": "9hA3IgRorjgGJx7dzUzY40CazO8qEmgY"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/991/3/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/991/3_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:13:33",
     "sfomuseum:document_id": 2683,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589913,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848116,
     "wof:name": "Sound clip transcript: Captain Stanley Griffin describes Pan American’s request to the United States military for pilots during wartime",
     "wof:parent_id": 1779496171,
     "wof:placetype": "custom",

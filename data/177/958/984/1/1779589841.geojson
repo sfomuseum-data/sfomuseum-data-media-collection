@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "zxV7EJpomCAWYrclHpw1fEsvrG67poSt"
+          "secret": "ZCNgb14pCxOmclYsnLoOjOls8bWsJ2Rz"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "zxV7EJpomCAWYrclHpw1fEsvrG67poSt"
+          "secret": "ZCNgb14pCxOmclYsnLoOjOls8bWsJ2Rz"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "zxV7EJpomCAWYrclHpw1fEsvrG67poSt"
+          "secret": "ZCNgb14pCxOmclYsnLoOjOls8bWsJ2Rz"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/984/1/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/984/1_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:31:39",
     "sfomuseum:document_id": 2649,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589841,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848116,
     "wof:name": "Finding aid for Sam John Toarmina oral history interview",
     "wof:parent_id": 1779496033,
     "wof:placetype": "custom",

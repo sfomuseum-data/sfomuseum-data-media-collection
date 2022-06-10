@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "2c4RNkGkrdaVKMgk24B6qFAEYP6QZPjd"
+          "secret": "rXWvG6cgZNAfiWiREAtUs2v1GuM3lpuV"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "2c4RNkGkrdaVKMgk24B6qFAEYP6QZPjd"
+          "secret": "rXWvG6cgZNAfiWiREAtUs2v1GuM3lpuV"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "2c4RNkGkrdaVKMgk24B6qFAEYP6QZPjd"
+          "secret": "rXWvG6cgZNAfiWiREAtUs2v1GuM3lpuV"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/983/5/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/983/5_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:26:28",
     "sfomuseum:document_id": 2646,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589835,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848116,
     "wof:name": "Finding aid for Captain Ashley Wilson interview",
     "wof:parent_id": 1779495919,
     "wof:placetype": "custom",

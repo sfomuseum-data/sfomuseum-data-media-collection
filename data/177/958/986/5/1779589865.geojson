@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "fpWavhKzeQb9NFts2s73XA6sapSgXZix"
+          "secret": "SwbOnU7JqG10IAC8cQ1j5ovdVcbrQyJ5"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "fpWavhKzeQb9NFts2s73XA6sapSgXZix"
+          "secret": "SwbOnU7JqG10IAC8cQ1j5ovdVcbrQyJ5"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "fpWavhKzeQb9NFts2s73XA6sapSgXZix"
+          "secret": "SwbOnU7JqG10IAC8cQ1j5ovdVcbrQyJ5"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/986/5/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/986/5_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:45:02",
     "sfomuseum:document_id": 2660,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589865,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848118,
     "wof:name": "Finding aid for Captain Roy Moungovan oral history interview",
     "wof:parent_id": 1779495969,
     "wof:placetype": "custom",

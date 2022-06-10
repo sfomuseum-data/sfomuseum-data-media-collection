@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "PNhnoPFP9crC8ZD0wBZA5nZti94CchnI"
+          "secret": "Jf6iED2tJulr3Pw6ySeFcyvxZtrVpn83"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "PNhnoPFP9crC8ZD0wBZA5nZti94CchnI"
+          "secret": "Jf6iED2tJulr3Pw6ySeFcyvxZtrVpn83"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "PNhnoPFP9crC8ZD0wBZA5nZti94CchnI"
+          "secret": "Jf6iED2tJulr3Pw6ySeFcyvxZtrVpn83"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/998/5/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/998/5_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:50:52",
     "sfomuseum:document_id": 2715,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589985,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848123,
     "wof:name": "Sound clip transcript: Captain Ken Beer describes Pan American’s terminal at Treasure Island",
     "wof:parent_id": 1779566357,
     "wof:placetype": "custom",

@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "kS6fQNgWaSGjMcLQKrMF15KFcPIU4Sda"
+          "secret": "Re59FA3YXD2bjybySFZTwoNOgjcPVweC"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "kS6fQNgWaSGjMcLQKrMF15KFcPIU4Sda"
+          "secret": "Re59FA3YXD2bjybySFZTwoNOgjcPVweC"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "kS6fQNgWaSGjMcLQKrMF15KFcPIU4Sda"
+          "secret": "Re59FA3YXD2bjybySFZTwoNOgjcPVweC"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/986/1/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/986/1_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:42:54",
     "sfomuseum:document_id": 2659,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589861,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848117,
     "wof:name": "Sound clip transcript: Yvonne Olivier describes the culture of Pan American flight attendants",
     "wof:parent_id": 1779566353,
     "wof:placetype": "custom",

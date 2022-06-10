@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "bEAv1XqNhya64bRF106fdV58VEBkhspn"
+          "secret": "QWVs5kyFsEcA60BWRabWv2u38fuYdTDQ"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "bEAv1XqNhya64bRF106fdV58VEBkhspn"
+          "secret": "QWVs5kyFsEcA60BWRabWv2u38fuYdTDQ"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "bEAv1XqNhya64bRF106fdV58VEBkhspn"
+          "secret": "QWVs5kyFsEcA60BWRabWv2u38fuYdTDQ"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/982/5/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/982/5_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:03:39",
     "sfomuseum:document_id": 2641,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589825,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848115,
     "wof:name": "Sound clip transcript: Captain Roger Sherron describes the differences between the weather in the Atlantic and the Pacific, including clear air turbulence",
     "wof:parent_id": 1779566365,
     "wof:placetype": "custom",

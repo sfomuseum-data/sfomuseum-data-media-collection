@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "L6mqRXL8IuXrBMGRmlAl0bxTFKB5sxB5"
+          "secret": "aiRq3DerMUziTlDbtWvOZUeVFcBod7L0"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "L6mqRXL8IuXrBMGRmlAl0bxTFKB5sxB5"
+          "secret": "aiRq3DerMUziTlDbtWvOZUeVFcBod7L0"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "L6mqRXL8IuXrBMGRmlAl0bxTFKB5sxB5"
+          "secret": "aiRq3DerMUziTlDbtWvOZUeVFcBod7L0"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/989/1/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/989/1_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:58:46",
     "sfomuseum:document_id": 2673,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589891,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848117,
     "wof:name": "Sound clip transcript: Captain Wood Lockhart describes flying the Boeing 747",
     "wof:parent_id": 1779566363,
     "wof:placetype": "custom",

@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "DSziPMKmjFZLbkLAyl43BoriD0c5IEq2"
+          "secret": "vRI2iVlvmF6IadOc4JiXHXhLv3ndYNnd"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "DSziPMKmjFZLbkLAyl43BoriD0c5IEq2"
+          "secret": "vRI2iVlvmF6IadOc4JiXHXhLv3ndYNnd"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "DSziPMKmjFZLbkLAyl43BoriD0c5IEq2"
+          "secret": "vRI2iVlvmF6IadOc4JiXHXhLv3ndYNnd"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/987/9/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/987/9_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:53:06",
     "sfomuseum:document_id": 2668,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589879,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848126,
     "wof:name": "Sound clip transcript: Captain John Minor describes the Pan American terminal at Treasure Island",
     "wof:parent_id": 1779496063,
     "wof:placetype": "custom",

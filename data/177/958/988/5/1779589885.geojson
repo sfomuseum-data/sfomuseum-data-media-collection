@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "VeIRnw1PZTo16Poy6MrsatV5M2vryTW5"
+          "secret": "sEB9zNlEg4pV1D6sTNmosM5Dk58BSG1c"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "VeIRnw1PZTo16Poy6MrsatV5M2vryTW5"
+          "secret": "sEB9zNlEg4pV1D6sTNmosM5Dk58BSG1c"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "VeIRnw1PZTo16Poy6MrsatV5M2vryTW5"
+          "secret": "sEB9zNlEg4pV1D6sTNmosM5Dk58BSG1c"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/988/5/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/988/5_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:55:03",
     "sfomuseum:document_id": 2670,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589885,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848116,
     "wof:name": "Sound clip transcript: Captain Frederick Miller describes his flight training in 1933",
     "wof:parent_id": 1779496181,
     "wof:placetype": "custom",

@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "GCGLlaIbpjemU7biblwG7KihfcFrHsaC"
+          "secret": "3fjgGDaXm0QosP4QkgHc5X3vN3djqFTM"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "GCGLlaIbpjemU7biblwG7KihfcFrHsaC"
+          "secret": "3fjgGDaXm0QosP4QkgHc5X3vN3djqFTM"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "GCGLlaIbpjemU7biblwG7KihfcFrHsaC"
+          "secret": "3fjgGDaXm0QosP4QkgHc5X3vN3djqFTM"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/985/3/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/985/3_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:37:27",
     "sfomuseum:document_id": 2655,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589853,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848114,
     "wof:name": "Sound clip transcript: Captain John Strickland describes the source of his early interest in aviation",
     "wof:parent_id": 1779495927,
     "wof:placetype": "custom",

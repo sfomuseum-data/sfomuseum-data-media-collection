@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "RfPkv3VvZSdnqf1nlLqoqzYsodZDI73f"
+          "secret": "LT7juJbGlP1WEwoTd2FUHQpUN5UdLyUD"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "RfPkv3VvZSdnqf1nlLqoqzYsodZDI73f"
+          "secret": "LT7juJbGlP1WEwoTd2FUHQpUN5UdLyUD"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "RfPkv3VvZSdnqf1nlLqoqzYsodZDI73f"
+          "secret": "LT7juJbGlP1WEwoTd2FUHQpUN5UdLyUD"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/990/9/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/990/9_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:11:3",
     "sfomuseum:document_id": 2681,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589909,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848129,
     "wof:name": "Finding aid for Captain Stanley S. Griffin oral history interview",
     "wof:parent_id": 1779496171,
     "wof:placetype": "custom",

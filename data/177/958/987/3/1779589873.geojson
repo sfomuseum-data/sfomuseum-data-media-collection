@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "ZycvWxfSJ12tHqusanFEeub257gH8ehn"
+          "secret": "8JrQvnxwRWOEgUh6aWtiDbs3TROwOoKS"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "ZycvWxfSJ12tHqusanFEeub257gH8ehn"
+          "secret": "8JrQvnxwRWOEgUh6aWtiDbs3TROwOoKS"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "ZycvWxfSJ12tHqusanFEeub257gH8ehn"
+          "secret": "8JrQvnxwRWOEgUh6aWtiDbs3TROwOoKS"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/987/3/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/987/3_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:50:18",
     "sfomuseum:document_id": 2665,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589873,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848129,
     "wof:name": "Finding aid for Captain John Minor oral history interview",
     "wof:parent_id": 1779496063,
     "wof:placetype": "custom",

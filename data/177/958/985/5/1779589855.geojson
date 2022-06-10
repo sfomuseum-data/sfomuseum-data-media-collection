@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "oZEUkaXbL4SXF3ejJ9cWiEeCtJ5E10nz"
+          "secret": "ejfxe0Jj3sQ7PJKoTXNRGqXv0RQ1iTPF"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "oZEUkaXbL4SXF3ejJ9cWiEeCtJ5E10nz"
+          "secret": "ejfxe0Jj3sQ7PJKoTXNRGqXv0RQ1iTPF"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "oZEUkaXbL4SXF3ejJ9cWiEeCtJ5E10nz"
+          "secret": "ejfxe0Jj3sQ7PJKoTXNRGqXv0RQ1iTPF"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/985/5/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/985/5_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:39:09",
     "sfomuseum:document_id": 2656,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589855,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848117,
     "wof:name": "Finding aid for Yvonne Olivier oral history interview",
     "wof:parent_id": 1779566353,
     "wof:placetype": "custom",

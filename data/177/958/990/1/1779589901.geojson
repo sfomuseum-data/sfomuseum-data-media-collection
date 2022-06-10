@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "KE2CQIVPBuCVyBVqAh9fp6uGmUp7xLsl"
+          "secret": "IDX0FxsxmdJz0uzmjWc4vbJRoQupMc2m"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "KE2CQIVPBuCVyBVqAh9fp6uGmUp7xLsl"
+          "secret": "IDX0FxsxmdJz0uzmjWc4vbJRoQupMc2m"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "KE2CQIVPBuCVyBVqAh9fp6uGmUp7xLsl"
+          "secret": "IDX0FxsxmdJz0uzmjWc4vbJRoQupMc2m"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/990/1/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/990/1_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:06:51",
     "sfomuseum:document_id": 2677,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589901,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848198,
     "wof:name": "Sound clip transcript: Captain Arthur Hillier describes the process of radio navigation",
     "wof:parent_id": 1779496187,
     "wof:placetype": "custom",

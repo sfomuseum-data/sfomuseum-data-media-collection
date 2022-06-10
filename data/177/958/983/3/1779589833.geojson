@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "enJal1IgOi53NY4H7HyAm6ePVy9wfoBI"
+          "secret": "vSTlU7XmwMxKLahjhy6dXAacjMmrLPaQ"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "enJal1IgOi53NY4H7HyAm6ePVy9wfoBI"
+          "secret": "vSTlU7XmwMxKLahjhy6dXAacjMmrLPaQ"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "enJal1IgOi53NY4H7HyAm6ePVy9wfoBI"
+          "secret": "vSTlU7XmwMxKLahjhy6dXAacjMmrLPaQ"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/983/3/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/983/3_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:23:",
     "sfomuseum:document_id": 2645,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589833,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848114,
     "wof:name": "Sound clip transcript: Captain Roger Sherron describes flying the Boeing 377 Stratocruiser",
     "wof:parent_id": 1779566365,
     "wof:placetype": "custom",

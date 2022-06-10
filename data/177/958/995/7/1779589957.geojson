@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "EcrZ9YWHOfTNu3s8RHgETw70ZVnlm8qF"
+          "secret": "9e3JRV4vgemfZ0bCbGV9g0xCemD4F9sf"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "EcrZ9YWHOfTNu3s8RHgETw70ZVnlm8qF"
+          "secret": "9e3JRV4vgemfZ0bCbGV9g0xCemD4F9sf"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "EcrZ9YWHOfTNu3s8RHgETw70ZVnlm8qF"
+          "secret": "9e3JRV4vgemfZ0bCbGV9g0xCemD4F9sf"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/995/7/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/995/7_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:39:",
     "sfomuseum:document_id": 2702,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589957,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848123,
     "wof:name": "Sound clip transcript: Captain Charles Cutting discusses the struggle over the role of flight engineers as airplanes evolved and required fewer crew members",
     "wof:parent_id": 1779566359,
     "wof:placetype": "custom",

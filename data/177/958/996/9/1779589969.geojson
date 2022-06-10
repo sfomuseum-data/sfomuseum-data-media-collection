@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "zfn5NBLvlgqZ8WpVvLaLK5y5KtTg7Fgy"
+          "secret": "ba2aLX3XOPGXqYRY7K49RZYmYbGyBc6j"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "zfn5NBLvlgqZ8WpVvLaLK5y5KtTg7Fgy"
+          "secret": "ba2aLX3XOPGXqYRY7K49RZYmYbGyBc6j"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "zfn5NBLvlgqZ8WpVvLaLK5y5KtTg7Fgy"
+          "secret": "ba2aLX3XOPGXqYRY7K49RZYmYbGyBc6j"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/996/9/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/996/9_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:44:1",
     "sfomuseum:document_id": 2708,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589969,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848118,
     "wof:name": "Sound clip transcript: Captain David Bridges describes his experiences in the Civilian Pilot Training (CPT) program",
     "wof:parent_id": 1779566351,
     "wof:placetype": "custom",

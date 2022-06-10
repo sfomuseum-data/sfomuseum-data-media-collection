@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "ALu4ib4DAOKzN9r8l5Kd5Y5zjRxILwLB"
+          "secret": "vgvXVatUfzaTSLFW7dE6AmEuwLJH0U3W"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "ALu4ib4DAOKzN9r8l5Kd5Y5zjRxILwLB"
+          "secret": "vgvXVatUfzaTSLFW7dE6AmEuwLJH0U3W"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "ALu4ib4DAOKzN9r8l5Kd5Y5zjRxILwLB"
+          "secret": "vgvXVatUfzaTSLFW7dE6AmEuwLJH0U3W"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/992/1/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/992/1_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 14:16:06",
     "sfomuseum:document_id": 2686,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589921,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848120,
     "wof:name": "Sound clip transcript: Tony Gellepis reminisces about airplane passengers and pilots during the 1920s and 1930s",
     "wof:parent_id": 1779496259,
     "wof:placetype": "custom",

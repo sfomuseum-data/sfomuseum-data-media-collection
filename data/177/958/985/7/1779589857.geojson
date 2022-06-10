@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "tk4oqRjc6XxGFZGSmkc3NByZFWzeRWrC"
+          "secret": "1n0TSw7xcePlSmYKfcTYcXBkosv7sX05"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "tk4oqRjc6XxGFZGSmkc3NByZFWzeRWrC"
+          "secret": "1n0TSw7xcePlSmYKfcTYcXBkosv7sX05"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "tk4oqRjc6XxGFZGSmkc3NByZFWzeRWrC"
+          "secret": "1n0TSw7xcePlSmYKfcTYcXBkosv7sX05"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/985/7/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/985/7_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:40:18",
     "sfomuseum:document_id": 2657,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589857,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848116,
     "wof:name": "Sound clip transcript: Yvonne Olivier describes Pan American’s terminal at Treasure Island, her work in the engineering department, and her discovery that the airline was hiring female flight attendants",
     "wof:parent_id": 1779566353,
     "wof:placetype": "custom",

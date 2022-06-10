@@ -17,23 +17,23 @@
         "cv": {
           "extension": "jpg",
           "mime_type": "image/jpeg",
-          "secret": "qKp2PQ4ti8aGeRZwxyfi9B8nt4fMLxKP"
+          "secret": "JKOESyC3L6XGNCeDyNalnSKloxm8R9OY"
         },
         "o": {
           "extension": "pdf",
           "mime_type": "application/pdf",
-          "secret": "qKp2PQ4ti8aGeRZwxyfi9B8nt4fMLxKP"
+          "secret": "JKOESyC3L6XGNCeDyNalnSKloxm8R9OY"
         },
         "te": {
           "extension": "txt",
           "mime_type": "text/x.extracted",
-          "secret": "qKp2PQ4ti8aGeRZwxyfi9B8nt4fMLxKP"
+          "secret": "JKOESyC3L6XGNCeDyNalnSKloxm8R9OY"
         }
       }
     },
     "media:source": "sfomuseum",
     "media:status_id": 1,
-    "media:uri_template": "https://static.sfomuseum.org/media/177/958/989/3/{id}_{secret}_{label}.{extention}",
+    "media:uri_template": "https://static.sfomuseum.org/media/177/958/989/3_{secret}_{label}.{extention}",
     "mz:is_current": 1,
     "sfomuseum:created": "2013-07-18 13:59:38",
     "sfomuseum:document_id": 2674,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1779589893,
-    "wof:lastmodified": 1654819642,
+    "wof:lastmodified": 1654848127,
     "wof:name": "Sound clip transcript: Captain Wood Lockhart discusses his dissertation on airline terminal design",
     "wof:parent_id": 1779566363,
     "wof:placetype": "custom",

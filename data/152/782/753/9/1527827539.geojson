@@ -10,16 +10,16 @@
     "edtf:date": "1970~",
     "edtf:inception": "1970~",
     "geom:area": 0,
-    "geom:bbox": "-122.384293,37.617706,-122.384293,37.617706",
-    "geom:latitude": 37.617706248154754,
-    "geom:longitude": -122.38429293036461,
+    "geom:bbox": "-122.383404,37.616781,-122.383404,37.616781",
+    "geom:latitude": 37.61678098755535,
+    "geom:longitude": -122.38340377807619,
     "geotag:angle": 60.975016733273264,
     "geotag:bearing": -15.37617921357767,
-    "geotag:camera_latitude": 37.617706248154754,
-    "geotag:camera_longitude": -122.38429293036461,
+    "geotag:camera_latitude": 37.61678098755535,
+    "geotag:camera_longitude": -122.38340377807619,
     "geotag:distance": 78.42929920238107,
-    "geotag:target_latitude": 37.6173507814666,
-    "geotag:target_longitude": -122.38414514322554,
+    "geotag:target_latitude": 37.61746085761546,
+    "geotag:target_longitude": -122.38363981172137,
     "iso:country": "US",
     "media:fingerprint": "66f092d57010ada0196fb02cc4216553c76909c5",
     "media:imagehash_avg": "a:3c0c0e3e1e3c4c0e",
@@ -149,8 +149,11 @@
       85922583,
       102087579,
       85688637,
-      1159396329,
-      1159396131
+      1511948573,
+      554784711,
+      102085387,
+      1159162825,
+      1159160869
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -159,23 +162,46 @@
       1511948573,
       102527513
     ],
-    "wof:geomhash": "5e0e1e842c2e94ba9a5421b6d79d915e",
+    "wof:geomhash": "69208600840b8f5da3243b2d49c508da",
     "wof:hierarchy": [
       {
-        "building_id": 1159396329,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "image_id": 1527827539,
         "locality_id": 85922583,
+        "object_id": 1511948573,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1527827539,
+        "object_id": 1511948573,
+        "region_id": 85688637
+      },
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1527827539,
+        "locality_id": 85922583,
         "neighbourhood_id": -1,
+        "object_id": 1511948573,
         "region_id": 85688637,
-        "wing_id": 1159396131
+        "wing_id": 1159160869
       }
     ],
     "wof:id": 1527827539,
-    "wof:lastmodified": 1643758636,
+    "wof:lastmodified": 1660168107,
     "wof:name": "negative: San Francisco International Airport (SFO), Pancake Palace restaurant",
     "wof:parent_id": 1511948573,
     "wof:placetype": "custom",
@@ -186,10 +212,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38429293036461,
-    37.617706248154754,
-    -122.38429293036461,
-    37.617706248154754
+    -122.38340377807619,
+    37.61678098755535,
+    -122.38340377807619,
+    37.61678098755535
   ],
-  "geometry": {"coordinates":[-122.38429293036461,37.617706248154754],"type":"Point"}
+  "geometry": {"coordinates":[-122.38340377807619,37.61678098755535],"type":"Point"}
 }

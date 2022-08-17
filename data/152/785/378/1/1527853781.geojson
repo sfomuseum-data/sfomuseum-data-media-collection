@@ -10,9 +10,9 @@
     "edtf:date": "1935-10-16",
     "edtf:inception": "1935-10-16",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-122.431272,13.427861,144.733813,40.682950",
+    "geom:latitude": 30.62960633333333,
+    "geom:longitude": -17.222753,
     "iso:country": "XX",
     "media:fingerprint": "d044004e50eaaf7cbd456211481c96783c1331ef",
     "media:imagehash_avg": "a:00063efd3f3f3f00",
@@ -127,6 +127,13 @@
     "millsfield:company_id": [
       1159286839
     ],
+    "millsfield:flightcover_address_sent": [
+      85632163,
+      85922583
+    ],
+    "millsfield:flightcover_address_to": [
+      85977539
+    ],
     "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -137,7 +144,11 @@
     "sfomuseum:object_id": 139737,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference",
+    "src:geom_alt": [
+      "flightcover-address-sent",
+      "flightcover-address-to"
+    ],
     "wof:belongsto": [
       1511214215,
       1511954463,
@@ -155,12 +166,12 @@
     "wof:country": "XX",
     "wof:created": 1578954719,
     "wof:depicts": [
+      1159284991,
       1159291669,
       1511954463,
-      1159286839,
-      1159284991
+      1159286839
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "d707726ce3bf7cd40a51deb5380dc670",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -180,21 +191,38 @@
       }
     ],
     "wof:id": 1527853781,
-    "wof:lastmodified": 1643762150,
+    "wof:lastmodified": 1660777077,
     "wof:name": "airmail flight cover: Pan American Airways, Fourth Pacific survey flight, California - Guam route",
     "wof:parent_id": 1511954463,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      102191575,
+      85633793,
+      85977539,
+      102082377,
+      102081779,
+      136253057,
+      102087579,
+      102191583,
+      85688543,
+      102081863,
+      102083063,
+      85688637,
+      85922583,
+      102082361,
+      85632163
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -122.431272,
+    13.427861,
+    144.733813,
+    40.68295
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[[144.733813,13.427861],[-122.431272,37.778008],[-73.9708,40.68295]],"type":"MultiPoint"}
 }

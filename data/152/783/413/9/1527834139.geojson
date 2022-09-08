@@ -127,9 +127,6 @@
     "millsfield:company_id": [
       1159288429
     ],
-    "millsfield:flightcover_address_sent": [
-      85933669
-    ],
     "millsfield:flightcover_address_to": [
       85977539
     ],
@@ -145,8 +142,8 @@
     "sfomuseum:primary_image": 1,
     "src:geom": "sfomuseum#georeference-flightcover",
     "src:geom_alt": [
-      "flightcover-address-sent",
-      "flightcover-address-to"
+      "flightcover-address-to",
+      "flightcover-address-sent"
     ],
     "wof:belongsto": [
       1511214215,
@@ -169,7 +166,7 @@
       1511954083,
       1159288429
     ],
-    "wof:geomhash": "11de9def85a69472126f8868e7b424b1",
+    "wof:geomhash": "59748dd394b04d4acddc178b7bb9f566",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -189,24 +186,24 @@
       }
     ],
     "wof:id": 1527834139,
-    "wof:lastmodified": 1662670542,
+    "wof:lastmodified": 1662678047,
     "wof:name": "airmail flight cover: National Airlines, Lockheed Prop-Jet Electra",
     "wof:parent_id": 1511954083,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
     "wof:references": [
+      85977539,
+      102082377,
+      102081863,
+      85633793,
+      102082361,
       102083063,
-      102191575,
+      102081779,
       102085771,
       85933669,
       85688651,
-      102082361,
-      85977539,
       85688543,
-      102081779,
-      85633793,
-      102082377,
-      102081863
+      102191575
     ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
@@ -219,5 +216,5 @@
     -73.9708,
     40.68295
   ],
-  "geometry": {"coordinates":[[-80.210268,25.766368],[-73.9708,40.68295]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.9708,40.68295],[-80.210268,25.766368]],"type":"MultiPoint"}
 }

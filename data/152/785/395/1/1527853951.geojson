@@ -10,9 +10,9 @@
     "edtf:date": "1987-10-06",
     "edtf:inception": "1987-10-06",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "103.801292,1.366923,103.801292,1.366923",
+    "geom:latitude": 1.366923,
+    "geom:longitude": 103.801292,
     "iso:country": "JP",
     "media:fingerprint": "23cdb15bc8fa6fc4a01ade53ce0763ca6cedf3f5",
     "media:imagehash_avg": "a:f5840d0f1f1f1fff",
@@ -127,6 +127,9 @@
     "millsfield:company_id": [
       1159287387
     ],
+    "millsfield:flightcover_address_to": [
+      102032341
+    ],
     "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -137,7 +140,10 @@
     "sfomuseum:object_id": 46275,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference-flightcover",
+    "src:geom_alt": [
+      "flightcover-address-to"
+    ],
     "wof:belongsto": [
       1511214215,
       1511908117,
@@ -164,7 +170,7 @@
       1159289927,
       1159287387
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "f5f0f264ccce884467396b5b8e0a52f7",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -191,21 +197,28 @@
       }
     ],
     "wof:id": 1527853951,
-    "wof:lastmodified": 1643762150,
+    "wof:lastmodified": 1662666750,
     "wof:name": "airmail flight cover: Nippon Cargo Airlines, inaugurating flight, Tokyo - Singapore route",
     "wof:parent_id": 1511908117,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      1729834131,
+      102032341,
+      1729834133,
+      102191569,
+      85632605
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    103.801292,
+    1.366923,
+    103.801292,
+    1.366923
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[[103.801292,1.366923]],"type":"MultiPoint"}
 }

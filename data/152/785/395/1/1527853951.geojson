@@ -10,9 +10,9 @@
     "edtf:date": "1987-10-06",
     "edtf:inception": "1987-10-06",
     "geom:area": 0,
-    "geom:bbox": "103.801292,1.366923,103.801292,1.366923",
-    "geom:latitude": 1.366923,
-    "geom:longitude": 103.801292,
+    "geom:bbox": "103.801292,1.366923,139.753910,35.695126",
+    "geom:latitude": 18.5310245,
+    "geom:longitude": 121.777601,
     "iso:country": "JP",
     "media:fingerprint": "23cdb15bc8fa6fc4a01ade53ce0763ca6cedf3f5",
     "media:imagehash_avg": "a:f5840d0f1f1f1fff",
@@ -127,6 +127,9 @@
     "millsfield:company_id": [
       1159287387
     ],
+    "millsfield:flightcover_address_sent": [
+      102031307
+    ],
     "millsfield:flightcover_address_to": [
       102032341
     ],
@@ -142,7 +145,8 @@
     "sfomuseum:primary_image": 1,
     "src:geom": "sfomuseum#georeference-flightcover",
     "src:geom_alt": [
-      "flightcover-address-to"
+      "flightcover-address-to",
+      "flightcover-address-sent"
     ],
     "wof:belongsto": [
       1511214215,
@@ -163,14 +167,14 @@
     "wof:country": "JP",
     "wof:created": 1578954746,
     "wof:depicts": [
+      1159287387,
       1511908117,
       1159289873,
       1159293593,
       1159284873,
-      1159289927,
-      1159287387
+      1159289927
     ],
-    "wof:geomhash": "f5f0f264ccce884467396b5b8e0a52f7",
+    "wof:geomhash": "f890aab645d3ad29cb1a05be938945ec",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -197,7 +201,7 @@
       }
     ],
     "wof:id": 1527853951,
-    "wof:lastmodified": 1662666750,
+    "wof:lastmodified": 1662683661,
     "wof:name": "airmail flight cover: Nippon Cargo Airlines, inaugurating flight, Tokyo - Singapore route",
     "wof:parent_id": 1511908117,
     "wof:placetype": "custom",
@@ -205,9 +209,13 @@
     "wof:references": [
       1729834131,
       102032341,
-      1729834133,
+      1108741679,
+      102031307,
       102191569,
-      85632605
+      85632605,
+      1729834133,
+      85672817,
+      85632429
     ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
@@ -217,8 +225,8 @@
   "bbox": [
     103.801292,
     1.366923,
-    103.801292,
-    1.366923
+    139.75391,
+    35.695126
   ],
-  "geometry": {"coordinates":[[103.801292,1.366923]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[103.801292,1.366923],[139.75391,35.695126]],"type":"MultiPoint"}
 }

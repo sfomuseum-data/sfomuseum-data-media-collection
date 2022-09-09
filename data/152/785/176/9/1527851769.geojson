@@ -10,9 +10,9 @@
     "edtf:date": "1937-01-29",
     "edtf:inception": "1937-01-29",
     "geom:area": 0,
-    "geom:bbox": "-85.776881,38.141177,-76.724101,39.959115",
-    "geom:latitude": 39.050146,
-    "geom:longitude": -81.25049100000001,
+    "geom:bbox": "-76.724101,39.959115,-76.724101,39.959115",
+    "geom:latitude": 39.959115,
+    "geom:longitude": -76.724101,
     "iso:country": "XX",
     "media:fingerprint": "93ef2e9cf0b4a826ec46bc7a01a109e8282b08a1",
     "media:imagehash_avg": "a:9b988b8f8f9f9f9f",
@@ -127,9 +127,6 @@
     "millsfield:company_id": [
       1159294323
     ],
-    "millsfield:flightcover_address_sent": [
-      85947523
-    ],
     "millsfield:flightcover_address_to": [
       101717279
     ],
@@ -145,8 +142,7 @@
     "sfomuseum:primary_image": 1,
     "src:geom": "sfomuseum#georeference-flightcover",
     "src:geom_alt": [
-      "flightcover-address-to",
-      "flightcover-address-sent"
+      "flightcover-address-to"
     ],
     "wof:belongsto": [
       1511214215,
@@ -170,7 +166,7 @@
       1159285407,
       1159292375
     ],
-    "wof:geomhash": "1df7af2ab89a0f33b61040d8af58d785",
+    "wof:geomhash": "0b0ef44142340ea4bb1d306c95042b77",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -190,21 +186,21 @@
       }
     ],
     "wof:id": 1527851769,
-    "wof:lastmodified": 1662753426,
+    "wof:lastmodified": 1662757012,
     "wof:name": "airmail flight cover: First U.S. Navy San Diego - Pearl Harbor mass flight, January 28-29, 1937",
     "wof:parent_id": 1511931863,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
     "wof:references": [
-      85688641,
-      102080953,
-      404488029,
-      101717279,
       102084449,
       85947523,
+      102080953,
+      404488029,
+      85633793,
+      85688641,
+      101717279,
       85688481,
-      102191575,
-      85633793
+      102191575
     ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
@@ -212,10 +208,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -85.776881,
-    38.141177,
+    -76.724101,
+    39.959115,
     -76.724101,
     39.959115
   ],
-  "geometry": {"coordinates":[[-76.724101,39.959115],[-85.776881,38.141177]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-76.724101,39.959115]],"type":"MultiPoint"}
 }

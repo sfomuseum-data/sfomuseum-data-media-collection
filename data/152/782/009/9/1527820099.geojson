@@ -10,9 +10,9 @@
     "edtf:date": "1928-08-01",
     "edtf:inception": "1928-08-01",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-83.563577,41.496551,-81.651327,41.673729",
+    "geom:latitude": 41.585139999999996,
+    "geom:longitude": -82.607452,
     "iso:country": "US",
     "media:fingerprint": "f171b76ca49142034f36510484be5dc953dae719",
     "media:imagehash_avg": "a:f0f0f09fdfffffff",
@@ -118,6 +118,12 @@
     "media:uri_template": "https://static.sfomuseum.org/media/152/782/009/9/1527820099_{secret}_{label}.{extention}",
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:flightcover_address_sent": [
+      101712563
+    ],
+    "millsfield:flightcover_address_to": [
+      101712039
+    ],
     "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -128,7 +134,11 @@
     "sfomuseum:object_id": 64902,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference-flightcover",
+    "src:geom_alt": [
+      "flightcover-address-sent",
+      "flightcover-address-to"
+    ],
     "wof:belongsto": [
       102087579,
       1511214215,
@@ -149,7 +159,7 @@
     "wof:depicts": [
       1511922853
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "8d7f7b71d2c44cdcfc76b9924e854eb9",
     "wof:hierarchy": [
       {
         "continent_id": 102191575,
@@ -177,21 +187,32 @@
       }
     ],
     "wof:id": 1527820099,
-    "wof:lastmodified": 1643762120,
+    "wof:lastmodified": 1662684301,
     "wof:name": "airmail flight cover: First airmail flight, CAM-16, Cleveland - Louisville route",
     "wof:parent_id": 1511922853,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      404523697,
+      101712563,
+      102191575,
+      102084837,
+      101712039,
+      85688485,
+      85633793,
+      102084787,
+      404525355
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -83.563577,
+    41.496551,
+    -81.651327,
+    41.673729
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[[-81.651327,41.496551],[-83.563577,41.673729]],"type":"MultiPoint"}
 }

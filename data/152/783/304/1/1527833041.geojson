@@ -10,9 +10,9 @@
     "edtf:date": "1953-12-17",
     "edtf:inception": "1953-12-17",
     "geom:area": 0,
-    "geom:bbox": "-118.121307,33.797395,-118.121307,33.797395",
-    "geom:latitude": 33.797395,
-    "geom:longitude": -118.121307,
+    "geom:bbox": "-118.121307,33.797395,-78.644390,35.795543",
+    "geom:latitude": 34.796469,
+    "geom:longitude": -98.3828485,
     "iso:country": "XX",
     "media:fingerprint": "eb179fad478666aa709f037ccd70f52b198cbd66",
     "media:imagehash_avg": "a:80e8f8fffdfdff00",
@@ -121,6 +121,9 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:flightcover_address_sent": [
+      85980569
+    ],
     "millsfield:flightcover_address_to": [
       85923525
     ],
@@ -136,7 +139,8 @@
     "sfomuseum:primary_image": 1,
     "src:geom": "sfomuseum#georeference-flightcover",
     "src:geom_alt": [
-      "flightcover-address-to"
+      "flightcover-address-to",
+      "flightcover-address-sent"
     ],
     "wof:belongsto": [
       85922583,
@@ -157,7 +161,7 @@
     "wof:depicts": [
       1511953127
     ],
-    "wof:geomhash": "68bc7633728446cd310bedc28fbbf77e",
+    "wof:geomhash": "0b2822589dc9c81d4ef78b997a51565d",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -177,17 +181,20 @@
       }
     ],
     "wof:id": 1527833041,
-    "wof:lastmodified": 1662666573,
+    "wof:lastmodified": 1662683755,
     "wof:name": "airmail flight cover: 50th Anniversary of Powered Flight",
     "wof:parent_id": 1511953127,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
     "wof:references": [
+      85688773,
+      102087821,
+      102191575,
+      85633793,
       102086957,
       85923525,
       85688637,
-      102191575,
-      85633793
+      85980569
     ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
@@ -197,8 +204,8 @@
   "bbox": [
     -118.121307,
     33.797395,
-    -118.121307,
-    33.797395
+    -78.64439,
+    35.795543
   ],
-  "geometry": {"coordinates":[[-118.121307,33.797395]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.121307,33.797395],[-78.64439,35.795543]],"type":"MultiPoint"}
 }

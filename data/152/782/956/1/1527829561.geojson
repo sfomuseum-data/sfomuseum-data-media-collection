@@ -10,9 +10,9 @@
     "edtf:date": "1953-05-27",
     "edtf:inception": "1953-05-27",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-122.344612,37.653515,-122.344612,37.653515",
+    "geom:latitude": 37.653515,
+    "geom:longitude": -122.344612,
     "iso:country": "VN",
     "media:fingerprint": "1600f72907eaead2172e41d393a2c51226b3fe3c",
     "media:imagehash_avg": "a:f9e0e0b9fffff7f7",
@@ -124,6 +124,9 @@
     "millsfield:company_id": [
       1159286839
     ],
+    "millsfield:flightcover_address_to": [
+      85922427
+    ],
     "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -134,7 +137,10 @@
     "sfomuseum:object_id": 42970,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference-flightcover",
+    "src:geom_alt": [
+      "flightcover-address-to"
+    ],
     "wof:belongsto": [
       102191569,
       1511907037,
@@ -158,7 +164,7 @@
       1159286839,
       1159284989
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "1ebe314b940ee10d15cd308e025f6d6e",
     "wof:hierarchy": [
       {
         "continent_id": 102191569,
@@ -185,21 +191,28 @@
       }
     ],
     "wof:id": 1527829561,
-    "wof:lastmodified": 1643762126,
+    "wof:lastmodified": 1663270073,
     "wof:name": "airmail flight cover: Pan American World Airways, Saigon - San Francisco route",
     "wof:parent_id": 1511907037,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      102085387,
+      85922427,
+      85688637,
+      102191575,
+      85633793
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -122.344612,
+    37.653515,
+    -122.344612,
+    37.653515
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[[-122.344612,37.653515]],"type":"MultiPoint"}
 }

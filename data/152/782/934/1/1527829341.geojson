@@ -10,9 +10,9 @@
     "edtf:date": "1947-06-26",
     "edtf:inception": "1947-06-26",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-122.431272,22.518290,88.362951,37.778008",
+    "geom:latitude": 30.148149,
+    "geom:longitude": -17.034160500000006,
     "iso:country": "US",
     "media:fingerprint": "829ff792eb7611b2683c4c0b235829ed44b15e5c",
     "media:imagehash_avg": "a:80f0f1fffff1f0f0",
@@ -124,6 +124,12 @@
     "millsfield:company_id": [
       1159286839
     ],
+    "millsfield:flightcover_address_sent": [
+      85922583
+    ],
+    "millsfield:flightcover_address_to": [
+      102030585
+    ],
     "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -134,7 +140,11 @@
     "sfomuseum:object_id": 42927,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference-flightcover",
+    "src:geom_alt": [
+      "flightcover-address-sent",
+      "flightcover-address-to"
+    ],
     "wof:belongsto": [
       1511214215,
       1511906941,
@@ -153,11 +163,11 @@
     "wof:country": "US",
     "wof:created": 1578950825,
     "wof:depicts": [
-      1159286839,
       1511906941,
-      1159284989
+      1159284989,
+      1159286839
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "c555e68d7b1db4cf0689d8ccd52d12d7",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -185,21 +195,33 @@
       }
     ],
     "wof:id": 1527829341,
-    "wof:lastmodified": 1643762126,
+    "wof:lastmodified": 1663347819,
     "wof:name": "airmail flight cover: Pan American World Airways, FAM-14, San Francisco - Calcutta route",
     "wof:parent_id": 1511906941,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      85632469,
+      85922583,
+      102191575,
+      85633793,
+      85672219,
+      890508309,
+      102087579,
+      85688637,
+      102030585,
+      102191569
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -122.431272,
+    22.51829,
+    88.362951,
+    37.778008
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[[-122.431272,37.778008],[88.362951,22.51829]],"type":"MultiPoint"}
 }

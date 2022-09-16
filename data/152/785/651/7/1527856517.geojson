@@ -10,9 +10,9 @@
     "edtf:date": "1937-08-04",
     "edtf:inception": "1937-08-04",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-82.549852,27.331803,-73.789860,40.898430",
+    "geom:latitude": 34.1151165,
+    "geom:longitude": -78.16985600000001,
     "iso:country": "XX",
     "media:fingerprint": "3bfd75de741d70f076389f8d4f20e0700cf65924",
     "media:imagehash_avg": "a:ffe0f09d8f838fdf",
@@ -118,6 +118,12 @@
     "media:uri_template": "https://static.sfomuseum.org/media/152/785/651/7/1527856517_{secret}_{label}.{extention}",
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:flightcover_address_sent": [
+      85932709
+    ],
+    "millsfield:flightcover_address_to": [
+      1259402365
+    ],
     "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -128,7 +134,11 @@
     "sfomuseum:object_id": 163677,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference-flightcover",
+    "src:geom_alt": [
+      "flightcover-address-to",
+      "flightcover-address-sent"
+    ],
     "wof:belongsto": [
       1511213159,
       102087579,
@@ -148,7 +158,7 @@
     "wof:depicts": [
       1511957513
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "346b3528eae2c774ade762c9f1eadb32",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -168,21 +178,32 @@
       }
     ],
     "wof:id": 1527856517,
-    "wof:lastmodified": 1643762160,
+    "wof:lastmodified": 1663364865,
     "wof:name": "airmail flight cover: AM-31, Everglades, Florida",
     "wof:parent_id": 1511957513,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      102191575,
+      102085795,
+      85932709,
+      85688543,
+      85633793,
+      102082373,
+      404523375,
+      1259402365,
+      85688651
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -82.549852,
+    27.331803,
+    -73.78986,
+    40.89843
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[[-73.78986,40.89843],[-82.549852,27.331803]],"type":"MultiPoint"}
 }

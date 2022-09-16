@@ -10,9 +10,9 @@
     "edtf:date": "1934-01-10",
     "edtf:inception": "1934-01-10",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-157.950439,21.362202,-118.247740,34.176355",
+    "geom:latitude": 27.7692785,
+    "geom:longitude": -138.0990895,
     "iso:country": "XX",
     "media:fingerprint": "565c7d5b36caf65438bb417dc5841ed4a6eea679",
     "media:imagehash_avg": "a:2b8800011f0fffff",
@@ -122,6 +122,12 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [],
+    "millsfield:flightcover_address_sent": [
+      1125864761
+    ],
+    "millsfield:flightcover_address_to": [
+      85923615
+    ],
     "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -132,7 +138,11 @@
     "sfomuseum:object_id": 91283,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference-flightcover",
+    "src:geom_alt": [
+      "flightcover-address-to",
+      "flightcover-address-sent"
+    ],
     "wof:belongsto": [
       1511214215,
       1511931721,
@@ -154,7 +164,7 @@
       1159286573,
       1511931721
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "2ebd6e2b0ad6397c6a52641d2af11552",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -174,21 +184,31 @@
       }
     ],
     "wof:id": 1527831793,
-    "wof:lastmodified": 1643762128,
+    "wof:lastmodified": 1663355342,
     "wof:name": "airmail flight cover: First U.S. Navy Squadron flight, San Francisco - Hawaii, January 10, 1934",
     "wof:parent_id": 1511931721,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      85923615,
+      85688637,
+      102191575,
+      102085417,
+      1125864761,
+      85688671,
+      85633793,
+      102086957
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -157.950439,
+    21.362202,
+    -118.24774,
+    34.176355
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[[-118.24774,34.176355],[-157.950439,21.362202]],"type":"MultiPoint"}
 }

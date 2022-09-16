@@ -142,8 +142,8 @@
     "sfomuseum:primary_image": 1,
     "src:geom": "sfomuseum#georeference-flightcover",
     "src:geom_alt": [
-      "flightcover-address-sent",
-      "flightcover-address-to"
+      "flightcover-address-to",
+      "flightcover-address-sent"
     ],
     "wof:belongsto": [
       1511214215,
@@ -167,7 +167,7 @@
       1159284989,
       1159286839
     ],
-    "wof:geomhash": "c555e68d7b1db4cf0689d8ccd52d12d7",
+    "wof:geomhash": "8a0a63ebff68e66cab7ad97fe4718670",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -195,22 +195,22 @@
       }
     ],
     "wof:id": 1527829341,
-    "wof:lastmodified": 1663347819,
+    "wof:lastmodified": 1663349821,
     "wof:name": "airmail flight cover: Pan American World Airways, FAM-14, San Francisco - Calcutta route",
     "wof:parent_id": 1511906941,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
     "wof:references": [
       85632469,
-      85922583,
-      102191575,
-      85633793,
-      85672219,
-      890508309,
-      102087579,
-      85688637,
       102030585,
-      102191569
+      85672219,
+      85633793,
+      102087579,
+      890508309,
+      102191569,
+      85922583,
+      85688637,
+      102191575
     ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
@@ -223,5 +223,5 @@
     88.362951,
     37.778008
   ],
-  "geometry": {"coordinates":[[-122.431272,37.778008],[88.362951,22.51829]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[88.362951,22.51829],[-122.431272,37.778008]],"type":"MultiPoint"}
 }

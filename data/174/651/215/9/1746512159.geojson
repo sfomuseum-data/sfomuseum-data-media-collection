@@ -10,9 +10,9 @@
     "edtf:date": "2006-03-18",
     "edtf:inception": "2006-03-18",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
-    "geom:latitude": 37.616357,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "26.106260,44.432250,26.106260,44.432250",
+    "geom:latitude": 44.43225,
+    "geom:longitude": 26.10626,
     "iso:country": "XX",
     "media:fingerprint": "dbcf3bbb644b1761b0f9b4b7c481894eab607198",
     "media:imagehash_avg": "a:fdf8e0e70707ffff",
@@ -117,6 +117,9 @@
     "media:uri_template": "https://static.sfomuseum.org/media/174/651/215/9/1746512159_{secret}_{label}.{extention}",
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:flightcover_address_to": [
+      101751949
+    ],
     "millsfield:subcategory_id": 1511213159,
     "mz:is_current": 1,
     "sfomuseum:filename": "2009.073.002.tif",
@@ -126,7 +129,10 @@
     "sfomuseum:object_id": 96145,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference-flightcover",
+    "src:geom_alt": [
+      "flightcover-address-to"
+    ],
     "wof:belongsto": [
       1511213159,
       1511214277,
@@ -145,7 +151,7 @@
     "wof:depicts": [
       1511935409
     ],
-    "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
+    "wof:geomhash": "2447f104b3fa8902ad85dd3060043244",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -164,20 +170,26 @@
       }
     ],
     "wof:id": 1746512159,
-    "wof:lastmodified": 1643762150,
+    "wof:lastmodified": 1663374927,
     "wof:name": "airmail flight cover: Romanian Philatelic Federation (Romfilatelia), 100th anniversary of Traian Vuia’s first flight",
     "wof:parent_id": 1511935409,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      101751949,
+      85687595,
+      102191581,
+      85633745
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386155,
-    37.616357,
-    -122.386155,
-    37.616357
+    26.10626,
+    44.43225,
+    26.10626,
+    44.43225
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"coordinates":[[26.10626,44.43225]],"type":"MultiPoint"}
 }

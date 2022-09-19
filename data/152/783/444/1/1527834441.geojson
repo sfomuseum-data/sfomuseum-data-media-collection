@@ -10,9 +10,9 @@
     "edtf:date": "1948-04-25",
     "edtf:inception": "1948-04-25",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-101.840963,35.221849,-101.840963,35.221849",
+    "geom:latitude": 35.221849,
+    "geom:longitude": -101.840963,
     "iso:country": "XX",
     "media:fingerprint": "a96188f27604267eae519c58905be518229866bf",
     "media:imagehash_avg": "a:ffc0a5bd83818181",
@@ -119,10 +119,7 @@
     "millsfield:company_id": [
       1159287531
     ],
-    "millsfield:flightcover_address_sent": [
-      85976697
-    ],
-    "millsfield:flightcover_address_to": [
+    "millsfield:flightcover_address_received": [
       101724103
     ],
     "millsfield:subcategory_id": 1511213159,
@@ -135,7 +132,10 @@
     "sfomuseum:object_id": 139397,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference-flightcover",
+    "src:geom_alt": [
+      "flightcover-address-received"
+    ],
     "wof:belongsto": [
       1511214215,
       1511954125,
@@ -157,7 +157,7 @@
       1159285395,
       1511954125
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "2dc96315f934a369659d70851bd0a586",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -177,21 +177,28 @@
       }
     ],
     "wof:id": 1527834441,
-    "wof:lastmodified": 1663617099,
+    "wof:lastmodified": 1663628597,
     "wof:name": "airmail flight cover: Transcontinental \u0026 Western Air (TWA), Santa Fe, New Mexico",
     "wof:parent_id": 1511954125,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      102191575,
+      85633793,
+      102086749,
+      101724103,
+      85688753
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -101.840963,
+    35.221849,
+    -101.840963,
+    35.221849
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[[-101.840963,35.221849]],"type":"MultiPoint"}
 }

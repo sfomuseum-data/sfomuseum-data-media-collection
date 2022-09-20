@@ -10,9 +10,9 @@
     "edtf:date": "1962-07-02",
     "edtf:inception": "1962-07-02",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-157.859944,21.308822,-74.871618,43.408777",
+    "geom:latitude": 32.3587995,
+    "geom:longitude": -116.365781,
     "iso:country": "XX",
     "media:fingerprint": "dcb7591b353102ad037588a6fbfcf61d31940cc9",
     "media:imagehash_avg": "a:fdb0891f1f1f139f",
@@ -127,6 +127,12 @@
     "millsfield:company_id": [
       1159293593
     ],
+    "millsfield:flightcover_address_sent": [
+      85688543
+    ],
+    "millsfield:flightcover_address_to": [
+      1141909415
+    ],
     "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -137,7 +143,11 @@
     "sfomuseum:object_id": 139244,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference-flightcover",
+    "src:geom_alt": [
+      "flightcover-address-to",
+      "flightcover-address-sent"
+    ],
     "wof:belongsto": [
       1511214215,
       1511953783,
@@ -160,7 +170,7 @@
       1159284989,
       1159293593
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "3ec828fce2d456b0ac9cd5d636061520",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -180,21 +190,29 @@
       }
     ],
     "wof:id": 1527833333,
-    "wof:lastmodified": 1643762129,
+    "wof:lastmodified": 1663701579,
     "wof:name": "airmail flight cover: Pan American World Airways, 100,000th Transatlantic Flight",
     "wof:parent_id": 1511953783,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      102191575,
+      85633793,
+      102085417,
+      1141909415,
+      85688671,
+      85688543
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -157.859944,
+    21.308822,
+    -74.871618,
+    43.408777
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[[-157.859944,21.308822],[-74.871618,43.408777]],"type":"MultiPoint"}
 }

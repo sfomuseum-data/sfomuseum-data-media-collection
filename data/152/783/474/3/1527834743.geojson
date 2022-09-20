@@ -10,9 +10,9 @@
     "edtf:date": "1940-04-24",
     "edtf:inception": "1940-04-24",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-122.756961,38.996664,-105.547822,47.539867",
+    "geom:latitude": 43.2682655,
+    "geom:longitude": -114.1523915,
     "iso:country": "XX",
     "media:fingerprint": "9f937f23eb896956e4da495eb1924ae68e491142",
     "media:imagehash_avg": "a:ff81019f0f0f0fbf",
@@ -121,6 +121,12 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:flightcover_address_sent": [
+      85688603
+    ],
+    "millsfield:flightcover_address_to": [
+      101730469
+    ],
     "millsfield:subcategory_id": 1511213159,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -131,7 +137,11 @@
     "sfomuseum:object_id": 139085,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference-flightcover",
+    "src:geom_alt": [
+      "flightcover-address-sent",
+      "flightcover-address-to"
+    ],
     "wof:belongsto": [
       1511214215,
       1511953441,
@@ -152,7 +162,7 @@
       1511953441,
       1159291191
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "5a4f263a3ced26576ed2594957baae40",
     "wof:hierarchy": [
       {
         "arcade_id": 1511213159,
@@ -172,21 +182,29 @@
       }
     ],
     "wof:id": 1527834743,
-    "wof:lastmodified": 1643762130,
+    "wof:lastmodified": 1663706534,
     "wof:name": "airmail flight cover: United States Air Mail, Hawaiian Islands",
     "wof:parent_id": 1511953441,
     "wof:placetype": "custom",
     "wof:placetype_alt": "image",
+    "wof:references": [
+      85688623,
+      102191575,
+      85633793,
+      85688603,
+      102081243,
+      101730469
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -122.756961,
+    38.996664,
+    -105.547822,
+    47.539867
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[[-105.547822,38.996664],[-122.756961,47.539867]],"type":"MultiPoint"}
 }

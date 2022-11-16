@@ -10,9 +10,16 @@
     "edtf:date": "1964",
     "edtf:inception": "1964",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-122.385678,37.614469,-122.385678,37.614469",
+    "geom:latitude": 37.61446937918851,
+    "geom:longitude": -122.38567829132081,
+    "geotag:angle": 25,
+    "geotag:bearing": 43.23300919422788,
+    "geotag:camera_latitude": 37.61446937918851,
+    "geotag:camera_longitude": -122.38567829132081,
+    "geotag:distance": 303.60913157622224,
+    "geotag:target_latitude": 37.61645804528037,
+    "geotag:target_longitude": -122.38331795049032,
     "iso:country": "US",
     "media:fingerprint": "58f315b2ff442d955aa69f4e41a0cf2f8eb9664b",
     "media:imagehash_avg": "a:fffefce1f0e08000",
@@ -122,18 +129,21 @@
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
     "src:geom": "sfomuseum",
+    "src:geom_alt": [
+      "geotag-fov"
+    ],
     "wof:belongsto": [
-      1511214209,
       1511945911,
       102527513,
       102191575,
       85633793,
-      1511213801,
       85922583,
       102087579,
-      1511214277,
-      1511214203,
-      85688637
+      85688637,
+      1159162825,
+      1159160869,
+      554784711,
+      102085387
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -142,27 +152,46 @@
       102527513,
       1511945911
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "cd845f8e548792fc4fdddf95bb4d27f4",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213801,
-        "building_id": 1511214277,
+        "building_id": -1,
         "campus_id": 102527513,
-        "concourse_id": 1511214209,
+        "collection_id": 1159162825,
+        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "image_id": 1527825003,
         "locality_id": 85922583,
-        "media_id": 1527825003,
         "neighbourhood_id": -1,
+        "object_id": 1511945911,
         "region_id": 85688637,
-        "venue_id": 1511945911,
-        "wing_id": 1511214203
+        "wing_id": 1159160869
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1527825003,
+        "locality_id": 85922583,
+        "object_id": 1511945911,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1527825003,
+        "object_id": 1511945911,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1527825003,
-    "wof:lastmodified": 1646988087,
+    "wof:lastmodified": 1668624710,
     "wof:name": "negative: San Francisco International Airport (SFO), parking garage construction",
     "wof:parent_id": 1511945911,
     "wof:placetype": "custom",
@@ -173,10 +202,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -122.38567829132081,
+    37.61446937918851,
+    -122.38567829132081,
+    37.61446937918851
   ],
-  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
+  "geometry": {"coordinates":[-122.38567829132081,37.61446937918851],"type":"Point"}
 }

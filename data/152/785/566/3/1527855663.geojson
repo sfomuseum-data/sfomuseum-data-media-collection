@@ -17,13 +17,7 @@
     "geotag:bearing": 81.96031656010761,
     "geotag:camera_latitude": 37.810868914073,
     "geotag:camera_longitude": -122.39112854004,
-    "geotag:depictions": [
-      1527855663
-    ],
-    "geotag:distance": 8225.47477290763,
-    "geotag:target_latitude": 37.82117515844335,
-    "geotag:target_longitude": -122.2984330383285,
-    "geotag:whosonfirst": {
+    "geotag:camera_whosonfirst": {
       "wof:belongsto": [
         85688637,
         102191575,
@@ -38,6 +32,12 @@
       ],
       "wof:id": 85688637
     },
+    "geotag:depictions": [
+      1527855663
+    ],
+    "geotag:distance": 8225.47477290763,
+    "geotag:target_latitude": 37.82117515844335,
+    "geotag:target_longitude": -122.2984330383285,
     "iso:country": "US",
     "media:fingerprint": "31bd97f4dc93214fa5fdf3797bf9f433999276b0",
     "media:imagehash_avg": "a:ff8fbfffe38081ff",
@@ -169,10 +169,10 @@
     "wof:country": "US",
     "wof:created": 1578955017,
     "wof:depicts": [
-      85633793,
-      1511942509,
       85921881,
-      85688637
+      85688637,
+      85633793,
+      1511942509
     ],
     "wof:geomhash": "2b852663a9ca30b247aaaea6b2bffd0b",
     "wof:hierarchy": [
@@ -194,7 +194,7 @@
       }
     ],
     "wof:id": 1527855663,
-    "wof:lastmodified": 1669150439,
+    "wof:lastmodified": 1670972536,
     "wof:name": "photograph: San Francisco Bay Area aerial, Yerba Buena",
     "wof:parent_id": 1511942509,
     "wof:placetype": "custom",

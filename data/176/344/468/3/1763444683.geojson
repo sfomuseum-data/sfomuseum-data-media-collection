@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/468/3/1763444683_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159292537
+    ],
     "millsfield:airline_id": [
       1159283697
     ],
@@ -123,7 +126,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287125
+      1159293561,
+      1159291259
     ],
     "millsfield:subcategory_id": 1511213367,
     "mz:is_current": 1,
@@ -151,10 +155,13 @@
     "wof:country": "US",
     "wof:created": 1649404858,
     "wof:depicts": [
-      1762759877,
-      1159283697,
       102527513,
-      1159287125
+      1159287125,
+      1159292537,
+      1159293561,
+      1159291259,
+      1762759877,
+      1159283697
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -195,7 +202,7 @@
       }
     ],
     "wof:id": 1763444683,
-    "wof:lastmodified": 1679077490,
+    "wof:lastmodified": 1687508555,
     "wof:name": "photograph: Air New Zealand, McDonnell Douglas DC-10, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762759877,
     "wof:placetype": "custom",

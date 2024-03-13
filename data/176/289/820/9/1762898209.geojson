@@ -114,6 +114,10 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/820/9/1762898209_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789,
+      1159289807
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -122,7 +126,11 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159292203,
+      1159289759
+    ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tail_numbers": [
       "N269US"
@@ -153,11 +161,16 @@
     "wof:country": "US",
     "wof:created": 1643415433,
     "wof:depicts": [
-      1159287407,
+      1159284907,
+      1159293593,
+      1159292203,
+      1159289759,
       1762760059,
-      1159284913,
       102527513,
-      1159284907
+      1159289789,
+      1159289807,
+      1159287407,
+      1159284913
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -178,7 +191,7 @@
       }
     ],
     "wof:id": 1762898209,
-    "wof:lastmodified": 1679077462,
+    "wof:lastmodified": 1710355838,
     "wof:name": "slide: Northwest Orient Airlines, Boeing 727-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760059,
     "wof:placetype": "custom",

@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/318/731/5/1763187315_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289851
+    ],
     "millsfield:airline_id": [
       1159284055
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159288037
+      1159293593,
+      1159289819
     ],
     "millsfield:images_texts": [
       "2017.127.047\nbuzz\n00000000000860680088888 600808060000"
@@ -154,9 +158,12 @@
     "wof:country": "XY",
     "wof:created": 1646296694,
     "wof:depicts": [
+      1159289819,
       1159284055,
       1159288037,
-      1763187167
+      1763187167,
+      1159289851,
+      1159293593
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -177,7 +184,7 @@
       }
     ],
     "wof:id": 1763187315,
-    "wof:lastmodified": 1701964628,
+    "wof:lastmodified": 1710355839,
     "wof:name": "miniature model airplane: Buzz, Boeing 737-300",
     "wof:parent_id": 1763187167,
     "wof:placetype": "custom",

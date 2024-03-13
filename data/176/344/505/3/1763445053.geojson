@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/505/3/1763445053_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291277
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -122,7 +125,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293561,
+      1159291259
+    ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tailnumbers": [
       "N147US"
@@ -152,6 +158,9 @@
     "wof:country": "US",
     "wof:created": 1649404943,
     "wof:depicts": [
+      1159291277,
+      1159293561,
+      1159291259,
       1159287407,
       1762761479,
       1159284913,
@@ -197,7 +206,7 @@
       }
     ],
     "wof:id": 1763445053,
-    "wof:lastmodified": 1679077493,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: Northwest Orient Airlines McDonnell Doublas DC-10-40, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762761479,
     "wof:placetype": "custom",

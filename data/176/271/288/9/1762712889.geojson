@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/288/9/1762712889_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291223
+    ],
     "millsfield:airline_id": [
       1159283597
     ],
@@ -122,9 +125,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288851
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "8 GRANDES\nTraveltime\nPRODUCT\nPOST CARD\nPOSTAGE\nSTAMP\nPublished by Natural Color Productions Ltd., Richmond, B.C.\nKM-89A\nVANCOUVER INTERNATIONAL AIRPORT\nVancouver, B.C., Canada\nRated as one of the best in Canada the airport is situated\non an island southwest of the city. This major airport is\nequipped to handle the largest and smallest of aircraft and\nis within minutes of Vancouver's downtown.\nPhoto by Ed Pryor\nLS-3736A\n62227"
     ],
@@ -155,10 +156,11 @@
     "wof:country": "CA",
     "wof:created": 1641350952,
     "wof:depicts": [
+      1159283597,
+      1159291223,
       102555307,
       1159288851,
-      1762686773,
-      1159283597
+      1762686773
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -179,7 +181,7 @@
       }
     ],
     "wof:id": 1762712889,
-    "wof:lastmodified": 1701960966,
+    "wof:lastmodified": 1710355831,
     "wof:name": "postcard: Vancouver International Airport, Douglas DC-9, Air Canada",
     "wof:parent_id": 1762686773,
     "wof:placetype": "custom",

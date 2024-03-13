@@ -116,14 +116,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/270/401/7/1762704017_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1360700619
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "NC\n25684\nAMERICAN\n4 Floqship",
       "In Flight, Route of the Flagships\nAMERICAN AIRLINES\n256\n/25\nYes! Flagships Fly down Mexico way excellent service\nto Mexico City and Monterrey.\nT-149A PRINTED IN U.S.A.\nPOSTCARD\n2015.166\n0301"
@@ -162,9 +163,10 @@
     "wof:country": "XY",
     "wof:created": 1641347746,
     "wof:depicts": [
-      1762681595,
       1159283849,
-      1360700619
+      1360700619,
+      1159290417,
+      1762681595
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -185,7 +187,7 @@
       }
     ],
     "wof:id": 1762704017,
-    "wof:lastmodified": 1701958446,
+    "wof:lastmodified": 1710355822,
     "wof:name": "postcard: American Airlines, Douglas DC-3",
     "wof:parent_id": 1762681595,
     "wof:placetype": "custom",

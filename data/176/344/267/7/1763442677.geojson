@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/267/7/1763442677_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289859
+    ],
     "millsfield:airline_id": [
       1159285435
     ],
@@ -125,7 +128,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289819
+    ],
     "millsfield:images_texts": [
       "US AIRWAYS\n0000000000\n1080000000"
     ],
@@ -166,7 +172,10 @@
     "wof:depicts": [
       1159285435,
       102530841,
-      1762760157
+      1762760157,
+      1159289859,
+      1159293593,
+      1159289819
     ],
     "wof:geomhash": "02b54ebffcdb2c149f38df4438aa3915",
     "wof:hierarchy": [
@@ -198,7 +207,7 @@
       }
     ],
     "wof:id": 1763442677,
-    "wof:lastmodified": 1701954811,
+    "wof:lastmodified": 1710355817,
     "wof:name": "slide: US Airways, Boeing 737-400",
     "wof:parent_id": 1762760157,
     "wof:placetype": "custom",

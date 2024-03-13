@@ -111,14 +111,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/314/522/7/1763145227_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159284309
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1159287349
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "FLY• EASTERN AIR LINES\nEASTE",
       "EASTERN\nN88808\nN88808",
@@ -153,9 +154,10 @@
     "wof:country": "XY",
     "wof:created": 1645692351,
     "wof:depicts": [
-      1159287349,
       1763143975,
-      1159284309
+      1159284309,
+      1159290417,
+      1159287349
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -176,7 +178,7 @@
       }
     ],
     "wof:id": 1763145227,
-    "wof:lastmodified": 1701963006,
+    "wof:lastmodified": 1710355837,
     "wof:name": "model airplane: Eastern Air Lines, Douglas DC-3",
     "wof:parent_id": 1763143975,
     "wof:placetype": "custom",

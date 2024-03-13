@@ -115,6 +115,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/423/5/1763444235_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289405
+    ],
     "millsfield:airline_id": [
       1159285089
     ],
@@ -124,7 +127,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288621
+      1159293829,
+      1159289401
     ],
     "millsfield:images_texts": [
       "C.ARGO\nROYALJORDANIAN"
@@ -162,10 +166,13 @@
     "wof:country": "US",
     "wof:created": 1649404756,
     "wof:depicts": [
+      102534365,
+      1159289405,
+      1159293829,
+      1159289401,
       1159288621,
       1762759595,
-      1159285089,
-      102534365
+      1159285089
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -198,7 +205,7 @@
       }
     ],
     "wof:id": 1763444235,
-    "wof:lastmodified": 1694161354,
+    "wof:lastmodified": 1710355818,
     "wof:name": "slide: Royal Jordanian Cargo, Airbus A310-300, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1762759595,
     "wof:placetype": "custom",

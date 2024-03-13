@@ -114,13 +114,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/327/986/3/1763279863_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289913
+    ],
     "millsfield:airline_id": [
       1159285461
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159288487
+      1159293593,
+      1159289873
     ],
     "millsfield:images_texts": [
       "ARIG\nBOEING 747-300\nA\nR\nBOEING 747-300\nSCHAMAS\nMado in Gormany"
@@ -152,9 +156,12 @@
     "wof:country": "XY",
     "wof:created": 1647330434,
     "wof:depicts": [
+      1159285461,
+      1159289913,
+      1159293593,
+      1159289873,
       1159288487,
-      1763279427,
-      1159285461
+      1763279427
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -175,7 +182,7 @@
       }
     ],
     "wof:id": 1763279863,
-    "wof:lastmodified": 1694161400,
+    "wof:lastmodified": 1710355844,
     "wof:name": "miniature model airplane: VARIG, Boeing 747-300",
     "wof:parent_id": 1763279427,
     "wof:placetype": "custom",

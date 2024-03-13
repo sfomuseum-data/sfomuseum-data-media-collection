@@ -113,13 +113,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/270/389/7/1762703897_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289657
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700619
+      1159293593,
+      1159289653
     ],
     "millsfield:images_texts": [
       "AMERICAN AIRLINES\nBOEING 707-123B\nAmerican\nthis,\nAirlines has\noperated a\ntotal of 56\nof\nto\nthe domestic version of the\n720\nand\n707,\nin addition\nthe\nsmaller\nseveral\nmodels\nof\nthe\nlarger 707 Intercontinental.\nPub. by Aviation World, Inc., P.O. Box 188, Bethel, Conn. 06801 USA\nB-004\n59239-D\npost card\nAmerican Airlines Photo\nN7550A c/n 18882\n2015.166.0215"
@@ -157,9 +161,12 @@
     "wof:country": "XY",
     "wof:created": 1641347703,
     "wof:depicts": [
+      1360700619,
+      1159289657,
+      1159293593,
+      1159289653,
       1762684567,
-      1159283849,
-      1360700619
+      1159283849
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -180,7 +187,7 @@
       }
     ],
     "wof:id": 1762703897,
-    "wof:lastmodified": 1701958418,
+    "wof:lastmodified": 1710355822,
     "wof:name": "postcard: American Airlines, Boeing 707-100",
     "wof:parent_id": 1762684567,
     "wof:placetype": "custom",

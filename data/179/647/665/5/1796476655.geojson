@@ -103,14 +103,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/179/647/665/5/1796476655_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
     "millsfield:category_id": 1746152551,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1360700619
-    ],
+    "millsfield:company_id": [],
     "millsfield:exhibition_ids": [
       1159160353
     ],
@@ -139,9 +140,10 @@
     "wof:country": "XY",
     "wof:created": 1666425156,
     "wof:depicts": [
-      1360700619,
       1796476565,
-      1159283849
+      1159283849,
+      1159290417,
+      1360700619
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -162,7 +164,7 @@
       }
     ],
     "wof:id": 1796476655,
-    "wof:lastmodified": 1703147623,
+    "wof:lastmodified": 1710355814,
     "wof:name": "pickle fork: American Airlines, Douglas DC-3",
     "wof:parent_id": 1796476565,
     "wof:placetype": "custom",

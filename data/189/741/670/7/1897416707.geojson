@@ -8,7 +8,7 @@
     "date:inception_upper": "1989-12-31",
     "edtf:cessation": "198X",
     "edtf:inception": "198X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -111,13 +111,16 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/189/741/670/7/1897416707_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289401
+    ],
     "millsfield:airline_id": [
       1159284023
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286551
+      1159293829
     ],
     "millsfield:subcategory_id": 1511213363,
     "mz:is_current": 1,
@@ -143,9 +146,11 @@
     "wof:country": "XY",
     "wof:created": 1708504534,
     "wof:depicts": [
-      1897416627,
       1159284023,
-      1159286551
+      1159286551,
+      1159289401,
+      1159293829,
+      1897416627
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -166,7 +171,7 @@
       }
     ],
     "wof:id": 1897416707,
-    "wof:lastmodified": 1708505173,
+    "wof:lastmodified": 1710355849,
     "wof:name": "postcard: British Caledonian Airways, Airbus A310",
     "wof:parent_id": 1897416627,
     "wof:placetype": "custom",

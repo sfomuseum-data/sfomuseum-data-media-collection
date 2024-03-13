@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/237/1/1763442371_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289945
+    ],
     "millsfield:airline_id": [
       1159284201
     ],
@@ -123,7 +126,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700741
+      1159293593,
+      1159289935
     ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tailnumbers": [
@@ -152,10 +156,13 @@
     "wof:country": "US",
     "wof:created": 1649404319,
     "wof:depicts": [
-      102527209,
       1360700741,
       1762829585,
-      1159284201
+      1159284201,
+      1159289945,
+      1159293593,
+      1159289935,
+      102527209
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -176,7 +183,7 @@
       }
     ],
     "wof:id": 1763442371,
-    "wof:lastmodified": 1686558034,
+    "wof:lastmodified": 1710355817,
     "wof:name": "slide: Continental Airlines, Boeing 757-300, McCarran International Airport (LAS)",
     "wof:parent_id": 1762829585,
     "wof:placetype": "custom",

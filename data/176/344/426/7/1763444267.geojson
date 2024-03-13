@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/426/7/1763444267_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289869
+    ],
     "millsfield:airline_id": [
       1159283605
     ],
@@ -126,7 +129,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287599
+      1159293593,
+      1159289819
     ],
     "millsfield:images_texts": [
       "AIR CI"
@@ -168,10 +172,13 @@
     "wof:country": "CN",
     "wof:created": 1649404763,
     "wof:depicts": [
+      1159289819,
       1159287599,
       1762760999,
       1159283605,
-      102550367
+      102550367,
+      1159289869,
+      1159293593
     ],
     "wof:geomhash": "4d14a4763c5b60b5e00e016704c9061e",
     "wof:hierarchy": [
@@ -203,7 +210,7 @@
       }
     ],
     "wof:id": 1763444267,
-    "wof:lastmodified": 1701955118,
+    "wof:lastmodified": 1710355818,
     "wof:name": "slide: Air China, Boeing 737-700, Beijing Capital International Airport (PEK)",
     "wof:parent_id": 1762760999,
     "wof:placetype": "custom",

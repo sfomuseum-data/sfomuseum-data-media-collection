@@ -116,6 +116,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/576/5/1762895765_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289777
+    ],
     "millsfield:airline_id": [
       1159284973
     ],
@@ -125,7 +128,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286629
+      1159293593,
+      1159289759
     ],
     "millsfield:images_texts": [
       "PSA\nN970PS\n10000\nPSA\n00000000000"
@@ -163,9 +167,12 @@
     "wof:country": "XY",
     "wof:created": 1643414583,
     "wof:depicts": [
+      1159293593,
+      1159289759,
       1762830133,
       1159284973,
-      1159286629
+      1159286629,
+      1159289777
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -186,7 +193,7 @@
       }
     ],
     "wof:id": 1762895765,
-    "wof:lastmodified": 1701949171,
+    "wof:lastmodified": 1710355811,
     "wof:name": "photograph: Pacific Southwest Airlines (PSA), Boeing 727-100",
     "wof:parent_id": 1762830133,
     "wof:placetype": "custom",

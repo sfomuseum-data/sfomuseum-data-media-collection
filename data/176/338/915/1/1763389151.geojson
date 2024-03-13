@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/915/1/1763389151_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
@@ -126,7 +129,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287531
+      1159293593,
+      1159289759
     ],
     "millsfield:images_texts": [
       "TWA\nTRANS WORLD"
@@ -167,10 +171,13 @@
     "wof:country": "US",
     "wof:created": 1648799074,
     "wof:depicts": [
+      102534365,
+      1159289789,
+      1159293593,
+      1159289759,
       1159287531,
       1762759851,
-      1159285393,
-      102534365
+      1159285393
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -203,7 +210,7 @@
       }
     ],
     "wof:id": 1763389151,
-    "wof:lastmodified": 1701959767,
+    "wof:lastmodified": 1710355827,
     "wof:name": "slide: TWA (Trans World Airlines), Boeing 727-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1762759851,
     "wof:placetype": "custom",

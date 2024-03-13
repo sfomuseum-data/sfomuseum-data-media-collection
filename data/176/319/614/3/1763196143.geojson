@@ -116,11 +116,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/319/614/3/1763196143_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291633
+    ],
     "millsfield:airline_id": [
       1762995585
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159294345,
+      1159291609
+    ],
     "millsfield:images_texts": [
       "NEWAR\nFLIGHT SCHEDULE\nThisis Our\nNEWAIRplane.\nThe New Shorts SD-360 Propjet Joins Our Fleet.\nNEWAR\nNEMER\nExclusive Shorts Service\nto Washington, D.C.\nEffective 4/24/83"
     ],
@@ -151,8 +158,11 @@
     "wof:country": "XY",
     "wof:created": 1646383627,
     "wof:depicts": [
-      1763195451,
-      1762995585
+      1762995585,
+      1159291633,
+      1159294345,
+      1159291609,
+      1763195451
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -173,7 +183,7 @@
       }
     ],
     "wof:id": 1763196143,
-    "wof:lastmodified": 1701945964,
+    "wof:lastmodified": 1710355807,
     "wof:name": "timetable: NewAir",
     "wof:parent_id": 1763195451,
     "wof:placetype": "custom",

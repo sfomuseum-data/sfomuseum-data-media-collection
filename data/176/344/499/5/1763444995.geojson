@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/499/5/1763444995_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289871
+    ],
     "millsfield:airline_id": [
       1159283813
     ],
@@ -123,7 +126,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288915
+      1159293593,
+      1159289819
     ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tailnumbers": [
@@ -159,10 +163,13 @@
     "wof:country": "US",
     "wof:created": 1649404930,
     "wof:depicts": [
+      1159288915,
+      1159289871,
+      1159293593,
+      1159289819,
       1762760981,
       1159283813,
-      102527529,
-      1159288915
+      102527529
     ],
     "wof:geomhash": "6755729d44afb52b594f86302497e36f",
     "wof:hierarchy": [
@@ -206,7 +213,7 @@
       }
     ],
     "wof:id": 1763444995,
-    "wof:lastmodified": 1679077493,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: Alaska Airlines, Boeing 737-800, San Jose Airport (SJC)",
     "wof:parent_id": 1762760981,
     "wof:placetype": "custom",

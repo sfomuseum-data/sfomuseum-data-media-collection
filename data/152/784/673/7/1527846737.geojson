@@ -119,14 +119,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/152/784/673/7/1527846737_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290427
+    ],
     "millsfield:airline_id": [
       1159284841
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288429
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "NOVEMBER 1, 1951\nNATIONAL\nAIRLINES\nNEW YORK * FLORIDA * HAVANA\nWASHINGTON * NEW ORLEANS\nline of de sume\nOnly NATIONAL Offers\nDC-6\nDAYLIGHT\nCOACH\nNEW YORK-MIAMI\n30 $ 58 US TAX\n4 HOURS NON-STOP\nDAILY SERVICE\nAirline of the Stars"
     ],
@@ -161,9 +162,10 @@
     "wof:country": "XX",
     "wof:created": 1578953558,
     "wof:depicts": [
+      1159284841,
+      1159290427,
       1159288429,
-      1511936603,
-      1159284841
+      1511936603
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -185,7 +187,7 @@
       }
     ],
     "wof:id": 1527846737,
-    "wof:lastmodified": 1701945903,
+    "wof:lastmodified": 1710355807,
     "wof:name": "timetable: National Airlines",
     "wof:parent_id": 1511936603,
     "wof:placetype": "custom",

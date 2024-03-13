@@ -116,12 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/027/375/1/1880273751_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291259
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293561
+    ],
     "millsfield:images_texts": [
       "2009.078.008\nmodel aircraft: Northwest Orient\nAirlines, McDonnell Douglas DC\n-10\n• NORTHWEST ORIENT\n0000000000080800"
     ],
@@ -153,7 +158,9 @@
     "wof:created": 1693642960,
     "wof:depicts": [
       1880273413,
-      1159284907
+      1159284907,
+      1159291259,
+      1159293561
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +181,7 @@
       }
     ],
     "wof:id": 1880273751,
-    "wof:lastmodified": 1701963240,
+    "wof:lastmodified": 1710355837,
     "wof:name": "miniature model airplane: Northwest Orient Airlines, McDonnell Douglas DC-10",
     "wof:parent_id": 1880273413,
     "wof:placetype": "custom",

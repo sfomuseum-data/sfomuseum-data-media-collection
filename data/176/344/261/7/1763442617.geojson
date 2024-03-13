@@ -115,6 +115,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/261/7/1763442617_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289939
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -123,7 +126,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289935
+    ],
     "millsfield:images_texts": [
       "@ NORTI"
     ],
@@ -165,7 +171,10 @@
     "wof:depicts": [
       1762761399,
       1159284907,
-      102530049
+      102530049,
+      1159289939,
+      1159293593,
+      1159289935
     ],
     "wof:geomhash": "4b819771a65ce5f91cf16e2f94402c48",
     "wof:hierarchy": [
@@ -198,7 +207,7 @@
       }
     ],
     "wof:id": 1763442617,
-    "wof:lastmodified": 1694161352,
+    "wof:lastmodified": 1710355817,
     "wof:name": "slide: Northwest Airlines, Boeing 757",
     "wof:parent_id": 1762761399,
     "wof:placetype": "custom",

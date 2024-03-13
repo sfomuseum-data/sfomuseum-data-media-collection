@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/269/803/9/1762698039_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289923
+    ],
     "millsfield:airline_id": [
       1159283697
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287125
+      1159293593,
+      1159289873
     ],
     "millsfield:exhibition_ids": [
       1159160381
@@ -160,9 +164,12 @@
     "wof:country": "XY",
     "wof:created": 1641345579,
     "wof:depicts": [
-      1762692881,
       1159283697,
-      1159287125
+      1159287125,
+      1159289923,
+      1159293593,
+      1159289873,
+      1762692881
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1762698039,
-    "wof:lastmodified": 1703147615,
+    "wof:lastmodified": 1710355807,
     "wof:name": "timetable: Air New Zealand, U.S. / Australia / New Zealand, Boeing 747B",
     "wof:parent_id": 1762692881,
     "wof:placetype": "custom",

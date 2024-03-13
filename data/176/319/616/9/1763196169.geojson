@@ -116,13 +116,16 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/319/616/9/1763196169_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289873
+    ],
     "millsfield:airline_id": [
       1159285163
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288903
+      1159293593
     ],
     "millsfield:images_texts": [
       "QUICK REFERENCE\nSINGAPORE\nAIRLINES\nTIMETABLE",
@@ -158,9 +161,11 @@
     "wof:country": "XY",
     "wof:created": 1646383633,
     "wof:depicts": [
-      1763195255,
       1159285163,
-      1159288903
+      1159288903,
+      1159289873,
+      1159293593,
+      1763195255
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -181,7 +186,7 @@
       }
     ],
     "wof:id": 1763196169,
-    "wof:lastmodified": 1701947165,
+    "wof:lastmodified": 1710355808,
     "wof:name": "timetable: Singapore Airlines, quick reference",
     "wof:parent_id": 1763195255,
     "wof:placetype": "custom",

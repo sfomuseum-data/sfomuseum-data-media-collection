@@ -119,6 +119,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/152/783/808/1/1527838081_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289653
+    ],
     "millsfield:airline_id": [
       1159285183,
       1159285187
@@ -126,7 +129,7 @@
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286813
+      1159293593
     ],
     "millsfield:images_texts": [
       "SAA\nSOUTH AFRICAN AIRWAYS\nTIMETABLE\nDECEMBER 1, 1968\nTO\nMARCH 31, 1969\nMEMBER OF\nIATA\nQUALITY IN\nAIR TRANSPORT\nNORTH AMERICAN OFFICES:\nNEW YORK:\n3 East 48th Street, New York, N.Y. 10017\nTel: (212) 421-6477\nSAN FRANCISCO: 323 Geary Street, San Francisco, Calif. 94102\nTel: (415) 392-9023\nLOS ANGELES:\n606 South Olive Street, Suite 1010-11,\nCity National Bank Bldg.\nLos Angeles, Calif. 90014\nTel: (213) 627-2034\nTORONTO:\nSuite 3203, Toronto Dominion Bank Tower, Toronto-\nDominion Centre, Toronto 1 Tel: (416) 366-2731-2"
@@ -162,10 +165,12 @@
     "wof:country": "XX",
     "wof:created": 1578952194,
     "wof:depicts": [
+      1159286813,
+      1159289653,
+      1159293593,
       1511938063,
       1159285187,
-      1159285183,
-      1159286813
+      1159285183
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -187,7 +192,7 @@
       }
     ],
     "wof:id": 1527838081,
-    "wof:lastmodified": 1701942942,
+    "wof:lastmodified": 1710355804,
     "wof:name": "timetable: South African Airways (SAL)",
     "wof:parent_id": 1511938063,
     "wof:placetype": "custom",

@@ -109,6 +109,10 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/924/5/1762899245_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289653,
+      1159291223
+    ],
     "millsfield:airline_id": [
       1159284973,
       1159285393
@@ -118,9 +122,7 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287531
-    ],
+    "millsfield:company_id": [],
     "millsfield:subcategory_id": 1511213401,
     "mz:is_current": 1,
     "sfomuseum:filename": "2019.100.001.tif",
@@ -145,11 +147,13 @@
     "wof:country": "US",
     "wof:created": 1643415819,
     "wof:depicts": [
-      1159284973,
-      1159285393,
       102527513,
       1159287531,
-      1762759681
+      1762759681,
+      1159289653,
+      1159291223,
+      1159284973,
+      1159285393
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -170,7 +174,7 @@
       }
     ],
     "wof:id": 1762899245,
-    "wof:lastmodified": 1679077468,
+    "wof:lastmodified": 1710355841,
     "wof:name": "slide: San Francisco International Airport (SFO)",
     "wof:parent_id": 1762759681,
     "wof:placetype": "custom",

@@ -116,12 +116,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/323/363/3/1763233633_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289939
+    ],
     "millsfield:airline_id": [
       1159285435
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289935
+    ],
     "millsfield:images_texts": [
       "2017.127.100\nUS AIRWAYS"
     ],
@@ -153,7 +159,10 @@
     "wof:created": 1646815081,
     "wof:depicts": [
       1763233603,
-      1159285435
+      1159285435,
+      1159289939,
+      1159293593,
+      1159289935
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +183,7 @@
       }
     ],
     "wof:id": 1763233633,
-    "wof:lastmodified": 1701964613,
+    "wof:lastmodified": 1710355839,
     "wof:name": "miniature model airplane: US Airways, Boeing 757-200",
     "wof:parent_id": 1763233603,
     "wof:placetype": "custom",

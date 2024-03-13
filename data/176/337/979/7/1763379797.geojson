@@ -106,12 +106,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/337/979/7/1763379797_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289851
+    ],
     "millsfield:airline_id": [
       1159285439
     ],
     "millsfield:category_id": 1762679663,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289819
+    ],
     "millsfield:images_texts": [
       "AMERIC MET\nN AMERICA WEST AIRLINES"
     ],
@@ -143,7 +149,10 @@
     "wof:created": 1648683427,
     "wof:depicts": [
       1763293641,
-      1159285439
+      1159285439,
+      1159289851,
+      1159293593,
+      1159289819
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -164,7 +173,7 @@
       }
     ],
     "wof:id": 1763379797,
-    "wof:lastmodified": 1701953250,
+    "wof:lastmodified": 1710355815,
     "wof:name": "playing cards: America West Airlines",
     "wof:parent_id": 1763293641,
     "wof:placetype": "custom",

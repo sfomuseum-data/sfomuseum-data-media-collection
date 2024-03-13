@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/187/3/1762711873_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290427
+    ],
     "millsfield:airline_id": [
       1159294431
     ],
@@ -125,9 +128,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287595
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "METROPOLITAN OAKLAND INTERNATIONAL AIRPORT\nINTERNATIONAL\nTERMINAL",
       "OAKLAND INTERNATIONAL AIRPORT, CALIF.\nThe always busy terminal and transfer port for nu-\nmerous Airlines. Fine restaurant and complete passen-\nger facilities.\nColor photo by Hilt Hansen\nMile Roberta\nBERKELEY 2, CALIF.\nE. F. Clements, 1120 Mission, San Francisco 3, Calif.\nC6779\n2015.166.2160"
@@ -160,10 +161,11 @@
     "wof:country": "US",
     "wof:created": 1641350601,
     "wof:depicts": [
+      1159287595,
+      1159290427,
       1762689349,
       1159294431,
-      102531041,
-      1159287595
+      102531041
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -184,7 +186,7 @@
       }
     ],
     "wof:id": 1762711873,
-    "wof:lastmodified": 1701960733,
+    "wof:lastmodified": 1710355830,
     "wof:name": "postcard: Metropolitan Oakland International Airport, Western Airlines",
     "wof:parent_id": 1762689349,
     "wof:placetype": "custom",

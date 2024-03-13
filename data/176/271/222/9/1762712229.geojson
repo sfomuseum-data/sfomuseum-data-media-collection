@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/222/9/1762712229_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291223
+    ],
     "millsfield:airline_id": [
       1159284507
     ],
@@ -125,9 +128,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288859
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "Reno Airport, Reno, Nevada",
       "RENO INTERNATIONAL AIRPORT\nReno, Nevada\n\"The Biggest Little City in the World\"\nSmith Sierra Novelty Company, Carson City, Nevada 89701 •\nPastichrome\nBOSTON, MASS. 02130\nP305136\nADDRESS\n20"
@@ -160,10 +161,11 @@
     "wof:country": "US",
     "wof:created": 1641350720,
     "wof:depicts": [
-      1159284507,
       102525535,
       1159288859,
-      1762689241
+      1762689241,
+      1159291223,
+      1159284507
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -184,7 +186,7 @@
       }
     ],
     "wof:id": 1762712229,
-    "wof:lastmodified": 1701960814,
+    "wof:lastmodified": 1710355831,
     "wof:name": "postcard: Reno Airport, Douglas DC-9, Hughes Airwest",
     "wof:parent_id": 1762689241,
     "wof:placetype": "custom",

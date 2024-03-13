@@ -115,6 +115,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/901/3/1763389013_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289399
+    ],
     "millsfield:airline_id": [
       1159284989
     ],
@@ -124,7 +127,9 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286839
+      1159293829,
+      1159289389,
+      1159289393
     ],
     "millsfield:images_texts": [
       "- ME"
@@ -165,10 +170,14 @@
     "wof:country": "US",
     "wof:created": 1648799042,
     "wof:depicts": [
-      1159284989,
       102534365,
       1159286839,
-      1762759771
+      1762759771,
+      1159289399,
+      1159293829,
+      1159289389,
+      1159289393,
+      1159284989
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -201,7 +210,7 @@
       }
     ],
     "wof:id": 1763389013,
-    "wof:lastmodified": 1694161367,
+    "wof:lastmodified": 1710355827,
     "wof:name": "slide: Pan American World Airways, Airbus A300B4, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1762759771,
     "wof:placetype": "custom",

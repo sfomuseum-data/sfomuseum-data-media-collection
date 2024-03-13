@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/573/1/1763445731_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289891
+    ],
     "millsfield:airline_id": [
       1159283635
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288295
+      1159293593,
+      1159289873
     ],
     "millsfield:images_texts": [
       "AIRFREIGHT EXPRESS\n/AFX"
@@ -157,9 +161,12 @@
     "wof:country": "XY",
     "wof:created": 1649405098,
     "wof:depicts": [
+      1159283635,
+      1159289891,
+      1159293593,
+      1159289873,
       1159288295,
-      1762830823,
-      1159283635
+      1762830823
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -180,7 +187,7 @@
       }
     ],
     "wof:id": 1763445731,
-    "wof:lastmodified": 1701955506,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: AirFreight Express, Boeing 747-200",
     "wof:parent_id": 1762830823,
     "wof:placetype": "custom",

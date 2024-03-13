@@ -106,13 +106,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/315/070/1/1763150701_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289859
+    ],
     "millsfield:airline_id": [
       1159283525
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159288379
+      1159293593,
+      1159289819
     ],
     "millsfield:images_texts": [
       "- АЭРОФЛОТ\n2017.127.001"
@@ -144,9 +148,12 @@
     "wof:country": "XY",
     "wof:created": 1645778607,
     "wof:depicts": [
+      1159288379,
+      1159289859,
+      1159293593,
+      1159289819,
       1763150615,
-      1159283525,
-      1159288379
+      1159283525
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -167,7 +174,7 @@
       }
     ],
     "wof:id": 1763150701,
-    "wof:lastmodified": 1701964587,
+    "wof:lastmodified": 1710355839,
     "wof:name": "miniature model airplane: Aeroflot Russian Airlines, Boeing 737-400",
     "wof:parent_id": 1763150615,
     "wof:placetype": "custom",

@@ -103,14 +103,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/314/451/1/1763144511_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291223
+    ],
     "millsfield:airline_id": [
       1159284489
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1159287913
-    ],
+    "millsfield:company_id": [],
     "millsfield:has_coloring_book": 1,
     "millsfield:images_texts": [
       "NOLASA",
@@ -144,9 +145,10 @@
     "wof:country": "XY",
     "wof:created": 1645692184,
     "wof:depicts": [
-      1159284489,
       1159287913,
-      1763143915
+      1763143915,
+      1159291223,
+      1159284489
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -167,7 +169,7 @@
       }
     ],
     "wof:id": 1763144511,
-    "wof:lastmodified": 1702456294,
+    "wof:lastmodified": 1710355834,
     "wof:name": "model airplane: Hawaiian Airlines, Douglas DC-9",
     "wof:parent_id": 1763143915,
     "wof:placetype": "custom",

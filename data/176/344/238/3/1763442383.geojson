@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/238/3/1763442383_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289965
+    ],
     "millsfield:airline_id": [
       1159284261
     ],
@@ -123,7 +126,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287931
+      1159293593,
+      1159289949
     ],
     "millsfield:subcategory_id": 1511213401,
     "mz:is_current": 1,
@@ -149,10 +153,13 @@
     "wof:country": "US",
     "wof:created": 1649404322,
     "wof:depicts": [
+      1159284261,
+      1159289965,
+      1159293593,
+      1159289949,
       102527209,
       1159287931,
-      1762830929,
-      1159284261
+      1762830929
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -173,7 +180,7 @@
       }
     ],
     "wof:id": 1763442383,
-    "wof:lastmodified": 1686558034,
+    "wof:lastmodified": 1710355817,
     "wof:name": "slide: Delta Air Lines, Boeing 767-300, McCarran International Airport (LAS)",
     "wof:parent_id": 1762830929,
     "wof:placetype": "custom",

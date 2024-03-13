@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/044/046/7/1880440467_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289429
+    ],
     "millsfield:airline_id": [
       1159283747
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159286671
+      1159293829,
+      1159289425
     ],
     "millsfield:images_texts": [
       "\"Air Tohit! Nul.........\nAir Tohit Nui\nA340-300",
@@ -161,9 +165,12 @@
     "wof:country": "XY",
     "wof:created": 1695197954,
     "wof:depicts": [
-      1880318633,
       1159283747,
-      1159286671
+      1159286671,
+      1159289429,
+      1159293829,
+      1159289425,
+      1880318633
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -184,7 +191,7 @@
       }
     ],
     "wof:id": 1880440467,
-    "wof:lastmodified": 1701970612,
+    "wof:lastmodified": 1710355849,
     "wof:name": "model airplane: Air Tahiti Nui",
     "wof:parent_id": 1880318633,
     "wof:placetype": "custom",

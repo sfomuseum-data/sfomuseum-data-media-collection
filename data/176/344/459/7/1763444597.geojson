@@ -105,6 +105,10 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/459/7/1763444597_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289745,
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159285393,
       1159285415
@@ -115,7 +119,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293593
     ],
     "millsfield:images_texts": [
       "90\nME 1D85"
@@ -149,12 +153,15 @@
     "wof:country": "US",
     "wof:created": 1649404838,
     "wof:depicts": [
-      102527513,
-      1159288779,
+      1159289759,
+      1159293593,
       1762761067,
       1159285393,
       102533631,
-      1159285415
+      1159285415,
+      102527513,
+      1159288779,
+      1159289745
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -195,7 +202,7 @@
       }
     ],
     "wof:id": 1763444597,
-    "wof:lastmodified": 1694161354,
+    "wof:lastmodified": 1710355818,
     "wof:name": "negative: United Air Lines, TWA (Trans World Airlines)",
     "wof:parent_id": 1762761067,
     "wof:placetype": "custom",

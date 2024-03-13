@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/215/7/1763442157_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159283609
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287353
+      1159293593,
+      1159289759
     ],
     "millsfield:images_texts": [
       "тексі\nAIR D'ANTI"
@@ -154,9 +158,12 @@
     "wof:country": "XY",
     "wof:created": 1649404268,
     "wof:depicts": [
-      1762760309,
       1159283609,
-      1159287353
+      1159287353,
+      1159289789,
+      1159293593,
+      1159289759,
+      1762760309
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -177,7 +184,7 @@
       }
     ],
     "wof:id": 1763442157,
-    "wof:lastmodified": 1701954748,
+    "wof:lastmodified": 1710355816,
     "wof:name": "slide: Air D’Ayiti, Boeing 727-200",
     "wof:parent_id": 1762760309,
     "wof:placetype": "custom",

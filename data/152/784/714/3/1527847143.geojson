@@ -119,14 +119,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/152/784/714/3/1527847143_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159283823
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288221
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "ALITALIA\nAIRLINES\nNOW\nNEW\nYORK - LISBON\n(From page 2 thru 5 for schedules)\n2\nNORTH AMERICAN EDITION\nSUMMER TIMETABLE\nValid from June 1°, thru October 31*, 1964"
     ],
@@ -161,9 +162,10 @@
     "wof:country": "XX",
     "wof:created": 1578953624,
     "wof:depicts": [
-      1511937775,
       1159283823,
-      1159288221
+      1159288221,
+      1159290443,
+      1511937775
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -185,7 +187,7 @@
       }
     ],
     "wof:id": 1527847143,
-    "wof:lastmodified": 1701946072,
+    "wof:lastmodified": 1710355807,
     "wof:name": "timetable: Alitalia",
     "wof:parent_id": 1511937775,
     "wof:placetype": "custom",

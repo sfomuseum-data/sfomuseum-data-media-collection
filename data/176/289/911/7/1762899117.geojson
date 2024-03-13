@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/911/7/1762899117_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289861
+    ],
     "millsfield:airline_id": [
       1159285423
     ],
@@ -123,7 +126,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293593,
+      1159289819
     ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tail_numbers": [
@@ -155,10 +159,13 @@
     "wof:country": "US",
     "wof:created": 1643415771,
     "wof:depicts": [
+      1159289819,
       1762760481,
       1159285423,
       102527513,
-      1159288779
+      1159288779,
+      1159289861,
+      1159293593
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -179,7 +186,7 @@
       }
     ],
     "wof:id": 1762899117,
-    "wof:lastmodified": 1679077467,
+    "wof:lastmodified": 1710355841,
     "wof:name": "slide: United Shuttle, Boeing 737-500, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760481,
     "wof:placetype": "custom",

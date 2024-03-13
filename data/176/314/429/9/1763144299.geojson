@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/314/429/9/1763144299_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289915
+    ],
     "millsfield:airline_id": [
       1159284563
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159288585
+      1159293593,
+      1159289873
     ],
     "millsfield:exhibition_ids": [
       1159160467
@@ -171,9 +175,12 @@
     "wof:country": "XY",
     "wof:created": 1645692135,
     "wof:depicts": [
-      1159288585,
       1763144043,
-      1159284563
+      1159284563,
+      1159289915,
+      1159293593,
+      1159289873,
+      1159288585
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -194,7 +201,7 @@
       }
     ],
     "wof:id": 1763144299,
-    "wof:lastmodified": 1703147646,
+    "wof:lastmodified": 1710355833,
     "wof:name": "model airplane: Japan Airlines, Boeing 747-400",
     "wof:parent_id": 1763144043,
     "wof:placetype": "custom",

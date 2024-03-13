@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/266/5/1763442665_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291293
+    ],
     "millsfield:airline_id": [
       1159285065
     ],
@@ -123,7 +126,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287259
+      1159293561
     ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tailnumbers": [
@@ -159,10 +162,12 @@
     "wof:country": "US",
     "wof:created": 1649404387,
     "wof:depicts": [
-      1159287259,
-      1762759725,
       1159285065,
-      102527529
+      102527529,
+      1159291293,
+      1159293561,
+      1159287259,
+      1762759725
     ],
     "wof:geomhash": "6755729d44afb52b594f86302497e36f",
     "wof:hierarchy": [
@@ -206,7 +211,7 @@
       }
     ],
     "wof:id": 1763442665,
-    "wof:lastmodified": 1679077479,
+    "wof:lastmodified": 1710355817,
     "wof:name": "slide: Reno Air, McDonnell Douglas MD-83",
     "wof:parent_id": 1762759725,
     "wof:placetype": "custom",

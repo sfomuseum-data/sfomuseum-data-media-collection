@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/315/069/3/1763150693_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289993
+    ],
     "millsfield:airline_id": [
       1159285391
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159286977
+      1159293593,
+      1159289979
     ],
     "millsfield:has_coloring_book": 1,
     "millsfield:images_texts": [
@@ -155,9 +159,12 @@
     "wof:country": "XY",
     "wof:created": 1645778605,
     "wof:depicts": [
-      1763150637,
       1159285391,
-      1159286977
+      1159286977,
+      1159289993,
+      1159293593,
+      1159289979,
+      1763150637
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -178,7 +185,7 @@
       }
     ],
     "wof:id": 1763150693,
-    "wof:lastmodified": 1702542669,
+    "wof:lastmodified": 1710355838,
     "wof:name": "model airplane: Turkish Airlines, Boeing 777-300ER",
     "wof:parent_id": 1763150637,
     "wof:placetype": "custom",

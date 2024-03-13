@@ -116,12 +116,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/422/5/1763444225_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289891
+    ],
     "millsfield:airline_id": [
       1159285987
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289873
+    ],
     "millsfield:images_texts": [
       "EDERAL EXPRES"
     ],
@@ -152,8 +158,11 @@
     "wof:country": "XY",
     "wof:created": 1649404754,
     "wof:depicts": [
-      1762760959,
-      1159285987
+      1159285987,
+      1159289891,
+      1159293593,
+      1159289873,
+      1762760959
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +183,7 @@
       }
     ],
     "wof:id": 1763444225,
-    "wof:lastmodified": 1701955112,
+    "wof:lastmodified": 1710355818,
     "wof:name": "slide: Federal Express, Boeing 747-200",
     "wof:parent_id": 1762760959,
     "wof:placetype": "custom",

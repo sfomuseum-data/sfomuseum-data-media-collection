@@ -113,14 +113,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/270/259/3/1762702593_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290427
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1360700619
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "AMERICAN AIRLINES\nAmericas Leading Airline\nT151-2\nLITHO IN U.S.A.\nTHE DC-6 BLUE RIBBON AIRCOACH BRINGS YOU 300 MPH\nSPEED AT GREATLY REDUCED FARES. ONLY AMERICAN\nOFFERS DC-6 PLANES ON ALL AIRCOACH FLIGHTS.\nPOST CARD\nUSE\nAIR MAIL\n2015.166.0249"
     ],
@@ -151,9 +152,10 @@
     "wof:country": "XY",
     "wof:created": 1641347224,
     "wof:depicts": [
+      1360700619,
+      1159290427,
       1762684305,
-      1159283849,
-      1360700619
+      1159283849
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +176,7 @@
       }
     ],
     "wof:id": 1762702593,
-    "wof:lastmodified": 1701958115,
+    "wof:lastmodified": 1710355821,
     "wof:name": "postcard: American Airlines, Douglas DC-6",
     "wof:parent_id": 1762684305,
     "wof:placetype": "custom",

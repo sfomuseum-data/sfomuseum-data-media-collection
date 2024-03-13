@@ -119,13 +119,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/152/785/470/5/1527854705_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289827
+    ],
     "millsfield:airline_id": [
       1159284965
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288849
+      1159293593,
+      1159289819
     ],
     "millsfield:images_texts": [
       "System Timetable\nEffective September 7, 1983\nNEW NON-STOP JET SERVICE\nSan Jose to Palm Springs and Sacramento\nModesto/Stockton to Las Vegas\nPortland to Reno\nSee what were up to!",
@@ -165,9 +169,12 @@
     "wof:country": "XX",
     "wof:created": 1578954870,
     "wof:depicts": [
+      1159289819,
       1159288849,
       1159284965,
-      1511939423
+      1511939423,
+      1159289827,
+      1159293593
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -189,7 +196,7 @@
       }
     ],
     "wof:id": 1527854705,
-    "wof:lastmodified": 1701949757,
+    "wof:lastmodified": 1710355812,
     "wof:name": "timetable: Pacific Express / Pan American World Airways",
     "wof:parent_id": 1511939423,
     "wof:placetype": "custom",

@@ -113,13 +113,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/311/011/7/1763110117_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289781
+    ],
     "millsfield:airline_id": [
       1159284989
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159286839
+      1159293593,
+      1159289759
     ],
     "millsfield:exhibition_ids": [
       1159160195
@@ -162,9 +166,12 @@
     "wof:country": "XY",
     "wof:created": 1645220482,
     "wof:depicts": [
+      1159289759,
       1159286839,
       1763109825,
-      1159284989
+      1159284989,
+      1159289781,
+      1159293593
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -185,7 +192,7 @@
       }
     ],
     "wof:id": 1763110117,
-    "wof:lastmodified": 1703147646,
+    "wof:lastmodified": 1710355832,
     "wof:name": "model airplane: Pan American World Airways Cargo, Boeing 727-121",
     "wof:parent_id": 1763109825,
     "wof:placetype": "custom",

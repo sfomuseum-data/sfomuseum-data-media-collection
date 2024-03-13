@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/703/5/1762897035_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289851
+    ],
     "millsfield:airline_id": [
       1159283575
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286819
+      1159293593,
+      1159289819
     ],
     "millsfield:images_texts": [
       "TF-ABK\nAIR ATLANTA ICELANDIC\n•.•Ôee.\nAVIAREPS\n..."
@@ -160,9 +164,12 @@
     "wof:country": "XY",
     "wof:created": 1643414993,
     "wof:depicts": [
-      1762830015,
       1159283575,
-      1159286819
+      1159286819,
+      1159289851,
+      1159293593,
+      1159289819,
+      1762830015
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1762897035,
-    "wof:lastmodified": 1701959702,
+    "wof:lastmodified": 1710355827,
     "wof:name": "slide: Air Atlanta Icelandic, Boeing 737-300",
     "wof:parent_id": 1762830015,
     "wof:placetype": "custom",

@@ -103,14 +103,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/025/511/1/1880255111_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291223
+    ],
     "millsfield:airline_id": [
       1159285067
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1159287361
-    ],
+    "millsfield:company_id": [],
     "millsfield:has_coloring_book": 1,
     "millsfield:images_texts": [
       "EPUBLICI"
@@ -142,9 +143,10 @@
     "wof:country": "XY",
     "wof:created": 1693470434,
     "wof:depicts": [
+      1159287361,
+      1159291223,
       1880254995,
-      1159285067,
-      1159287361
+      1159285067
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -165,7 +167,7 @@
       }
     ],
     "wof:id": 1880255111,
-    "wof:lastmodified": 1702456293,
+    "wof:lastmodified": 1710355833,
     "wof:name": "model airplane: Republic Airlines, Douglas DC-9",
     "wof:parent_id": 1880254995,
     "wof:placetype": "custom",

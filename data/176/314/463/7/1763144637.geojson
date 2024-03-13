@@ -116,12 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/314/463/7/1763144637_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159292423
+    ],
     "millsfield:airline_id": [
       1159285651
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293917
+    ],
     "millsfield:images_texts": [
       "EXCAMBIAN\nNC 41881",
       "EXCAMBIAN\nSikorsky VS-44A\nScale 1/100",
@@ -165,8 +170,10 @@
     "wof:country": "XY",
     "wof:created": 1645692213,
     "wof:depicts": [
-      1763143941,
-      1159285651
+      1159285651,
+      1159292423,
+      1159293917,
+      1763143941
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -187,7 +194,7 @@
       }
     ],
     "wof:id": 1763144637,
-    "wof:lastmodified": 1701962268,
+    "wof:lastmodified": 1710355834,
     "wof:name": "model airplane: American Export Airlines, Sikorsky VS-44A",
     "wof:parent_id": 1763143941,
     "wof:placetype": "custom",

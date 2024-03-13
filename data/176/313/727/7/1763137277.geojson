@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/313/727/7/1763137277_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159285013
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159287001
+      1159293593,
+      1159289759
     ],
     "millsfield:has_coloring_book": 1,
     "millsfield:images_texts": [
@@ -166,9 +170,12 @@
     "wof:country": "XY",
     "wof:created": 1645561815,
     "wof:depicts": [
+      1159287001,
+      1159289789,
+      1159293593,
+      1159289759,
       1763136879,
-      1159285013,
-      1159287001
+      1159285013
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -189,7 +196,7 @@
       }
     ],
     "wof:id": 1763137277,
-    "wof:lastmodified": 1702456293,
+    "wof:lastmodified": 1710355834,
     "wof:name": "model airplane: PeoplExpress, Boeing 727-200",
     "wof:parent_id": 1763136879,
     "wof:placetype": "custom",

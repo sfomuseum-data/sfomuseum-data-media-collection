@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/497/3/1763444973_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159292085
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -122,7 +125,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293829,
+      1159289409
+    ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tailnumbers": [
       "N325US"
@@ -155,9 +161,12 @@
     "wof:country": "US",
     "wof:created": 1649404925,
     "wof:depicts": [
-      1762759649,
       1159284907,
-      102525635
+      102525635,
+      1159292085,
+      1159293829,
+      1159289409,
+      1762759649
     ],
     "wof:geomhash": "8f3dac9c06aa631b6f25f2d82464e51b",
     "wof:hierarchy": [
@@ -189,7 +198,7 @@
       }
     ],
     "wof:id": 1763444973,
-    "wof:lastmodified": 1679077492,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: Northwest Airlines, Airbus A320-200, Detroit Metropolitan Airport (DTW)",
     "wof:parent_id": 1762759649,
     "wof:placetype": "custom",

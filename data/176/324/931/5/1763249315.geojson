@@ -116,14 +116,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/324/931/5/1763249315_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290421
+    ],
     "millsfield:airline_id": [
       1159285663
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287595
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "Save with\nsafety.\nWESTERN AIR\nласі\nDaily DC-4\nCoachmaster\nflights between\nLOS ANGELES\n(Burbank)\nSAN FRANCISCO\nOAKLAND\nonly\n5095"
     ],
@@ -154,9 +155,10 @@
     "wof:country": "XY",
     "wof:created": 1646988182,
     "wof:depicts": [
+      1159287595,
+      1159290421,
       1763248951,
-      1159285663,
-      1159287595
+      1159285663
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -177,7 +179,7 @@
       }
     ],
     "wof:id": 1763249315,
-    "wof:lastmodified": 1701957974,
+    "wof:lastmodified": 1710355821,
     "wof:name": "timetable: Western Air Lines",
     "wof:parent_id": 1763248951,
     "wof:placetype": "custom",

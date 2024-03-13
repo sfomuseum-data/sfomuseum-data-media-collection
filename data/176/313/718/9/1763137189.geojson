@@ -103,12 +103,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/313/718/9/1763137189_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289891
+    ],
     "millsfield:airline_id": [
       1159285439
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289873
+    ],
     "millsfield:has_coloring_book": 1,
     "millsfield:images_texts": [
       "America West Airlines\nBENG 1471200",
@@ -149,7 +155,10 @@
     "wof:created": 1645561794,
     "wof:depicts": [
       1763136853,
-      1159285439
+      1159285439,
+      1159289891,
+      1159293593,
+      1159289873
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -170,7 +179,7 @@
       }
     ],
     "wof:id": 1763137189,
-    "wof:lastmodified": 1702456293,
+    "wof:lastmodified": 1710355833,
     "wof:name": "model airplane: America West Airlines, Boeing 747-200",
     "wof:parent_id": 1763136853,
     "wof:placetype": "custom",

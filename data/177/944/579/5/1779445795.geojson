@@ -116,14 +116,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/177/944/579/5/1779445795_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159284309
     ],
     "millsfield:category_id": 1763416373,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1159287349
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "Tiolene\nMOTOR OIL\nPURE\nFASTER\nnes\nAviation Quality"
     ],
@@ -154,9 +155,10 @@
     "wof:country": "XY",
     "wof:created": 1652428589,
     "wof:depicts": [
-      1159284309,
       1159287349,
-      1779445109
+      1779445109,
+      1159290417,
+      1159284309
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -177,7 +179,7 @@
       }
     ],
     "wof:id": 1779445795,
-    "wof:lastmodified": 1701963163,
+    "wof:lastmodified": 1710355837,
     "wof:name": "poster: Tiolene Motor Oil",
     "wof:parent_id": 1779445109,
     "wof:placetype": "custom",

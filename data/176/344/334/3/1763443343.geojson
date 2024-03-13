@@ -106,13 +106,16 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/334/3/1763443343_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291281
+    ],
     "millsfield:airline_id": [
       1159285101
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287229
+      1159293561
     ],
     "millsfield:images_texts": [
       "sabena\nContinental"
@@ -144,9 +147,11 @@
     "wof:country": "XY",
     "wof:created": 1649404546,
     "wof:depicts": [
+      1159285101,
+      1159291281,
+      1159293561,
       1159287229,
-      1762760657,
-      1159285101
+      1762760657
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -167,7 +172,7 @@
       }
     ],
     "wof:id": 1763443343,
-    "wof:lastmodified": 1701954889,
+    "wof:lastmodified": 1710355818,
     "wof:name": "slide: Sabena, McDonnell Douglas MD-11",
     "wof:parent_id": 1762760657,
     "wof:placetype": "custom",

@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/084/3/1762710843_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291223
+    ],
     "millsfield:airline_id": [
       1159283827
     ],
@@ -125,9 +128,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288673
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "Port Erie International Airport, Erie, Pennsylvania'",
       "PORT ERIE INTERNATIONAL AIRPORT\nErie, Pa.\nServing Northwest Pennsylvania with world wide flights\ndaily.\nPhoto by S. Fredman\nLakeport Dist. Inc., 139 West 18th St., Erie, Pa. 16501\n111942\n(Plastichrome\nanaton\n2015.166.1931"
@@ -160,10 +161,11 @@
     "wof:country": "US",
     "wof:created": 1641350246,
     "wof:depicts": [
-      1159283827,
-      102524857,
       1159288673,
-      1762687409
+      1762687409,
+      1159291223,
+      1159283827,
+      102524857
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -184,7 +186,7 @@
       }
     ],
     "wof:id": 1762710843,
-    "wof:lastmodified": 1701960489,
+    "wof:lastmodified": 1710355829,
     "wof:name": "postcard: Allegheny Airlines, Douglas DC-9, Erie Airport",
     "wof:parent_id": 1762687409,
     "wof:placetype": "custom",

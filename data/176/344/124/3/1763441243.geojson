@@ -106,13 +106,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/124/3/1763441243_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289915
+    ],
     "millsfield:airline_id": [
       1159284349
     ],
     "millsfield:category_id": 1762679663,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159288125
+      1159293593,
+      1159289873
     ],
     "millsfield:exhibition_ids": [
       1159160461
@@ -148,9 +152,12 @@
     "wof:country": "XY",
     "wof:created": 1649404058,
     "wof:depicts": [
+      1159284349,
+      1159289915,
+      1159293593,
+      1159289873,
       1159288125,
-      1763350545,
-      1159284349
+      1763350545
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -171,7 +178,7 @@
       }
     ],
     "wof:id": 1763441243,
-    "wof:lastmodified": 1703147628,
+    "wof:lastmodified": 1710355815,
     "wof:name": "playing cards: EVA Air, Boeing 747-400",
     "wof:parent_id": 1763350545,
     "wof:placetype": "custom",

@@ -111,12 +111,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/056/7/1762890567_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290439
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
     "millsfield:category_id": 1763416397,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159290435
+    ],
     "millsfield:images_texts": [
       "DC -7C\nFlown to you\nBY\nNORTHWEST Orient AIRLINES\nTR-AD-232\nPRINTED IN U.S. A."
     ],
@@ -147,10 +152,12 @@
     "wof:country": "XY",
     "wof:created": 1643412731,
     "wof:depicts": [
-      1159284913,
-      1159284907,
       1159287407,
-      1762828257
+      1762828257,
+      1159290439,
+      1159290435,
+      1159284913,
+      1159284907
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -171,7 +178,7 @@
       }
     ],
     "wof:id": 1762890567,
-    "wof:lastmodified": 1701937940,
+    "wof:lastmodified": 1710355799,
     "wof:name": "luggage label: Northwest Orient Airlines",
     "wof:parent_id": 1762828257,
     "wof:placetype": "custom",

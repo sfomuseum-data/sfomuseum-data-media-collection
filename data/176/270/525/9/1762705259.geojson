@@ -113,14 +113,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/270/525/9/1762705259_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1762973287
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288193
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "FRONTIER\nTraub, 2313 South Road, Baltimore 9, Md.\nPOST CARD\nP29381\n2015166.0704."
     ],
@@ -151,10 +152,11 @@
     "wof:country": "XY",
     "wof:created": 1641348207,
     "wof:depicts": [
-      1762681925,
       1159284401,
       1159288193,
-      1762973287
+      1762973287,
+      1159290417,
+      1762681925
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -175,7 +177,7 @@
       }
     ],
     "wof:id": 1762705259,
-    "wof:lastmodified": 1701958906,
+    "wof:lastmodified": 1710355824,
     "wof:name": "postcard: Frontier Airlines, Douglas DC-3",
     "wof:parent_id": 1762681925,
     "wof:placetype": "custom",

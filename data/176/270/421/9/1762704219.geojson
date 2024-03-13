@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/270/421/9/1762704219_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159292085
+    ],
     "millsfield:airline_id": [
       1159284193
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286945
+      1159293829,
+      1159289409
     ],
     "millsfield:images_texts": [
       "A 320\nDeutschland",
@@ -156,9 +160,12 @@
     "wof:country": "XY",
     "wof:created": 1641347823,
     "wof:depicts": [
+      1159286945,
+      1159292085,
+      1159293829,
+      1159289409,
       1762692527,
-      1159284193,
-      1159286945
+      1159284193
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -179,7 +186,7 @@
       }
     ],
     "wof:id": 1762704219,
-    "wof:lastmodified": 1701958676,
+    "wof:lastmodified": 1710355823,
     "wof:name": "postcard: Condor Flugdienst, Airbus A320",
     "wof:parent_id": 1762692527,
     "wof:placetype": "custom",

@@ -115,6 +115,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/829/3/1762898293_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289419
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -123,7 +126,9 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293829
+    ],
     "millsfield:images_texts": [
       "NORTHWEST AIRLINES"
     ],
@@ -160,9 +165,11 @@
     "wof:country": "US",
     "wof:created": 1643415461,
     "wof:depicts": [
+      1762760351,
+      1159289419,
+      1159293829,
       1159284907,
-      102527513,
-      1762760351
+      102527513
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1762898293,
-    "wof:lastmodified": 1694161385,
+    "wof:lastmodified": 1710355838,
     "wof:name": "slide: Northwest Airlines, Airbus A330, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760351,
     "wof:placetype": "custom",

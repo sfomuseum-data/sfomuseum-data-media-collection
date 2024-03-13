@@ -104,13 +104,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/032/165/1/1880321651_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289527
+    ],
     "millsfield:airline_id": [
       1159284021
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159287729
+      1159293741,
+      1159289519
     ],
     "millsfield:exhibition_ids": [
       1159160707
@@ -148,9 +152,12 @@
     "wof:country": "XY",
     "wof:created": 1694023242,
     "wof:depicts": [
+      1159287729,
+      1159289527,
+      1159293741,
+      1159289519,
       1880318693,
-      1159284021,
-      1159287729
+      1159284021
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -171,7 +178,7 @@
       }
     ],
     "wof:id": 1880321651,
-    "wof:lastmodified": 1703147666,
+    "wof:lastmodified": 1710355846,
     "wof:name": "model airplane: British Airways, BAC One-Eleven Series 400",
     "wof:parent_id": 1880318693,
     "wof:placetype": "custom",

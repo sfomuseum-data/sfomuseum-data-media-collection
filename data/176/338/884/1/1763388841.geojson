@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/884/1/1763388841_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289777
+    ],
     "millsfield:airline_id": [
       1159283989
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286933
+      1159293593,
+      1159289759
     ],
     "millsfield:images_texts": [
       "BURLINGTON\nAIR EXPRESS"
@@ -157,9 +161,12 @@
     "wof:country": "XY",
     "wof:created": 1648799002,
     "wof:depicts": [
-      1159286933,
       1762830601,
-      1159283989
+      1159283989,
+      1159289777,
+      1159293593,
+      1159289759,
+      1159286933
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -180,7 +187,7 @@
       }
     ],
     "wof:id": 1763388841,
-    "wof:lastmodified": 1701959711,
+    "wof:lastmodified": 1710355827,
     "wof:name": "slide: Burlington Air Express, Boeing 727-100",
     "wof:parent_id": 1762830601,
     "wof:placetype": "custom",

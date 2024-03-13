@@ -112,6 +112,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/270/875/7/1762708757_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -120,7 +123,9 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593
+    ],
     "millsfield:images_texts": [
       "NORTHWEST",
       "Huge Northwest Jet leaving the Greater Pitts-\nburgh\nInternational Airport, Pittsburgh, Penn-\nsylvania.\nPub, by Wonday Film Service, Inc., Wilkinsburg, Pa.\n#221-124\nPLACE\nSTAMP\nHERE\n32894\nPost Card\n2015,166\n.1117"
@@ -159,9 +164,11 @@
     "wof:country": "US",
     "wof:created": 1641349517,
     "wof:depicts": [
-      1762693041,
       1159284907,
-      102528181
+      102528181,
+      1159289759,
+      1159293593,
+      1762693041
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -182,7 +189,7 @@
       }
     ],
     "wof:id": 1762708757,
-    "wof:lastmodified": 1701960010,
+    "wof:lastmodified": 1710355827,
     "wof:name": "postcard: Northwest Airlines, Boeing 727, Pittsburgh Airport",
     "wof:parent_id": 1762693041,
     "wof:placetype": "custom",

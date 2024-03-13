@@ -106,13 +106,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/315/650/1/1763156501_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289871
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1360700619
+      1159293593,
+      1159289819
     ],
     "millsfield:images_texts": [
       "2017.127.023"
@@ -144,9 +148,12 @@
     "wof:country": "XY",
     "wof:created": 1645864840,
     "wof:depicts": [
-      1763156333,
       1159283849,
-      1360700619
+      1360700619,
+      1159289871,
+      1159293593,
+      1159289819,
+      1763156333
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -167,7 +174,7 @@
       }
     ],
     "wof:id": 1763156501,
-    "wof:lastmodified": 1701964618,
+    "wof:lastmodified": 1710355839,
     "wof:name": "miniature model airplane: American Airlines, Boeing 737-800",
     "wof:parent_id": 1763156333,
     "wof:placetype": "custom",

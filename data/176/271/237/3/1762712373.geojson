@@ -107,6 +107,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/237/3/1762712373_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290421
+    ],
     "millsfield:airline_id": [
       1159285663
     ],
@@ -115,9 +118,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287595
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "BUSY SAN FRANCISCO MUNICIPAL AIRPORT, SAN MATEO COUNTY, CALIFORNIA\n798",
       "THIS SPACE FOR WRITING MESSAGES\nMANUFACTURED EXCLUSIVELY FOR MASTERCRAFT PICTURES BY\nALEX DULFER PRINTING \u0026 LITHOGRAPHING CO., SAN FRANCISCO.\n11 500\nPLACE\nSTAMP\nHERE\nPOST CARD\n12%55\n2065\n220"
@@ -150,10 +151,11 @@
     "wof:country": "US",
     "wof:created": 1641350769,
     "wof:depicts": [
-      1159287595,
-      1762680403,
       1159285663,
-      1360695655
+      1360695655,
+      1159290421,
+      1159287595,
+      1762680403
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +176,7 @@
       }
     ],
     "wof:id": 1762712373,
-    "wof:lastmodified": 1701960848,
+    "wof:lastmodified": 1710355831,
     "wof:name": "postcard: San Francisco Municipal Airport, Western Air Lines, Douglas DC-4",
     "wof:parent_id": 1762680403,
     "wof:placetype": "custom",

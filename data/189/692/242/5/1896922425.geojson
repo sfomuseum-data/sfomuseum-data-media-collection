@@ -8,7 +8,7 @@
     "date:inception_upper": "2003-12-31",
     "edtf:cessation": "2003~",
     "edtf:inception": "2003~",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -116,11 +116,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/189/692/242/5/1896922425_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289429
+    ],
     "millsfield:airline_id": [
       1746905015
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159293829,
+      1159289425
+    ],
     "millsfield:has_coloring_book": 1,
     "millsfield:images_texts": [
       "A\nINCHILE\n00 00 0 0000000000 0000000000000\nLANCHiLE\nCC-COA"
@@ -153,7 +160,10 @@
     "wof:created": 1703147716,
     "wof:depicts": [
       1763279143,
-      1746905015
+      1746905015,
+      1159289429,
+      1159293829,
+      1159289425
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +184,7 @@
       }
     ],
     "wof:id": 1896922425,
-    "wof:lastmodified": 1703148446,
+    "wof:lastmodified": 1710355850,
     "wof:name": "model airplane: LanChile, Airbus A340-300",
     "wof:parent_id": 1763279143,
     "wof:placetype": "custom",

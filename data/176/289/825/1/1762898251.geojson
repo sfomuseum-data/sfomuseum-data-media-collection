@@ -110,6 +110,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/825/1/1762898251_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284261
     ],
@@ -119,7 +122,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287931
+      1159293593,
+      1159289759
     ],
     "millsfield:images_texts": [
       "LTA"
@@ -157,10 +161,13 @@
     "wof:country": "US",
     "wof:created": 1643415447,
     "wof:depicts": [
-      102527529,
-      1159287931,
       1762760649,
-      1159284261
+      1159284261,
+      1159289789,
+      1159293593,
+      1159289759,
+      102527529,
+      1159287931
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -181,7 +188,7 @@
       }
     ],
     "wof:id": 1762898251,
-    "wof:lastmodified": 1694161385,
+    "wof:lastmodified": 1710355838,
     "wof:name": "slide: Delta Air Lines, Boeing 727-200, San Jose International Airport (SJC)",
     "wof:parent_id": 1762760649,
     "wof:placetype": "custom",

@@ -116,14 +116,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/270/293/5/1762702935_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159283495
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288269
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "An Aer Lingus D.C.3 in flight over the countryside near Dublin Airport",
       "POST CARD\nAer Lingus-Irish Air Lines\nAer Lingus operates services from\nDublin Airport to Shannon, London,\nLiverpool, Manchester, Glasgow, Paris\nand Amsterdam\n2015.166.0074"
@@ -156,9 +157,10 @@
     "wof:country": "XY",
     "wof:created": 1641347350,
     "wof:depicts": [
+      1159283495,
+      1159290417,
       1159288269,
-      1762683541,
-      1159283495
+      1762683541
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -179,7 +181,7 @@
       }
     ],
     "wof:id": 1762702935,
-    "wof:lastmodified": 1701958193,
+    "wof:lastmodified": 1710355822,
     "wof:name": "postcard: Aer Lingus, Douglas DC-3",
     "wof:parent_id": 1762683541,
     "wof:placetype": "custom",

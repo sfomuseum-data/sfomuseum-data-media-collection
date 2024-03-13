@@ -116,14 +116,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/593/7/1762895937_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288779
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "Douglas DC-3\nCollector Series\nUnited\nline\nMainliner.\nAndraen"
     ],
@@ -154,9 +155,10 @@
     "wof:country": "XY",
     "wof:created": 1643414646,
     "wof:depicts": [
-      1159288779,
       1762828075,
-      1159285415
+      1159285415,
+      1159290417,
+      1159288779
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -177,7 +179,7 @@
       }
     ],
     "wof:id": 1762895937,
-    "wof:lastmodified": 1701949258,
+    "wof:lastmodified": 1710355811,
     "wof:name": "postcard: United Air Lines, Douglas DC-3",
     "wof:parent_id": 1762828075,
     "wof:placetype": "custom",

@@ -119,13 +119,16 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/152/784/007/3/1527840073_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291259
+    ],
     "millsfield:airline_id": [
       1159284571
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287035
+      1159293561
     ],
     "millsfield:images_texts": [
       "BATETATE\nJapan Asia\n9,10$\nAirways\nTimetable-\nSeptember, October\nEdition 1989\nJAA\nSEP.1-- OCT.31'89\n#5#1 0B*T STA#DC-10\nBAJESHEATE"
@@ -161,9 +164,11 @@
     "wof:country": "XX",
     "wof:created": 1578952496,
     "wof:depicts": [
-      1511940667,
       1159287035,
-      1159284571
+      1159284571,
+      1159291259,
+      1159293561,
+      1511940667
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -185,7 +190,7 @@
       }
     ],
     "wof:id": 1527840073,
-    "wof:lastmodified": 1701943597,
+    "wof:lastmodified": 1710355805,
     "wof:name": "timetable: Japan Asia Airways",
     "wof:parent_id": 1511940667,
     "wof:placetype": "custom",

@@ -115,6 +115,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/263/7/1763442637_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290421
+    ],
     "millsfield:airline_id": [
       1159285589
     ],
@@ -123,9 +126,7 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288009
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "NES\nmissair"
     ],
@@ -165,10 +166,11 @@
     "wof:country": "US",
     "wof:created": 1649404381,
     "wof:depicts": [
-      102534365,
       1159288009,
       1762759061,
-      1159285589
+      1159285589,
+      1159290421,
+      102534365
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -201,7 +203,7 @@
       }
     ],
     "wof:id": 1763442637,
-    "wof:lastmodified": 1694161352,
+    "wof:lastmodified": 1710355817,
     "wof:name": "slide: Swiss Air Lines, Douglas DC-4-1009",
     "wof:parent_id": 1762759061,
     "wof:placetype": "custom",

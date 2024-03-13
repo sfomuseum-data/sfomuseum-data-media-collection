@@ -116,12 +116,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/332/7/1763443327_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289851
+    ],
     "millsfield:airline_id": [
       1159285435
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289819
+    ],
     "millsfield:images_texts": [
       "US AIRWAYS\n0000000000"
     ],
@@ -155,8 +161,11 @@
     "wof:country": "XY",
     "wof:created": 1649404542,
     "wof:depicts": [
+      1159289819,
       1762761233,
-      1159285435
+      1159285435,
+      1159289851,
+      1159293593
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -177,7 +186,7 @@
       }
     ],
     "wof:id": 1763443327,
-    "wof:lastmodified": 1701954888,
+    "wof:lastmodified": 1710355818,
     "wof:name": "slide: USAir, Boeing 737-300",
     "wof:parent_id": 1762761233,
     "wof:placetype": "custom",

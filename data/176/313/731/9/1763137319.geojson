@@ -106,13 +106,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/313/731/9/1763137319_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289915
+    ],
     "millsfield:airline_id": [
       1159283697
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159287125
+      1159293593,
+      1159289873
     ],
     "millsfield:has_coloring_book": 1,
     "millsfield:images_texts": [
@@ -153,9 +157,12 @@
     "wof:country": "XY",
     "wof:created": 1645561824,
     "wof:depicts": [
-      1159283697,
       1159287125,
-      1763136877
+      1763136877,
+      1159289915,
+      1159293593,
+      1159289873,
+      1159283697
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -176,7 +183,7 @@
       }
     ],
     "wof:id": 1763137319,
-    "wof:lastmodified": 1702542668,
+    "wof:lastmodified": 1710355834,
     "wof:name": "model airplane: Air New Zealand, Boeing 747",
     "wof:parent_id": 1763136877,
     "wof:placetype": "custom",

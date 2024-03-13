@@ -115,6 +115,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/916/7/1763389167_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289913
+    ],
     "millsfield:airline_id": [
       1159285461
     ],
@@ -124,7 +127,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288487
+      1159293593,
+      1159289873
     ],
     "millsfield:images_texts": [
       "VARIG"
@@ -165,10 +169,13 @@
     "wof:country": "US",
     "wof:created": 1648799078,
     "wof:depicts": [
-      1159285461,
       102534365,
       1159288487,
-      1762759535
+      1762759535,
+      1159289913,
+      1159293593,
+      1159289873,
+      1159285461
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -201,7 +208,7 @@
       }
     ],
     "wof:id": 1763389167,
-    "wof:lastmodified": 1694161368,
+    "wof:lastmodified": 1710355827,
     "wof:name": "slide: VARIG, Boeing 747-300, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1762759535,
     "wof:placetype": "custom",

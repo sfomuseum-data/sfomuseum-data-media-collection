@@ -116,12 +116,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/322/648/5/1763226485_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289915
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289873
+    ],
     "millsfield:images_texts": [
       "2017.127.084\nnwa\nNORTHET ARRENES"
     ],
@@ -153,7 +159,10 @@
     "wof:created": 1646728908,
     "wof:depicts": [
       1763226409,
-      1159284907
+      1159284907,
+      1159289915,
+      1159293593,
+      1159289873
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +183,7 @@
       }
     ],
     "wof:id": 1763226485,
-    "wof:lastmodified": 1701964607,
+    "wof:lastmodified": 1710355839,
     "wof:name": "miniature model airplane: Northwest Airlines, Boeing 747-400",
     "wof:parent_id": 1763226409,
     "wof:placetype": "custom",

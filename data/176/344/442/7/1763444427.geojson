@@ -110,6 +110,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/442/7/1763444427_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -118,7 +121,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289759
+    ],
     "millsfield:subcategory_id": 1511213401,
     "mz:is_current": 1,
     "sfomuseum:filename": "128827.tif",
@@ -147,7 +153,10 @@
     "wof:depicts": [
       102527513,
       1762761143,
-      1159284907
+      1159284907,
+      1159289789,
+      1159293593,
+      1159289759
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -188,7 +197,7 @@
       }
     ],
     "wof:id": 1763444427,
-    "wof:lastmodified": 1679077489,
+    "wof:lastmodified": 1710355818,
     "wof:name": "slide: Northwest Airlines, Boeing 727-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762761143,
     "wof:placetype": "custom",

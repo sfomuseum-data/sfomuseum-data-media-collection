@@ -109,6 +109,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/265/5/1763442655_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289915
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -117,7 +120,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289873
+    ],
     "millsfield:subcategory_id": 1511213401,
     "mz:is_current": 1,
     "sfomuseum:filename": "125937.tif",
@@ -148,9 +154,12 @@
     "wof:country": "US",
     "wof:created": 1649404385,
     "wof:depicts": [
+      1159289873,
       1159284907,
       102534365,
-      1762761431
+      1762761431,
+      1159289915,
+      1159293593
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -183,7 +192,7 @@
       }
     ],
     "wof:id": 1763442655,
-    "wof:lastmodified": 1679077479,
+    "wof:lastmodified": 1710355817,
     "wof:name": "slide: Northwest Airlines, Boeing 747",
     "wof:parent_id": 1762761431,
     "wof:placetype": "custom",

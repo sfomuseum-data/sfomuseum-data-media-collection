@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/272/5/1763442725_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289851
+    ],
     "millsfield:airline_id": [
       1159285351
     ],
@@ -123,7 +126,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288427
+      1159293593,
+      1159289819
     ],
     "millsfield:subcategory_id": 1511213401,
     "mz:is_current": 1,
@@ -156,10 +160,13 @@
     "wof:country": "NL",
     "wof:created": 1649404401,
     "wof:depicts": [
+      1159285351,
+      1159289851,
+      1159293593,
+      1159289819,
       102542801,
       1159288427,
-      1762760487,
-      1159285351
+      1762760487
     ],
     "wof:geomhash": "c97c5c719ccc4d0199c2fa6f18cd1aab",
     "wof:hierarchy": [
@@ -192,7 +199,7 @@
       }
     ],
     "wof:id": 1763442725,
-    "wof:lastmodified": 1679077479,
+    "wof:lastmodified": 1710355817,
     "wof:name": "slide: Transavia, Boeing 737-300, Amsterdam Airport Schiphol (AMS)",
     "wof:parent_id": 1762760487,
     "wof:placetype": "custom",

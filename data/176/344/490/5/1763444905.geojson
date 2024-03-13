@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/490/5/1763444905_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159293279
+    ],
     "millsfield:airline_id": [
       1159283791
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286809
+      1159293749,
+      1159292793
     ],
     "millsfield:images_texts": [
       "AIRCAL\n000000\n0000000\nN144AC\nAIRSAL"
@@ -157,9 +161,12 @@
     "wof:country": "XY",
     "wof:created": 1649404909,
     "wof:depicts": [
+      1159292793,
       1762759605,
       1159283791,
-      1159286809
+      1159286809,
+      1159293279,
+      1159293749
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -180,7 +187,7 @@
       }
     ],
     "wof:id": 1763444905,
-    "wof:lastmodified": 1701955283,
+    "wof:lastmodified": 1710355819,
     "wof:name": "photograph: AirCal BAe 146-200",
     "wof:parent_id": 1762759605,
     "wof:placetype": "custom",

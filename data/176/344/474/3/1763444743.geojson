@@ -114,6 +114,10 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/474/3/1763444743_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289759,
+      1159291223
+    ],
     "millsfield:airline_id": [
       1159284973
     ],
@@ -122,9 +126,7 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159286629
-    ],
+    "millsfield:company_id": [],
     "millsfield:subcategory_id": 1511213367,
     "mz:is_current": 1,
     "sfomuseum:filename": "2015.074.085.tif",
@@ -151,11 +153,13 @@
     "wof:country": "US",
     "wof:created": 1649404872,
     "wof:depicts": [
+      1762760675,
+      1159289759,
+      1159291223,
       1159284913,
       1159284973,
       102527513,
-      1159286629,
-      1762760675
+      1159286629
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -196,7 +200,7 @@
       }
     ],
     "wof:id": 1763444743,
-    "wof:lastmodified": 1705566858,
+    "wof:lastmodified": 1710355819,
     "wof:name": "photograph: San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760675,
     "wof:placetype": "custom",

@@ -116,12 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/044/035/5/1880440355_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290439
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159290435
+    ],
     "millsfield:images_texts": [
       "NORTHWEST\nN284\nDC-7C\nNORTHWEST",
       "FSEN\nNORTHWEST",
@@ -160,7 +165,9 @@
     "wof:created": 1695197931,
     "wof:depicts": [
       1763109817,
-      1159284907
+      1159284907,
+      1159290439,
+      1159290435
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -181,7 +188,7 @@
       }
     ],
     "wof:id": 1880440355,
-    "wof:lastmodified": 1701970583,
+    "wof:lastmodified": 1710355849,
     "wof:name": "model airplane: Northwest Airlines, Douglas DC-7C",
     "wof:parent_id": 1763109817,
     "wof:placetype": "custom",

@@ -115,6 +115,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/918/7/1762899187_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291281
+    ],
     "millsfield:airline_id": [
       1159284613
     ],
@@ -124,7 +127,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287541
+      1159293561
     ],
     "millsfield:images_texts": [
       "KLM"
@@ -162,10 +165,12 @@
     "wof:country": "US",
     "wof:created": 1643415799,
     "wof:depicts": [
+      1159284613,
+      1159291281,
+      1159293561,
       102527513,
       1159287541,
-      1762761433,
-      1159284613
+      1762761433
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -186,7 +191,7 @@
       }
     ],
     "wof:id": 1762899187,
-    "wof:lastmodified": 1694161392,
+    "wof:lastmodified": 1710355841,
     "wof:name": "slide: KLM (Royal Dutch Airlines), McDonnell Douglas MD-11, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762761433,
     "wof:placetype": "custom",

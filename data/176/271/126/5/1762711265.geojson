@@ -112,6 +112,10 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/126/5/1762711265_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289759,
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159284513
     ],
@@ -120,9 +124,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287015
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "KEFLAVIK AIRPORT ICELAND\nICELANDAIR =",
       "• Published by Sólarfilma, Reykjavik, Iceland. No. 541\nPhoto: Snorri Snorrason.\nLitgreining:\nKorpus\nPrentsmidjan\nEdda\nKeflavikurflugvöllur.\nLufthavnen í Keflavik pà Island.\nKeflavik Airport, Iceland.\nKeflavik Flughafen, Island.\n2015 мо 20241"
@@ -155,10 +157,12 @@
     "wof:country": "",
     "wof:created": 1641350388,
     "wof:depicts": [
-      1159287015,
       1762685555,
       1159284513,
-      102553077
+      102553077,
+      1159289759,
+      1159290443,
+      1159287015
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -179,7 +183,7 @@
       }
     ],
     "wof:id": 1762711265,
-    "wof:lastmodified": 1701960592,
+    "wof:lastmodified": 1710355830,
     "wof:name": "postcard: Keflavik Airport, IcelandAir, Boeing 727, DC-8",
     "wof:parent_id": 1762685555,
     "wof:placetype": "custom",

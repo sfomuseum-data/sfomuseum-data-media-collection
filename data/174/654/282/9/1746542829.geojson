@@ -116,12 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/174/654/282/9/1746542829_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289873
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593
+    ],
     "millsfield:images_texts": [
       "5TH EDITION\nNORTHWEST ORIENT\nINTERIM\nSYSTEM\nTIMETABLE\nEFFECTIVE JUNE 10, 1982\nANISTANT\nDuring the strike by the\nInternational Association\nof Machinists,\nall of these flights will\nbe operated.\nAdditional flights will be added,\nso check with your travel agent\nor Northwest Orient\nfor complete schedule information."
     ],
@@ -152,10 +157,12 @@
     "wof:country": "XY",
     "wof:created": 1635367672,
     "wof:depicts": [
-      1746542761,
       1159284907,
       1159287407,
-      1159284913
+      1159284913,
+      1159289873,
+      1159293593,
+      1746542761
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -176,7 +183,7 @@
       }
     ],
     "wof:id": 1746542829,
-    "wof:lastmodified": 1701951099,
+    "wof:lastmodified": 1710355813,
     "wof:name": "timetable: Northwest Orient Airlines",
     "wof:parent_id": 1746542761,
     "wof:placetype": "custom",

@@ -109,11 +109,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/928/3/1763389283_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290473
+    ],
     "millsfield:airport_id": [
       102527513
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159290443
+    ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tailnumbers": [
       "N806WA"
@@ -143,8 +149,10 @@
     "wof:country": "US",
     "wof:created": 1648799104,
     "wof:depicts": [
+      1159290443,
       102527513,
-      1762760363
+      1762760363,
+      1159290473
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -185,7 +193,7 @@
       }
     ],
     "wof:id": 1763389283,
-    "wof:lastmodified": 1679077480,
+    "wof:lastmodified": 1710355837,
     "wof:name": "slide: Douglas DC-8-63, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760363,
     "wof:placetype": "custom",

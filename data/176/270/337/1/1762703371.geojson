@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/270/337/1/1762703371_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289689
+    ],
     "millsfield:airline_id": [
       1159283627
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700617
+      1159293593,
+      1159289653
     ],
     "millsfield:images_texts": [
       "A\nI R\nFRANCE",
@@ -162,9 +166,12 @@
     "wof:country": "XY",
     "wof:created": 1641347510,
     "wof:depicts": [
-      1159283627,
       1360700617,
-      1762692335
+      1762692335,
+      1159289689,
+      1159293593,
+      1159289653,
+      1159283627
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -185,7 +192,7 @@
       }
     ],
     "wof:id": 1762703371,
-    "wof:lastmodified": 1701958290,
+    "wof:lastmodified": 1710355822,
     "wof:name": "postcard: Air France, Boeing 707-320",
     "wof:parent_id": 1762692335,
     "wof:placetype": "custom",

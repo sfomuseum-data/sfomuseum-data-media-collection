@@ -116,14 +116,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/056/5/1763380565_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291223
+    ],
     "millsfield:airline_id": [
       1159283539
     ],
     "millsfield:category_id": 1762679663,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1159287499
-    ],
+    "millsfield:company_id": [],
     "millsfield:exhibition_ids": [
       1159160279
     ],
@@ -158,9 +159,10 @@
     "wof:country": "XY",
     "wof:created": 1648683605,
     "wof:depicts": [
-      1159287499,
       1763293699,
-      1159283539
+      1159283539,
+      1159291223,
+      1159287499
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -181,7 +183,7 @@
       }
     ],
     "wof:id": 1763380565,
-    "wof:lastmodified": 1703147628,
+    "wof:lastmodified": 1710355815,
     "wof:name": "playing cards: AeroMexico",
     "wof:parent_id": 1763293699,
     "wof:placetype": "custom",

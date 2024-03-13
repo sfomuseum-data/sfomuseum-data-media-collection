@@ -112,6 +112,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/927/7/1763389277_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
@@ -121,7 +124,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700619
+      1159293593,
+      1159289759
     ],
     "millsfield:images_texts": [
       "AA\nAmeric"
@@ -158,10 +162,13 @@
     "wof:country": "US",
     "wof:created": 1648799103,
     "wof:depicts": [
-      1360700619,
       1762760005,
       1159283849,
-      102527513
+      102527513,
+      1159289789,
+      1159293593,
+      1159289759,
+      1360700619
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -202,7 +209,7 @@
       }
     ],
     "wof:id": 1763389277,
-    "wof:lastmodified": 1701963125,
+    "wof:lastmodified": 1710355837,
     "wof:name": "slide: American Airlines, Boeing 727-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760005,
     "wof:placetype": "custom",

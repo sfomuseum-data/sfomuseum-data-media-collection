@@ -117,6 +117,10 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/349/1/1762713491_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290427,
+      1159290435
+    ],
     "millsfield:airline_id": [
       1159285415,
       1159285663
@@ -126,9 +130,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287595
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "Greetings From\nUngeles Internauo 2e\nairport",
       "LOS ANGELES INTERNATIONAL AIRPORT\nLos Angeles, Calif\nAerial view of Main Concourse. Destined to be the largest and most modern air terminat in the world\nNGE\nLed\nКоге\nANGEL\nCALIF\n12\nP22073\nmell.\nMRITER\nUnknown\nInsufficient addi\nBuch\nLeft\nПо\noffice\nColor by Bill Eccles\n2015.166.2558\n3-"
@@ -161,11 +163,13 @@
     "wof:country": "US",
     "wof:created": 1641351163,
     "wof:depicts": [
-      1159287595,
-      1762689235,
       1159285415,
       1159285663,
-      102533795
+      102533795,
+      1159290427,
+      1159290435,
+      1159287595,
+      1762689235
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -186,7 +190,7 @@
       }
     ],
     "wof:id": 1762713491,
-    "wof:lastmodified": 1701961106,
+    "wof:lastmodified": 1710355831,
     "wof:name": "postcard: Los Angeles International Airport",
     "wof:parent_id": 1762689235,
     "wof:placetype": "custom",

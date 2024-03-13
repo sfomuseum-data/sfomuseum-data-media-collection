@@ -104,6 +104,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/461/3/1763444613_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289759
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
@@ -113,7 +116,7 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1360700619
+      1159293593
     ],
     "millsfield:subcategory_id": 1511213801,
     "mz:is_current": 1,
@@ -141,10 +144,12 @@
     "wof:country": "US",
     "wof:created": 1649404842,
     "wof:depicts": [
-      1762760639,
       1159283849,
       102527513,
-      1360700619
+      1360700619,
+      1159289759,
+      1159293593,
+      1762760639
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -185,7 +190,7 @@
       }
     ],
     "wof:id": 1763444613,
-    "wof:lastmodified": 1679077490,
+    "wof:lastmodified": 1710355818,
     "wof:name": "negative: American Airlines, Boeing 727",
     "wof:parent_id": 1762760639,
     "wof:placetype": "custom",

@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/921/1/1762899211_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289939
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
@@ -122,7 +125,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289935
+    ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tail_numbers": [
       "N512US"
@@ -153,9 +159,12 @@
     "wof:country": "US",
     "wof:created": 1643415806,
     "wof:depicts": [
+      1159284907,
+      1159289939,
+      1159293593,
+      1159289935,
       102527513,
-      1762759155,
-      1159284907
+      1762759155
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -176,7 +185,7 @@
       }
     ],
     "wof:id": 1762899211,
-    "wof:lastmodified": 1679077468,
+    "wof:lastmodified": 1710355841,
     "wof:name": "slide: Northwest Airlines, Boeing 757-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762759155,
     "wof:placetype": "custom",

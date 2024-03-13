@@ -111,13 +111,16 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/032/090/7/1880320907_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159293129
+    ],
     "millsfield:airline_id": [
       1159285825
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159287479
+      1159293995
     ],
     "millsfield:exhibition_ids": [
       1159160707
@@ -157,9 +160,11 @@
     "wof:country": "XY",
     "wof:created": 1694023088,
     "wof:depicts": [
-      1880318455,
       1159285825,
-      1159287479
+      1159287479,
+      1159293129,
+      1159293995,
+      1880318455
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -180,7 +185,7 @@
       }
     ],
     "wof:id": 1880320907,
-    "wof:lastmodified": 1703147664,
+    "wof:lastmodified": 1710355845,
     "wof:name": "model airplane: Qantas Empire Airways, de Havilland D.H.86 Express",
     "wof:parent_id": 1880318455,
     "wof:placetype": "custom",

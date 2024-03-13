@@ -107,6 +107,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/527/1/1763445271_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289891
+    ],
     "millsfield:airline_id": [
       1159285123
     ],
@@ -116,7 +119,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287673
+      1159293593,
+      1159289873
     ],
     "millsfield:images_texts": [
       "SAUDI AR ARIAN\nARGO U2101"
@@ -154,10 +158,13 @@
     "wof:country": "US",
     "wof:created": 1649404992,
     "wof:depicts": [
+      1159285123,
+      1159289891,
+      1159293593,
+      1159289873,
       102534365,
       1159287673,
-      1762760125,
-      1159285123
+      1762760125
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -190,7 +197,7 @@
       }
     ],
     "wof:id": 1763445271,
-    "wof:lastmodified": 1701955330,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: Saudia Airlines, Boeing 747-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1762760125,
     "wof:placetype": "custom",

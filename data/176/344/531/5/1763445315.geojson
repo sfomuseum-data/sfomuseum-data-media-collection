@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/531/5/1763445315_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289827
+    ],
     "millsfield:airline_id": [
       1159283741
     ],
@@ -126,7 +129,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288837
+      1159293593,
+      1159289819
     ],
     "millsfield:images_texts": [
       "AIR\nSOUTH"
@@ -162,10 +166,13 @@
     "wof:country": "US",
     "wof:created": 1649405003,
     "wof:depicts": [
-      1762761057,
-      1159283741,
       102531023,
-      1159288837
+      1159288837,
+      1159289827,
+      1159293593,
+      1159289819,
+      1762761057,
+      1159283741
     ],
     "wof:geomhash": "c66831237e200a408b9ec647c9b5d8f8",
     "wof:hierarchy": [
@@ -197,7 +204,7 @@
       }
     ],
     "wof:id": 1763445315,
-    "wof:lastmodified": 1701955336,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: Air South, Boeing 737-200, Miami International Airport (MIA)",
     "wof:parent_id": 1762761057,
     "wof:placetype": "custom",

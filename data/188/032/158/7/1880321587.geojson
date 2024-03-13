@@ -116,13 +116,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/032/158/7/1880321587_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159293037
+    ],
     "millsfield:airline_id": [
       1159284953
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159288069
+      1159293593,
+      1159292887,
+      1159289601
     ],
     "millsfield:exhibition_ids": [
       1159160707
@@ -158,9 +163,13 @@
     "wof:country": "XY",
     "wof:created": 1694023231,
     "wof:depicts": [
+      1159289601,
       1159288069,
       1880318941,
-      1159284953
+      1159284953,
+      1159293037,
+      1159293593,
+      1159292887
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -181,7 +190,7 @@
       }
     ],
     "wof:id": 1880321587,
-    "wof:lastmodified": 1703147666,
+    "wof:lastmodified": 1710355846,
     "wof:name": "model airplane: Pacific Air Transport, Boeing 40B",
     "wof:parent_id": 1880318941,
     "wof:placetype": "custom",

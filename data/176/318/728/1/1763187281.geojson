@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/318/728/1/1763187281_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290661
+    ],
     "millsfield:airline_id": [
       1159283855
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159294163
+      1159293619,
+      1159293293
     ],
     "millsfield:images_texts": [
       "2017.127.032\nAmerican"
@@ -154,9 +158,12 @@
     "wof:country": "XY",
     "wof:created": 1646296686,
     "wof:depicts": [
+      1159283855,
+      1159290661,
+      1159293619,
+      1159293293,
       1159294163,
-      1763187139,
-      1159283855
+      1763187139
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -177,7 +184,7 @@
       }
     ],
     "wof:id": 1763187281,
-    "wof:lastmodified": 1701964622,
+    "wof:lastmodified": 1710355839,
     "wof:name": "miniature model airplane: American Eagle, Fokker F.100",
     "wof:parent_id": 1763187139,
     "wof:placetype": "custom",

@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/439/7/1763444397_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289965
+    ],
     "millsfield:airline_id": [
       1159284659
     ],
@@ -126,7 +129,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287855
+      1159293593,
+      1159289949
     ],
     "millsfield:images_texts": [
       "LAN"
@@ -164,10 +168,13 @@
     "wof:country": "US",
     "wof:created": 1649404791,
     "wof:depicts": [
+      1159287855,
+      1159289965,
+      1159293593,
+      1159289949,
       1762760317,
       1159284659,
-      102534365,
-      1159287855
+      102534365
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -200,7 +207,7 @@
       }
     ],
     "wof:id": 1763444397,
-    "wof:lastmodified": 1701955133,
+    "wof:lastmodified": 1710355818,
     "wof:name": "slide: LAN Airlines, Boeing 767-300, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1762760317,
     "wof:placetype": "custom",

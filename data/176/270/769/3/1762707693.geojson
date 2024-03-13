@@ -112,6 +112,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/270/769/3/1762707693_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290421
+    ],
     "millsfield:airline_id": [
       1159285129
     ],
@@ -120,9 +123,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287667
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "SCANDINAVIAN AIRLINES SYSTEM (SAS) SKYMASTER AT NEW YORK'S LAGUARDIA FIELD\nOY-DFI\nANDINAVIAN AIRLINES SYSTEM",
       "The Skymasters of the Scandinavian Airlines System,\npossessing a rated\ncapacity of 60 passengers, are out-\nfitted\nwith\nbut\n28\nseats\nfor comfort's\nsake.\nThe\n4-engine craft flying between the Scandinavian capitals\nand\nthe\nUnited States\nvia Scotland are soon to be\naugmented by double-deck Stratocruisers.\nPRINTED IN THE UNITED STATES\nADDRESS\nSTAMP\n250"
@@ -161,10 +162,11 @@
     "wof:country": "US",
     "wof:created": 1641349142,
     "wof:depicts": [
-      1159287667,
-      1762694573,
       1159285129,
-      102526001
+      102526001,
+      1159290421,
+      1159287667,
+      1762694573
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -185,7 +187,7 @@
       }
     ],
     "wof:id": 1762707693,
-    "wof:lastmodified": 1701959487,
+    "wof:lastmodified": 1710355826,
     "wof:name": "postcard: Scandinavian Airlines System (SAS), Douglas DC-4, LaGuardia Airport",
     "wof:parent_id": 1762694573,
     "wof:placetype": "custom",

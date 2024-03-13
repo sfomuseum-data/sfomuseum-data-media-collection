@@ -114,11 +114,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/262/9/1763442629_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289985
+    ],
     "millsfield:airport_id": [
       102534365
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159293593,
+      1159289979
+    ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tailnumbers": [
       "N777I"
@@ -153,7 +160,10 @@
     "wof:created": 1649404379,
     "wof:depicts": [
       1762759695,
-      102534365
+      102534365,
+      1159289985,
+      1159293593,
+      1159289979
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1763442629,
-    "wof:lastmodified": 1679077479,
+    "wof:lastmodified": 1710355817,
     "wof:name": "slide: Boeing 777-200",
     "wof:parent_id": 1762759695,
     "wof:placetype": "custom",

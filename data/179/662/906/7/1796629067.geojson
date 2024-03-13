@@ -113,14 +113,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/179/662/906/7/1796629067_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159283849
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1360700619
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "AMERICAN AIRLINES\nIn America: American Airlines, Inc.\nU.S. A. - Europe: American Overseas Airlines, Inc.\nThe National and International Route of the Flagships\nT-151 C-PRINTED IN THE U. S. A.\nPOST CARD\n2015,057.323"
     ],
@@ -151,9 +152,10 @@
     "wof:country": "XY",
     "wof:created": 1668503395,
     "wof:depicts": [
+      1360700619,
+      1159290417,
       1796629049,
-      1159283849,
-      1360700619
+      1159283849
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +176,7 @@
       }
     ],
     "wof:id": 1796629067,
-    "wof:lastmodified": 1701955390,
+    "wof:lastmodified": 1710355819,
     "wof:name": "postcard: American Airlines",
     "wof:parent_id": 1796629049,
     "wof:placetype": "custom",

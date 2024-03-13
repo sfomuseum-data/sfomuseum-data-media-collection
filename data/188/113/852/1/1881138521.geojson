@@ -8,7 +8,7 @@
     "date:inception_upper": "1999-12-31",
     "edtf:cessation": "199X",
     "edtf:inception": "199X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -106,13 +106,16 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/113/852/1/1881138521_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289409
+    ],
     "millsfield:airline_id": [
       1159284297
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159286555
+      1159293829
     ],
     "millsfield:has_coloring_book": 1,
     "millsfield:images_texts": [
@@ -145,9 +148,11 @@
     "wof:country": "XY",
     "wof:created": 1702542821,
     "wof:depicts": [
-      1763279411,
       1159284297,
-      1159286555
+      1159286555,
+      1159289409,
+      1159293829,
+      1763279411
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -168,7 +173,7 @@
       }
     ],
     "wof:id": 1881138521,
-    "wof:lastmodified": 1702543655,
+    "wof:lastmodified": 1710355850,
     "wof:name": "model airplane: Dragonair, Airbus A320",
     "wof:parent_id": 1763279411,
     "wof:placetype": "custom",

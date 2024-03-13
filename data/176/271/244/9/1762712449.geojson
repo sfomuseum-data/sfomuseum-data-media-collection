@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/244/9/1762712449_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
@@ -125,9 +128,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288779
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "San Francisco International\nPhoto: United Airlines",
       "AERIAL VIEW\nSAN FRANCISCO INTERNATIONAL AIRPORT\nOne\nof\nthe terminal\n\"pinwheels\".\nof one of the\nworld's most\nmodern\n\"Jet-Age\"\nfacilities.\nSmith Novelty Co., 460-9th St., San Francisco, Calif. 94103\n54359-6 •\nPLACE\nSTAMP\nHERE\nPost Card"
@@ -160,10 +161,11 @@
     "wof:country": "US",
     "wof:created": 1641350797,
     "wof:depicts": [
-      102527513,
-      1159288779,
       1762680265,
-      1159285415
+      1159285415,
+      1159290443,
+      102527513,
+      1159288779
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -184,7 +186,7 @@
       }
     ],
     "wof:id": 1762712449,
-    "wof:lastmodified": 1701960866,
+    "wof:lastmodified": 1710355831,
     "wof:name": "postcard: San Francisco International Airport (SFO), United Air Lines",
     "wof:parent_id": 1762680265,
     "wof:placetype": "custom",

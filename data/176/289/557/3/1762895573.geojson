@@ -116,13 +116,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/557/3/1762895573_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289895
+    ],
     "millsfield:airline_id": [
       1159284793
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287137
+      1159293593,
+      1159289873,
+      1159289891
     ],
     "millsfield:images_texts": [
       "-MEA\n01-AGH"
@@ -160,9 +165,13 @@
     "wof:country": "XY",
     "wof:created": 1643414515,
     "wof:depicts": [
+      1159289891,
       1159284793,
       1159287137,
-      1762828285
+      1762828285,
+      1159289895,
+      1159293593,
+      1159289873
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -183,7 +192,7 @@
       }
     ],
     "wof:id": 1762895573,
-    "wof:lastmodified": 1701949124,
+    "wof:lastmodified": 1710355811,
     "wof:name": "photograph: Middle East Airlines (MEA), Boeing 747-200B",
     "wof:parent_id": 1762828285,
     "wof:placetype": "custom",

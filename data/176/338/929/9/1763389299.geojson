@@ -110,6 +110,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/929/9/1763389299_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159284011
     ],
@@ -119,7 +122,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286951
+      1159293593,
+      1159289759
     ],
     "millsfield:images_texts": [
       "BRANIFE"
@@ -156,10 +160,13 @@
     "wof:country": "US",
     "wof:created": 1648799108,
     "wof:depicts": [
-      1762760553,
-      1159284011,
       102527513,
-      1159286951
+      1159286951,
+      1159289789,
+      1159293593,
+      1159289759,
+      1762760553,
+      1159284011
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -200,7 +207,7 @@
       }
     ],
     "wof:id": 1763389299,
-    "wof:lastmodified": 1694161382,
+    "wof:lastmodified": 1710355837,
     "wof:name": "slide: Braniff Inc., Boeing 727-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760553,
     "wof:placetype": "custom",

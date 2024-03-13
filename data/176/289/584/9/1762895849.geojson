@@ -116,13 +116,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/584/9/1762895849_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289687
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287531
+      1159293593,
+      1159289653,
+      1159289681
     ],
     "millsfield:images_texts": [
       "TWA\n0000000000000000000000090000000000000000000000\nTWA"
@@ -160,9 +165,13 @@
     "wof:country": "XY",
     "wof:created": 1643414615,
     "wof:depicts": [
+      1159287531,
+      1159289687,
+      1159293593,
+      1159289653,
+      1159289681,
       1762829863,
-      1159285393,
-      1159287531
+      1159285393
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -183,7 +192,7 @@
       }
     ],
     "wof:id": 1762895849,
-    "wof:lastmodified": 1701949226,
+    "wof:lastmodified": 1710355811,
     "wof:name": "photograph: TWA (Trans World Airlines), Boeing 707-300C",
     "wof:parent_id": 1762829863,
     "wof:placetype": "custom",

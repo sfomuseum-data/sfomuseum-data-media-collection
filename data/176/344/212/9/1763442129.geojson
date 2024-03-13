@@ -111,13 +111,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/212/9/1763442129_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159283535
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286863
+      1159293593,
+      1159289759
     ],
     "millsfield:images_texts": [
       "AEROMAR"
@@ -149,9 +153,12 @@
     "wof:country": "XY",
     "wof:created": 1649404262,
     "wof:depicts": [
-      1159286863,
       1762759083,
-      1159283535
+      1159283535,
+      1159289789,
+      1159293593,
+      1159289759,
+      1159286863
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -172,7 +179,7 @@
       }
     ],
     "wof:id": 1763442129,
-    "wof:lastmodified": 1701954746,
+    "wof:lastmodified": 1710355816,
     "wof:name": "slide: Aeromar, Boeing 727-200",
     "wof:parent_id": 1762759083,
     "wof:placetype": "custom",

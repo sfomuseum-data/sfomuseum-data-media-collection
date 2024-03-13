@@ -110,6 +110,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/419/5/1763444195_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289885
+    ],
     "millsfield:airline_id": [
       1159283531
     ],
@@ -119,7 +122,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287703
+      1159293593,
+      1159289873
     ],
     "millsfield:images_texts": [
       "BAEROLINAS\nMARGENTL"
@@ -157,10 +161,13 @@
     "wof:country": "US",
     "wof:created": 1649404747,
     "wof:depicts": [
-      1762759527,
-      1159283531,
       102534365,
-      1159287703
+      1159287703,
+      1159289885,
+      1159293593,
+      1159289873,
+      1762759527,
+      1159283531
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -193,7 +200,7 @@
       }
     ],
     "wof:id": 1763444195,
-    "wof:lastmodified": 1694161354,
+    "wof:lastmodified": 1710355818,
     "wof:name": "slide: Aerolineas Argentinas, Boeing 747-100, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1762759527,
     "wof:placetype": "custom",

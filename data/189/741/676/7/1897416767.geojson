@@ -8,7 +8,7 @@
     "date:inception_upper": "1999-12-31",
     "edtf:cessation": "199X",
     "edtf:inception": "199X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -114,13 +114,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/189/741/676/7/1897416767_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289405
+    ],
     "millsfield:airline_id": [
       1159284711
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288215
+      1159293829,
+      1159289401
     ],
     "millsfield:subcategory_id": 1511213363,
     "mz:is_current": 1,
@@ -146,6 +150,9 @@
     "wof:country": "XY",
     "wof:created": 1708504558,
     "wof:depicts": [
+      1159289405,
+      1159293829,
+      1159289401,
       1897416547,
       1159284711,
       1159288215
@@ -169,7 +176,7 @@
       }
     ],
     "wof:id": 1897416767,
-    "wof:lastmodified": 1708505211,
+    "wof:lastmodified": 1710355849,
     "wof:name": "postcard: Lufthansa, Airbus A310-300",
     "wof:parent_id": 1897416547,
     "wof:placetype": "custom",

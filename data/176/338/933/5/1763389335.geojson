@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/933/5/1763389335_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289915
+    ],
     "millsfield:airline_id": [
       1159283605
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159287599
+      1159293593,
+      1159289873
     ],
     "millsfield:images_texts": [
       "AIR CHINH\n163762a\nB- 2468"
@@ -154,9 +158,12 @@
     "wof:country": "XY",
     "wof:created": 1648799117,
     "wof:depicts": [
+      1763150653,
+      1159289915,
+      1159293593,
+      1159289873,
       1159283605,
-      1159287599,
-      1763150653
+      1159287599
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -177,7 +184,7 @@
       }
     ],
     "wof:id": 1763389335,
-    "wof:lastmodified": 1701963290,
+    "wof:lastmodified": 1710355838,
     "wof:name": "model airplane: Air China, Boeing 747-400",
     "wof:parent_id": 1763150653,
     "wof:placetype": "custom",

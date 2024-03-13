@@ -116,15 +116,16 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/177/948/972/3/1779489723_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159283539,
       1159283541
     ],
     "millsfield:category_id": 1763416373,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1159288905
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "aeroméxico\naeroméxico\"\nDC•8\nAERONAVES DE MEXICO, S.A."
     ],
@@ -155,10 +156,11 @@
     "wof:country": "XY",
     "wof:created": 1652947024,
     "wof:depicts": [
+      1159288905,
+      1159290443,
       1779488603,
       1159283539,
-      1159283541,
-      1159288905
+      1159283541
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -179,7 +181,7 @@
       }
     ],
     "wof:id": 1779489723,
-    "wof:lastmodified": 1701951946,
+    "wof:lastmodified": 1710355814,
     "wof:name": "poster: AeroMexico, Douglas DC-8",
     "wof:parent_id": 1779488603,
     "wof:placetype": "custom",

@@ -112,6 +112,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/529/1/1763445291_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289827
+    ],
     "millsfield:airline_id": [
       1159283965
     ],
@@ -121,7 +124,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288113
+      1159293593,
+      1159289819
     ],
     "millsfield:images_texts": [
       "BRITISH AIRWAYS\n001101111\nAVIATECA \u0026°\n10000000"
@@ -157,10 +161,13 @@
     "wof:country": "US",
     "wof:created": 1649404997,
     "wof:depicts": [
-      1159288113,
       1762761029,
       1159283965,
-      102531023
+      102531023,
+      1159289827,
+      1159293593,
+      1159289819,
+      1159288113
     ],
     "wof:geomhash": "c66831237e200a408b9ec647c9b5d8f8",
     "wof:hierarchy": [
@@ -192,7 +199,7 @@
       }
     ],
     "wof:id": 1763445291,
-    "wof:lastmodified": 1701955333,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: Aviateca, Boeing 737-200, Miami International Airport (MIA)",
     "wof:parent_id": 1762761029,
     "wof:placetype": "custom",

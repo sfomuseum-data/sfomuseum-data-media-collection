@@ -114,13 +114,16 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/032/073/9/1880320739_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291289
+    ],
     "millsfield:airline_id": [
       1159283947
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159287521
+      1159293561
     ],
     "millsfield:has_coloring_book": 1,
     "millsfield:subcategory_id": 1511213161,
@@ -147,9 +150,11 @@
     "wof:country": "XY",
     "wof:created": 1694023053,
     "wof:depicts": [
-      1880318775,
       1159283947,
-      1159287521
+      1159287521,
+      1159291289,
+      1159293561,
+      1880318775
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -170,7 +175,7 @@
       }
     ],
     "wof:id": 1880320739,
-    "wof:lastmodified": 1702456305,
+    "wof:lastmodified": 1710355844,
     "wof:name": "miniature model airplane: Austrian Airlines, McDonnell Douglas MD-81",
     "wof:parent_id": 1880318775,
     "wof:placetype": "custom",

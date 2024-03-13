@@ -116,14 +116,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/557/9/1762895579_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159284939
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288261
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "ONA\n000 0 0\nOVERSEAS NATIONAL AIRWAYS\n00\n00000"
     ],
@@ -154,9 +155,10 @@
     "wof:country": "XY",
     "wof:created": 1643414518,
     "wof:depicts": [
-      1159288261,
       1762831457,
-      1159284939
+      1159284939,
+      1159290443,
+      1159288261
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -177,7 +179,7 @@
       }
     ],
     "wof:id": 1762895579,
-    "wof:lastmodified": 1701949126,
+    "wof:lastmodified": 1710355811,
     "wof:name": "photograph: Overseas National Airways, Douglas DC-8",
     "wof:parent_id": 1762831457,
     "wof:placetype": "custom",

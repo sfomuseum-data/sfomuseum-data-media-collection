@@ -117,6 +117,10 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/103/5/1762711035_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289653,
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159283999,
       1159285415
@@ -126,9 +130,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288779
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "1054 - Hawaiian Views, Dist. by Max Basker \u0026 Sons, Honoluln\nHONOLULU INTERNATIONAL AIRPORT'S\nJOHN RODGERS TERMINAL\nThe departure area in the foreground sur-\nrounding the Chinese and Japanese Gardens,\nforeign arrivals at left,\ndomestic arrivals at right. UNITED\nPHOTO BY UNITED AIR LINES\nCURTEICHCOLOR® 3-D NATURAL COLOR REPRODUCTION (REG. U. S. A. PAT. OFF.)\nPLACE\nSTAMP\nHERE\n4DK-1252\nPOST CARD\n2015.166.1973"
     ],
@@ -159,11 +161,13 @@
     "wof:country": "US",
     "wof:created": 1641350314,
     "wof:depicts": [
+      1159283999,
+      1159289653,
+      1159290443,
       1159285415,
       102533997,
       1159288779,
-      1762685727,
-      1159283999
+      1762685727
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -184,7 +188,7 @@
       }
     ],
     "wof:id": 1762711035,
-    "wof:lastmodified": 1701960536,
+    "wof:lastmodified": 1710355830,
     "wof:name": "postcard: Honolulu International Airport, United Air Lines, BOAC, Boeing 707, Douglas DC-8",
     "wof:parent_id": 1762685727,
     "wof:placetype": "custom",

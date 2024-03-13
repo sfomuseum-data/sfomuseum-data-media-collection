@@ -112,6 +112,10 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/146/5/1762711465_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289759,
+      1159290435
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
@@ -120,9 +124,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288779
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "Los Angeles International Airport",
       "LOS ANGELES INTERNATIONAL AIRPORT\nA portion of the famous airport can be seen. Note the plane\njust taking off. This plane will be over the Pacific Ocean\nin a matter of seconds.\n90012\nPLACE\nSTAMP\nHERE\nMIRRO-KROME O CARD BY H. S. CROCKER CO., INC., LOS ANGELES, CALIF. 90057\nADDRESS ONLY\nCL-39\nINTERNATIONAL\n.10\n2015.166.2069"
@@ -158,7 +160,9 @@
       1159285415,
       102533795,
       1159288779,
-      1762686321
+      1762686321,
+      1159289759,
+      1159290435
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -179,7 +183,7 @@
       }
     ],
     "wof:id": 1762711465,
-    "wof:lastmodified": 1701960639,
+    "wof:lastmodified": 1710355830,
     "wof:name": "postcard: Los Angeles International Airport, United Air Lines, Boeing 727, Douglas DC-7 (right)",
     "wof:parent_id": 1762686321,
     "wof:placetype": "custom",

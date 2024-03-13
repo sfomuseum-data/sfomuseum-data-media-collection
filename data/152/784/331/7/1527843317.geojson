@@ -119,13 +119,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/152/784/331/7/1527843317_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289931
+    ],
     "millsfield:airline_id": [
       1159284059
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159286763
+      1159293593,
+      1159289873
     ],
     "millsfield:images_texts": [
       "TIME\nTABLE\nApril 1, October 31, 1980\nBOEING 747 SP\nСААС\nCIVIL AVIATION ADMINISTRATION OF CHINA"
@@ -161,11 +165,12 @@
     "wof:country": "XX",
     "wof:created": 1578953019,
     "wof:depicts": [
+      1511940457,
+      1159286763,
+      1159289931,
       1159289873,
       1159293593,
-      1159284059,
-      1511940457,
-      1159286763
+      1159284059
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -187,7 +192,7 @@
       }
     ],
     "wof:id": 1527843317,
-    "wof:lastmodified": 1701944547,
+    "wof:lastmodified": 1710355805,
     "wof:name": "timetable: CAAC (Civil Aviation Administration of China)",
     "wof:parent_id": 1511940457,
     "wof:placetype": "custom",

@@ -117,6 +117,10 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/605/9/1762896059_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289653,
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159284711,
       1159284989,
@@ -127,9 +131,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287229
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "FLUGHAFEN FRANKFURT MAIN\n+"
     ],
@@ -160,12 +162,14 @@
     "wof:country": "",
     "wof:created": 1643414691,
     "wof:depicts": [
-      1159284711,
-      1159284989,
-      1159285101,
       102549057,
       1159287229,
-      1762760751
+      1762760751,
+      1159289653,
+      1159290443,
+      1159284711,
+      1159284989,
+      1159285101
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -186,7 +190,7 @@
       }
     ],
     "wof:id": 1762896059,
-    "wof:lastmodified": 1701949282,
+    "wof:lastmodified": 1710355811,
     "wof:name": "postcard: Frankfurt Airport",
     "wof:parent_id": 1762760751,
     "wof:placetype": "custom",

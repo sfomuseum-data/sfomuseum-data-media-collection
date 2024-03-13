@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/270/730/7/1762707307_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
@@ -125,9 +128,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288779
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "UNITED\nN8036U\nDC8 JET MAINLINER",
       "UNITED AIRLINES JET AND GREATER\nPITTSBURGH AIRPORT, PITTSBURGH, PA.\nDISTRIBUTED BY CHARMCRAFT PUBLISHERS, PITTSBURGH, PA.\nCURTEICHCOLORR 3-D NATURAL COLOR REPRODUCTIONS (REG. U. S. A. PAT. OFF.)\nPLACE\nSTAMP\nHERE\n2DK-1465\nPOST CARD\n2015.166.1670"
@@ -166,10 +167,11 @@
     "wof:country": "US",
     "wof:created": 1641349014,
     "wof:depicts": [
-      1159288779,
       1762683023,
       1159285415,
-      102528181
+      102528181,
+      1159290443,
+      1159288779
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -190,7 +192,7 @@
       }
     ],
     "wof:id": 1762707307,
-    "wof:lastmodified": 1701959404,
+    "wof:lastmodified": 1710355825,
     "wof:name": "postcard: United Air Lines, Douglas DC-8, Pittsburgh Airport",
     "wof:parent_id": 1762683023,
     "wof:placetype": "custom",

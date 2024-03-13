@@ -116,14 +116,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/179/658/951/1/1796589511_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159284991
     ],
     "millsfield:category_id": 1763416373,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1159286839
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "CLEAN\nNow 12, 2015\nALASKA\nVIA PAN A"
     ],
@@ -154,10 +155,11 @@
     "wof:country": "XY",
     "wof:created": 1668070647,
     "wof:depicts": [
-      1159284991,
       1159285809,
       1159286839,
-      1796589397
+      1796589397,
+      1159290417,
+      1159284991
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -178,7 +180,7 @@
       }
     ],
     "wof:id": 1796589511,
-    "wof:lastmodified": 1701955534,
+    "wof:lastmodified": 1710355820,
     "wof:name": "poster: Pan American Airways System, Alaska",
     "wof:parent_id": 1796589397,
     "wof:placetype": "custom",

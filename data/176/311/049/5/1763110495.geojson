@@ -113,12 +113,18 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/311/049/5/1763110495_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289891
+    ],
     "millsfield:airline_id": [
       1159284907
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289873
+    ],
     "millsfield:exhibition_ids": [
       1159160195
     ],
@@ -160,8 +166,11 @@
     "wof:country": "XY",
     "wof:created": 1645220569,
     "wof:depicts": [
+      1159293593,
+      1159289873,
       1763109865,
-      1159284907
+      1159284907,
+      1159289891
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -182,7 +191,7 @@
       }
     ],
     "wof:id": 1763110495,
-    "wof:lastmodified": 1703147646,
+    "wof:lastmodified": 1710355833,
     "wof:name": "model airplane: Northwest Airlines Cargo, Boeing 747-200F",
     "wof:parent_id": 1763109865,
     "wof:placetype": "custom",

@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/822/7/1762898227_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159285067
     ],
@@ -123,7 +126,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287361
+      1159293593,
+      1159289759
     ],
     "millsfield:subcategory_id": 1511213401,
     "mz:is_current": 1,
@@ -149,10 +153,13 @@
     "wof:country": "US",
     "wof:created": 1643415439,
     "wof:depicts": [
+      1159285067,
+      1159289789,
+      1159293593,
+      1159289759,
       102527513,
       1159287361,
-      1762760905,
-      1159285067
+      1762760905
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -173,7 +180,7 @@
       }
     ],
     "wof:id": 1762898227,
-    "wof:lastmodified": 1679077462,
+    "wof:lastmodified": 1710355838,
     "wof:name": "slide: Republic Airlines, Boeing 727-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760905,
     "wof:placetype": "custom",

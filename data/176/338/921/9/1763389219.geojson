@@ -117,11 +117,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/921/9/1763389219_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290437
+    ],
     "millsfield:airport_id": [
       102527337
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159290435
+    ],
     "millsfield:images_texts": [
       "19"
     ],
@@ -159,8 +165,10 @@
     "wof:country": "US",
     "wof:created": 1648799090,
     "wof:depicts": [
-      1762759069,
-      102527337
+      102527337,
+      1159290437,
+      1159290435,
+      1762759069
     ],
     "wof:geomhash": "f5d9b70c8f116164a998e78c64897ae0",
     "wof:hierarchy": [
@@ -192,7 +200,7 @@
       }
     ],
     "wof:id": 1763389219,
-    "wof:lastmodified": 1701959779,
+    "wof:lastmodified": 1710355827,
     "wof:name": "slide: Douglas DC-7B, Santa Barbara Municipal Airport (SBA)",
     "wof:parent_id": 1762759069,
     "wof:placetype": "custom",

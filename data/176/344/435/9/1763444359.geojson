@@ -116,12 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/435/9/1763444359_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289745
+    ],
     "millsfield:airline_id": [
       1159284839
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593
+    ],
     "millsfield:images_texts": [
       "1 Airport Exit\nalary\nHouston\nAirport System\nSouth Brant"
     ],
@@ -153,7 +158,9 @@
     "wof:created": 1649404783,
     "wof:depicts": [
       1159284839,
-      1762760893
+      1762760893,
+      1159289745,
+      1159293593
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +181,7 @@
       }
     ],
     "wof:id": 1763444359,
-    "wof:lastmodified": 1701955129,
+    "wof:lastmodified": 1710355818,
     "wof:name": "slide: NASA, Boeing 720, Ellington Airport (EFD)",
     "wof:parent_id": 1762760893,
     "wof:placetype": "custom",

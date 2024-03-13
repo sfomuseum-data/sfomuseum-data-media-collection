@@ -8,10 +8,11 @@
     "date:inception_upper": "1989-12-31",
     "edtf:cessation": "198X",
     "edtf:inception": "198X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "iso:country": "NL",
     "media:fingerprint": "8484cee17a3f768e4b67f8fef5b5f0157f4c70af",
     "media:imagehash_avg": "a:ffffffff04000007",
     "media:imagehash_diff": "d:1b7d7d1d0d79177f",
@@ -116,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/189/741/675/5/1897416755_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291259
+    ],
     "millsfield:airline_id": [
       1159284613
     ],
@@ -125,7 +129,7 @@
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287541
+      1159293561
     ],
     "millsfield:subcategory_id": 1511213363,
     "mz:is_current": 1,
@@ -148,13 +152,15 @@
       85688637,
       1159160869
     ],
-    "wof:country": "XY",
+    "wof:country": "NL",
     "wof:created": 1708504554,
     "wof:depicts": [
-      102542801,
-      1159287541,
       1897416583,
-      1159284613
+      1159284613,
+      1159291259,
+      1159293561,
+      102542801,
+      1159287541
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -175,7 +181,7 @@
       }
     ],
     "wof:id": 1897416755,
-    "wof:lastmodified": 1708505203,
+    "wof:lastmodified": 1710355849,
     "wof:name": "postcard: KLM (Royal Dutch Airlines), McDonnell Douglas DC-10, Amsterdam Airport Schiphol (AMS)",
     "wof:parent_id": 1897416583,
     "wof:placetype": "custom",

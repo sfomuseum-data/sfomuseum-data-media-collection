@@ -111,12 +111,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/338/924/9/1763389249_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159292423
+    ],
     "millsfield:airline_id": [
       1159285651
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293917
+    ],
     "millsfield:exhibition_ids": [
       1159160323,
       1159160707
@@ -156,7 +161,9 @@
     "wof:created": 1648799097,
     "wof:depicts": [
       1159285651,
-      1763143833
+      1763143833,
+      1159292423,
+      1159293917
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -177,7 +184,7 @@
       }
     ],
     "wof:id": 1763389249,
-    "wof:lastmodified": 1703147649,
+    "wof:lastmodified": 1710355837,
     "wof:name": "model airplane: American Export Airlines, Sikorsky VS-44A Excalibur",
     "wof:parent_id": 1763143833,
     "wof:placetype": "custom",

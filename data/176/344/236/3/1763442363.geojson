@@ -112,6 +112,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/236/3/1763442363_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289939
+    ],
     "millsfield:airline_id": [
       1159285435
     ],
@@ -120,7 +123,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289935
+    ],
     "millsfield:images_texts": [
       "[STAR ALLIANCE\nUS AIRWAYS"
     ],
@@ -151,9 +157,12 @@
     "wof:country": "US",
     "wof:created": 1649404317,
     "wof:depicts": [
+      102527209,
+      1159289939,
+      1159293593,
+      1159289935,
       1762830197,
-      1159285435,
-      102527209
+      1159285435
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +183,7 @@
       }
     ],
     "wof:id": 1763442363,
-    "wof:lastmodified": 1701954773,
+    "wof:lastmodified": 1710355817,
     "wof:name": "slide: US Airways, Boeing 757-200, McCarran International Airport (LAS)",
     "wof:parent_id": 1762830197,
     "wof:placetype": "custom",

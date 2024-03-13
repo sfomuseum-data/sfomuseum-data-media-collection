@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/525/5/1763445255_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289851
+    ],
     "millsfield:airline_id": [
       1159285413
     ],
@@ -123,7 +126,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293593,
+      1159289819
     ],
     "millsfield:subcategory_id": 1511213401,
     "mz:is_current": 1,
@@ -151,10 +155,13 @@
     "wof:country": "US",
     "wof:created": 1649404989,
     "wof:depicts": [
-      102527513,
-      1159288779,
       1762761443,
-      1159285413
+      1159285413,
+      1159289851,
+      1159293593,
+      1159289819,
+      102527513,
+      1159288779
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -195,7 +202,7 @@
       }
     ],
     "wof:id": 1763445255,
-    "wof:lastmodified": 1679077494,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: United Airlines, Boeing 737-300, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762761443,
     "wof:placetype": "custom",

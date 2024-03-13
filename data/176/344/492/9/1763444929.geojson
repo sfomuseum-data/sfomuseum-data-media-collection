@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/492/9/1763444929_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159284659
     ],
@@ -125,9 +128,7 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287855
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "©LanChile Cargo\nLanChile"
     ],
@@ -167,10 +168,11 @@
     "wof:country": "US",
     "wof:created": 1649404914,
     "wof:depicts": [
-      1159287855,
-      1762760011,
       1159284659,
-      102534365
+      102534365,
+      1159290443,
+      1159287855,
+      1762760011
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -203,7 +205,7 @@
       }
     ],
     "wof:id": 1763444929,
-    "wof:lastmodified": 1701955287,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: LanChile Cargo DC-8F, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1762760011,
     "wof:placetype": "custom",

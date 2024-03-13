@@ -8,7 +8,7 @@
     "date:inception_upper": "1989-12-31",
     "edtf:cessation": "198X",
     "edtf:inception": "198X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -111,14 +111,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/189/719/692/1/1897196921_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290417
+    ],
     "millsfield:airline_id": [
       1159284689
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
-    "millsfield:company_id": [
-      1159286771
-    ],
+    "millsfield:company_id": [],
     "millsfield:subcategory_id": 1511213161,
     "mz:is_current": 1,
     "sfomuseum:filename": "IMG_2568.JPG",
@@ -143,9 +144,10 @@
     "wof:country": "XY",
     "wof:created": 1706171631,
     "wof:depicts": [
+      1159286771,
+      1159290417,
       1897196729,
-      1159284689,
-      1159286771
+      1159284689
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -166,7 +168,7 @@
       }
     ],
     "wof:id": 1897196921,
-    "wof:lastmodified": 1706172354,
+    "wof:lastmodified": 1710355846,
     "wof:name": "miniature model airplane: Linjeflyg, Douglas DC-3",
     "wof:parent_id": 1897196729,
     "wof:placetype": "custom",

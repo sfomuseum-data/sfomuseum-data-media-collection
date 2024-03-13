@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/491/3/1763444913_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289711
+    ],
     "millsfield:airline_id": [
       1159285393
     ],
@@ -126,7 +129,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287531
+      1159293593,
+      1159289653
     ],
     "millsfield:images_texts": [
       "TWA\nTRANS WORLD\nBOBO...........\nN760TW\nTHA\nAWR 0709 TW\nAW2 4137 TW"
@@ -168,10 +172,13 @@
     "wof:country": "US",
     "wof:created": 1649404911,
     "wof:depicts": [
+      1159285393,
+      1159289711,
+      1159293593,
+      1159289653,
       102533631,
       1159287531,
-      1762758991,
-      1159285393
+      1762758991
     ],
     "wof:geomhash": "7b3bbc54c892c856b4b1b7eb583f40c7",
     "wof:hierarchy": [
@@ -205,7 +212,7 @@
       }
     ],
     "wof:id": 1763444913,
-    "wof:lastmodified": 1701955285,
+    "wof:lastmodified": 1710355819,
     "wof:name": "photograph: TWA (Trans World Airlines) Boeing 707-331B, O’Hare International Airport (ORD)",
     "wof:parent_id": 1762758991,
     "wof:placetype": "custom",

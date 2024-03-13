@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/025/514/7/1880255147_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289891
+    ],
     "millsfield:airline_id": [
       1159283875
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159287625
+      1159293593,
+      1159289873
     ],
     "millsfield:has_coloring_book": 1,
     "millsfield:images_texts": [
@@ -164,9 +168,12 @@
     "wof:country": "XY",
     "wof:created": 1693470441,
     "wof:depicts": [
-      1159287625,
       1880254955,
-      1159283875
+      1159283875,
+      1159289891,
+      1159293593,
+      1159289873,
+      1159287625
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -187,7 +194,7 @@
       }
     ],
     "wof:id": 1880255147,
-    "wof:lastmodified": 1702456293,
+    "wof:lastmodified": 1710355833,
     "wof:name": "model airplane: ANA (All Nippon Airways), Boeing 747-200",
     "wof:parent_id": 1880254955,
     "wof:placetype": "custom",

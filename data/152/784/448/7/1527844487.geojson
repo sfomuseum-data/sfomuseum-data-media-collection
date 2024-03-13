@@ -119,14 +119,15 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/152/784/448/7/1527844487_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291223
+    ],
     "millsfield:airline_id": [
       1159283791
     ],
     "millsfield:category_id": 1511214223,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159286809
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "AIRCAL\nSYSTEM TIMETABLE\nEffective January 1, 1982\nAIRCAL",
       "QUIET TAKEOFFS AND LANDINGS.\nA new ship is flying our colors. It's the\nMcDonnell Douglas DC-9 Super 80. And,\nwe're proud to say, you won't be hear-\ning much from the DC-9 Super 80's.\nairiners in their cass in fact, when a\nSuper 80 takes off, the noise around\nthe airport is cut -drastically -by as\nmuch as 20 percent compared to\nsimilar aircraft.\nQuieter on the outside means\nquieter on the inside. And that brings\nadded passenger comfort.\nBut passenger comfort is what you\nget on every AirCal jet. It's part of our\nstyle that's winning the West."
@@ -163,9 +164,10 @@
     "wof:country": "XX",
     "wof:created": 1578953204,
     "wof:depicts": [
-      1511935771,
       1159286809,
-      1159283791
+      1159283791,
+      1159291223,
+      1511935771
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -187,7 +189,7 @@
       }
     ],
     "wof:id": 1527844487,
-    "wof:lastmodified": 1701945043,
+    "wof:lastmodified": 1710355806,
     "wof:name": "timetable: AirCal",
     "wof:parent_id": 1511935771,
     "wof:placetype": "custom",

@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/499/3/1763444993_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289851
+    ],
     "millsfield:airline_id": [
       1159284261
     ],
@@ -126,7 +129,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287931
+      1159293593,
+      1159289819
     ],
     "millsfield:images_texts": [
       "A Pelta.\n9305\nA Delta"
@@ -168,10 +172,13 @@
     "wof:country": "US",
     "wof:created": 1649404929,
     "wof:depicts": [
-      102527529,
       1159287931,
       1762759749,
-      1159284261
+      1159284261,
+      1159289851,
+      1159293593,
+      1159289819,
+      102527529
     ],
     "wof:geomhash": "6755729d44afb52b594f86302497e36f",
     "wof:hierarchy": [
@@ -215,7 +222,7 @@
       }
     ],
     "wof:id": 1763444993,
-    "wof:lastmodified": 1701955294,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: Delta Air Lines, Boeing 737-300, San Jose Airport (SJC)",
     "wof:parent_id": 1762759749,
     "wof:placetype": "custom",

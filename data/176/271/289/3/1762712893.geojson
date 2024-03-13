@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/271/289/3/1762712893_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159291223
+    ],
     "millsfield:airline_id": [
       1159283597
     ],
@@ -122,9 +125,7 @@
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288851
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_texts": [
       "M-14\nVANCOUVER, B.C. Canada\nAIR CANADA - D.C. 9, aerial view of the\nPacific National Exhibition grounds, the\nLions Football Stadium and Race Track with\nBurrard Inlet and North Shore Mountains\nin the background.\nPOST\nCARD\nUSE\nCANADIAN\nPOSTAGE\nADDRESS\nRISE IN CARIBE\nSEIST BIE\nS-2854\n2015.16612383"
     ],
@@ -155,10 +156,11 @@
     "wof:country": "CA",
     "wof:created": 1641350953,
     "wof:depicts": [
-      102555307,
       1159288851,
       1762688915,
-      1159283597
+      1159283597,
+      1159291223,
+      102555307
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -179,7 +181,7 @@
       }
     ],
     "wof:id": 1762712893,
-    "wof:lastmodified": 1701960967,
+    "wof:lastmodified": 1710355831,
     "wof:name": "postcard: Vancouver International Airport, Douglas DC-9, Air Canada",
     "wof:parent_id": 1762688915,
     "wof:placetype": "custom",

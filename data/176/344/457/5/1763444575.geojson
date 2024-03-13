@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/457/5/1763444575_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289763
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
@@ -126,7 +129,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288779
+      1159293593,
+      1159289759
     ],
     "millsfield:images_texts": [
       "United\n*** 'United\nN7012U"
@@ -168,10 +172,13 @@
     "wof:country": "US",
     "wof:created": 1649404833,
     "wof:depicts": [
+      1159288779,
+      1159289763,
+      1159293593,
+      1159289759,
       1762760813,
       1159285415,
-      102527529,
-      1159288779
+      102527529
     ],
     "wof:geomhash": "6755729d44afb52b594f86302497e36f",
     "wof:hierarchy": [
@@ -215,7 +222,7 @@
       }
     ],
     "wof:id": 1763444575,
-    "wof:lastmodified": 1701955198,
+    "wof:lastmodified": 1710355818,
     "wof:name": "negative: United Air Lines, Boeing 727-22, San Jose Airport (SJC)",
     "wof:parent_id": 1762760813,
     "wof:placetype": "custom",

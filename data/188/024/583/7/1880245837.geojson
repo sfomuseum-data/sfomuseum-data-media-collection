@@ -116,13 +116,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/188/024/583/7/1880245837_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289417
+    ],
     "millsfield:airline_id": [
       1159285481
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159288091
+      1159293829,
+      1159289411
     ],
     "millsfield:images_texts": [
       "virgin america\n00.00\nN92IVA"
@@ -157,9 +161,12 @@
     "wof:country": "XY",
     "wof:created": 1693339920,
     "wof:depicts": [
-      1880245659,
       1159285481,
-      1159288091
+      1159288091,
+      1159289417,
+      1159293829,
+      1159289411,
+      1880245659
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -180,7 +187,7 @@
       }
     ],
     "wof:id": 1880245837,
-    "wof:lastmodified": 1701965167,
+    "wof:lastmodified": 1710355840,
     "wof:name": "digital photograph: Virgin America, Airbus A321-200",
     "wof:parent_id": 1880245659,
     "wof:placetype": "custom",

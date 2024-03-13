@@ -114,6 +114,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/503/1/1763445031_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289871
+    ],
     "millsfield:airline_id": [
       1159284261
     ],
@@ -123,7 +126,8 @@
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287931
+      1159293593,
+      1159289819
     ],
     "millsfield:subcategory_id": 1511213401,
     "millsfield:tailnumbers": [
@@ -158,10 +162,13 @@
     "wof:country": "US",
     "wof:created": 1649404938,
     "wof:depicts": [
+      1159289819,
       102530049,
       1159287931,
       1762761021,
-      1159284261
+      1159284261,
+      1159289871,
+      1159293593
     ],
     "wof:geomhash": "4b819771a65ce5f91cf16e2f94402c48",
     "wof:hierarchy": [
@@ -194,7 +201,7 @@
       }
     ],
     "wof:id": 1763445031,
-    "wof:lastmodified": 1679077493,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: Delta Air Lines, Boeing 737-800, Newark International Airport (EWR)",
     "wof:parent_id": 1762761021,
     "wof:placetype": "custom",

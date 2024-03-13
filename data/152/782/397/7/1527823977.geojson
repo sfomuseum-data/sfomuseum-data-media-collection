@@ -106,6 +106,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/152/782/397/7/1527823977_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159290443
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
@@ -114,9 +117,7 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159288779
-    ],
+    "millsfield:company_id": [],
     "millsfield:subcategory_id": 1511213801,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -145,10 +146,11 @@
     "wof:country": "US",
     "wof:created": 1578949987,
     "wof:depicts": [
-      102527513,
-      1511945299,
       1159285415,
-      1159288779
+      1159288779,
+      1159290443,
+      102527513,
+      1511945299
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -170,7 +172,7 @@
       }
     ],
     "wof:id": 1527823977,
-    "wof:lastmodified": 1646988087,
+    "wof:lastmodified": 1710355800,
     "wof:name": "negative: San Francisco International Airport (SFO), photographic land survey",
     "wof:parent_id": 1511945299,
     "wof:placetype": "custom",

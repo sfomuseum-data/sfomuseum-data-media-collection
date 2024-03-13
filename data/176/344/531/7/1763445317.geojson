@@ -117,6 +117,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/344/531/7/1763445317_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289789
+    ],
     "millsfield:airline_id": [
       1159285409
     ],
@@ -125,7 +128,10 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [],
+    "millsfield:company_id": [
+      1159293593,
+      1159289759
+    ],
     "millsfield:images_texts": [
       "UNITED STATES POSTAL SERVICE"
     ],
@@ -164,7 +170,10 @@
     "wof:depicts": [
       1159285409,
       102534365,
-      1762760483
+      1762760483,
+      1159289789,
+      1159293593,
+      1159289759
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -197,7 +206,7 @@
       }
     ],
     "wof:id": 1763445317,
-    "wof:lastmodified": 1701955336,
+    "wof:lastmodified": 1710355819,
     "wof:name": "slide: U.S. Postal Service, Boeing 727-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1762760483,
     "wof:placetype": "custom",

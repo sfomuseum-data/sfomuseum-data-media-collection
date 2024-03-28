@@ -2,8 +2,13 @@
   "id": 1527818129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1955-01-01",
+    "date:cessation_upper": "1955-12-31",
+    "date:inception_lower": "1955-01-01",
+    "date:inception_upper": "1955-12-31",
+    "edtf:cessation": "1955~",
+    "edtf:date": "1955~",
+    "edtf:inception": "1955~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -115,14 +120,30 @@
     "millsfield:airline_id": [
       1159284989
     ],
-    "millsfield:category_id": 1511214243,
-    "millsfield:collection_id": 1511214203,
+    "millsfield:category_id": 1762671311,
+    "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159286839
+    ],
+    "millsfield:images_texts": [
+      "Quaralia",
+      "JAVIER\nFROM WAKE ISLAND\nFlight Breakfast\nFresh Orange Juice\nChilled Frust\nFluffy Bacon Omelette\nToust Triangles\nBastter\nJelly\nCoffee\nTea\nMAk\nBreakfast Muffins\nThe President\nPAN AMERICAN WORLD AIRWAYS",
+      "Caroomba, city of the Blue\nMountains in New South Wales,\noffers a trio of eurious crags.\nStanding 1000 feet above the\nJamieson Valley, these \"Three\nSisters' command a sweep of\nred and ochre cliffs . .. mist-\ndeepened bowls of cobalt blue.\nPen American serves the\nSouth Pacific through Nandi\nin the Fiji Islands, Sydney in\nAustralia and through Auckland\nin New Zealand\nThis wens is one of a complete set, suitable for framing,\nwhich may be okaixed by writing to: Serwee Manager,\nPacife- Alaska Dicision, Pan American World Airways,\nInc.. International Airport. San Francisco, California.",
+      "dale.\nWrillen aboard the Pan\nFlying Clipper:\nen roule from\n•Clipper."
+    ],
+    "millsfield:images_texts_ids": [
+      1527818127,
+      1527818129,
+      1527818131,
+      1527818133
+    ],
     "millsfield:subcategory_id": 1511213567,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:filename": "13743.jpg",
     "sfomuseum:image_id": 13743,
     "sfomuseum:image_index": 1,
+    "sfomuseum:image_type": "studio",
     "sfomuseum:object_id": 42471,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 0,
@@ -143,7 +164,8 @@
     "wof:created": 1578949059,
     "wof:depicts": [
       1159284989,
-      1511906719
+      1511906719,
+      1159286839
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -170,7 +192,7 @@
       }
     ],
     "wof:id": 1527818129,
-    "wof:lastmodified": 1693526875,
+    "wof:lastmodified": 1711610924,
     "wof:name": "menu: Pan American World Airways",
     "wof:parent_id": 1511906719,
     "wof:placetype": "custom",

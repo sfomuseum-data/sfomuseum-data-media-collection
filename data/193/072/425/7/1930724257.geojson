@@ -4,7 +4,7 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
@@ -112,13 +112,25 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/193/072/425/7/1930724257_{secret}_{label}.{extention}",
+    "millsfield:aircraft_id": [
+      1159289915
+    ],
     "millsfield:airline_id": [
       1159285415
     ],
     "millsfield:category_id": 1511214235,
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [
-      1159288779
+      1159293593,
+      1159289873
+    ],
+    "millsfield:images_texts": [
+      "W/ UNITED\nBOEING\n747400",
+      "UNITED\nBOEING\n747.400"
+    ],
+    "millsfield:images_texts_ids": [
+      1930724255,
+      1930724257
     ],
     "millsfield:subcategory_id": 1511213161,
     "mz:is_current": 1,
@@ -146,7 +158,10 @@
     "wof:depicts": [
       1159288779,
       1930561225,
-      1159285415
+      1159285415,
+      1159289915,
+      1159293593,
+      1159289873
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -167,7 +182,7 @@
       }
     ],
     "wof:id": 1930724257,
-    "wof:lastmodified": 1723660674,
+    "wof:lastmodified": 1723706901,
     "wof:name": "model: United Airlines, Boeing 747-400",
     "wof:parent_id": 1930561225,
     "wof:placetype": "custom",

@@ -8,10 +8,11 @@
     "date:inception_upper": "1969-12-31",
     "edtf:cessation": "196X",
     "edtf:inception": "196X",
-    "geom:area": 2.4750474575706356e-7,
+    "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
     "geom:longitude": -122.38615540108617,
+    "iso:country": "US",
     "media:fingerprint": "8271f79d5ef6576e0a3e15744f843875bcf96a6d",
     "media:imagehash_avg": "a:ffdf9c81818988f0",
     "media:imagehash_diff": "d:17177033031b1141",
@@ -116,11 +117,17 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/606/1/1762896061_{secret}_{label}.{extension}",
+    "millsfield:airline_id": [
+      1159285393
+    ],
     "millsfield:airport_id": [
       102527513
     ],
     "millsfield:category_id": 1511214215,
     "millsfield:collection_id": 1511214207,
+    "millsfield:company_id": [
+      1159287531
+    ],
     "millsfield:images_texts": [
       "707\nFinest fo00"
     ],
@@ -148,11 +155,13 @@
       85688637,
       1159160869
     ],
-    "wof:country": "XY",
+    "wof:country": "US",
     "wof:created": 1643414692,
     "wof:depicts": [
-      1762831235,
-      102527513
+      102527513,
+      1159285393,
+      1159287531,
+      1762831235
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -174,7 +183,7 @@
       }
     ],
     "wof:id": 1762896061,
-    "wof:lastmodified": 1716928588,
+    "wof:lastmodified": 1729927560,
     "wof:name": "postcard: San Francisco International Airport, TWA (Trans World Airlines), Boeing 707",
     "wof:parent_id": 1762831235,
     "wof:placetype": "custom",

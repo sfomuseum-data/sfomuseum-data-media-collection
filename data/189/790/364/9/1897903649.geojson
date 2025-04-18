@@ -12,7 +12,14 @@
     "geom:bbox": "139.753910,35.695126,139.753910,35.695126",
     "geom:latitude": 35.695126,
     "geom:longitude": 139.75391,
-    "georef:depictions": [],
+    "georef:depictions": [
+      {
+        "georef:label": "location",
+        "wof:depicts": [
+          102031307
+        ]
+      }
+    ],
     "media:fingerprint": "594d5ddf651c2e943ce497c1e4c636c28acd54a1",
     "media:imagehash_avg": "a:1e7e3e3c00000000",
     "media:imagehash_diff": "d:b8b0f0eceae2e8e8",
@@ -136,7 +143,13 @@
     "src:geom_alt": [
       "georef_location"
     ],
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      102191569,
+      85632429,
+      1108741679,
+      102031307,
+      85672817
+    ],
     "wof:country": "XY",
     "wof:created": 1712907268,
     "wof:depicts": [
@@ -147,19 +160,30 @@
     "wof:geomhash": "319890d76e5c7f4bfa479727fb4e82b0",
     "wof:hierarchy": [
       {
+        "continent_id": 102191569,
+        "country_id": 85632429,
+        "county_id": 1108741679,
         "custom_id": 1897903649,
-        "image_id": 1897903649
+        "image_id": 1897903649,
+        "locality_id": 102031307,
+        "region_id": 85672817
       }
     ],
     "wof:id": 1897903649,
-    "wof:lastmodified": 1744926280,
+    "wof:lastmodified": 1744996098,
     "wof:name": "slide: Pan American World Airways, Tokyo",
     "wof:parent_id": 1897903111,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "image"
     ],
-    "wof:references": [],
+    "wof:references": [
+      85632429,
+      85672817,
+      1108741679,
+      102031307,
+      102191569
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": []

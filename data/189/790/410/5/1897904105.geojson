@@ -8,11 +8,18 @@
     "date:inception_upper": "1955-12-31",
     "edtf:cessation": "1955",
     "edtf:inception": "1955",
-    "geom:area": 0.0000035075038730271646,
-    "geom:bbox": "-122.375271,37.618277,-122.372396,37.620503",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
-    "georef:depictions": [],
+    "geom:area": 0,
+    "geom:bbox": "15.976218,45.806026,15.976218,45.806026",
+    "geom:latitude": 45.806026,
+    "geom:longitude": 15.976218,
+    "georef:depictions": [
+      {
+        "georef:label": "location",
+        "wof:depicts": [
+          101751659
+        ]
+      }
+    ],
     "media:fingerprint": "0a349594fa318c5a0123edfb58657631b60ba893",
     "media:imagehash_avg": "a:0c1f1e08001c3c00",
     "media:imagehash_diff": "d:f8f0b0b8f8f0f0e0",
@@ -123,40 +130,56 @@
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
     "src:geom": "sfomuseum#georeference",
-    "src:geom_alt": [],
-    "wof:belongsto": [],
+    "src:geom_alt": [
+      "georef_location"
+    ],
+    "wof:belongsto": [
+      102191581,
+      85633229,
+      101751659,
+      85684811
+    ],
     "wof:country": "XY",
     "wof:created": 1712907460,
     "wof:depicts": [
-      1159284989,
       1159286839,
-      1897903241
+      1897903241,
+      1159284989
     ],
-    "wof:geomhash": "5fe5ecf00bc1ee9c6b86044c0102c278",
+    "wof:geomhash": "2532bba6b2e8bcb739bfef1842d3ed41",
     "wof:hierarchy": [
       {
+        "continent_id": 102191581,
+        "country_id": 85633229,
         "custom_id": 1897904105,
-        "image_id": 1897904105
+        "image_id": 1897904105,
+        "locality_id": 101751659,
+        "region_id": 85684811
       }
     ],
     "wof:id": 1897904105,
-    "wof:lastmodified": 1744933716,
+    "wof:lastmodified": 1744935007,
     "wof:name": "slide: Pan American World Airways, Zagreb",
     "wof:parent_id": 1897903241,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "image"
     ],
-    "wof:references": [],
+    "wof:references": [
+      102191581,
+      85684811,
+      101751659,
+      85633229
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.37527132034302,
-    37.61827669585204,
-    -122.37239599227904,
-    37.620503205877995
+    15.976218,
+    45.806026,
+    15.976218,
+    45.806026
   ],
-  "geometry": {"coordinates":[[[-122.37527132034302,37.61904153505861],[-122.37344741821288,37.61827669585204],[-122.37239599227904,37.61973838170797],[-122.37432718276976,37.620503205877995],[-122.37527132034302,37.61904153505861]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[15.976218,45.806026]],"type":"MultiPoint"}
 }

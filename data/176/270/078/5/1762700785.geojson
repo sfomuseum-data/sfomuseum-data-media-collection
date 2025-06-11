@@ -226,6 +226,108 @@
     "millsfield:company_id": [
       1159286839
     ],
+    "millsfield:images_colors": [
+      {
+        "hex": "#e7c697",
+        "name": "Gold",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#bdb76b",
+        "name": "darkkhaki",
+        "reference": "css4"
+      },
+      {
+        "hex": "#b19d6c",
+        "name": "marekm4",
+        "reference": "b19d6c"
+      },
+      {
+        "hex": "#85754e",
+        "name": "Gold Fusion",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#716547",
+        "name": "vibrant",
+        "reference": "#716547"
+      },
+      {
+        "hex": "#222028",
+        "name": "marekm4",
+        "reference": "222028"
+      },
+      {
+        "hex": "#8c7647",
+        "name": "marekm4",
+        "reference": "8c7647"
+      },
+      {
+        "hex": "#000000",
+        "name": "black",
+        "reference": "css4"
+      },
+      {
+        "hex": "#edd19c",
+        "name": "Maize",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#111331",
+        "name": "vibrant",
+        "reference": "#111331"
+      },
+      {
+        "hex": "#d2c398",
+        "name": "vibrant",
+        "reference": "#d2c398"
+      },
+      {
+        "hex": "#bab86c",
+        "name": "Olive Green",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#e0d0aa",
+        "name": "vibrant",
+        "reference": "#e0d0aa"
+      },
+      {
+        "hex": "#bfab7b",
+        "name": "vibrant",
+        "reference": "#bfab7b"
+      },
+      {
+        "hex": "#f5deb3",
+        "name": "wheat",
+        "reference": "css4"
+      },
+      {
+        "hex": "#a0522d",
+        "name": "sienna",
+        "reference": "css4"
+      },
+      {
+        "hex": "#dbcaa1",
+        "name": "marekm4",
+        "reference": "dbcaa1"
+      },
+      {
+        "hex": "#d2b48c",
+        "name": "tan",
+        "reference": "css4"
+      },
+      {
+        "hex": "#000000",
+        "name": "Black",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#696969",
+        "name": "dimgrey",
+        "reference": "css4"
+      }
+    ],
     "millsfield:images_texts": [
       "JC8D-\nFLOE T-22:\nGAS TURBINE ENGINE PERFORMANCE\nCALCULATOR\nINSTRUCTIONS\nThe information obtained from this calculator is for\nnormal cruise, i.e. straight and\nlevel flight,\nair-condition and\npressurization bleed\nfrom pod engines, no bleed from\ncenter engine and,engines stabilized for five minutes.\nI\nDetermine indicated values\nfrom\naircraft instruments:\n1. TRUE RAM AIR TEMP. (RAT)\n2. ENGINE PRESSURE RATIO (EPR)\n3. TRUE MACH NO.\n4. PRESSURE ALTITUDE (Flight Level.)\n1.\nII\nSet TOTAL AIR TEMP index on TRUE RAM AIR TEMP\n2.\nOpposite N1 EPR POD ENG read Pod Engine NI\n3.\nOpposite N1 EPR CENTER ENG read Center Engine N1\n4.\nOpposite N2\nEPR POD ENG read Pod Engine N2\n5.\nOpposite N2 EPR CENTER ENG read Center Engine\n6.\nOpposite EGT EPR POD ENG read\nPod. Engine EGT\n7. Opposite EGT EPR CENTER ENG read Center Eng EGT.\nIII (POD ENGINE FUEL FLOW)\n1. Hold\n2.\nTEMP INDEX ON RAT and set FLIGHT LEVEL (blue disc) on FUEL FLOW EPR (black lines)\n3.\nSwing cursor to intersect TAT (or RAT) of cursor with MACH (outer scale on. blue disc).\nUnder top portion of centerline read FUEL FLOW for Pod Engine in LBS/Hr.\nIV (CENTER ENGINE FUEL FLOW)\n1. Perform same procedures as step III except set FLIGHT LEVEL on green line FUEL FLOW EPR.\nTO CONVERT LBS/HR TO KGS/HR\n1. Hold cursor on the fuel\nflow reading obtained\n2. Rotate the blue disc so as to place the LBS line of the blue disc under the\ncenterline of cursor.\n3.\nRead fuel flow under the KGS line of blue disc one scale betow original Lbs/r\nfuel flow reading.\n1.\n2.\n3.\n4.\nRAT\nEPR\nMACH NO.\nALT, FLT LVL\n- 30°C\n1.85\n. 84\n350\nEXAMPLE\n1.\n2.\nN1\n3.\nN2\nEGT\nFUEL FLOW\nPod Eng 83.4% Cntr Eng 83.6%\nPod Eng 85.5% Cntr Eng 84.7%\nPod Eng • 374°C Cntr Eng\n366°C\nPod Eng 2500 LBS/HR or 1134 KGS/HR\nCntr Eng 2450 LBS/HR or 1111 KGS/HR\nNOTE:\nThis calculator is a generalization of engine performance and is intended for use as\na baseline for engine monitoring.\nEngine fuel consumption for use in calculating\nairplane range characteristics must be obtained from engine specification curves."
     ],
@@ -280,7 +382,7 @@
       }
     ],
     "wof:id": 1762700785,
-    "wof:lastmodified": 1746653107,
+    "wof:lastmodified": 1749627323,
     "wof:name": "annual report: Pan American Corporation, 1985 [1 issue: 1985]",
     "wof:parent_id": 1762695089,
     "wof:placetype": "custom",

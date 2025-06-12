@@ -215,14 +215,39 @@
     "millsfield:collection_id": 1511214207,
     "millsfield:images_colors": [
       {
-        "hex": "#fddde6",
-        "name": "Piggy Pink",
+        "hex": "#808080",
+        "name": "grey",
+        "reference": "css4"
+      },
+      {
+        "hex": "#6e5160",
+        "name": "Eggplant",
         "reference": "crayola"
       },
       {
-        "hex": "#bead91",
-        "name": "vibrant",
-        "reference": "#bead91"
+        "hex": "#d2b48c",
+        "name": "tan",
+        "reference": "css4"
+      },
+      {
+        "hex": "#4b4c33",
+        "name": "marekm4",
+        "reference": "4b4c33"
+      },
+      {
+        "hex": "#a29164",
+        "name": "marekm4",
+        "reference": "a29164"
+      },
+      {
+        "hex": "#dfd9d3",
+        "name": "marekm4",
+        "reference": "dfd9d3"
+      },
+      {
+        "hex": "#bdb76b",
+        "name": "darkkhaki",
+        "reference": "css4"
       },
       {
         "hex": "#f1e7dd",
@@ -235,108 +260,13 @@
         "reference": "crayola"
       },
       {
-        "hex": "#9f8170",
-        "name": "Beaver",
-        "reference": "crayola"
-      },
-      {
-        "hex": "#d2b48c",
-        "name": "tan",
-        "reference": "css4"
-      },
-      {
-        "hex": "#c9c6c8",
-        "name": "vibrant",
-        "reference": "#c9c6c8"
-      },
-      {
-        "hex": "#95918c",
-        "name": "Gray",
-        "reference": "crayola"
-      },
-      {
-        "hex": "#7c879c",
-        "name": "marekm4",
-        "reference": "7c879c"
-      },
-      {
-        "hex": "#c0c0c0",
-        "name": "silver",
-        "reference": "css4"
-      },
-      {
-        "hex": "#dfd9d3",
-        "name": "marekm4",
-        "reference": "dfd9d3"
-      },
-      {
-        "hex": "#dcdcdc",
-        "name": "gainsboro",
-        "reference": "css4"
-      },
-      {
         "hex": "#696969",
         "name": "dimgrey",
         "reference": "css4"
       },
       {
-        "hex": "#8d5a47",
-        "name": "marekm4",
-        "reference": "8d5a47"
-      },
-      {
-        "hex": "#8f8180",
-        "name": "vibrant",
-        "reference": "#8f8180"
-      },
-      {
-        "hex": "#64695c",
-        "name": "vibrant",
-        "reference": "#64695c"
-      },
-      {
-        "hex": "#4b4c33",
-        "name": "marekm4",
-        "reference": "4b4c33"
-      },
-      {
-        "hex": "#6e5160",
-        "name": "Eggplant",
-        "reference": "crayola"
-      },
-      {
-        "hex": "#556b2f",
-        "name": "darkolivegreen",
-        "reference": "css4"
-      },
-      {
-        "hex": "#dbd7d2",
-        "name": "Timberwolf",
-        "reference": "crayola"
-      },
-      {
-        "hex": "#778899",
-        "name": "lightslategrey",
-        "reference": "css4"
-      },
-      {
-        "hex": "#deaa88",
-        "name": "Tumbleweed",
-        "reference": "crayola"
-      },
-      {
-        "hex": "#a29164",
-        "name": "marekm4",
-        "reference": "a29164"
-      },
-      {
-        "hex": "#414a4c",
-        "name": "Outer Space",
-        "reference": "crayola"
-      },
-      {
-        "hex": "#faebd7",
-        "name": "antiquewhite",
+        "hex": "#c0c0c0",
+        "name": "silver",
         "reference": "css4"
       },
       {
@@ -345,19 +275,89 @@
         "reference": "css4"
       },
       {
+        "hex": "#414a4c",
+        "name": "Outer Space",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#64695c",
+        "name": "vibrant",
+        "reference": "#64695c"
+      },
+      {
+        "hex": "#c9c6c8",
+        "name": "vibrant",
+        "reference": "#c9c6c8"
+      },
+      {
+        "hex": "#556b2f",
+        "name": "darkolivegreen",
+        "reference": "css4"
+      },
+      {
+        "hex": "#deaa88",
+        "name": "Tumbleweed",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#778899",
+        "name": "lightslategrey",
+        "reference": "css4"
+      },
+      {
         "hex": "#cdc5c2",
         "name": "Silver",
         "reference": "crayola"
       },
       {
-        "hex": "#bdb76b",
-        "name": "darkkhaki",
+        "hex": "#fddde6",
+        "name": "Piggy Pink",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#dbd7d2",
+        "name": "Timberwolf",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#8f8180",
+        "name": "vibrant",
+        "reference": "#8f8180"
+      },
+      {
+        "hex": "#bead91",
+        "name": "vibrant",
+        "reference": "#bead91"
+      },
+      {
+        "hex": "#8d5a47",
+        "name": "marekm4",
+        "reference": "8d5a47"
+      },
+      {
+        "hex": "#faebd7",
+        "name": "antiquewhite",
         "reference": "css4"
       },
       {
-        "hex": "#808080",
-        "name": "grey",
+        "hex": "#dcdcdc",
+        "name": "gainsboro",
         "reference": "css4"
+      },
+      {
+        "hex": "#7c879c",
+        "name": "marekm4",
+        "reference": "7c879c"
+      },
+      {
+        "hex": "#95918c",
+        "name": "Gray",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#9f8170",
+        "name": "Beaver",
+        "reference": "crayola"
       }
     ],
     "millsfield:images_texts": [
@@ -412,7 +412,7 @@
       }
     ],
     "wof:id": 1762896211,
-    "wof:lastmodified": 1749688759,
+    "wof:lastmodified": 1749713554,
     "wof:name": "logbook: Stanley Henry Page",
     "wof:parent_id": 1762829421,
     "wof:placetype": "custom",

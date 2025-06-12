@@ -163,14 +163,14 @@
     ],
     "millsfield:images_colors": [
       {
-        "hex": "#757575",
-        "name": "Sonic Silver",
-        "reference": "crayola"
-      },
-      {
         "hex": "#9f8170",
         "name": "Beaver",
         "reference": "crayola"
+      },
+      {
+        "hex": "#696969",
+        "name": "dimgrey",
+        "reference": "css4"
       },
       {
         "hex": "#a9a9a9",
@@ -178,13 +178,8 @@
         "reference": "css4"
       },
       {
-        "hex": "#b0b7c6",
-        "name": "Cadet Blue",
-        "reference": "crayola"
-      },
-      {
-        "hex": "#979aaa",
-        "name": "Manatee",
+        "hex": "#757575",
+        "name": "Sonic Silver",
         "reference": "crayola"
       },
       {
@@ -203,6 +198,11 @@
         "reference": "#726c6d"
       },
       {
+        "hex": "#bcbab6",
+        "name": "vibrant",
+        "reference": "#bcbab6"
+      },
+      {
         "hex": "#b09372",
         "name": "marekm4",
         "reference": "b09372"
@@ -213,33 +213,8 @@
         "reference": "#b7afac"
       },
       {
-        "hex": "#b6b4b2",
-        "name": "marekm4",
-        "reference": "b6b4b2"
-      },
-      {
-        "hex": "#b0b0b0",
-        "name": "vibrant",
-        "reference": "#b0b0b0"
-      },
-      {
-        "hex": "#463f47",
-        "name": "marekm4",
-        "reference": "463f47"
-      },
-      {
-        "hex": "#c0c0c0",
-        "name": "silver",
-        "reference": "css4"
-      },
-      {
-        "hex": "#bcbab6",
-        "name": "vibrant",
-        "reference": "#bcbab6"
-      },
-      {
-        "hex": "#696969",
-        "name": "dimgrey",
+        "hex": "#2f4f4f",
+        "name": "darkslategrey",
         "reference": "css4"
       },
       {
@@ -248,8 +223,33 @@
         "reference": "css4"
       },
       {
-        "hex": "#2f4f4f",
-        "name": "darkslategrey",
+        "hex": "#979aaa",
+        "name": "Manatee",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#b6b4b2",
+        "name": "marekm4",
+        "reference": "b6b4b2"
+      },
+      {
+        "hex": "#b0b7c6",
+        "name": "Cadet Blue",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#463f47",
+        "name": "marekm4",
+        "reference": "463f47"
+      },
+      {
+        "hex": "#b0b0b0",
+        "name": "vibrant",
+        "reference": "#b0b0b0"
+      },
+      {
+        "hex": "#c0c0c0",
+        "name": "silver",
         "reference": "css4"
       }
     ],
@@ -301,7 +301,7 @@
       }
     ],
     "wof:id": 1780304163,
-    "wof:lastmodified": 1749688814,
+    "wof:lastmodified": 1749713570,
     "wof:name": "service pin: Pan American World Airways, 20 years",
     "wof:parent_id": 1780304009,
     "wof:placetype": "custom",

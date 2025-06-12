@@ -144,14 +144,14 @@
     "millsfield:company_id": [],
     "millsfield:images_colors": [
       {
+        "hex": "#c0c0c0",
+        "name": "silver",
+        "reference": "css4"
+      },
+      {
         "hex": "#a3a4a5",
         "name": "vibrant",
         "reference": "#a3a4a5"
-      },
-      {
-        "hex": "#cdc5c2",
-        "name": "Silver",
-        "reference": "crayola"
       },
       {
         "hex": "#696969",
@@ -159,24 +159,9 @@
         "reference": "css4"
       },
       {
-        "hex": "#979aaa",
-        "name": "Manatee",
+        "hex": "#cdc5c2",
+        "name": "Silver",
         "reference": "crayola"
-      },
-      {
-        "hex": "#b8b8b8",
-        "name": "vibrant",
-        "reference": "#b8b8b8"
-      },
-      {
-        "hex": "#b0b7c6",
-        "name": "Cadet Blue",
-        "reference": "crayola"
-      },
-      {
-        "hex": "#c0c0c0",
-        "name": "silver",
-        "reference": "css4"
       },
       {
         "hex": "#b0b0b8",
@@ -189,14 +174,19 @@
         "reference": "crayola"
       },
       {
+        "hex": "#b6b7b8",
+        "name": "marekm4",
+        "reference": "b6b7b8"
+      },
+      {
+        "hex": "#b8b8b8",
+        "name": "vibrant",
+        "reference": "#b8b8b8"
+      },
+      {
         "hex": "#b2b6b7",
         "name": "vibrant",
         "reference": "#b2b6b7"
-      },
-      {
-        "hex": "#a9a9a9",
-        "name": "darkgrey",
-        "reference": "css4"
       },
       {
         "hex": "#c6c5c7",
@@ -204,14 +194,24 @@
         "reference": "#c6c5c7"
       },
       {
-        "hex": "#b6b7b8",
-        "name": "marekm4",
-        "reference": "b6b7b8"
-      },
-      {
         "hex": "#565351",
         "name": "marekm4",
         "reference": "565351"
+      },
+      {
+        "hex": "#b0b7c6",
+        "name": "Cadet Blue",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#979aaa",
+        "name": "Manatee",
+        "reference": "crayola"
+      },
+      {
+        "hex": "#a9a9a9",
+        "name": "darkgrey",
+        "reference": "css4"
       }
     ],
     "millsfield:subcategory_id": 1511213417,
@@ -238,10 +238,10 @@
     "wof:country": "XY",
     "wof:created": 1668070656,
     "wof:depicts": [
-      1796589311,
-      1159283851,
       1360700619,
-      1159290417
+      1159290417,
+      1796589311,
+      1159283851
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -263,7 +263,7 @@
       }
     ],
     "wof:id": 1796589553,
-    "wof:lastmodified": 1749688822,
+    "wof:lastmodified": 1749713619,
     "wof:name": "spoon: American Air Lines, DC-3",
     "wof:parent_id": 1796589311,
     "wof:placetype": "custom",

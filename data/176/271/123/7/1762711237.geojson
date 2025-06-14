@@ -351,13 +351,23 @@
           "reference": "crayola"
         },
         {
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
@@ -371,28 +381,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
           "hex": "#979aaa",
           "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -403,8 +403,8 @@
       ],
       "css4": [
         {
-          "hex": "#4682b4",
-          "name": "steelblue",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -413,18 +413,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#f5deb3",
           "name": "wheat",
           "reference": "css4"
         },
         {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#a0522d",
+          "name": "sienna",
           "reference": "css4"
         },
         {
@@ -433,18 +433,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faebd7",
+          "name": "antiquewhite",
           "reference": "css4"
         },
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
           "reference": "css4"
         },
         {
@@ -454,11 +454,6 @@
         }
       ],
       "marekm4": [
-        {
-          "hex": "#4f8abe",
-          "name": "#4f8abe",
-          "reference": "marekm4"
-        },
         {
           "hex": "#e1e0db",
           "name": "#e1e0db",
@@ -470,11 +465,6 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#94662c",
-          "name": "#94662c",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#ece1cc",
           "name": "#ece1cc",
           "reference": "marekm4"
@@ -482,6 +472,16 @@
         {
           "hex": "#1e1b0e",
           "name": "#1e1b0e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4f8abe",
+          "name": "#4f8abe",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#94662c",
+          "name": "#94662c",
           "reference": "marekm4"
         }
       ]
@@ -518,12 +518,12 @@
     "wof:country": "US",
     "wof:created": 1641350381,
     "wof:depicts": [
-      1159287531,
-      1762688541,
-      1159285393,
       102533051,
       1159292981,
-      1159293697
+      1159293697,
+      1159287531,
+      1762688541,
+      1159285393
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -545,7 +545,7 @@
       }
     ],
     "wof:id": 1762711237,
-    "wof:lastmodified": 1749800025,
+    "wof:lastmodified": 1749886416,
     "wof:name": "postcard: TWA, Lockheed Constellation, Kansas City Municipal Airport",
     "wof:parent_id": 1762688541,
     "wof:placetype": "custom",

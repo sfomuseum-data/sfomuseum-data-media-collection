@@ -310,8 +310,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -325,22 +335,27 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
         {
           "hex": "#c0c0c0",
           "name": "silver",
@@ -352,23 +367,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
           "reference": "css4"
         }
       ],
@@ -379,13 +379,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#dfd9cc",
-          "name": "#dfd9cc",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4e4f44",
-          "name": "#4e4f44",
+          "hex": "#878679",
+          "name": "#878679",
           "reference": "marekm4"
         },
         {
@@ -394,8 +389,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#878679",
-          "name": "#878679",
+          "hex": "#dfd9cc",
+          "name": "#dfd9cc",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4e4f44",
+          "name": "#4e4f44",
           "reference": "marekm4"
         }
       ]
@@ -463,7 +463,7 @@
       }
     ],
     "wof:id": 1762708065,
-    "wof:lastmodified": 1749886410,
+    "wof:lastmodified": 1750059246,
     "wof:name": "postcard: Mid-Continent Airlines, Douglas DC-3",
     "wof:parent_id": 1762693685,
     "wof:placetype": "custom",

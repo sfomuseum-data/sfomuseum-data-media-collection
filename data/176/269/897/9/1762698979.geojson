@@ -280,8 +280,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
           "reference": "crayola"
         },
         {
@@ -295,35 +305,15 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
           "hex": "#dcdcdc",
           "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#8b4513",
-          "name": "saddlebrown",
           "reference": "css4"
         },
         {
@@ -332,17 +322,32 @@
           "reference": "css4"
         },
         {
+          "hex": "#dc143c",
+          "name": "crimson",
+          "reference": "css4"
+        },
+        {
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
+        },
+        {
           "hex": "#ff0000",
           "name": "red",
           "reference": "css4"
         },
         {
-          "hex": "#dc143c",
-          "name": "crimson",
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#240505",
+          "name": "#240505",
+          "reference": "marekm4"
+        },
         {
           "hex": "#d2060a",
           "name": "#d2060a",
@@ -351,11 +356,6 @@
         {
           "hex": "#e9dad6",
           "name": "#e9dad6",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#240505",
-          "name": "#240505",
           "reference": "marekm4"
         }
       ]
@@ -390,10 +390,10 @@
     "wof:country": "XY",
     "wof:created": 1641345922,
     "wof:depicts": [
-      1762683767,
-      1159283829,
       1159285447,
-      1159288239
+      1159288239,
+      1762683767,
+      1159283829
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -415,7 +415,7 @@
       }
     ],
     "wof:id": 1762698979,
-    "wof:lastmodified": 1750059201,
+    "wof:lastmodified": 1750145645,
     "wof:name": "timetable: Allegheny Commuter, USAir",
     "wof:parent_id": 1762683767,
     "wof:placetype": "custom",

@@ -237,8 +237,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -247,18 +252,13 @@
           "reference": "crayola"
         },
         {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -269,11 +269,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#000000",
           "name": "black",
           "reference": "css4"
@@ -281,6 +276,11 @@
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
@@ -345,7 +345,7 @@
       }
     ],
     "wof:id": 1880874019,
-    "wof:lastmodified": 1750232370,
+    "wof:lastmodified": 1750318738,
     "wof:name": "first officer pants: Continental Airlines",
     "wof:parent_id": 1880873877,
     "wof:placetype": "custom",

@@ -266,6 +266,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -273,11 +278,6 @@
         {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -291,27 +291,12 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -323,8 +308,23 @@
           "reference": "css4"
         },
         {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
           "hex": "#000000",
           "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         }
       ],
@@ -369,8 +369,8 @@
     "wof:country": "US",
     "wof:created": 1578950425,
     "wof:depicts": [
-      102527513,
-      1511947851
+      1511947851,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -393,7 +393,7 @@
       }
     ],
     "wof:id": 1527826811,
-    "wof:lastmodified": 1750232217,
+    "wof:lastmodified": 1750318582,
     "wof:name": "negative: San Francisco International Airport (SFO), cargo and freight building",
     "wof:parent_id": 1511947851,
     "wof:placetype": "custom",

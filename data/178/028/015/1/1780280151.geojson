@@ -289,8 +289,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#85754e",
+          "name": "Gold Fusion",
           "reference": "crayola"
         },
         {
@@ -299,40 +304,30 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#85754e",
-          "name": "Gold Fusion",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -341,17 +336,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#383229",
-          "name": "#383229",
-          "reference": "marekm4"
-        },
         {
           "hex": "#8d6059",
           "name": "#8d6059",
@@ -360,6 +355,11 @@
         {
           "hex": "#a3a2a5",
           "name": "#a3a2a5",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#383229",
+          "name": "#383229",
           "reference": "marekm4"
         },
         {
@@ -430,7 +430,7 @@
       }
     ],
     "wof:id": 1780280151,
-    "wof:lastmodified": 1750405111,
+    "wof:lastmodified": 1750491503,
     "wof:name": "miniature liquor bottle: TWA (Trans World Airlines), Schenlely, Daiquiri Cocktail",
     "wof:parent_id": 1780279019,
     "wof:placetype": "custom",

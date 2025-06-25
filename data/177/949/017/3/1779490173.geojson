@@ -3,11 +3,11 @@
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "1950-01-01",
-    "date:cessation_upper": "1959-12-31",
+    "date:cessation_upper": "1950-12-31",
     "date:inception_lower": "1950-01-01",
-    "date:inception_upper": "1959-12-31",
-    "edtf:cessation": "195X",
-    "edtf:inception": "195X",
+    "date:inception_upper": "1950-12-31",
+    "edtf:cessation": "1950~",
+    "edtf:inception": "1950~",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -352,23 +352,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
@@ -377,8 +362,23 @@
           "reference": "crayola"
         },
         {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#714b23",
           "name": "Raw Umber",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cd9575",
+          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
@@ -387,15 +387,15 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
@@ -404,18 +404,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#191970",
           "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
           "reference": "css4"
         },
         {
@@ -429,22 +419,27 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#944b42",
-          "name": "#944b42",
-          "reference": "marekm4"
-        },
         {
           "hex": "#b88f6d",
           "name": "#b88f6d",
@@ -456,13 +451,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#60678c",
-          "name": "#60678c",
+          "hex": "#944b42",
+          "name": "#944b42",
           "reference": "marekm4"
         },
         {
           "hex": "#242745",
           "name": "#242745",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#60678c",
+          "name": "#60678c",
           "reference": "marekm4"
         }
       ]
@@ -497,10 +497,10 @@
     "wof:country": "XY",
     "wof:created": 1652947129,
     "wof:depicts": [
-      1159289651,
-      1159293593,
       1779488335,
-      1159284989
+      1159284989,
+      1159289651,
+      1159293593
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -522,7 +522,7 @@
       }
     ],
     "wof:id": 1779490173,
-    "wof:lastmodified": 1750750538,
+    "wof:lastmodified": 1750836911,
     "wof:name": "poster: Pan American World Airways, New York",
     "wof:parent_id": 1779488335,
     "wof:placetype": "custom",

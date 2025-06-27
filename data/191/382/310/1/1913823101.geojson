@@ -293,8 +293,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
           "reference": "crayola"
         },
         {
@@ -303,8 +308,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#e7c697",
-          "name": "Gold",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -313,22 +318,27 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
         },
         {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
+          "hex": "#e7c697",
+          "name": "Gold",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -340,27 +350,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#a52a2a",
-          "name": "brown",
+          "hex": "#d2b48c",
+          "name": "tan",
           "reference": "css4"
         },
         {
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
-        },
-        {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#cabca0",
+          "name": "#cabca0",
+          "reference": "marekm4"
+        },
         {
           "hex": "#263049",
           "name": "#263049",
@@ -374,11 +379,6 @@
         {
           "hex": "#a09375",
           "name": "#a09375",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#cabca0",
-          "name": "#cabca0",
           "reference": "marekm4"
         }
       ]
@@ -435,7 +435,7 @@
       }
     ],
     "wof:id": 1913823101,
-    "wof:lastmodified": 1750923556,
+    "wof:lastmodified": 1751009983,
     "wof:name": "airmail flight cover: first airmail flight, CAM-2, Chicago to St. Louis route",
     "wof:parent_id": 1913822489,
     "wof:placetype": "custom",

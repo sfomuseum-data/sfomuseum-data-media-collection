@@ -428,13 +428,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -453,22 +458,37 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
           "hex": "#95918c",
           "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#c0c0c0",
           "name": "silver",
@@ -480,26 +500,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
@@ -507,33 +507,8 @@
       ],
       "marekm4": [
         {
-          "hex": "#aeaeaf",
-          "name": "#aeaeaf",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b2b2b4",
-          "name": "#b2b2b4",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#3e3d40",
-          "name": "#3e3d40",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b2b2b3",
-          "name": "#b2b2b3",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#585759",
-          "name": "#585759",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#525052",
-          "name": "#525052",
+          "hex": "#4c4c4f",
+          "name": "#4c4c4f",
           "reference": "marekm4"
         },
         {
@@ -542,18 +517,13 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#b2b2b4",
+          "name": "#b2b2b4",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#b1b0b1",
           "name": "#b1b0b1",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#aeadaf",
-          "name": "#aeadaf",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4c4c4f",
-          "name": "#4c4c4f",
           "reference": "marekm4"
         },
         {
@@ -562,8 +532,38 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#3e3d40",
+          "name": "#3e3d40",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#adadae",
           "name": "#adadae",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#aeadaf",
+          "name": "#aeadaf",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#525052",
+          "name": "#525052",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#585759",
+          "name": "#585759",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b2b2b3",
+          "name": "#b2b2b3",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#aeaeaf",
+          "name": "#aeaeaf",
           "reference": "marekm4"
         }
       ]
@@ -614,12 +614,12 @@
     "wof:country": "US",
     "wof:created": 1578955332,
     "wof:depicts": [
-      1511909375,
-      1159290479,
-      1159290473,
       1159288207,
       1159290443,
-      1159284397
+      1159284397,
+      1511909375,
+      1159290479,
+      1159290473
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -651,7 +651,7 @@
       }
     ],
     "wof:id": 1527857695,
-    "wof:lastmodified": 1750923495,
+    "wof:lastmodified": 1751009925,
     "wof:name": "model airplane: Flying Tigers (Cargo), Douglas DC-8-63F",
     "wof:parent_id": 1511909375,
     "wof:placetype": "custom",

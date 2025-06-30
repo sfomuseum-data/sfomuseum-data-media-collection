@@ -296,18 +296,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -321,13 +326,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         }
       ],
@@ -338,8 +338,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -353,22 +358,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#cd853f",
-          "name": "peru",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#ac8c54",
-          "name": "#ac8c54",
-          "reference": "marekm4"
-        },
         {
           "hex": "#29241f",
           "name": "#29241f",
@@ -377,6 +372,11 @@
         {
           "hex": "#aeacad",
           "name": "#aeacad",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#ac8c54",
+          "name": "#ac8c54",
           "reference": "marekm4"
         },
         {
@@ -410,11 +410,11 @@
     "wof:country": "XY",
     "wof:created": 1643762181,
     "wof:depicts": [
-      1159285785,
-      1159288505,
       1159288585,
       1762923301,
-      1159284563
+      1159284563,
+      1159285785,
+      1159288505
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -436,7 +436,7 @@
       }
     ],
     "wof:id": 1762923935,
-    "wof:lastmodified": 1751009781,
+    "wof:lastmodified": 1751269118,
     "wof:name": "flight officer epaulettes: JAL (Japan Airlines)",
     "wof:parent_id": 1762923301,
     "wof:placetype": "custom",

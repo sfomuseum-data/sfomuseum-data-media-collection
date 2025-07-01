@@ -363,13 +363,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
           "hex": "#6e5160",
           "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -383,11 +388,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
@@ -395,18 +395,18 @@
       ],
       "css4": [
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -415,8 +415,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -427,23 +427,8 @@
       ],
       "marekm4": [
         {
-          "hex": "#b5b7b8",
-          "name": "#b5b7b8",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#5e5d5f",
-          "name": "#5e5d5f",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#b2b3b5",
           "name": "#b2b3b5",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#5f5c5e",
-          "name": "#5f5c5e",
           "reference": "marekm4"
         },
         {
@@ -452,18 +437,33 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#b6b8ba",
-          "name": "#b6b8ba",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#5e5b5c",
           "name": "#5e5b5c",
           "reference": "marekm4"
         },
         {
+          "hex": "#5e5d5f",
+          "name": "#5e5d5f",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#5d5c5e",
           "name": "#5d5c5e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#5f5c5e",
+          "name": "#5f5c5e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b6b8ba",
+          "name": "#b6b8ba",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b5b7b8",
+          "name": "#b5b7b8",
           "reference": "marekm4"
         }
       ]
@@ -503,10 +503,10 @@
     "wof:country": "XY",
     "wof:created": 1694022888,
     "wof:depicts": [
-      1880318969,
-      1159285393,
       1159293155,
-      1159293697
+      1159293697,
+      1880318969,
+      1159285393
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -528,7 +528,7 @@
       }
     ],
     "wof:id": 1880319953,
-    "wof:lastmodified": 1751269271,
+    "wof:lastmodified": 1751355617,
     "wof:name": "model airplane: TWA (Trans World Airlines), Lockheed L-049 Constellation",
     "wof:parent_id": 1880318969,
     "wof:placetype": "custom",

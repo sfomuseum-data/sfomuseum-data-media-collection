@@ -337,13 +337,28 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
           "hex": "#efdecd",
           "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -357,35 +372,15 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -394,8 +389,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -404,13 +404,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         }
       ],
@@ -421,18 +421,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#252524",
-          "name": "#252524",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#dddbd2",
-          "name": "#dddbd2",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b4afa7",
-          "name": "#b4afa7",
+          "hex": "#191717",
+          "name": "#191717",
           "reference": "marekm4"
         },
         {
@@ -441,13 +431,23 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#191717",
-          "name": "#191717",
+          "hex": "#dddbd2",
+          "name": "#dddbd2",
           "reference": "marekm4"
         },
         {
           "hex": "#1c1919",
           "name": "#1c1919",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#252524",
+          "name": "#252524",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b4afa7",
+          "name": "#b4afa7",
           "reference": "marekm4"
         },
         {
@@ -481,9 +481,9 @@
     "wof:country": "XY",
     "wof:created": 1722411348,
     "wof:depicts": [
-      1159284507,
       1159288859,
-      1896965687
+      1896965687,
+      1159284507
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -504,7 +504,7 @@
       }
     ],
     "wof:id": 1930502425,
-    "wof:lastmodified": 1751355699,
+    "wof:lastmodified": 1751442168,
     "wof:name": "hostess gloves: Hughes Airwest",
     "wof:parent_id": 1896965687,
     "wof:placetype": "custom",

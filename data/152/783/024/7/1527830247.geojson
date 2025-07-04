@@ -325,8 +325,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
           "reference": "crayola"
         },
         {
@@ -340,23 +355,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cd4a4c",
-          "name": "Mahogany",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
@@ -364,6 +364,11 @@
         {
           "hex": "#b22222",
           "name": "firebrick",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -377,6 +382,11 @@
           "reference": "css4"
         },
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
@@ -385,24 +395,9 @@
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#afb3ab",
-          "name": "#afb3ab",
-          "reference": "marekm4"
-        },
         {
           "hex": "#627889",
           "name": "#627889",
@@ -414,13 +409,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#c64030",
-          "name": "#c64030",
+          "hex": "#444050",
+          "name": "#444050",
           "reference": "marekm4"
         },
         {
-          "hex": "#444050",
-          "name": "#444050",
+          "hex": "#afb3ab",
+          "name": "#afb3ab",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#c64030",
+          "name": "#c64030",
           "reference": "marekm4"
         }
       ]
@@ -485,7 +485,7 @@
       }
     ],
     "wof:id": 1527830247,
-    "wof:lastmodified": 1751528272,
+    "wof:lastmodified": 1751614686,
     "wof:name": "route map: United Air Lines, Seattle to San Diego route",
     "wof:parent_id": 1511910255,
     "wof:placetype": "custom",

@@ -399,8 +399,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -409,8 +414,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -422,34 +427,9 @@
           "hex": "#85754e",
           "name": "Gold Fusion",
           "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
         {
           "hex": "#556b2f",
           "name": "darkolivegreen",
@@ -461,6 +441,26 @@
           "reference": "css4"
         },
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
@@ -468,13 +468,8 @@
       ],
       "marekm4": [
         {
-          "hex": "#c2c2c2",
-          "name": "#c2c2c2",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#c0c1c1",
-          "name": "#c0c1c1",
+          "hex": "#524843",
+          "name": "#524843",
           "reference": "marekm4"
         },
         {
@@ -483,23 +478,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#594b45",
-          "name": "#594b45",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4e4542",
-          "name": "#4e4542",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#524843",
-          "name": "#524843",
+          "hex": "#c0c1c1",
+          "name": "#c0c1c1",
           "reference": "marekm4"
         },
         {
           "hex": "#896856",
           "name": "#896856",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4e4542",
+          "name": "#4e4542",
           "reference": "marekm4"
         },
         {
@@ -513,13 +503,23 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#534a47",
+          "name": "#534a47",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#594b45",
+          "name": "#594b45",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#584f4b",
           "name": "#584f4b",
           "reference": "marekm4"
         },
         {
-          "hex": "#c0c0c1",
-          "name": "#c0c0c1",
+          "hex": "#c2c2c2",
+          "name": "#c2c2c2",
           "reference": "marekm4"
         },
         {
@@ -528,8 +528,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#534a47",
-          "name": "#534a47",
+          "hex": "#c0c0c1",
+          "name": "#c0c0c1",
           "reference": "marekm4"
         }
       ]
@@ -573,10 +573,10 @@
     "wof:country": "XY",
     "wof:created": 1645692225,
     "wof:depicts": [
-      1159286839,
-      1763144027,
       1159290417,
-      1159284989
+      1159284989,
+      1159286839,
+      1763144027
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -598,7 +598,7 @@
       }
     ],
     "wof:id": 1763144689,
-    "wof:lastmodified": 1751614832,
+    "wof:lastmodified": 1751701247,
     "wof:name": "model airplane: Pan American World Airways, Douglas DC-3",
     "wof:parent_id": 1763144027,
     "wof:placetype": "custom",

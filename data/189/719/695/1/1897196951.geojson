@@ -295,8 +295,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -315,17 +320,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -337,11 +342,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
@@ -349,18 +349,8 @@
       ],
       "marekm4": [
         {
-          "hex": "#353a40",
-          "name": "#353a40",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#303b44",
           "name": "#303b44",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b3b3b4",
-          "name": "#b3b3b4",
           "reference": "marekm4"
         },
         {
@@ -371,6 +361,16 @@
         {
           "hex": "#b3b2b3",
           "name": "#b3b2b3",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#353a40",
+          "name": "#353a40",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b3b3b4",
+          "name": "#b3b3b4",
           "reference": "marekm4"
         }
       ]
@@ -425,7 +425,7 @@
       }
     ],
     "wof:id": 1897196951,
-    "wof:lastmodified": 1751614912,
+    "wof:lastmodified": 1751701328,
     "wof:name": "model airplane: Eastern Air Lines, Douglas DC-8-61",
     "wof:parent_id": 1897196819,
     "wof:placetype": "custom",

@@ -300,8 +300,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -310,18 +315,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
           "hex": "#bab86c",
           "name": "Olive Green",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -332,23 +332,13 @@
       ],
       "css4": [
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#556b2f",
           "name": "darkolivegreen",
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5deb3",
-          "name": "wheat",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -357,8 +347,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -369,16 +369,6 @@
       ],
       "marekm4": [
         {
-          "hex": "#837b5d",
-          "name": "#837b5d",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#d5caaf",
-          "name": "#d5caaf",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#45422a",
           "name": "#45422a",
           "reference": "marekm4"
@@ -386,6 +376,16 @@
         {
           "hex": "#988f70",
           "name": "#988f70",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#837b5d",
+          "name": "#837b5d",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#d5caaf",
+          "name": "#d5caaf",
           "reference": "marekm4"
         }
       ]
@@ -420,10 +420,10 @@
     "wof:country": "XY",
     "wof:created": 1692952210,
     "wof:depicts": [
-      1880201441,
       1159287427,
       1159284181,
-      1159292297
+      1159292297,
+      1880201441
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -445,7 +445,7 @@
       }
     ],
     "wof:id": 1880201469,
-    "wof:lastmodified": 1751701283,
+    "wof:lastmodified": 1751874145,
     "wof:name": "photograph: Harold M. Bixby and others with CNAC Ford Tri-Motor",
     "wof:parent_id": 1880201441,
     "wof:placetype": "custom",

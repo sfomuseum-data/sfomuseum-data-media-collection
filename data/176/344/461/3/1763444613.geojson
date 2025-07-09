@@ -273,6 +273,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -280,11 +285,6 @@
         {
           "hex": "#757575",
           "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -305,16 +305,6 @@
       ],
       "css4": [
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
@@ -325,13 +315,23 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         }
       ],
@@ -374,13 +374,13 @@
     "wof:country": "US",
     "wof:created": 1649404842,
     "wof:depicts": [
-      1159293593,
-      1762760639,
       102526751,
       1159283849,
       102527513,
       1360700619,
-      1159289759
+      1159289759,
+      1159293593,
+      1762760639
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -424,7 +424,7 @@
       }
     ],
     "wof:id": 1763444613,
-    "wof:lastmodified": 1751874061,
+    "wof:lastmodified": 1752046885,
     "wof:name": "negative: American Airlines, Boeing 727",
     "wof:parent_id": 1762760639,
     "wof:placetype": "custom",

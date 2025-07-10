@@ -272,8 +272,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
+        },
+        {
           "hex": "#efdecd",
           "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
           "reference": "crayola"
         },
         {
@@ -285,16 +295,6 @@
           "hex": "#ff2b2b",
           "name": "Orange Red",
           "reference": "crayola"
-        },
-        {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
-          "reference": "crayola"
         }
       ],
       "css4": [
@@ -304,18 +304,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#f5deb3",
-          "name": "wheat",
-          "reference": "css4"
-        },
-        {
           "hex": "#dc143c",
           "name": "crimson",
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f5deb3",
+          "name": "wheat",
           "reference": "css4"
         },
         {
@@ -324,15 +324,15 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#da3829",
-          "name": "#da3829",
+          "hex": "#323644",
+          "name": "#323644",
           "reference": "marekm4"
         },
         {
@@ -341,8 +341,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#323644",
-          "name": "#323644",
+          "hex": "#da3829",
+          "name": "#da3829",
           "reference": "marekm4"
         }
       ]
@@ -381,9 +381,9 @@
     "wof:country": "XX",
     "wof:created": 1578950786,
     "wof:depicts": [
-      1159284991,
       1159286839,
-      1511907241
+      1511907241,
+      1159284991
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -406,7 +406,7 @@
       }
     ],
     "wof:id": 1527829089,
-    "wof:lastmodified": 1752046784,
+    "wof:lastmodified": 1752133148,
     "wof:name": "airmail flight cover: Pan American Airways, Canton Island - Auckland route",
     "wof:parent_id": 1511907241,
     "wof:placetype": "custom",

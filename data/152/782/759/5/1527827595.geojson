@@ -296,13 +296,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -313,11 +318,6 @@
         {
           "hex": "#4a646c",
           "name": "Deep Space Sparkle",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -333,13 +333,18 @@
       ],
       "css4": [
         {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#778899",
           "name": "lightslategrey",
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -348,32 +353,17 @@
           "reference": "css4"
         },
         {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#b2b4b1",
-          "name": "#b2b4b1",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#778699",
-          "name": "#778699",
-          "reference": "marekm4"
-        },
         {
           "hex": "#5b6b8a",
           "name": "#5b6b8a",
@@ -382,6 +372,16 @@
         {
           "hex": "#323955",
           "name": "#323955",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b2b4b1",
+          "name": "#b2b4b1",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#778699",
+          "name": "#778699",
           "reference": "marekm4"
         }
       ]
@@ -414,8 +414,8 @@
     "wof:country": "US",
     "wof:created": 1578950550,
     "wof:depicts": [
-      1511948629,
-      102527513
+      102527513,
+      1511948629
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -438,7 +438,7 @@
       }
     ],
     "wof:id": 1527827595,
-    "wof:lastmodified": 1752046782,
+    "wof:lastmodified": 1752133146,
     "wof:name": "negative: San Francisco International Airport (SFO), terminal interior",
     "wof:parent_id": 1511948629,
     "wof:placetype": "custom",

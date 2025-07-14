@@ -332,8 +332,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -347,30 +352,40 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a52a2a",
+          "name": "brown",
           "reference": "css4"
         },
         {
@@ -384,37 +399,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#a52a2a",
-          "name": "brown",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
           "hex": "#bc8f8f",
           "name": "rosybrown",
           "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#bbb6b1",
-          "name": "#bbb6b1",
-          "reference": "marekm4"
-        },
         {
           "hex": "#aa2823",
           "name": "#aa2823",
@@ -426,6 +421,16 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#424034",
+          "name": "#424034",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#bbb6b1",
+          "name": "#bbb6b1",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#414034",
           "name": "#414034",
           "reference": "marekm4"
@@ -433,11 +438,6 @@
         {
           "hex": "#ab2420",
           "name": "#ab2420",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#424034",
-          "name": "#424034",
           "reference": "marekm4"
         }
       ]
@@ -497,7 +497,7 @@
       }
     ],
     "wof:id": 1763504029,
-    "wof:lastmodified": 1752306140,
+    "wof:lastmodified": 1752478992,
     "wof:name": "oversize playing cards: Northwest Airlines, Northwest Orient service",
     "wof:parent_id": 1763503925,
     "wof:placetype": "custom",

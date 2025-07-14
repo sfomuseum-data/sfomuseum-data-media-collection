@@ -309,13 +309,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
           "hex": "#714b23",
           "name": "Raw Umber",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         },
         {
@@ -326,11 +331,6 @@
         {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -346,18 +346,13 @@
       ],
       "css4": [
         {
-          "hex": "#8b4513",
-          "name": "saddlebrown",
+          "hex": "#a52a2a",
+          "name": "brown",
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
@@ -366,13 +361,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#dcdcdc",
           "name": "gainsboro",
           "reference": "css4"
         },
         {
-          "hex": "#a52a2a",
-          "name": "brown",
+          "hex": "#8b4513",
+          "name": "saddlebrown",
           "reference": "css4"
         },
         {
@@ -381,17 +381,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#a0522d",
+          "name": "sienna",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#e8e6de",
-          "name": "#e8e6de",
-          "reference": "marekm4"
-        },
         {
           "hex": "#903735",
           "name": "#903735",
@@ -400,6 +395,11 @@
         {
           "hex": "#371e1f",
           "name": "#371e1f",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#e8e6de",
+          "name": "#e8e6de",
           "reference": "marekm4"
         }
       ]
@@ -434,9 +434,9 @@
     "wof:country": "XY",
     "wof:created": 1652947086,
     "wof:depicts": [
-      1779488543,
       1159285019,
-      1159287755
+      1159287755,
+      1779488543
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -458,7 +458,7 @@
       }
     ],
     "wof:id": 1779489979,
-    "wof:lastmodified": 1752306153,
+    "wof:lastmodified": 1752479006,
     "wof:name": "poster: Piedmont Airlines, Hilton Head",
     "wof:parent_id": 1779488543,
     "wof:placetype": "custom",

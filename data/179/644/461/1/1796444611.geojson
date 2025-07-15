@@ -286,13 +286,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#bab86c",
+          "name": "Olive Green",
           "reference": "crayola"
         },
         {
           "hex": "#9c7c38",
           "name": "Metallic Sunburst",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
           "reference": "crayola"
         },
         {
@@ -306,18 +316,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#bab86c",
-          "name": "Olive Green",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#d68a59",
-          "name": "Raw Sienna",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -325,11 +325,6 @@
         {
           "hex": "#a0522d",
           "name": "sienna",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
           "reference": "css4"
         },
         {
@@ -343,6 +338,11 @@
           "reference": "css4"
         },
         {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
@@ -350,23 +350,23 @@
       ],
       "marekm4": [
         {
-          "hex": "#c7a15c",
-          "name": "#c7a15c",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#aaa7a5",
           "name": "#aaa7a5",
           "reference": "marekm4"
         },
         {
-          "hex": "#5a5541",
-          "name": "#5a5541",
+          "hex": "#c7a15c",
+          "name": "#c7a15c",
           "reference": "marekm4"
         },
         {
           "hex": "#947032",
           "name": "#947032",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#5a5541",
+          "name": "#5a5541",
           "reference": "marekm4"
         }
       ]
@@ -395,9 +395,9 @@
     "wof:country": "XY",
     "wof:created": 1665820552,
     "wof:depicts": [
-      1159283905,
       1159288211,
-      1796444097
+      1796444097,
+      1159283905
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -419,7 +419,7 @@
       }
     ],
     "wof:id": 1796444611,
-    "wof:lastmodified": 1752479062,
+    "wof:lastmodified": 1752565563,
     "wof:name": "flight officer wing: Ariana Afghan Airlines",
     "wof:parent_id": 1796444097,
     "wof:placetype": "custom",

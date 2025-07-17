@@ -302,8 +302,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#714b23",
+          "name": "Raw Umber",
           "reference": "crayola"
         },
         {
@@ -317,25 +322,35 @@
           "reference": "crayola"
         },
         {
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
           "hex": "#9f8170",
           "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#714b23",
-          "name": "Raw Umber",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -349,37 +364,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#948c72",
-          "name": "#948c72",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#86785a",
-          "name": "#86785a",
-          "reference": "marekm4"
-        },
         {
           "hex": "#4a3421",
           "name": "#4a3421",
@@ -388,6 +378,16 @@
         {
           "hex": "#cdd0ca",
           "name": "#cdd0ca",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#948c72",
+          "name": "#948c72",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#86785a",
+          "name": "#86785a",
           "reference": "marekm4"
         }
       ]
@@ -448,7 +448,7 @@
       }
     ],
     "wof:id": 1762892273,
-    "wof:lastmodified": 1752651895,
+    "wof:lastmodified": 1752739448,
     "wof:name": "photograph: TWA (Trans World Airlines), Boeing 707 final flight",
     "wof:parent_id": 1762829989,
     "wof:placetype": "custom",

@@ -285,13 +285,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
           "reference": "crayola"
         },
         {
@@ -300,18 +305,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#926eae",
-          "name": "Violet (Purple)",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
@@ -319,16 +319,6 @@
         {
           "hex": "#778899",
           "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
           "reference": "css4"
         },
         {
@@ -340,17 +330,22 @@
           "hex": "#708090",
           "name": "slategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#7485a0",
-          "name": "#7485a0",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#443c37",
-          "name": "#443c37",
+          "hex": "#bbb7b6",
+          "name": "#bbb7b6",
           "reference": "marekm4"
         },
         {
@@ -359,8 +354,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#bbb7b6",
-          "name": "#bbb7b6",
+          "hex": "#7485a0",
+          "name": "#7485a0",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#443c37",
+          "name": "#443c37",
           "reference": "marekm4"
         }
       ]
@@ -401,12 +401,12 @@
     "wof:country": "US",
     "wof:created": 1649404462,
     "wof:depicts": [
-      1159285471,
-      1159293561,
       102534365,
       1159291281,
       1159287699,
-      1511926313
+      1511926313,
+      1159285471,
+      1159293561
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -441,7 +441,7 @@
       }
     ],
     "wof:id": 1763442989,
-    "wof:lastmodified": 1752651990,
+    "wof:lastmodified": 1752739606,
     "wof:name": "slide: VASP, McDonnell Douglas MD-11, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1511926313,
     "wof:placetype": "custom",

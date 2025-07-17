@@ -166,9 +166,9 @@
     "millsfield:company_id": [],
     "millsfield:exhibition_ids": [
       1746382269,
+      1947305533,
       1863490071,
-      1914632767,
-      1947305533
+      1914632767
     ],
     "millsfield:images_colors": [
       {
@@ -270,21 +270,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
           "hex": "#757575",
           "name": "Sonic Silver",
           "reference": "crayola"
@@ -295,13 +280,28 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
           "hex": "#95918c",
           "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
@@ -309,6 +309,11 @@
         {
           "hex": "#696969",
           "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -320,11 +325,6 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
@@ -334,13 +334,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#8a847b",
-          "name": "#8a847b",
+          "hex": "#b7b6b6",
+          "name": "#b7b6b6",
           "reference": "marekm4"
         },
         {
-          "hex": "#b7b6b6",
-          "name": "#b7b6b6",
+          "hex": "#8a847b",
+          "name": "#8a847b",
           "reference": "marekm4"
         }
       ]
@@ -370,8 +370,8 @@
     "wof:country": "XY",
     "wof:created": 1645692405,
     "wof:depicts": [
-      1763144049,
-      1159292297
+      1159292297,
+      1763144049
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -393,7 +393,7 @@
       }
     ],
     "wof:id": 1763145457,
-    "wof:lastmodified": 1752652109,
+    "wof:lastmodified": 1752739823,
     "wof:name": "model airplane: Ford Tri-Motor",
     "wof:parent_id": 1763144049,
     "wof:placetype": "custom",

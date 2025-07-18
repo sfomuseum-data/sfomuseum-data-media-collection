@@ -279,13 +279,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#bab86c",
-          "name": "Olive Green",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
           "hex": "#979aaa",
           "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#bab86c",
+          "name": "Olive Green",
           "reference": "crayola"
         },
         {
@@ -297,24 +307,9 @@
           "hex": "#4a646c",
           "name": "Deep Space Sparkle",
           "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
         {
           "hex": "#483d8b",
           "name": "darkslateblue",
@@ -326,13 +321,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         }
       ],
@@ -343,11 +343,6 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#a8987b",
-          "name": "#a8987b",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#545f75",
           "name": "#545f75",
           "reference": "marekm4"
@@ -355,6 +350,11 @@
         {
           "hex": "#4d6388",
           "name": "#4d6388",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a8987b",
+          "name": "#a8987b",
           "reference": "marekm4"
         }
       ]
@@ -413,7 +413,7 @@
       }
     ],
     "wof:id": 1779984671,
-    "wof:lastmodified": 1752739745,
+    "wof:lastmodified": 1752824913,
     "wof:name": "cocktail napkin: Alaska Airlines, Seattle",
     "wof:parent_id": 1779983923,
     "wof:placetype": "custom",

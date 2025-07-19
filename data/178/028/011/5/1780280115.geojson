@@ -284,11 +284,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
@@ -296,6 +291,11 @@
         {
           "hex": "#414a4c",
           "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -316,8 +316,13 @@
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -331,13 +336,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
@@ -399,9 +399,9 @@
     "wof:country": "XY",
     "wof:created": 1660722731,
     "wof:depicts": [
-      1780279269,
       1159285785,
-      1159288505
+      1159288505,
+      1780279269
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -423,7 +423,7 @@
       }
     ],
     "wof:id": 1780280115,
-    "wof:lastmodified": 1752824953,
+    "wof:lastmodified": 1752911280,
     "wof:name": "miniature liquor bottle: Japan Air Lines, Sempé Armagnac",
     "wof:parent_id": 1780279269,
     "wof:placetype": "custom",

@@ -164,6 +164,9 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/152/782/142/7/1527821427_{secret}_{label}.{extension}",
+    "millsfield:aircraft_id": [
+      1159292297
+    ],
     "millsfield:airline_id": [
       1159285395
     ],
@@ -173,9 +176,7 @@
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
-    "millsfield:company_id": [
-      1159287531
-    ],
+    "millsfield:company_id": [],
     "millsfield:images_colors": [
       {
         "hex": "#b0b7c6",
@@ -276,8 +277,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -286,18 +287,18 @@
           "reference": "crayola"
         },
         {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -308,23 +309,18 @@
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -333,8 +329,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         }
       ],
@@ -389,7 +390,8 @@
       1511943573,
       1159285395,
       102527513,
-      1360695655
+      1360695655,
+      1159292297
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -412,7 +414,7 @@
       }
     ],
     "wof:id": 1527821427,
-    "wof:lastmodified": 1753170473,
+    "wof:lastmodified": 1753342929,
     "wof:name": "negative: San Francisco Airport, Transcontinental \u0026 Western Air (TWA)",
     "wof:parent_id": 1511943573,
     "wof:placetype": "custom",

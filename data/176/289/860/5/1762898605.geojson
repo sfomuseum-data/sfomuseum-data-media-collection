@@ -8,10 +8,18 @@
     "date:inception_upper": "1964-12-31",
     "edtf:cessation": "1964",
     "edtf:inception": "1964",
-    "geom:area": 2.475047457570636e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635747477365,
-    "geom:longitude": -122.38615540108617,
+    "geom:area": 0,
+    "geom:bbox": "-73.787845,40.643286,-73.787845,40.643286",
+    "geom:latitude": 40.643286,
+    "geom:longitude": -73.787845,
+    "georef:depictions": [
+      {
+        "georef:label": "location",
+        "wof:depicts": [
+          102534365
+        ]
+      }
+    ],
     "media:fingerprint": "e006494b261c03abd1b4f33da9817da537f3f4c9",
     "media:imagehash_avg": "a:fffff9818000019f",
     "media:imagehash_diff": "d:7119611d0d1d7333",
@@ -368,17 +376,19 @@
     "sfomuseum:object_id": 188364,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference",
+    "src:geom_alt": [
+      "georef_location"
+    ],
     "wof:belongsto": [
-      102527513,
-      1159162825,
       102191575,
       85633793,
-      102087579,
-      85922583,
-      1762832757,
-      85688637,
-      1159160869
+      421205767,
+      102534365,
+      102082377,
+      85977539,
+      907131691,
+      85688543
     ],
     "wof:country": "XY",
     "wof:created": 1643415569,
@@ -388,42 +398,48 @@
       1762832757,
       1159284989
     ],
-    "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
+    "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
       {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
+        "borough_id": 421205767,
+        "campus_id": 102534365,
         "continent_id": 102191575,
         "country_id": 85633793,
-        "county_id": 102087579,
+        "county_id": 102082377,
         "custom_id": 1762898605,
         "image_id": 1762898605,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1762832757,
-        "region_id": 85688637,
-        "wing_id": 1159160869
+        "locality_id": 85977539,
+        "neighbourhood_id": 907131691,
+        "region_id": 85688543
       }
     ],
     "wof:id": 1762898605,
-    "wof:lastmodified": 1753170648,
+    "wof:lastmodified": 1753315708,
     "wof:name": "photograph: John F. Kennedy International Airport (JFK), The Beatles",
     "wof:parent_id": 1762832757,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "image"
     ],
+    "wof:references": [
+      102191575,
+      85977539,
+      85633793,
+      907131691,
+      421205767,
+      102534365,
+      102082377,
+      85688543
+    ],
     "wof:repo": "sfomuseum-data-media-collection",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38647222518921,
-    37.6161053594541,
-    -122.38583385944366,
-    37.61661101879963
+    -73.787845,
+    40.643286,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
 }

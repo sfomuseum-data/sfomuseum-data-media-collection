@@ -309,8 +309,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e7c697",
-          "name": "Gold",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
           "reference": "crayola"
         },
         {
@@ -319,8 +324,18 @@
           "reference": "crayola"
         },
         {
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
+        },
+        {
           "hex": "#85754e",
           "name": "Gold Fusion",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -331,21 +346,6 @@
         {
           "hex": "#cd9575",
           "name": "Antique Brass",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
           "reference": "crayola"
         }
       ],
@@ -358,6 +358,11 @@
         {
           "hex": "#000000",
           "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#deb887",
+          "name": "burlywood",
           "reference": "css4"
         },
         {
@@ -374,24 +379,9 @@
           "hex": "#bc8f8f",
           "name": "rosybrown",
           "reference": "css4"
-        },
-        {
-          "hex": "#deb887",
-          "name": "burlywood",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#d1a162",
-          "name": "#d1a162",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#ddc297",
-          "name": "#ddc297",
-          "reference": "marekm4"
-        },
         {
           "hex": "#36271c",
           "name": "#36271c",
@@ -400,6 +390,16 @@
         {
           "hex": "#9d693c",
           "name": "#9d693c",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#ddc297",
+          "name": "#ddc297",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#d1a162",
+          "name": "#d1a162",
           "reference": "marekm4"
         }
       ]
@@ -434,9 +434,9 @@
     "wof:country": "XY",
     "wof:created": 1652946938,
     "wof:depicts": [
+      1779488989,
       1159284973,
-      1159286629,
-      1779488989
+      1159286629
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -458,7 +458,7 @@
       }
     ],
     "wof:id": 1779489397,
-    "wof:lastmodified": 1753775352,
+    "wof:lastmodified": 1753862543,
     "wof:name": "poster: Pacific Southwest Airlines (PSA), Pacific Northwest",
     "wof:parent_id": 1779488989,
     "wof:placetype": "custom",

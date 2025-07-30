@@ -229,8 +229,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#324ab2",
+          "name": "Violet Blue",
           "reference": "crayola"
         },
         {
@@ -239,27 +244,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
           "reference": "crayola"
         },
         {
           "hex": "#7366bd",
           "name": "Blue Violet",
           "reference": "crayola"
-        },
-        {
-          "hex": "#324ab2",
-          "name": "Violet Blue",
-          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
         {
           "hex": "#4682b4",
           "name": "steelblue",
@@ -268,6 +263,11 @@
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
           "reference": "css4"
         }
       ],
@@ -314,9 +314,9 @@
     "wof:country": "XY",
     "wof:created": 1658562918,
     "wof:depicts": [
-      1159288801,
       1779945611,
-      1159284695
+      1159284695,
+      1159288801
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -338,7 +338,7 @@
       }
     ],
     "wof:id": 1779946397,
-    "wof:lastmodified": 1753775359,
+    "wof:lastmodified": 1753862551,
     "wof:name": "food pick: Loftleidir (Icelandic Airlines)",
     "wof:parent_id": 1779945611,
     "wof:placetype": "custom",

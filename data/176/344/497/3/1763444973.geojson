@@ -326,13 +326,18 @@
       ],
       "css4": [
         {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#4682b4",
           "name": "steelblue",
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
@@ -349,24 +354,9 @@
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#bdbcd4",
-          "name": "#bdbcd4",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#181c2c",
-          "name": "#181c2c",
-          "reference": "marekm4"
-        },
         {
           "hex": "#4360a6",
           "name": "#4360a6",
@@ -375,6 +365,16 @@
         {
           "hex": "#a1435b",
           "name": "#a1435b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#181c2c",
+          "name": "#181c2c",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#bdbcd4",
+          "name": "#bdbcd4",
           "reference": "marekm4"
         }
       ]
@@ -411,12 +411,12 @@
     "wof:country": "US",
     "wof:created": 1649404925,
     "wof:depicts": [
-      1762759649,
       1159284907,
       102525635,
       1159292085,
       1159293829,
-      1159289409
+      1159289409,
+      1762759649
     ],
     "wof:geomhash": "8f3dac9c06aa631b6f25f2d82464e51b",
     "wof:hierarchy": [
@@ -450,7 +450,7 @@
       }
     ],
     "wof:id": 1763444973,
-    "wof:lastmodified": 1753948180,
+    "wof:lastmodified": 1754034951,
     "wof:name": "slide: Northwest Airlines, Airbus A320-200, Detroit Metropolitan Airport (DTW)",
     "wof:parent_id": 1762759649,
     "wof:placetype": "custom",

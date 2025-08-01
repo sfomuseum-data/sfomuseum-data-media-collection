@@ -297,8 +297,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -312,22 +322,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -339,18 +344,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
           "reference": "css4"
         },
         {
           "hex": "#556b2f",
           "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
           "reference": "css4"
         },
         {
@@ -361,23 +361,23 @@
       ],
       "marekm4": [
         {
-          "hex": "#51473a",
-          "name": "#51473a",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#a8a5a3",
           "name": "#a8a5a3",
           "reference": "marekm4"
         },
         {
-          "hex": "#29262e",
-          "name": "#29262e",
+          "hex": "#c1c1ba",
+          "name": "#c1c1ba",
           "reference": "marekm4"
         },
         {
-          "hex": "#c1c1ba",
-          "name": "#c1c1ba",
+          "hex": "#51473a",
+          "name": "#51473a",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#29262e",
+          "name": "#29262e",
           "reference": "marekm4"
         }
       ]
@@ -406,9 +406,9 @@
     "wof:country": "XY",
     "wof:created": 1720769851,
     "wof:depicts": [
-      1159287755,
       1914590285,
-      1159285019
+      1159285019,
+      1159287755
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -429,7 +429,7 @@
       }
     ],
     "wof:id": 1914590465,
-    "wof:lastmodified": 1753948310,
+    "wof:lastmodified": 1754035080,
     "wof:name": "napkin ring: Piedmont Airlines",
     "wof:parent_id": 1914590285,
     "wof:placetype": "custom",

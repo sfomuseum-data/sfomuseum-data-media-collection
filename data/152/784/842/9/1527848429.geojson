@@ -392,33 +392,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
           "hex": "#714b23",
           "name": "Raw Umber",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#fddde6",
-          "name": "Piggy Pink",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
           "reference": "crayola"
         },
         {
@@ -427,8 +407,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
@@ -437,17 +417,67 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ffffff",
-          "name": "White",
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ffffff",
+          "name": "White",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#fdf5e6",
+          "name": "oldlace",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
+        },
+        {
+          "hex": "#fffafa",
+          "name": "snow",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
         {
           "hex": "#808080",
           "name": "grey",
@@ -456,11 +486,6 @@
         {
           "hex": "#c0c0c0",
           "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
           "reference": "css4"
         },
         {
@@ -484,38 +509,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#fdf5e6",
-          "name": "oldlace",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5f5dc",
-          "name": "beige",
-          "reference": "css4"
-        },
-        {
-          "hex": "#fffafa",
-          "name": "snow",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
@@ -526,13 +526,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#f2eedc",
-          "name": "#f2eedc",
+          "hex": "#393f55",
+          "name": "#393f55",
           "reference": "marekm4"
         },
         {
           "hex": "#ac4757",
           "name": "#ac4757",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#f2eedc",
+          "name": "#f2eedc",
           "reference": "marekm4"
         },
         {
@@ -543,11 +548,6 @@
         {
           "hex": "#331430",
           "name": "#331430",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#393f55",
-          "name": "#393f55",
           "reference": "marekm4"
         }
       ]
@@ -613,7 +613,7 @@
       }
     ],
     "wof:id": 1527848429,
-    "wof:lastmodified": 1753948115,
+    "wof:lastmodified": 1754034886,
     "wof:name": "timetable: Hawaiian Airlines",
     "wof:parent_id": 1511933619,
     "wof:placetype": "custom",

@@ -185,9 +185,9 @@
       1159288091
     ],
     "millsfield:exhibition_ids": [
-      1896874709,
       1914632803,
-      1947305541
+      1947305541,
+      1896874709
     ],
     "millsfield:images_colors": [
       {
@@ -304,6 +304,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
+        },
+        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
@@ -314,40 +319,30 @@
           "reference": "crayola"
         },
         {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         },
         {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
-        },
-        {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
           "reference": "css4"
         },
         {
@@ -356,22 +351,32 @@
           "reference": "css4"
         },
         {
-          "hex": "#a52a2a",
-          "name": "brown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         },
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#aa2f35",
+          "name": "#aa2f35",
+          "reference": "marekm4"
+        },
         {
           "hex": "#dbd0c4",
           "name": "#dbd0c4",
@@ -380,11 +385,6 @@
         {
           "hex": "#988978",
           "name": "#988978",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#aa2f35",
-          "name": "#aa2f35",
           "reference": "marekm4"
         },
         {
@@ -449,7 +449,7 @@
       }
     ],
     "wof:id": 1863873685,
-    "wof:lastmodified": 1753948255,
+    "wof:lastmodified": 1754035024,
     "wof:name": "portable airline luggage scale: Virgin America",
     "wof:parent_id": 1863873645,
     "wof:placetype": "custom",

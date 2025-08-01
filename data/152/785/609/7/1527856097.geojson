@@ -462,13 +462,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#e7c697",
-          "name": "Gold",
+          "hex": "#bab86c",
+          "name": "Olive Green",
           "reference": "crayola"
         },
         {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
+          "hex": "#e7c697",
+          "name": "Gold",
           "reference": "crayola"
         },
         {
@@ -477,8 +477,53 @@
           "reference": "crayola"
         },
         {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#f8d568",
+          "name": "Orange Yellow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#5d76cb",
+          "name": "Indigo",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ffcf48",
+          "name": "Sunglow",
+          "reference": "crayola"
+        },
+        {
           "hex": "#a2add0",
           "name": "Wild Blue Yonder",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#2b6cc4",
+          "name": "Denim",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
           "reference": "crayola"
         },
         {
@@ -492,60 +537,20 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#ffcf48",
-          "name": "Sunglow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#f8d568",
-          "name": "Orange Yellow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#c46210",
-          "name": "Alloy Orange",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#2b6cc4",
-          "name": "Denim",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#bab86c",
-          "name": "Olive Green",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#5d76cb",
-          "name": "Indigo",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#f0e68c",
-          "name": "khaki",
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
+        },
+        {
+          "hex": "#4682b4",
+          "name": "steelblue",
           "reference": "css4"
         },
         {
@@ -559,38 +564,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#4682b4",
-          "name": "steelblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
-          "hex": "#daa520",
-          "name": "goldenrod",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#deb887",
-          "name": "burlywood",
+          "hex": "#a0522d",
+          "name": "sienna",
           "reference": "css4"
         },
         {
@@ -599,30 +574,80 @@
           "reference": "css4"
         },
         {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
-          "hex": "#a0522d",
-          "name": "sienna",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f0e68c",
+          "name": "khaki",
           "reference": "css4"
         },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
+        },
+        {
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
+        },
+        {
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#acc2c0",
+          "name": "#acc2c0",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b73b1b",
+          "name": "#b73b1b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#302e3e",
+          "name": "#302e3e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#e4c72d",
+          "name": "#e4c72d",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#33302a",
+          "name": "#33302a",
+          "reference": "marekm4"
+        },
         {
           "hex": "#d8d9ce",
           "name": "#d8d9ce",
           "reference": "marekm4"
         },
         {
-          "hex": "#302e3e",
-          "name": "#302e3e",
+          "hex": "#397bae",
+          "name": "#397bae",
           "reference": "marekm4"
         },
         {
@@ -638,31 +663,6 @@
         {
           "hex": "#e0d76d",
           "name": "#e0d76d",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#397bae",
-          "name": "#397bae",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#33302a",
-          "name": "#33302a",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b73b1b",
-          "name": "#b73b1b",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#e4c72d",
-          "name": "#e4c72d",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#acc2c0",
-          "name": "#acc2c0",
           "reference": "marekm4"
         }
       ]
@@ -728,7 +728,7 @@
       }
     ],
     "wof:id": 1527856097,
-    "wof:lastmodified": 1753948145,
+    "wof:lastmodified": 1754034917,
     "wof:name": "route map: Delta Air Lines, domestic and Caribbean routes",
     "wof:parent_id": 1511922781,
     "wof:placetype": "custom",

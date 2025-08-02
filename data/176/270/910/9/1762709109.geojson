@@ -375,8 +375,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#87a96b",
-          "name": "Asparagus",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -390,18 +395,18 @@
           "reference": "crayola"
         },
         {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#714b23",
           "name": "Raw Umber",
           "reference": "crayola"
         },
         {
-          "hex": "#eceabe",
-          "name": "Spring Green",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -410,70 +415,35 @@
           "reference": "crayola"
         },
         {
-          "hex": "#bab86c",
-          "name": "Olive Green",
-          "reference": "crayola"
-        },
-        {
           "hex": "#85754e",
           "name": "Gold Fusion",
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#87a96b",
+          "name": "Asparagus",
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#eceabe",
+          "name": "Spring Green",
           "reference": "crayola"
         },
         {
           "hex": "#efdecd",
           "name": "Almond",
           "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
-          "reference": "css4"
-        },
-        {
-          "hex": "#8b4513",
-          "name": "saddlebrown",
-          "reference": "css4"
-        },
-        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#800000",
-          "name": "maroon",
           "reference": "css4"
         },
         {
@@ -485,6 +455,36 @@
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
+        },
+        {
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
+        },
+        {
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
         }
       ],
       "marekm4": [
@@ -494,18 +494,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#69634b",
-          "name": "#69634b",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#bcc1a3",
-          "name": "#bcc1a3",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#918b74",
-          "name": "#918b74",
+          "hex": "#8c6731",
+          "name": "#8c6731",
           "reference": "marekm4"
         },
         {
@@ -514,18 +504,28 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#7b876e",
-          "name": "#7b876e",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#9a9c72",
           "name": "#9a9c72",
           "reference": "marekm4"
         },
         {
-          "hex": "#8c6731",
-          "name": "#8c6731",
+          "hex": "#918b74",
+          "name": "#918b74",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#bcc1a3",
+          "name": "#bcc1a3",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#69634b",
+          "name": "#69634b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#7b876e",
+          "name": "#7b876e",
           "reference": "marekm4"
         }
       ]
@@ -588,7 +588,7 @@
       }
     ],
     "wof:id": 1762709109,
-    "wof:lastmodified": 1754034984,
+    "wof:lastmodified": 1754121119,
     "wof:name": "postcard: Pacific Southwest Airlines (PSA), Lockheed L-188C Electra",
     "wof:parent_id": 1762691471,
     "wof:placetype": "custom",

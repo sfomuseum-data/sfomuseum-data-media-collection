@@ -373,8 +373,13 @@
       ],
       "css4": [
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -383,50 +388,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#b0aeae",
-          "name": "#b0aeae",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4f4e4e",
-          "name": "#4f4e4e",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b3b1b1",
-          "name": "#b3b1b1",
-          "reference": "marekm4"
-        },
         {
           "hex": "#504f4e",
           "name": "#504f4e",
           "reference": "marekm4"
         },
         {
-          "hex": "#b1b0af",
-          "name": "#b1b0af",
+          "hex": "#b0aeae",
+          "name": "#b0aeae",
           "reference": "marekm4"
         },
         {
@@ -435,13 +420,28 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#535252",
-          "name": "#535252",
+          "hex": "#b3b1b1",
+          "name": "#b3b1b1",
           "reference": "marekm4"
         },
         {
           "hex": "#afaeae",
           "name": "#afaeae",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b1b0af",
+          "name": "#b1b0af",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#535252",
+          "name": "#535252",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4f4e4e",
+          "name": "#4f4e4e",
           "reference": "marekm4"
         }
       ]
@@ -471,9 +471,9 @@
     "wof:country": "XY",
     "wof:created": 1694022821,
     "wof:depicts": [
+      1159293009,
       1159294355,
-      1880318443,
-      1159293009
+      1880318443
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -495,7 +495,7 @@
       }
     ],
     "wof:id": 1880319633,
-    "wof:lastmodified": 1754293944,
+    "wof:lastmodified": 1754342629,
     "wof:name": "model airplane: Dayton-Wright RB-1",
     "wof:parent_id": 1880318443,
     "wof:placetype": "custom",

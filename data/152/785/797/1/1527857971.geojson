@@ -418,8 +418,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b4674d",
+          "name": "Brown",
           "reference": "crayola"
         },
         {
@@ -433,28 +448,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#cd9575",
+          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
           "hex": "#979aaa",
           "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b4674d",
-          "name": "Brown",
           "reference": "crayola"
         }
       ],
@@ -465,23 +465,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#808080",
           "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
           "reference": "css4"
         },
         {
@@ -490,8 +475,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -500,15 +490,40 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#514842",
-          "name": "#514842",
+          "hex": "#4f4540",
+          "name": "#4f4540",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#aeaeae",
+          "name": "#aeaeae",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#aeadad",
+          "name": "#aeadad",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#564a43",
+          "name": "#564a43",
           "reference": "marekm4"
         },
         {
@@ -517,13 +532,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#4f4540",
-          "name": "#4f4540",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#aeadad",
-          "name": "#aeadad",
+          "hex": "#514842",
+          "name": "#514842",
           "reference": "marekm4"
         },
         {
@@ -537,23 +547,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#564a43",
-          "name": "#564a43",
+          "hex": "#4f423c",
+          "name": "#4f423c",
           "reference": "marekm4"
         },
         {
           "hex": "#aaa9a9",
           "name": "#aaa9a9",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#aeaeae",
-          "name": "#aeaeae",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4f423c",
-          "name": "#4f423c",
           "reference": "marekm4"
         }
       ]
@@ -640,7 +640,7 @@
       }
     ],
     "wof:id": 1527857971,
-    "wof:lastmodified": 1754342624,
+    "wof:lastmodified": 1754380250,
     "wof:name": "model airplane: American Airlines, Douglas DC-6B",
     "wof:parent_id": 1511921381,
     "wof:placetype": "custom",

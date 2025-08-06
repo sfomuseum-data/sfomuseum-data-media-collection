@@ -272,8 +272,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ff5349",
+          "name": "Red Orange",
           "reference": "crayola"
         },
         {
@@ -282,40 +287,30 @@
           "reference": "crayola"
         },
         {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
           "hex": "#ff2b2b",
           "name": "Orange Red",
           "reference": "crayola"
         },
         {
-          "hex": "#ff5349",
-          "name": "Red Orange",
+          "hex": "#a5694f",
+          "name": "Sepia",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#ff0000",
+          "name": "red",
+          "reference": "css4"
+        },
         {
           "hex": "#ff6347",
           "name": "tomato",
           "reference": "css4"
         },
         {
-          "hex": "#ff4500",
-          "name": "orangered",
-          "reference": "css4"
-        },
-        {
           "hex": "#faebd7",
           "name": "antiquewhite",
-          "reference": "css4"
-        },
-        {
-          "hex": "#ff0000",
-          "name": "red",
           "reference": "css4"
         },
         {
@@ -327,12 +322,17 @@
           "hex": "#000000",
           "name": "black",
           "reference": "css4"
+        },
+        {
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#f02004",
-          "name": "#f02004",
+          "hex": "#2d1618",
+          "name": "#2d1618",
           "reference": "marekm4"
         },
         {
@@ -341,8 +341,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#2d1618",
-          "name": "#2d1618",
+          "hex": "#f02004",
+          "name": "#f02004",
           "reference": "marekm4"
         }
       ]
@@ -406,7 +406,7 @@
       }
     ],
     "wof:id": 1527842679,
-    "wof:lastmodified": 1754380125,
+    "wof:lastmodified": 1754466680,
     "wof:name": "timetable: Swissair",
     "wof:parent_id": 1511941277,
     "wof:placetype": "custom",

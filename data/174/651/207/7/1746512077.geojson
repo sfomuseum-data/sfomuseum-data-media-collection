@@ -258,8 +258,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -268,27 +273,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
         {
           "hex": "#000000",
           "name": "black",
@@ -300,6 +295,16 @@
           "reference": "css4"
         },
         {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#dcdcdc",
           "name": "gainsboro",
           "reference": "css4"
@@ -307,11 +312,6 @@
         {
           "hex": "#c0c0c0",
           "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
@@ -355,9 +355,9 @@
     "wof:country": "US",
     "wof:created": 1634846097,
     "wof:depicts": [
-      1159287531,
       1159285393,
-      1729563717
+      1729563717,
+      1159287531
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -387,7 +387,7 @@
       }
     ],
     "wof:id": 1746512077,
-    "wof:lastmodified": 1754380097,
+    "wof:lastmodified": 1754466653,
     "wof:name": "negative: TWA (Trans World Airlines), James J. Kerley",
     "wof:parent_id": 1729563717,
     "wof:placetype": "custom",

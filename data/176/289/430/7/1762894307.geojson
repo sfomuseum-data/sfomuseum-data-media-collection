@@ -458,8 +458,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
@@ -473,13 +478,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#324ab2",
-          "name": "Violet Blue",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -493,28 +493,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#bab86c",
-          "name": "Olive Green",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -523,30 +508,35 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#324ab2",
+          "name": "Violet Blue",
           "reference": "crayola"
         },
         {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
+        },
+        {
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -560,8 +550,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
           "reference": "css4"
         },
         {
@@ -575,13 +575,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#00008b",
-          "name": "darkblue",
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
@@ -590,8 +585,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#00008b",
+          "name": "darkblue",
           "reference": "css4"
         },
         {
@@ -600,15 +600,15 @@
           "reference": "css4"
         },
         {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c0b49e",
-          "name": "#c0b49e",
+          "hex": "#2535b5",
+          "name": "#2535b5",
           "reference": "marekm4"
         },
         {
@@ -617,28 +617,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#2535b5",
-          "name": "#2535b5",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#253257",
-          "name": "#253257",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#c5bfbb",
           "name": "#c5bfbb",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#e6e1d9",
-          "name": "#e6e1d9",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#867373",
-          "name": "#867373",
           "reference": "marekm4"
         },
         {
@@ -647,13 +627,33 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#373036",
-          "name": "#373036",
+          "hex": "#867373",
+          "name": "#867373",
           "reference": "marekm4"
         },
         {
           "hex": "#7389bb",
           "name": "#7389bb",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#c0b49e",
+          "name": "#c0b49e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#253257",
+          "name": "#253257",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#373036",
+          "name": "#373036",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#e6e1d9",
+          "name": "#e6e1d9",
           "reference": "marekm4"
         }
       ]
@@ -718,7 +718,7 @@
       }
     ],
     "wof:id": 1762894307,
-    "wof:lastmodified": 1754466697,
+    "wof:lastmodified": 1754552984,
     "wof:name": "safety information card: National Airlines, Lockheed L-188 Electra II",
     "wof:parent_id": 1762830713,
     "wof:placetype": "custom",

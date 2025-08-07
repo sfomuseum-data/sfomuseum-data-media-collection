@@ -321,18 +321,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
           "reference": "crayola"
         },
         {
@@ -351,8 +351,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
@@ -363,8 +363,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#a0522d",
-          "name": "sienna",
+          "hex": "#191970",
+          "name": "midnightblue",
           "reference": "css4"
         },
         {
@@ -373,18 +373,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#ff4500",
-          "name": "orangered",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -393,8 +388,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#191970",
-          "name": "midnightblue",
+          "hex": "#ff4500",
+          "name": "orangered",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
           "reference": "css4"
         }
       ],
@@ -405,11 +405,6 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#666b91",
-          "name": "#666b91",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#bab8c8",
           "name": "#bab8c8",
           "reference": "marekm4"
@@ -417,6 +412,11 @@
         {
           "hex": "#e62d15",
           "name": "#e62d15",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#666b91",
+          "name": "#666b91",
           "reference": "marekm4"
         }
       ]
@@ -477,7 +477,7 @@
       }
     ],
     "wof:id": 1746680501,
-    "wof:lastmodified": 1754466668,
+    "wof:lastmodified": 1754552955,
     "wof:name": "timetable: TWA (Trans World Airlines)",
     "wof:parent_id": 1511939711,
     "wof:placetype": "custom",

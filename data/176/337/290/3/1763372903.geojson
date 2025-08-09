@@ -291,13 +291,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
           "hex": "#979aaa",
           "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -309,19 +319,19 @@
           "hex": "#757575",
           "name": "Sonic Silver",
           "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
         {
           "hex": "#000000",
           "name": "black",
@@ -333,30 +343,15 @@
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#a2a2a2",
-          "name": "#a2a2a2",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#25201c",
-          "name": "#25201c",
+          "hex": "#2a2525",
+          "name": "#2a2525",
           "reference": "marekm4"
         },
         {
@@ -365,8 +360,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#2a2525",
-          "name": "#2a2525",
+          "hex": "#a2a2a2",
+          "name": "#a2a2a2",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#25201c",
+          "name": "#25201c",
           "reference": "marekm4"
         }
       ]
@@ -396,11 +396,11 @@
     "wof:country": "XY",
     "wof:created": 1648626227,
     "wof:depicts": [
+      1159285785,
+      1159288505,
       1762932227,
       1159284563,
-      1159288585,
-      1159285785,
-      1159288505
+      1159288585
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -422,7 +422,7 @@
       }
     ],
     "wof:id": 1763372903,
-    "wof:lastmodified": 1754639731,
+    "wof:lastmodified": 1754725860,
     "wof:name": "flight officer cap badge: Japan Airlines",
     "wof:parent_id": 1762932227,
     "wof:placetype": "custom",

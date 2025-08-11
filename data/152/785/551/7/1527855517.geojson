@@ -293,6 +293,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#6e5160",
           "name": "Eggplant",
           "reference": "crayola"
@@ -300,21 +305,6 @@
         {
           "hex": "#cdc5c2",
           "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -326,22 +316,27 @@
           "hex": "#8a795d",
           "name": "Shadow",
           "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
@@ -350,27 +345,22 @@
           "reference": "css4"
         },
         {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#8c8871",
-          "name": "#8c8871",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#514f3c",
-          "name": "#514f3c",
-          "reference": "marekm4"
-        },
         {
           "hex": "#827d66",
           "name": "#827d66",
@@ -379,6 +369,16 @@
         {
           "hex": "#d6d1ba",
           "name": "#d6d1ba",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#8c8871",
+          "name": "#8c8871",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#514f3c",
+          "name": "#514f3c",
           "reference": "marekm4"
         }
       ]
@@ -434,7 +434,7 @@
       }
     ],
     "wof:id": 1527855517,
-    "wof:lastmodified": 1754725847,
+    "wof:lastmodified": 1754899312,
     "wof:name": "photograph: San Francisco Bay Area aerial, Stanford University",
     "wof:parent_id": 1511942363,
     "wof:placetype": "custom",

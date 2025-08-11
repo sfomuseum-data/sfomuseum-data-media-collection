@@ -312,18 +312,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#e7c697",
           "name": "Gold",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#edd19c",
-          "name": "Maize",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
@@ -337,8 +332,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
@@ -349,13 +349,33 @@
       ],
       "css4": [
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#483d8b",
+          "name": "darkslateblue",
           "reference": "css4"
         },
         {
           "hex": "#708090",
           "name": "slategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -369,47 +389,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#191970",
-          "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#deb887",
           "name": "burlywood",
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#191970",
+          "name": "midnightblue",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#223567",
-          "name": "#223567",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4a5270",
-          "name": "#4a5270",
-          "reference": "marekm4"
-        },
         {
           "hex": "#e6d1a3",
           "name": "#e6d1a3",
@@ -423,6 +413,16 @@
         {
           "hex": "#687188",
           "name": "#687188",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4a5270",
+          "name": "#4a5270",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#223567",
+          "name": "#223567",
           "reference": "marekm4"
         }
       ]
@@ -482,7 +482,7 @@
       }
     ],
     "wof:id": 1762708749,
-    "wof:lastmodified": 1754725916,
+    "wof:lastmodified": 1754899380,
     "wof:name": "postcard: Northwest Airlines, route map",
     "wof:parent_id": 1762680563,
     "wof:placetype": "custom",

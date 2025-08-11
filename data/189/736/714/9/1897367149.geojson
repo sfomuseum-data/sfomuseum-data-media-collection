@@ -146,8 +146,8 @@
     ],
     "millsfield:exhibition_ids": [
       1914632803,
-      1947305541,
-      1896874709
+      1896874709,
+      1947305541
     ],
     "millsfield:images_colors": [
       {
@@ -284,13 +284,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -304,18 +309,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         }
       ],
@@ -323,16 +323,6 @@
         {
           "hex": "#808080",
           "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
           "reference": "css4"
         },
         {
@@ -344,27 +334,37 @@
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#0a090a",
-          "name": "#0a090a",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#acaaa4",
-          "name": "#acaaa4",
-          "reference": "marekm4"
-        },
         {
           "hex": "#d2d0d1",
           "name": "#d2d0d1",
           "reference": "marekm4"
         },
         {
+          "hex": "#0a090a",
+          "name": "#0a090a",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#191a1c",
           "name": "#191a1c",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#acaaa4",
+          "name": "#acaaa4",
           "reference": "marekm4"
         }
       ]
@@ -424,7 +424,7 @@
       }
     ],
     "wof:id": 1897367149,
-    "wof:lastmodified": 1754726021,
+    "wof:lastmodified": 1754899481,
     "wof:name": "wall display: Virgin America",
     "wof:parent_id": 1813534151,
     "wof:placetype": "custom",

@@ -147,12 +147,12 @@
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/346/5/1762893465_{secret}_{label}.{extension}",
     "millsfield:airline_id": [
-      1159283957
+      1159286263
     ],
     "millsfield:category_id": 1763416397,
     "millsfield:collection_id": 1511214207,
     "millsfield:company_id": [
-      1159287217
+      1159287601
     ],
     "millsfield:images_colors": [
       {
@@ -239,16 +239,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
-          "reference": "crayola"
-        },
-        {
           "hex": "#ffffff",
           "name": "White",
           "reference": "crayola"
@@ -257,19 +247,19 @@
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
+        },
+        {
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
+          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#faf0e6",
-          "name": "linen",
-          "reference": "css4"
-        },
         {
           "hex": "#191970",
           "name": "midnightblue",
@@ -281,6 +271,16 @@
           "reference": "css4"
         },
         {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
+        },
+        {
           "hex": "#f5deb3",
           "name": "wheat",
           "reference": "css4"
@@ -288,13 +288,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#0e3e59",
-          "name": "#0e3e59",
+          "hex": "#f7f4ec",
+          "name": "#f7f4ec",
           "reference": "marekm4"
         },
         {
-          "hex": "#f7f4ec",
-          "name": "#f7f4ec",
+          "hex": "#0e3e59",
+          "name": "#0e3e59",
           "reference": "marekm4"
         }
       ]
@@ -331,7 +331,9 @@
     "wof:depicts": [
       1159287217,
       1762888053,
-      1159283957
+      1159283957,
+      1159286263,
+      1159287601
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -353,7 +355,7 @@
       }
     ],
     "wof:id": 1762893465,
-    "wof:lastmodified": 1754899258,
+    "wof:lastmodified": 1754987485,
     "wof:name": "luggage label: Avianca Airlines",
     "wof:parent_id": 1762888053,
     "wof:placetype": "custom",

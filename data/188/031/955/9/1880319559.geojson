@@ -345,8 +345,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -360,23 +370,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
           "hex": "#979aaa",
           "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
@@ -384,6 +384,11 @@
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -400,11 +405,6 @@
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
         }
       ],
       "marekm4": [
@@ -414,13 +414,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "#a9a9a9",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4e4b4c",
-          "name": "#4e4b4c",
+          "hex": "#acacad",
+          "name": "#acacad",
           "reference": "marekm4"
         },
         {
@@ -434,18 +429,23 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#4a4949",
-          "name": "#4a4949",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#aaa9aa",
           "name": "#aaa9aa",
           "reference": "marekm4"
         },
         {
-          "hex": "#acacad",
-          "name": "#acacad",
+          "hex": "#4e4b4c",
+          "name": "#4e4b4c",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#4a4949",
+          "name": "#4a4949",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "#a9a9a9",
           "reference": "marekm4"
         }
       ]
@@ -511,7 +511,7 @@
       }
     ],
     "wof:id": 1880319559,
-    "wof:lastmodified": 1754899400,
+    "wof:lastmodified": 1754987626,
     "wof:name": "model airplane: Deutsche Lufthansa, Junkers G-38 Generalfieldmarschall von Hindenburg",
     "wof:parent_id": 1880318833,
     "wof:placetype": "custom",

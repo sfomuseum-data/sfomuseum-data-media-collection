@@ -302,16 +302,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#926eae",
-          "name": "Violet (Purple)",
-          "reference": "crayola"
-        },
-        {
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
@@ -322,8 +312,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
           "reference": "crayola"
         },
         {
@@ -332,12 +327,22 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#926eae",
+          "name": "Violet (Purple)",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
         {
           "hex": "#696969",
           "name": "dimgrey",
@@ -346,11 +351,6 @@
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -364,25 +364,25 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#222022",
-          "name": "#222022",
+          "hex": "#95371f",
+          "name": "#95371f",
           "reference": "marekm4"
         },
         {
@@ -391,18 +391,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#9d9d9a",
-          "name": "#9d9d9a",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#a1a19e",
           "name": "#a1a19e",
           "reference": "marekm4"
         },
         {
-          "hex": "#95371f",
-          "name": "#95371f",
+          "hex": "#9d9d9a",
+          "name": "#9d9d9a",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#222022",
+          "name": "#222022",
           "reference": "marekm4"
         }
       ]
@@ -438,10 +438,10 @@
     "wof:country": "XY",
     "wof:created": 1640031534,
     "wof:depicts": [
-      1360700743,
-      1159285987,
       1746864545,
-      1159284385
+      1159284385,
+      1360700743,
+      1159285987
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -463,7 +463,7 @@
       }
     ],
     "wof:id": 1746865733,
-    "wof:lastmodified": 1754987680,
+    "wof:lastmodified": 1755071707,
     "wof:name": "ground crew jacket: Federal Ex (Cargo)",
     "wof:parent_id": 1746864545,
     "wof:placetype": "custom",

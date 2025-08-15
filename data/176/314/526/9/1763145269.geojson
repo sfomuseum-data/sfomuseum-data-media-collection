@@ -266,13 +266,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
           "hex": "#deaa88",
           "name": "Tumbleweed",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -284,19 +294,14 @@
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#808080",
           "name": "grey",
@@ -313,18 +318,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#deb887",
-          "name": "burlywood",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#dcdcdc",
           "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#deb887",
+          "name": "burlywood",
           "reference": "css4"
         }
       ],
@@ -365,9 +365,9 @@
     "wof:country": "XY",
     "wof:created": 1645692361,
     "wof:depicts": [
-      1763143967,
       1159284989,
-      1159286839
+      1159286839,
+      1763143967
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -389,7 +389,7 @@
       }
     ],
     "wof:id": 1763145269,
-    "wof:lastmodified": 1755158126,
+    "wof:lastmodified": 1755244493,
     "wof:name": "demitasse saucer: Pan American World Airways",
     "wof:parent_id": 1763143967,
     "wof:placetype": "custom",

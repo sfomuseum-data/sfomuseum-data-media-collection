@@ -2,13 +2,13 @@
   "id": 1527846639,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1955-01-01",
-    "date:cessation_upper": "1955-12-31",
-    "date:inception_lower": "1955-01-01",
-    "date:inception_upper": "1955-12-31",
-    "edtf:cessation": "1955~",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-12-31",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-12-31",
+    "edtf:cessation": "1970~",
     "edtf:date": "1955~",
-    "edtf:inception": "1955~",
+    "edtf:inception": "1970~",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
     "geom:latitude": 37.616358,
@@ -332,6 +332,21 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
+        },
+        {
           "hex": "#efdecd",
           "name": "Almond",
           "reference": "crayola"
@@ -342,65 +357,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
-          "reference": "crayola"
-        },
-        {
           "hex": "#85754e",
           "name": "Gold Fusion",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
+        },
+        {
+          "hex": "#cd9575",
+          "name": "Antique Brass",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -409,8 +384,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -419,20 +404,35 @@
           "reference": "css4"
         },
         {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
           "hex": "#f5deb3",
           "name": "wheat",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ede0ca",
-          "name": "#ede0ca",
+          "hex": "#5f5127",
+          "name": "#5f5127",
           "reference": "marekm4"
         },
         {
-          "hex": "#5f5127",
-          "name": "#5f5127",
+          "hex": "#8a764e",
+          "name": "#8a764e",
           "reference": "marekm4"
         },
         {
@@ -441,8 +441,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#8a764e",
-          "name": "#8a764e",
+          "hex": "#ede0ca",
+          "name": "#ede0ca",
           "reference": "marekm4"
         },
         {
@@ -490,10 +490,10 @@
     "wof:country": "XX",
     "wof:created": 1578953542,
     "wof:depicts": [
-      1159285825,
-      1159287479,
       1511943397,
-      1159285043
+      1159285043,
+      1159285825,
+      1159287479
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -513,7 +513,7 @@
       }
     ],
     "wof:id": 1527846639,
-    "wof:lastmodified": 1755589826,
+    "wof:lastmodified": 1755676478,
     "wof:name": "menu: Qantas Airways",
     "wof:parent_id": 1511943397,
     "wof:placetype": "custom",

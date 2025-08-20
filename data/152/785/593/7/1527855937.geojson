@@ -263,8 +263,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -273,18 +278,13 @@
           "reference": "crayola"
         },
         {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#cdc5c2",
           "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#bab86c",
-          "name": "Olive Green",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
           "reference": "crayola"
         }
       ],
@@ -295,27 +295,32 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#cec8b3",
+          "name": "#cec8b3",
+          "reference": "marekm4"
+        },
         {
           "hex": "#373527",
           "name": "#373527",
@@ -329,11 +334,6 @@
         {
           "hex": "#9b9273",
           "name": "#9b9273",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#cec8b3",
-          "name": "#cec8b3",
           "reference": "marekm4"
         }
       ]
@@ -366,10 +366,10 @@
     "wof:country": "XX",
     "wof:created": 1578955058,
     "wof:depicts": [
+      85688637,
       85633793,
       1511942783,
-      85921881,
-      85688637
+      85921881
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -392,7 +392,7 @@
       }
     ],
     "wof:id": 1527855937,
-    "wof:lastmodified": 1755589860,
+    "wof:lastmodified": 1755676511,
     "wof:name": "photograph: San Francisco Bay Area aerial, ferry terminal, Oakland",
     "wof:parent_id": 1511942783,
     "wof:placetype": "custom",

@@ -297,8 +297,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -312,42 +317,22 @@
           "reference": "crayola"
         },
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#9f8170",
           "name": "Beaver",
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5deb3",
-          "name": "wheat",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
         {
           "hex": "#808080",
           "name": "grey",
@@ -362,9 +347,29 @@
           "hex": "#bc8f8f",
           "name": "rosybrown",
           "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#4a442f",
+          "name": "#4a442f",
+          "reference": "marekm4"
+        },
         {
           "hex": "#86795a",
           "name": "#86795a",
@@ -373,11 +378,6 @@
         {
           "hex": "#a49671",
           "name": "#a49671",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#4a442f",
-          "name": "#4a442f",
           "reference": "marekm4"
         },
         {
@@ -417,9 +417,9 @@
     "wof:country": "XY",
     "wof:created": 1649405503,
     "wof:depicts": [
-      1159293917,
       1763441173,
-      1159291651
+      1159291651,
+      1159293917
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
     "wof:hierarchy": [
@@ -441,7 +441,7 @@
       }
     ],
     "wof:id": 1763447477,
-    "wof:lastmodified": 1755763022,
+    "wof:lastmodified": 1755849378,
     "wof:name": "photograph: Sikorsky S-38",
     "wof:parent_id": 1763441173,
     "wof:placetype": "custom",

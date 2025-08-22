@@ -260,8 +260,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -280,22 +285,12 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
         {
           "hex": "#778899",
           "name": "lightslategrey",
@@ -304,6 +299,11 @@
         {
           "hex": "#c0c0c0",
           "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -319,13 +319,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#4a4a4a",
-          "name": "#4a4a4a",
+          "hex": "#b2b2b2",
+          "name": "#b2b2b2",
           "reference": "marekm4"
         },
         {
-          "hex": "#b2b2b2",
-          "name": "#b2b2b2",
+          "hex": "#4a4a4a",
+          "name": "#4a4a4a",
           "reference": "marekm4"
         }
       ]
@@ -364,9 +364,9 @@
     "wof:country": "US",
     "wof:created": 1578949540,
     "wof:depicts": [
-      1511949721,
       102527513,
-      1360695653
+      1360695653,
+      1511949721
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -389,7 +389,7 @@
       }
     ],
     "wof:id": 1527821237,
-    "wof:lastmodified": 1755762823,
+    "wof:lastmodified": 1755849181,
     "wof:name": "negative: Mills Field Municipal Airport of San Francisco, wind sock",
     "wof:parent_id": 1511949721,
     "wof:placetype": "custom",

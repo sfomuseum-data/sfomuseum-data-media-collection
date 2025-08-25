@@ -334,16 +334,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -356,6 +346,16 @@
         {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -376,8 +376,13 @@
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
@@ -391,6 +396,11 @@
           "reference": "css4"
         },
         {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
           "hex": "#556b2f",
           "name": "darkolivegreen",
           "reference": "css4"
@@ -399,37 +409,27 @@
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#987656",
-          "name": "#987656",
-          "reference": "marekm4"
-        },
         {
           "hex": "#738ba6",
           "name": "#738ba6",
           "reference": "marekm4"
         },
         {
-          "hex": "#292119",
-          "name": "#292119",
+          "hex": "#987656",
+          "name": "#987656",
           "reference": "marekm4"
         },
         {
           "hex": "#aa8966",
           "name": "#aa8966",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#292119",
+          "name": "#292119",
           "reference": "marekm4"
         },
         {
@@ -502,7 +502,7 @@
       }
     ],
     "wof:id": 1762891945,
-    "wof:lastmodified": 1755935674,
+    "wof:lastmodified": 1756108507,
     "wof:name": "photograph: TAME (Transportes Aereos Militares Ecuatorianos), Boeing 727-100",
     "wof:parent_id": 1762832287,
     "wof:placetype": "custom",

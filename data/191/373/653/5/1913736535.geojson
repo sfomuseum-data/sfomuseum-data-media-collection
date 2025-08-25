@@ -269,8 +269,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -284,20 +289,15 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -311,11 +311,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
           "hex": "#bc8f8f",
           "name": "rosybrown",
           "reference": "css4"
@@ -324,14 +319,14 @@
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#292a1d",
-          "name": "#292a1d",
-          "reference": "marekm4"
-        },
         {
           "hex": "#8c8a77",
           "name": "#8c8a77",
@@ -340,6 +335,11 @@
         {
           "hex": "#dedcd6",
           "name": "#dedcd6",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#292a1d",
+          "name": "#292a1d",
           "reference": "marekm4"
         }
       ]
@@ -392,7 +392,7 @@
       }
     ],
     "wof:id": 1913736535,
-    "wof:lastmodified": 1755935877,
+    "wof:lastmodified": 1756108712,
     "wof:name": "negative print: CNAC station at Swatow",
     "wof:parent_id": 1913736255,
     "wof:placetype": "custom",

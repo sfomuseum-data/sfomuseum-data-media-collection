@@ -165,15 +165,15 @@
     "millsfield:collection_id": 1511214203,
     "millsfield:company_id": [],
     "millsfield:exhibition_ids": [
-      1159159849,
-      1360521607,
       1360521609,
       1729859125,
       1729859127,
       1863490217,
       1914632789,
       1947305577,
+      1159159849,
       1360521611,
+      1360521607,
       1863490205,
       1863490215
     ],
@@ -272,8 +272,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
           "hex": "#979aaa",
           "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -285,32 +300,17 @@
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -319,8 +319,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -407,7 +407,7 @@
       }
     ],
     "wof:id": 1746681303,
-    "wof:lastmodified": 1756108695,
+    "wof:lastmodified": 1756195124,
     "wof:name": "model aircraft: Goodyear N3A \"Columbia\" III",
     "wof:parent_id": 1511907549,
     "wof:placetype": "custom",

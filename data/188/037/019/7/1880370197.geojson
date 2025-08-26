@@ -267,8 +267,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -282,13 +287,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -299,13 +299,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -314,17 +314,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#1c1e2b",
-          "name": "#1c1e2b",
-          "reference": "marekm4"
-        },
         {
           "hex": "#b4b2b2",
           "name": "#b4b2b2",
@@ -338,6 +333,11 @@
         {
           "hex": "#b0afaf",
           "name": "#b0afaf",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#1c1e2b",
+          "name": "#1c1e2b",
           "reference": "marekm4"
         }
       ]
@@ -390,7 +390,7 @@
       }
     ],
     "wof:id": 1880370197,
-    "wof:lastmodified": 1756108629,
+    "wof:lastmodified": 1756195059,
     "wof:name": "flight attendant skirt: United Airlines (navy)",
     "wof:parent_id": 1880369663,
     "wof:placetype": "custom",

@@ -17,105 +17,22 @@
     "geotag:bearing": -65.02301274065962,
     "geotag:camera_latitude": 37.614911309873406,
     "geotag:camera_longitude": -122.36022949218751,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        554784711,
-        85688637,
-        102085387,
-        102527513,
-        102191575,
-        85633793,
-        102087579,
-        85922583
-      ],
-      "wof:hierarchy": [
-        {
-          "campus_id": 102527513,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102087579,
-          "locality_id": 85922583,
-          "postalcode_id": 554784711,
-          "region_id": 85688637
-        },
-        {
-          "campus_id": 102527513,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102085387,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 102527513
-    },
-    "geotag:depictions": [
-      1527822371
-    ],
     "geotag:distance": 3153.0124488643437,
     "geotag:target_latitude": 37.62687638518548,
     "geotag:target_longitude": -122.39267322393736,
-    "geotag:target_whosonfirst": {
-      "wof:belongsto": [
-        85688637,
-        102527513,
-        102085387,
-        102191575,
-        85633793,
-        102087579,
-        85922583,
-        554784711
-      ],
-      "wof:hierarchy": [
-        {
-          "campus_id": 102527513,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102087579,
-          "locality_id": 85922583,
-          "postalcode_id": 554784711,
-          "region_id": 85688637
-        },
-        {
-          "campus_id": 102527513,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102085387,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 102527513
-    },
-    "geotag:whosonfirst": {
-      "wof:belongsto": [
-        554784711,
-        85688637,
-        102085387,
-        102527513,
-        102191575,
-        85633793,
-        102087579,
-        85922583
-      ],
-      "wof:hierarchy": [
-        {
-          "campus_id": 102527513,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102087579,
-          "locality_id": 85922583,
-          "postalcode_id": 554784711,
-          "region_id": 85688637
-        },
-        {
-          "campus_id": 102527513,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102085387,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 102527513
-    },
+    "geotag:whosonfirst_belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      102527513
+    ],
+    "geotag:whosonfirst_camera": 102527513,
+    "geotag:whosonfirst_target": 102527513,
     "iso:country": "US",
     "media:fingerprint": "874204b9027cc992cd332c29cc12e7abd2ee1632",
     "media:imagehash_avg": "a:ffffffffff000000",
@@ -486,7 +403,7 @@
       }
     ],
     "wof:id": 1527822371,
-    "wof:lastmodified": 1756281350,
+    "wof:lastmodified": 1756339094,
     "wof:name": "negative: San Francisco International Airport (SFO), runway construction and airplane on approach",
     "wof:parent_id": 1511944275,
     "wof:placetype": "custom",
@@ -504,5 +421,5 @@
     -122.36022949218751,
     37.614911309873406
   ],
-  "geometry": {"coordinates":[-122.36022949218751,37.614911309873406],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.36022949218751,37.614911309873406]}
 }

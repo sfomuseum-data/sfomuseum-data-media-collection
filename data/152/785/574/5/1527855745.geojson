@@ -17,27 +17,15 @@
     "geotag:bearing": -18.931273014625912,
     "geotag:camera_latitude": 37.840427966191,
     "geotag:camera_longitude": -122.47421264648,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        102191575,
-        85633793,
-        85688637
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 85688637
-    },
-    "geotag:depictions": [
-      1527855745
-    ],
     "geotag:distance": 6501.69869606868,
     "geotag:target_latitude": 37.89571544518374,
     "geotag:target_longitude": -122.49824329997173,
+    "geotag:whosonfirst_belongsto": [
+      85688637,
+      102191575,
+      85633793
+    ],
+    "geotag:whosonfirst_camera": 85688637,
     "iso:country": "US",
     "media:fingerprint": "bd666d83e8561d19763b9d7e7e2f2a6c3c3fecf4",
     "media:imagehash_avg": "a:ff818f85b98181f1",
@@ -447,7 +435,7 @@
       }
     ],
     "wof:id": 1527855745,
-    "wof:lastmodified": 1756281426,
+    "wof:lastmodified": 1756339096,
     "wof:name": "photograph: San Francisco Bay Area aerial, Sausalito and Mount Tamalpais",
     "wof:parent_id": 1511942591,
     "wof:placetype": "custom",
@@ -465,5 +453,5 @@
     -122.47421264648,
     37.840427966191
   ],
-  "geometry": {"coordinates":[-122.47421264648,37.840427966191],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.47421264648,37.840427966191]}
 }

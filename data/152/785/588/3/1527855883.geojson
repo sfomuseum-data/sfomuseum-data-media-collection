@@ -17,27 +17,15 @@
     "geotag:bearing": 51.403197885615086,
     "geotag:camera_latitude": 37.787810061661,
     "geotag:camera_longitude": -122.27611541748,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        85633793,
-        85688637,
-        102191575
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 85688637
-    },
-    "geotag:depictions": [
-      1527855883
-    ],
     "geotag:distance": 3628.3505247051357,
     "geotag:target_latitude": 37.80815428562332,
     "geotag:target_longitude": -122.24385005062416,
+    "geotag:whosonfirst_belongsto": [
+      85688637,
+      102191575,
+      85633793
+    ],
+    "geotag:whosonfirst_camera": 85688637,
     "iso:country": "US",
     "media:fingerprint": "7666dc699a441643664e71ca4026dcbc48272b54",
     "media:imagehash_avg": "a:011f1f3fbffd0181",
@@ -435,7 +423,7 @@
       }
     ],
     "wof:id": 1527855883,
-    "wof:lastmodified": 1756281426,
+    "wof:lastmodified": 1756339096,
     "wof:name": "photograph: San Francisco Bay Area aerial, Lake Merritt, Oakland",
     "wof:parent_id": 1511942729,
     "wof:placetype": "custom",
@@ -453,5 +441,5 @@
     -122.27611541748,
     37.787810061661
   ],
-  "geometry": {"coordinates":[-122.27611541748,37.787810061661],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.27611541748,37.787810061661]}
 }

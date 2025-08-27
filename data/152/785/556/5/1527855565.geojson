@@ -17,31 +17,17 @@
     "geotag:bearing": 21.347865736280735,
     "geotag:camera_latitude": 37.748729228485,
     "geotag:camera_longitude": -122.49240875244,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        85633793,
-        102087579,
-        85922583,
-        85688637,
-        102191575
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102087579,
-          "locality_id": 85922583,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 85922583
-    },
-    "geotag:depictions": [
-      1527855565
-    ],
     "geotag:distance": 5800.492607876348,
     "geotag:target_latitude": 37.79728933128651,
     "geotag:target_longitude": -122.46839242743982,
+    "geotag:whosonfirst_belongsto": [
+      85922583,
+      102087579,
+      85688637,
+      102191575,
+      85633793
+    ],
+    "geotag:whosonfirst_camera": 85922583,
     "iso:country": "US",
     "media:fingerprint": "ac8cb3db45899330f9f43ca21c32daf4d1c5aef6",
     "media:imagehash_avg": "a:fffdfdf0808080ff",
@@ -451,7 +437,7 @@
       }
     ],
     "wof:id": 1527855565,
-    "wof:lastmodified": 1756281426,
+    "wof:lastmodified": 1756339096,
     "wof:name": "photograph: San Francisco, Golden Gate Park, aerial",
     "wof:parent_id": 1511942411,
     "wof:placetype": "custom",
@@ -469,5 +455,5 @@
     -122.49240875244,
     37.748729228485
   ],
-  "geometry": {"coordinates":[-122.49240875244,37.748729228485],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.49240875244,37.748729228485]}
 }

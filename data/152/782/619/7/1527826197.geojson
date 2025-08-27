@@ -17,65 +17,19 @@
     "geotag:bearing": 55.2700921357286,
     "geotag:camera_latitude": 37.79454195588281,
     "geotag:camera_longitude": -122.39241600036623,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        85922583,
-        85633793,
-        85688637,
-        102087579,
-        102191575
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102087579,
-          "locality_id": 85922583,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 85922583
-    },
-    "geotag:depictions": [
-      1527826197
-    ],
     "geotag:distance": 2817.545601208074,
     "geotag:target_latitude": 37.80897014176884,
     "geotag:target_longitude": -122.36606627136243,
-    "geotag:target_whosonfirst": {
-      "wof:belongsto": [
-        102191575,
-        404529563,
-        85633793
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "marinearea_id": 404529563
-        }
-      ],
-      "wof:id": 404529563
-    },
-    "geotag:whosonfirst": {
-      "wof:belongsto": [
-        85922583,
-        85633793,
-        85688637,
-        102087579,
-        102191575
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102087579,
-          "locality_id": 85922583,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 85922583
-    },
+    "geotag:whosonfirst_belongsto": [
+      85922583,
+      102087579,
+      85688637,
+      102191575,
+      85633793,
+      404529563
+    ],
+    "geotag:whosonfirst_camera": 85922583,
+    "geotag:whosonfirst_target": 404529563,
     "iso:country": "",
     "media:fingerprint": "008e302270dbd5fb87f88887eca2834302837a2c",
     "media:imagehash_avg": "a:007c7d7c14141020",
@@ -457,7 +411,7 @@
       }
     ],
     "wof:id": 1527826197,
-    "wof:lastmodified": 1756281355,
+    "wof:lastmodified": 1756339094,
     "wof:name": "negative: SFO Helicopter Airlines, downtown San Francisco heliport",
     "wof:parent_id": 1511947225,
     "wof:placetype": "custom",
@@ -475,5 +429,5 @@
     -122.39241600036623,
     37.79454195588281
   ],
-  "geometry": {"coordinates":[-122.39241600036623,37.79454195588281],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.39241600036623,37.79454195588281]}
 }

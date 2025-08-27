@@ -16,120 +16,24 @@
     "geotag:bearing": 0,
     "geotag:camera_latitude": 37.36306276970801,
     "geotag:camera_longitude": -121.92249298095705,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        102081673,
-        102191575,
-        85922347,
-        1108782553,
-        85633793,
-        85922341,
-        85869525,
-        85688637,
-        1746879031,
-        1108779019
-      ],
-      "wof:hierarchy": [
-        {
-          "campus_id": 1746879031,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102081673,
-          "locality_id": 85922341,
-          "neighbourhood_id": 85869525,
-          "region_id": 85688637
-        },
-        {
-          "campus_id": 1746879031,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102081673,
-          "locality_id": 85922347,
-          "macrohood_id": 1108782553,
-          "neighbourhood_id": 1108779019,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 1746879031
-    },
-    "geotag:depictions": [
-      1897367077
-    ],
     "geotag:distance": 0,
     "geotag:target_latitude": 37.36579146467191,
     "geotag:target_longitude": -121.92729948075043,
-    "geotag:target_whosonfirst": {
-      "wof:belongsto": [
-        85633793,
-        85922341,
-        85869525,
-        85922347,
-        102191575,
-        102081673,
-        85688637,
-        1746879031,
-        1108782553,
-        1108779019
-      ],
-      "wof:hierarchy": [
-        {
-          "campus_id": 1746879031,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102081673,
-          "locality_id": 85922341,
-          "neighbourhood_id": 85869525,
-          "region_id": 85688637
-        },
-        {
-          "campus_id": 1746879031,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102081673,
-          "locality_id": 85922347,
-          "macrohood_id": 1108782553,
-          "neighbourhood_id": 1108779019,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 1746879031
-    },
-    "geotag:whosonfirst": {
-      "wof:belongsto": [
-        102081673,
-        102191575,
-        85922347,
-        1108782553,
-        85633793,
-        85922341,
-        85869525,
-        85688637,
-        1746879031,
-        1108779019
-      ],
-      "wof:hierarchy": [
-        {
-          "campus_id": 1746879031,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102081673,
-          "locality_id": 85922341,
-          "neighbourhood_id": 85869525,
-          "region_id": 85688637
-        },
-        {
-          "campus_id": 1746879031,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102081673,
-          "locality_id": 85922347,
-          "macrohood_id": 1108782553,
-          "neighbourhood_id": 1108779019,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 1746879031
-    },
+    "geotag:whosonfirst_belongsto": [
+      1746879031,
+      85633793,
+      102081673,
+      85922341,
+      85869525,
+      85688637,
+      102191575,
+      85922347,
+      1108782553,
+      1108779019,
+      1746879031
+    ],
+    "geotag:whosonfirst_camera": 1746879031,
+    "geotag:whosonfirst_target": 1746879031,
     "iso:country": "US",
     "media:fingerprint": "d1c224d220c2061a0cb6fbe9034a8e29899339aa",
     "media:imagehash_avg": "a:003c3e04c1e7c7ff",
@@ -731,7 +635,7 @@
       }
     ],
     "wof:id": 1897367077,
-    "wof:lastmodified": 1756281597,
+    "wof:lastmodified": 1756339104,
     "wof:name": "model airplane: United Airlines, Boeing 777-200",
     "wof:parent_id": 1763136975,
     "wof:placetype": "custom",
@@ -748,5 +652,5 @@
     -121.92249298095705,
     37.36306276970801
   ],
-  "geometry": {"coordinates":[-121.92249298095705,37.36306276970801],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-121.92249298095705,37.36306276970801]}
 }

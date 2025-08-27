@@ -17,43 +17,20 @@
     "geotag:bearing": 69.02536156823493,
     "geotag:camera_latitude": 37.615523209563,
     "geotag:camera_longitude": -122.38855361938,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        102191575,
-        85633793,
-        102087579,
-        85922583,
-        554784711,
-        85688637,
-        102085387,
-        102527513
-      ],
-      "wof:hierarchy": [
-        {
-          "campus_id": 102527513,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102087579,
-          "locality_id": 85922583,
-          "postalcode_id": 554784711,
-          "region_id": 85688637
-        },
-        {
-          "campus_id": 102527513,
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "county_id": 102085387,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 102527513
-    },
-    "geotag:depictions": [
-      1763441429
-    ],
     "geotag:distance": 2218.9042075506677,
     "geotag:target_latitude": 37.62266163357026,
     "geotag:target_longitude": -122.36503623257839,
+    "geotag:whosonfirst_belongsto": [
+      102527513,
+      85922583,
+      554784711,
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      102085387
+    ],
+    "geotag:whosonfirst_camera": 102527513,
     "iso:country": "US",
     "media:fingerprint": "56edce81e94fc46c931eb072166b4e7606119ac2",
     "media:imagehash_avg": "a:ff818181898581ff",
@@ -410,7 +387,7 @@
       }
     ],
     "wof:id": 1763441429,
-    "wof:lastmodified": 1756281452,
+    "wof:lastmodified": 1756339101,
     "wof:name": "photograph: San Francisco International Airport (SFO), Central Terminal construction",
     "wof:parent_id": 1511957261,
     "wof:placetype": "custom",
@@ -427,5 +404,5 @@
     -122.38855361938,
     37.615523209563
   ],
-  "geometry": {"coordinates":[-122.38855361938,37.615523209563],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.38855361938,37.615523209563]}
 }

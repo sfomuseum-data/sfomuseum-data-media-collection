@@ -16,57 +16,17 @@
     "geotag:bearing": 95.78916692519789,
     "geotag:camera_latitude": 37.797034466405485,
     "geotag:camera_longitude": -122.38906860351564,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        102191575,
-        85633793,
-        404529563
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "marinearea_id": 404529563
-        }
-      ],
-      "wof:id": 404529563
-    },
-    "geotag:depictions": [
-      1762896263
-    ],
     "geotag:distance": 1046.4029161913832,
     "geotag:target_latitude": 37.79608494725147,
     "geotag:target_longitude": -122.37722393731778,
-    "geotag:target_whosonfirst": {
-      "wof:belongsto": [
-        85633793,
-        404529563,
-        102191575
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "marinearea_id": 404529563
-        }
-      ],
-      "wof:id": 404529563
-    },
-    "geotag:whosonfirst": {
-      "wof:belongsto": [
-        102191575,
-        85633793,
-        404529563
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "marinearea_id": 404529563
-        }
-      ],
-      "wof:id": 404529563
-    },
+    "geotag:whosonfirst_belongsto": [
+      404529563,
+      102191575,
+      85633793,
+      404529563
+    ],
+    "geotag:whosonfirst_camera": 404529563,
+    "geotag:whosonfirst_target": 404529563,
     "iso:country": "",
     "media:fingerprint": "21b40128e78e91a01b2703781c46fd6a3d7cc2dc",
     "media:imagehash_avg": "a:ffffffffcc808083",
@@ -487,7 +447,7 @@
       }
     ],
     "wof:id": 1762896263,
-    "wof:lastmodified": 1756281422,
+    "wof:lastmodified": 1756339099,
     "wof:name": "negative: Pan American Airways, Pacific-Alaska Division",
     "wof:parent_id": 1762830283,
     "wof:placetype": "custom",
@@ -504,5 +464,5 @@
     -122.38906860351564,
     37.797034466405485
   ],
-  "geometry": {"coordinates":[-122.38906860351564,37.797034466405485],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.38906860351564,37.797034466405485]}
 }

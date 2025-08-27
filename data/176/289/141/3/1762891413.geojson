@@ -17,27 +17,15 @@
     "geotag:bearing": -66.28970885303657,
     "geotag:camera_latitude": 37.610355898363,
     "geotag:camera_longitude": -122.35095977783,
-    "geotag:camera_whosonfirst": {
-      "wof:belongsto": [
-        85688637,
-        102191575,
-        85633793
-      ],
-      "wof:hierarchy": [
-        {
-          "continent_id": 102191575,
-          "country_id": 85633793,
-          "region_id": 85688637
-        }
-      ],
-      "wof:id": 85688637
-    },
-    "geotag:depictions": [
-      1762891413
-    ],
     "geotag:distance": 2370.3515537742014,
     "geotag:target_latitude": 37.61892245959938,
     "geotag:target_longitude": -122.3755926041644,
+    "geotag:whosonfirst_belongsto": [
+      85688637,
+      102191575,
+      85633793
+    ],
+    "geotag:whosonfirst_camera": 85688637,
     "iso:country": "US",
     "media:fingerprint": "0db1898338d08124ba0d5ffd8f1aa29e492dd9ed",
     "media:imagehash_avg": "a:fff13e6e7eff0000",
@@ -385,7 +373,7 @@
       }
     ],
     "wof:id": 1762891413,
-    "wof:lastmodified": 1756281343,
+    "wof:lastmodified": 1756339099,
     "wof:name": "photograph: San Francisco International Airport (SFO), aerial",
     "wof:parent_id": 1762887117,
     "wof:placetype": "custom",
@@ -402,5 +390,5 @@
     -122.35095977783,
     37.610355898363
   ],
-  "geometry": {"coordinates":[-122.35095977783,37.610355898363],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.35095977783,37.610355898363]}
 }

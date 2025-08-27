@@ -287,8 +287,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -297,22 +302,27 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
           "hex": "#6e5160",
           "name": "Eggplant",
           "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
         {
           "hex": "#000000",
           "name": "black",
@@ -324,23 +334,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
@@ -351,8 +351,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#a6a5a3",
-          "name": "#a6a5a3",
+          "hex": "#242239",
+          "name": "#242239",
           "reference": "marekm4"
         },
         {
@@ -361,8 +361,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#242239",
-          "name": "#242239",
+          "hex": "#a6a5a3",
+          "name": "#a6a5a3",
           "reference": "marekm4"
         }
       ]
@@ -414,7 +414,7 @@
       }
     ],
     "wof:id": 1914590429,
-    "wof:lastmodified": 1756195045,
+    "wof:lastmodified": 1756281454,
     "wof:name": "napkin: Piedmont Airlines",
     "wof:parent_id": 1914590301,
     "wof:placetype": "custom",

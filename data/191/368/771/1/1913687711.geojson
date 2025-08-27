@@ -270,8 +270,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -285,20 +290,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#c0c0c0",
           "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -310,27 +320,17 @@
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#7e817a",
-          "name": "#7e817a",
+          "hex": "#82847d",
+          "name": "#82847d",
           "reference": "marekm4"
         },
         {
-          "hex": "#bebfbc",
-          "name": "#bebfbc",
+          "hex": "#7e817a",
+          "name": "#7e817a",
           "reference": "marekm4"
         },
         {
@@ -339,8 +339,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#82847d",
-          "name": "#82847d",
+          "hex": "#bebfbc",
+          "name": "#bebfbc",
           "reference": "marekm4"
         }
       ]
@@ -394,7 +394,7 @@
       }
     ],
     "wof:id": 1913687711,
-    "wof:lastmodified": 1756195050,
+    "wof:lastmodified": 1756281460,
     "wof:name": "photograph: San Francisco International Airport (SFO), Pacific Southwest Airlines (PSA)",
     "wof:parent_id": 1913687585,
     "wof:placetype": "custom",

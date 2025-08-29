@@ -297,8 +297,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -312,25 +322,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
           "hex": "#d2b48c",
           "name": "tan",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -347,16 +357,6 @@
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
         }
       ],
       "marekm4": [
@@ -366,8 +366,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#ccc7ae",
-          "name": "#ccc7ae",
+          "hex": "#5a5840",
+          "name": "#5a5840",
           "reference": "marekm4"
         },
         {
@@ -376,8 +376,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#5a5840",
-          "name": "#5a5840",
+          "hex": "#ccc7ae",
+          "name": "#ccc7ae",
           "reference": "marekm4"
         }
       ]
@@ -436,7 +436,7 @@
       }
     ],
     "wof:id": 1527855745,
-    "wof:lastmodified": 1756339396,
+    "wof:lastmodified": 1756454217,
     "wof:name": "photograph: San Francisco Bay Area aerial, Sausalito and Mount Tamalpais",
     "wof:parent_id": 1511942591,
     "wof:placetype": "custom",
@@ -454,5 +454,5 @@
     -122.47421264648,
     37.840427966191
   ],
-  "geometry": {"type":"Point","coordinates":[-122.47421264648,37.840427966191]}
+  "geometry": {"coordinates":[-122.47421264648,37.840427966191],"type":"Point"}
 }

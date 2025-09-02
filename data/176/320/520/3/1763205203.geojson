@@ -269,8 +269,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff7538",
-          "name": "Orange",
+          "hex": "#fdd9b5",
+          "name": "Apricot",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#bab86c",
+          "name": "Olive Green",
           "reference": "crayola"
         },
         {
@@ -279,22 +284,27 @@
           "reference": "crayola"
         },
         {
-          "hex": "#fdd9b5",
-          "name": "Apricot",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#bab86c",
-          "name": "Olive Green",
+          "hex": "#ff7538",
+          "name": "Orange",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#f0e68c",
+          "name": "khaki",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -306,18 +316,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#f0e68c",
-          "name": "khaki",
-          "reference": "css4"
-        },
-        {
           "hex": "#d2691e",
           "name": "chocolate",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d2b48c",
-          "name": "tan",
           "reference": "css4"
         },
         {
@@ -328,11 +328,6 @@
       ],
       "marekm4": [
         {
-          "hex": "#f26115",
-          "name": "#f26115",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#27544d",
           "name": "#27544d",
           "reference": "marekm4"
@@ -340,6 +335,11 @@
         {
           "hex": "#f2dab0",
           "name": "#f2dab0",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#f26115",
+          "name": "#f26115",
           "reference": "marekm4"
         }
       ]
@@ -398,7 +398,7 @@
       }
     ],
     "wof:id": 1763205203,
-    "wof:lastmodified": 1756713457,
+    "wof:lastmodified": 1756799908,
     "wof:name": "airsickness bag: Zambia Airways",
     "wof:parent_id": 1763204639,
     "wof:placetype": "custom",

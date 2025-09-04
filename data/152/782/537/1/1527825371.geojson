@@ -217,8 +217,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6",
-          "name": "Piggy Pink",
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -232,13 +242,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
           "reference": "crayola"
         },
         {
@@ -247,25 +252,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#e6e6fa",
-          "name": "lavender",
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#e6e6fa",
+          "name": "lavender",
           "reference": "css4"
         },
         {
@@ -279,22 +284,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#938679",
-          "name": "#938679",
-          "reference": "marekm4"
-        },
         {
           "hex": "#47434a",
           "name": "#47434a",
@@ -308,6 +303,11 @@
         {
           "hex": "#88776d",
           "name": "#88776d",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#938679",
+          "name": "#938679",
           "reference": "marekm4"
         }
       ]
@@ -370,7 +370,7 @@
       }
     ],
     "wof:id": 1527825371,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972905,
     "wof:name": "photograph: San Francisco International Airport (SFO), parking garage",
     "wof:parent_id": 1511946397,
     "wof:placetype": "custom",
@@ -388,5 +388,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

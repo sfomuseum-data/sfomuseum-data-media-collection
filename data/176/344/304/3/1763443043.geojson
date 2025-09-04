@@ -212,13 +212,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a2add0",
-          "name": "Wild Blue Yonder",
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -227,8 +227,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
           "reference": "crayola"
         },
         {
@@ -237,13 +242,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         }
       ],
@@ -251,6 +251,16 @@
         {
           "hex": "#4682b4",
           "name": "steelblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -262,27 +272,12 @@
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
           "hex": "#abafb7",
           "name": "#abafb7",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#6b91bb",
-          "name": "#6b91bb",
           "reference": "marekm4"
         },
         {
@@ -293,6 +288,11 @@
         {
           "hex": "#19201e",
           "name": "#19201e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#6b91bb",
+          "name": "#6b91bb",
           "reference": "marekm4"
         }
       ]
@@ -327,11 +327,11 @@
     "wof:country": "US",
     "wof:created": 1649404474,
     "wof:depicts": [
-      102534365,
       1159291079,
       1159293697,
       1511926365,
-      1159285405
+      1159285405,
+      102534365
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -366,7 +366,7 @@
       }
     ],
     "wof:id": 1763443043,
-    "wof:lastmodified": 1756946830,
+    "wof:lastmodified": 1756972999,
     "wof:name": "slide: U.S. Air Force, C-5A Galaxy, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1511926365,
     "wof:placetype": "custom",
@@ -383,5 +383,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
+  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
 }

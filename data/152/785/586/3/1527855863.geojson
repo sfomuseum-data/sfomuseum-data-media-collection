@@ -201,8 +201,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -211,30 +211,30 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
           "reference": "crayola"
         },
         {
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -243,8 +243,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -255,16 +265,6 @@
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
           "reference": "css4"
         }
       ],
@@ -314,10 +314,10 @@
     "wof:country": "XX",
     "wof:created": 1578955047,
     "wof:depicts": [
-      85921881,
-      85688637,
       85633793,
-      1511942709
+      1511942709,
+      85921881,
+      85688637
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -340,7 +340,7 @@
       }
     ],
     "wof:id": 1527855863,
-    "wof:lastmodified": 1756946791,
+    "wof:lastmodified": 1756972971,
     "wof:name": "photograph: San Francisco Bay Area aerial, Oakland port",
     "wof:parent_id": 1511942709,
     "wof:placetype": "custom",
@@ -358,5 +358,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

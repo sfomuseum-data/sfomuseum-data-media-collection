@@ -210,6 +210,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
@@ -220,23 +225,18 @@
           "reference": "crayola"
         },
         {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#757575",
           "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
           "reference": "crayola"
         }
       ],
@@ -247,13 +247,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -262,12 +257,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#89857b",
+          "name": "#89857b",
+          "reference": "marekm4"
+        },
         {
           "hex": "#5c5d5a",
           "name": "#5c5d5a",
@@ -276,11 +281,6 @@
         {
           "hex": "#a5a5a5",
           "name": "#a5a5a5",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#89857b",
-          "name": "#89857b",
           "reference": "marekm4"
         },
         {
@@ -325,11 +325,11 @@
     "wof:country": "XY",
     "wof:created": 1693642949,
     "wof:depicts": [
+      1159289759,
+      1159293593,
       1880273355,
       1159284193,
-      1159286945,
-      1159289759,
-      1159293593
+      1159286945
     ],
     "wof:geomhash": "ed7c2ab3547fc3916b5edc33488deaa7",
     "wof:hierarchy": [
@@ -351,7 +351,7 @@
       }
     ],
     "wof:id": 1880273713,
-    "wof:lastmodified": 1756946855,
+    "wof:lastmodified": 1756973055,
     "wof:name": "miniature model airplane: Condor Air Lines, Boeing 727",
     "wof:parent_id": 1880273355,
     "wof:placetype": "custom",
@@ -368,5 +368,5 @@
     -122.385834,
     37.616611
   ],
-  "geometry": {"type":"Polygon","coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]]}
+  "geometry": {"coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]],"type":"Polygon"}
 }

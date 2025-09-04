@@ -216,8 +216,18 @@
           "reference": "crayola"
         },
         {
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
+        },
+        {
           "hex": "#cdc5c2",
           "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#17806d",
+          "name": "Tropical Rain Forest",
           "reference": "crayola"
         },
         {
@@ -229,16 +239,6 @@
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
-        },
-        {
-          "hex": "#87a96b",
-          "name": "Asparagus",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#17806d",
-          "name": "Tropical Rain Forest",
-          "reference": "crayola"
         }
       ],
       "css4": [
@@ -248,23 +248,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
-          "reference": "css4"
-        },
-        {
           "hex": "#000000",
           "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#228b22",
-          "name": "forestgreen",
           "reference": "css4"
         },
         {
@@ -273,8 +258,23 @@
           "reference": "css4"
         },
         {
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
+        },
+        {
           "hex": "#808080",
           "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#228b22",
+          "name": "forestgreen",
           "reference": "css4"
         }
       ],
@@ -285,13 +285,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#1d1c1a",
-          "name": "#1d1c1a",
+          "hex": "#ebe4d0",
+          "name": "#ebe4d0",
           "reference": "marekm4"
         },
         {
-          "hex": "#ebe4d0",
-          "name": "#ebe4d0",
+          "hex": "#1d1c1a",
+          "name": "#1d1c1a",
           "reference": "marekm4"
         }
       ]
@@ -330,10 +330,10 @@
     "wof:country": "XX",
     "wof:created": 1578952892,
     "wof:depicts": [
-      1159284535,
-      1159285589,
       1511930415,
-      1159288009
+      1159288009,
+      1159284535,
+      1159285589
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -356,7 +356,7 @@
       }
     ],
     "wof:id": 1527842567,
-    "wof:lastmodified": 1756946782,
+    "wof:lastmodified": 1756972933,
     "wof:name": "timetable: Swissair, Interflug",
     "wof:parent_id": 1511930415,
     "wof:placetype": "custom",
@@ -374,5 +374,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

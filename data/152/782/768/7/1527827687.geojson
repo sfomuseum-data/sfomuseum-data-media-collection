@@ -179,11 +179,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
@@ -196,6 +191,11 @@
         {
           "hex": "#cdc5c2",
           "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         }
       ],
@@ -267,8 +267,8 @@
     "wof:country": "US",
     "wof:created": 1578950564,
     "wof:depicts": [
-      102527513,
-      1511948721
+      1511948721,
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -291,7 +291,7 @@
       }
     ],
     "wof:id": 1527827687,
-    "wof:lastmodified": 1756946775,
+    "wof:lastmodified": 1756972907,
     "wof:name": "negative: San Francisco International Airport (SFO), Walter Wight",
     "wof:parent_id": 1511948721,
     "wof:placetype": "custom",
@@ -309,5 +309,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

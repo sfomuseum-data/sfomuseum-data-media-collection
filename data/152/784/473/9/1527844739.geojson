@@ -200,6 +200,16 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
@@ -210,30 +220,20 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         },
         {
@@ -247,30 +247,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2c2b22",
-          "name": "#2c2b22",
+          "hex": "#dbdacd",
+          "name": "#dbdacd",
           "reference": "marekm4"
         },
         {
-          "hex": "#dbdacd",
-          "name": "#dbdacd",
+          "hex": "#2c2b22",
+          "name": "#2c2b22",
           "reference": "marekm4"
         }
       ]
@@ -309,9 +309,9 @@
     "wof:country": "XX",
     "wof:created": 1578953241,
     "wof:depicts": [
-      1511932001,
       1159287531,
-      1159285393
+      1159285393,
+      1511932001
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -334,7 +334,7 @@
       }
     ],
     "wof:id": 1527844739,
-    "wof:lastmodified": 1756946784,
+    "wof:lastmodified": 1756972937,
     "wof:name": "timetable: TWA (Trans World Airlines), employee cargo",
     "wof:parent_id": 1511932001,
     "wof:placetype": "custom",
@@ -352,5 +352,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

@@ -208,23 +208,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#8a795d",
+          "name": "Shadow",
           "reference": "crayola"
         },
         {
           "hex": "#95918c",
           "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -235,6 +225,16 @@
         {
           "hex": "#6e5160",
           "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         }
       ],
@@ -250,6 +250,11 @@
           "reference": "css4"
         },
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
@@ -258,32 +263,27 @@
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#89746c",
-          "name": "#89746c",
-          "reference": "marekm4"
-        },
         {
           "hex": "#958779",
           "name": "#958779",
           "reference": "marekm4"
         },
         {
-          "hex": "#d8d1c8",
-          "name": "#d8d1c8",
+          "hex": "#48403f",
+          "name": "#48403f",
           "reference": "marekm4"
         },
         {
-          "hex": "#48403f",
-          "name": "#48403f",
+          "hex": "#89746c",
+          "name": "#89746c",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#d8d1c8",
+          "name": "#d8d1c8",
           "reference": "marekm4"
         }
       ]
@@ -316,12 +316,12 @@
     "wof:country": "US",
     "wof:created": 1578950653,
     "wof:depicts": [
+      1159285393,
+      1159289873,
       1159287531,
       1511949291,
       1159293593,
-      102527513,
-      1159285393,
-      1159289873
+      102527513
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -344,7 +344,7 @@
       }
     ],
     "wof:id": 1527828259,
-    "wof:lastmodified": 1756946775,
+    "wof:lastmodified": 1756972908,
     "wof:name": "negative: San Francisco International Airport (SFO), South Terminal",
     "wof:parent_id": 1511949291,
     "wof:placetype": "custom",
@@ -362,5 +362,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

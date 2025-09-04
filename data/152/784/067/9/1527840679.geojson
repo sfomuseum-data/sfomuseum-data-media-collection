@@ -196,18 +196,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff",
-          "name": "White",
-          "reference": "crayola"
-        },
-        {
           "hex": "#1a4876",
           "name": "Midnight Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#c5d0e6",
-          "name": "Periwinkle",
           "reference": "crayola"
         },
         {
@@ -219,9 +209,29 @@
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
+        },
+        {
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
@@ -233,18 +243,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#191970",
-          "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
           "hex": "#000000",
           "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
           "reference": "css4"
         }
       ],
@@ -300,10 +300,10 @@
     "wof:country": "XX",
     "wof:created": 1578952592,
     "wof:depicts": [
+      1159288779,
       1511935559,
       1159285413,
-      1159285417,
-      1159288779
+      1159285417
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -326,7 +326,7 @@
       }
     ],
     "wof:id": 1527840679,
-    "wof:lastmodified": 1756946781,
+    "wof:lastmodified": 1756972930,
     "wof:name": "timetable: United Airlines",
     "wof:parent_id": 1511935559,
     "wof:placetype": "custom",
@@ -344,5 +344,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

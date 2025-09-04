@@ -187,13 +187,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -202,8 +202,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -213,6 +213,16 @@
         }
       ],
       "css4": [
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
         {
           "hex": "#000000",
           "name": "black",
@@ -224,18 +234,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#d2b48c",
           "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
           "reference": "css4"
         }
       ],
@@ -310,7 +310,7 @@
       }
     ],
     "wof:id": 1527849095,
-    "wof:lastmodified": 1756946786,
+    "wof:lastmodified": 1756972945,
     "wof:name": "annual report: San Francisco International Airport (SFO), 1998 [1 issue: 1998]",
     "wof:parent_id": 1511921379,
     "wof:placetype": "custom",
@@ -328,5 +328,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

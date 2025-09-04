@@ -196,13 +196,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -211,8 +206,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -221,15 +221,30 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -241,32 +256,17 @@
           "hex": "#dcdcdc",
           "name": "gainsboro",
           "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2a2a28",
-          "name": "#2a2a28",
+          "hex": "#c0c0bf",
+          "name": "#c0c0bf",
           "reference": "marekm4"
         },
         {
-          "hex": "#c0c0bf",
-          "name": "#c0c0bf",
+          "hex": "#2a2a28",
+          "name": "#2a2a28",
           "reference": "marekm4"
         }
       ]
@@ -330,7 +330,7 @@
       }
     ],
     "wof:id": 1527858309,
-    "wof:lastmodified": 1756946792,
+    "wof:lastmodified": 1756973055,
     "wof:name": "negative: Mills Field Municipal Airport of San Francisco, aerial",
     "wof:parent_id": 1511943505,
     "wof:placetype": "custom",
@@ -348,5 +348,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

@@ -210,18 +210,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
           "hex": "#ff5349",
           "name": "Red Orange",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#8a795d",
-          "name": "Shadow",
           "reference": "crayola"
         },
         {
@@ -233,27 +223,32 @@
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
         {
           "hex": "#ff0000",
           "name": "red",
           "reference": "css4"
         },
         {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
           "reference": "css4"
         },
         {
@@ -265,14 +260,14 @@
           "hex": "#d8bfd8",
           "name": "thistle",
           "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#d7160f",
-          "name": "#d7160f",
-          "reference": "marekm4"
-        },
         {
           "hex": "#231b16",
           "name": "#231b16",
@@ -281,6 +276,11 @@
         {
           "hex": "#e0c4c3",
           "name": "#e0c4c3",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#d7160f",
+          "name": "#d7160f",
           "reference": "marekm4"
         }
       ]
@@ -344,7 +344,7 @@
       }
     ],
     "wof:id": 1527835531,
-    "wof:lastmodified": 1756946778,
+    "wof:lastmodified": 1756972922,
     "wof:name": "timetable: TWA (Trans World Airlines), including Trans World Express Service",
     "wof:parent_id": 1511934565,
     "wof:placetype": "custom",
@@ -362,5 +362,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

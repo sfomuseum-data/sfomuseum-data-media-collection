@@ -258,8 +258,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#edd19c",
-          "name": "Maize",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#bab86c",
+          "name": "Olive Green",
           "reference": "crayola"
         },
         {
@@ -268,18 +273,13 @@
           "reference": "crayola"
         },
         {
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#fdd9b5",
-          "name": "Apricot",
           "reference": "crayola"
         },
         {
@@ -288,17 +288,22 @@
           "reference": "crayola"
         },
         {
-          "hex": "#eceabe",
-          "name": "Spring Green",
+          "hex": "#edd19c",
+          "name": "Maize",
           "reference": "crayola"
         },
         {
-          "hex": "#bab86c",
-          "name": "Olive Green",
+          "hex": "#fdd9b5",
+          "name": "Apricot",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -310,8 +315,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#d2b48c",
-          "name": "tan",
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#eee8aa",
+          "name": "palegoldenrod",
           "reference": "css4"
         },
         {
@@ -323,32 +333,27 @@
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#eee8aa",
-          "name": "palegoldenrod",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#3e3626",
-          "name": "#3e3626",
-          "reference": "marekm4"
-        },
         {
           "hex": "#efdfbd",
           "name": "#efdfbd",
           "reference": "marekm4"
         },
         {
+          "hex": "#eedeba",
+          "name": "#eedeba",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#edddbb",
           "name": "#edddbb",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#3e3626",
+          "name": "#3e3626",
           "reference": "marekm4"
         },
         {
@@ -359,11 +364,6 @@
         {
           "hex": "#9b8f70",
           "name": "#9b8f70",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#eedeba",
-          "name": "#eedeba",
           "reference": "marekm4"
         }
       ]
@@ -392,10 +392,10 @@
     "wof:country": "XY",
     "wof:created": 1714550322,
     "wof:depicts": [
-      1913795431,
-      1159284991,
       1159285931,
-      1159286721
+      1159286721,
+      1913795431,
+      1159284991
     ],
     "wof:geomhash": "ed7c2ab3547fc3916b5edc33488deaa7",
     "wof:hierarchy": [
@@ -417,7 +417,7 @@
       }
     ],
     "wof:id": 1913800053,
-    "wof:lastmodified": 1756946872,
+    "wof:lastmodified": 1756973083,
     "wof:name": "correspondence: Harold M. Bixby to Debby Bixby",
     "wof:parent_id": 1913795431,
     "wof:placetype": "custom",
@@ -434,5 +434,5 @@
     -122.385834,
     37.616611
   ],
-  "geometry": {"type":"Polygon","coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]]}
+  "geometry": {"coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]],"type":"Polygon"}
 }

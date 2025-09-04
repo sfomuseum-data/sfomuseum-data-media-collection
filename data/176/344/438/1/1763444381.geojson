@@ -215,16 +215,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9d81ba",
-          "name": "Purple Mountain's Majesty",
-          "reference": "crayola"
-        },
-        {
           "hex": "#6699cc",
           "name": "Blue Gray",
           "reference": "crayola"
@@ -232,6 +222,16 @@
         {
           "hex": "#7851a9",
           "name": "Royal Purple",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9d81ba",
+          "name": "Purple Mountain's Majesty",
           "reference": "crayola"
         }
       ],
@@ -242,8 +242,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#9370db",
-          "name": "mediumpurple",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -257,20 +262,15 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#9370db",
+          "name": "mediumpurple",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6a6f9b",
-          "name": "#6a6f9b",
+          "hex": "#7a87bf",
+          "name": "#7a87bf",
           "reference": "marekm4"
         },
         {
@@ -279,13 +279,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#7a87bf",
-          "name": "#7a87bf",
+          "hex": "#999ece",
+          "name": "#999ece",
           "reference": "marekm4"
         },
         {
-          "hex": "#999ece",
-          "name": "#999ece",
+          "hex": "#6a6f9b",
+          "name": "#6a6f9b",
           "reference": "marekm4"
         }
       ]
@@ -322,13 +322,13 @@
     "wof:country": "US",
     "wof:created": 1649404788,
     "wof:depicts": [
-      102527513,
-      1159288779,
-      1159289939,
       1159293593,
       1159289935,
       1762760519,
-      1159285413
+      1159285413,
+      102527513,
+      1159288779,
+      1159289939
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -372,7 +372,7 @@
       }
     ],
     "wof:id": 1763444381,
-    "wof:lastmodified": 1756946831,
+    "wof:lastmodified": 1756973001,
     "wof:name": "slide: United Airlines, Boeing 757-200, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760519,
     "wof:placetype": "custom",
@@ -389,5 +389,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

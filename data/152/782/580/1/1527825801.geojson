@@ -187,18 +187,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -210,24 +200,19 @@
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
         {
           "hex": "#000000",
           "name": "black",
@@ -237,17 +222,32 @@
           "hex": "#778899",
           "name": "lightslategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c5c5c5",
-          "name": "#c5c5c5",
+          "hex": "#373737",
+          "name": "#373737",
           "reference": "marekm4"
         },
         {
-          "hex": "#373737",
-          "name": "#373737",
+          "hex": "#c5c5c5",
+          "name": "#c5c5c5",
           "reference": "marekm4"
         }
       ]
@@ -286,8 +286,8 @@
     "wof:country": "US",
     "wof:created": 1578950274,
     "wof:depicts": [
-      1511946839,
-      102527513
+      102527513,
+      1511946839
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -310,7 +310,7 @@
       }
     ],
     "wof:id": 1527825801,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972905,
     "wof:name": "negative: San Francisco International Airport (SFO), conference on airport bond issue",
     "wof:parent_id": 1511946839,
     "wof:placetype": "custom",
@@ -328,5 +328,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

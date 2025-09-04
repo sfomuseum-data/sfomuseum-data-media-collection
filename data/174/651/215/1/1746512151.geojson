@@ -264,13 +264,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
           "reference": "crayola"
         },
         {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -282,19 +292,14 @@
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
-        },
-        {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#a52a2a",
           "name": "brown",
@@ -303,16 +308,6 @@
         {
           "hex": "#696969",
           "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
           "reference": "css4"
         },
         {
@@ -326,42 +321,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         },
         {
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#a0150f",
-          "name": "#a0150f",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#363c58",
-          "name": "#363c58",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b6b7ad",
-          "name": "#b6b7ad",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b6b5af",
-          "name": "#b6b5af",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#484358",
-          "name": "#484358",
-          "reference": "marekm4"
-        },
         {
           "hex": "#344c91",
           "name": "#344c91",
@@ -373,8 +348,33 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#484358",
+          "name": "#484358",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a0150f",
+          "name": "#a0150f",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b6b5af",
+          "name": "#b6b5af",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#363c58",
+          "name": "#363c58",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#39508e",
           "name": "#39508e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b6b7ad",
+          "name": "#b6b7ad",
           "reference": "marekm4"
         }
       ]
@@ -437,7 +437,7 @@
       }
     ],
     "wof:id": 1746512151,
-    "wof:lastmodified": 1756946794,
+    "wof:lastmodified": 1756972965,
     "wof:name": "airmail flight cover: Southwest Airways, first airmail flight, AM-76",
     "wof:parent_id": 1511932771,
     "wof:placetype": "custom",
@@ -454,5 +454,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

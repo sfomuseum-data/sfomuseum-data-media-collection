@@ -198,16 +198,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
@@ -216,19 +206,19 @@
           "hex": "#fddde6",
           "name": "Piggy Pink",
           "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
         {
           "hex": "#696969",
           "name": "dimgrey",
@@ -240,20 +230,30 @@
           "reference": "css4"
         },
         {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
           "hex": "#e6e6fa",
           "name": "lavender",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c8c8c8",
-          "name": "#c8c8c8",
+          "hex": "#1e1e1e",
+          "name": "#1e1e1e",
           "reference": "marekm4"
         },
         {
-          "hex": "#1e1e1e",
-          "name": "#1e1e1e",
+          "hex": "#c8c8c8",
+          "name": "#c8c8c8",
           "reference": "marekm4"
         }
       ]
@@ -292,15 +292,15 @@
     "wof:country": "US",
     "wof:created": 1578950331,
     "wof:depicts": [
-      85688637,
       102527513,
       1511947211,
-      1159288051,
-      1108830801,
       85633793,
       1159285141,
       85922583,
-      1159291711
+      1159291711,
+      85688637,
+      1159288051,
+      1108830801
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -323,7 +323,7 @@
       }
     ],
     "wof:id": 1527826183,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972905,
     "wof:name": "negative: SFO Helicopter Airlines, downtown San Francisco heliport",
     "wof:parent_id": 1511947211,
     "wof:placetype": "custom",
@@ -341,5 +341,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

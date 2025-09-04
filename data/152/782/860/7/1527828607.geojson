@@ -223,18 +223,13 @@
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -246,9 +241,19 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#827e82",
+          "name": "#827e82",
+          "reference": "marekm4"
+        },
         {
           "hex": "#a7a2a2",
           "name": "#a7a2a2",
@@ -260,18 +265,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#857576",
-          "name": "#857576",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#4f4640",
           "name": "#4f4640",
           "reference": "marekm4"
         },
         {
-          "hex": "#827e82",
-          "name": "#827e82",
+          "hex": "#857576",
+          "name": "#857576",
           "reference": "marekm4"
         }
       ]
@@ -304,11 +304,11 @@
     "wof:country": "US",
     "wof:created": 1578950705,
     "wof:depicts": [
+      1511949641,
+      1159288505,
       102527513,
       1159290435,
-      1159285785,
-      1511949641,
-      1159288505
+      1159285785
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -331,7 +331,7 @@
       }
     ],
     "wof:id": 1527828607,
-    "wof:lastmodified": 1756946775,
+    "wof:lastmodified": 1756972908,
     "wof:name": "transparency: San Francisco International Airport (SFO), Terminal Building",
     "wof:parent_id": 1511949641,
     "wof:placetype": "custom",
@@ -349,5 +349,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

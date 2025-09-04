@@ -200,18 +200,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6",
-          "name": "Piggy Pink",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
           "hex": "#95918c",
           "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -225,6 +220,11 @@
           "reference": "crayola"
         },
         {
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
+          "reference": "crayola"
+        },
+        {
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
@@ -232,8 +232,23 @@
       ],
       "css4": [
         {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -244,21 +259,6 @@
         {
           "hex": "#e6e6fa",
           "name": "lavender",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
           "reference": "css4"
         }
       ],
@@ -303,13 +303,13 @@
     "wof:country": "US",
     "wof:created": 1578950401,
     "wof:depicts": [
-      102527513,
       1159288051,
       1159285141,
+      1108830801,
+      102527513,
       85922583,
       1159291711,
       85633793,
-      1108830801,
       85688637,
       1511947699
     ],
@@ -334,7 +334,7 @@
       }
     ],
     "wof:id": 1527826661,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972906,
     "wof:name": "negative: SFO Helicopter Airlines, downtown San Francisco heliport",
     "wof:parent_id": 1511947699,
     "wof:placetype": "custom",
@@ -352,5 +352,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

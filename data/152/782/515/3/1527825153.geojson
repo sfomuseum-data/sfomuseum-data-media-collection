@@ -189,11 +189,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
@@ -201,6 +196,11 @@
         {
           "hex": "#414a4c",
           "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -216,23 +216,8 @@
       ],
       "css4": [
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#696969",
           "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
           "reference": "css4"
         },
         {
@@ -241,20 +226,35 @@
           "reference": "css4"
         },
         {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bababa",
-          "name": "#bababa",
+          "hex": "#4b4b4b",
+          "name": "#4b4b4b",
           "reference": "marekm4"
         },
         {
-          "hex": "#4b4b4b",
-          "name": "#4b4b4b",
+          "hex": "#bababa",
+          "name": "#bababa",
           "reference": "marekm4"
         }
       ]
@@ -311,7 +311,7 @@
       }
     ],
     "wof:id": 1527825153,
-    "wof:lastmodified": 1756946773,
+    "wof:lastmodified": 1756972904,
     "wof:name": "negative: San Francisco International Airport (SFO), parking garage construction",
     "wof:parent_id": 1511946079,
     "wof:placetype": "custom",
@@ -329,5 +329,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

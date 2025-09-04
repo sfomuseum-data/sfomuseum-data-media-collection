@@ -200,6 +200,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
@@ -215,11 +220,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#cd4a4c",
           "name": "Mahogany",
           "reference": "crayola"
@@ -227,18 +227,13 @@
       ],
       "css4": [
         {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -252,12 +247,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#18194f",
+          "name": "#18194f",
+          "reference": "marekm4"
+        },
         {
           "hex": "#c43526",
           "name": "#c43526",
@@ -266,11 +271,6 @@
         {
           "hex": "#ddcfc3",
           "name": "#ddcfc3",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#18194f",
-          "name": "#18194f",
           "reference": "marekm4"
         }
       ]
@@ -309,12 +309,12 @@
     "wof:country": "XX",
     "wof:created": 1578951941,
     "wof:depicts": [
+      85633793,
+      1159283849,
       1360700619,
       1511938921,
       85921881,
-      85688637,
-      85633793,
-      1159283849
+      85688637
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -337,7 +337,7 @@
       }
     ],
     "wof:id": 1527836513,
-    "wof:lastmodified": 1756946779,
+    "wof:lastmodified": 1756972924,
     "wof:name": "timetable: American Airlines, quick reference, San Francisco / Oakland / San Jose",
     "wof:parent_id": 1511938921,
     "wof:placetype": "custom",
@@ -355,5 +355,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

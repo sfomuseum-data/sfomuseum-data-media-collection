@@ -214,11 +214,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#1164b4",
           "name": "Green Blue",
           "reference": "crayola"
@@ -242,22 +237,17 @@
           "hex": "#efdecd",
           "name": "Almond",
           "reference": "crayola"
+        },
+        {
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5f5dc",
-          "name": "beige",
           "reference": "css4"
         },
         {
@@ -273,6 +263,16 @@
         {
           "hex": "#4682b4",
           "name": "steelblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f5f5dc",
+          "name": "beige",
           "reference": "css4"
         }
       ],
@@ -333,12 +333,12 @@
     "wof:country": "XX",
     "wof:created": 1578953421,
     "wof:depicts": [
-      1159289913,
-      1159293593,
-      1159289873,
       1159287567,
       1159284625,
-      1511940845
+      1511940845,
+      1159289913,
+      1159293593,
+      1159289873
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -361,7 +361,7 @@
       }
     ],
     "wof:id": 1527845875,
-    "wof:lastmodified": 1756946784,
+    "wof:lastmodified": 1756972939,
     "wof:name": "timetable: Korean Air",
     "wof:parent_id": 1511940845,
     "wof:placetype": "custom",
@@ -379,5 +379,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

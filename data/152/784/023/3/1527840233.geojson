@@ -194,11 +194,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
-          "reference": "crayola"
-        },
-        {
           "hex": "#757575",
           "name": "Sonic Silver",
           "reference": "crayola"
@@ -209,13 +204,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#a5694f",
+          "name": "Sepia",
           "reference": "crayola"
         },
         {
           "hex": "#95918c",
           "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -238,23 +238,23 @@
       ],
       "marekm4": [
         {
-          "hex": "#965a5d",
-          "name": "#965a5d",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#82817e",
           "name": "#82817e",
           "reference": "marekm4"
         },
         {
-          "hex": "#757574",
-          "name": "#757574",
+          "hex": "#965a5d",
+          "name": "#965a5d",
           "reference": "marekm4"
         },
         {
           "hex": "#9d9c99",
           "name": "#9d9c99",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#757574",
+          "name": "#757574",
           "reference": "marekm4"
         }
       ]
@@ -294,12 +294,12 @@
     "wof:country": "XX",
     "wof:created": 1578952521,
     "wof:depicts": [
+      1511922443,
+      1159293083,
       1159291259,
       1159288779,
       1159293561,
-      1159285415,
-      1511922443,
-      1159293083
+      1159285415
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -322,7 +322,7 @@
       }
     ],
     "wof:id": 1527840233,
-    "wof:lastmodified": 1756946781,
+    "wof:lastmodified": 1756972929,
     "wof:name": "miniature airline bag: United Air Lines",
     "wof:parent_id": 1511922443,
     "wof:placetype": "custom",
@@ -340,5 +340,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

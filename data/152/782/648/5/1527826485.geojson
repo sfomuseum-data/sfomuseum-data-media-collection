@@ -193,16 +193,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
@@ -213,8 +203,18 @@
           "reference": "crayola"
         },
         {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#95918c",
           "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         }
       ],
@@ -222,6 +222,11 @@
         {
           "hex": "#696969",
           "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -238,22 +243,17 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bdbdbd",
-          "name": "#bdbdbd",
+          "hex": "#3b3b3b",
+          "name": "#3b3b3b",
           "reference": "marekm4"
         },
         {
-          "hex": "#3b3b3b",
-          "name": "#3b3b3b",
+          "hex": "#bdbdbd",
+          "name": "#bdbdbd",
           "reference": "marekm4"
         }
       ]
@@ -318,7 +318,7 @@
       }
     ],
     "wof:id": 1527826485,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972906,
     "wof:name": "photograph: San Francisco International Airport (SFO), Pacific Southwest Airlines (PSA) jetway and airplane",
     "wof:parent_id": 1511947525,
     "wof:placetype": "custom",
@@ -336,5 +336,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

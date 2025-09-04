@@ -280,33 +280,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cd4a4c",
-          "name": "Mahogany",
-          "reference": "crayola"
-        },
-        {
           "hex": "#95918c",
           "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
           "reference": "crayola"
         },
         {
@@ -320,6 +295,31 @@
           "reference": "crayola"
         },
         {
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
@@ -327,13 +327,23 @@
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#191970",
+          "name": "midnightblue",
           "reference": "css4"
         },
         {
           "hex": "#bc8f8f",
           "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -347,30 +357,25 @@
           "reference": "css4"
         },
         {
-          "hex": "#a52a2a",
-          "name": "brown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#191970",
-          "name": "midnightblue",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c6c8bc",
-          "name": "#c6c8bc",
+          "hex": "#ba1b1b",
+          "name": "#ba1b1b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#37385b",
+          "name": "#37385b",
           "reference": "marekm4"
         },
         {
@@ -384,18 +389,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#ba1b1b",
-          "name": "#ba1b1b",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#37385b",
-          "name": "#37385b",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#262950",
           "name": "#262950",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#c6c8bc",
+          "name": "#c6c8bc",
           "reference": "marekm4"
         }
       ]
@@ -436,9 +436,9 @@
     "wof:country": "XX",
     "wof:created": 1578950886,
     "wof:depicts": [
+      1511907357,
       1159284991,
-      1159286839,
-      1511907357
+      1159286839
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -461,7 +461,7 @@
       }
     ],
     "wof:id": 1527829745,
-    "wof:lastmodified": 1756946776,
+    "wof:lastmodified": 1756972911,
     "wof:name": "airmail flight cover: Transpacific Air Mail, Suva (Fiji) - Vancouver route",
     "wof:parent_id": 1511907357,
     "wof:placetype": "custom",
@@ -479,5 +479,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

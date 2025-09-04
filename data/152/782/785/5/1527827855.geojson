@@ -198,8 +198,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -213,18 +223,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -232,11 +232,6 @@
         {
           "hex": "#dcdcdc",
           "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -252,6 +247,11 @@
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         }
       ],
@@ -296,13 +296,13 @@
     "wof:country": "US",
     "wof:created": 1578950589,
     "wof:depicts": [
+      1511948891,
+      102527513,
       1477855969,
       1159289873,
       1159293593,
       1159283849,
-      1360700619,
-      1511948891,
-      102527513
+      1360700619
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1527827855,
-    "wof:lastmodified": 1756946775,
+    "wof:lastmodified": 1756972907,
     "wof:name": "negative: San Francisco International Airport (SFO), American Airlines hangar construction",
     "wof:parent_id": 1511948891,
     "wof:placetype": "custom",
@@ -343,5 +343,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

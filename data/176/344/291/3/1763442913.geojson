@@ -215,6 +215,11 @@
           "reference": "crayola"
         },
         {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
           "hex": "#7851a9",
           "name": "Royal Purple",
           "reference": "crayola"
@@ -223,17 +228,12 @@
           "hex": "#c5d0e6",
           "name": "Periwinkle",
           "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -247,22 +247,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#c5cada",
-          "name": "#c5cada",
-          "reference": "marekm4"
-        },
         {
           "hex": "#23263b",
           "name": "#23263b",
@@ -271,6 +266,11 @@
         {
           "hex": "#5c6a96",
           "name": "#5c6a96",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#c5cada",
+          "name": "#c5cada",
           "reference": "marekm4"
         }
       ]
@@ -301,11 +301,11 @@
     "wof:country": "XX",
     "wof:created": 1649404444,
     "wof:depicts": [
-      1511926239,
       1159284485,
       1159292537,
       1159293561,
-      1159291259
+      1159291259,
+      1511926239
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -328,7 +328,7 @@
       }
     ],
     "wof:id": 1763442913,
-    "wof:lastmodified": 1756946830,
+    "wof:lastmodified": 1756972999,
     "wof:name": "slide: Harlequin Air, McDonnell Douglas DC-10 Series 30",
     "wof:parent_id": 1511926239,
     "wof:placetype": "custom",
@@ -345,5 +345,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

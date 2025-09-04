@@ -220,13 +220,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -240,11 +240,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
-          "reference": "crayola"
-        },
-        {
           "hex": "#efcdb8",
           "name": "Desert Sand",
           "reference": "crayola"
@@ -253,19 +248,14 @@
           "hex": "#eceabe",
           "name": "Spring Green",
           "reference": "crayola"
+        },
+        {
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
@@ -277,13 +267,23 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
           "hex": "#f5deb3",
           "name": "wheat",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -294,13 +294,8 @@
       ],
       "marekm4": [
         {
-          "hex": "#cb1917",
-          "name": "#cb1917",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#26466b",
-          "name": "#26466b",
+          "hex": "#ded5be",
+          "name": "#ded5be",
           "reference": "marekm4"
         },
         {
@@ -309,8 +304,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#ded5be",
-          "name": "#ded5be",
+          "hex": "#26466b",
+          "name": "#26466b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#cb1917",
+          "name": "#cb1917",
           "reference": "marekm4"
         }
       ]
@@ -350,12 +350,12 @@
     "wof:country": "US",
     "wof:created": 1578952204,
     "wof:depicts": [
-      1511909123,
-      85921881,
-      85688637,
       85633793,
       1159288779,
-      1159285415
+      1159285415,
+      1511909123,
+      85921881,
+      85688637
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -387,7 +387,7 @@
       }
     ],
     "wof:id": 1527838145,
-    "wof:lastmodified": 1756946780,
+    "wof:lastmodified": 1756972926,
     "wof:name": "timetable: United Air Lines, San Francisco and Oakland",
     "wof:parent_id": 1511909123,
     "wof:placetype": "custom",
@@ -405,5 +405,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

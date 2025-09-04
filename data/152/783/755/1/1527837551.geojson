@@ -223,18 +223,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         },
         {
@@ -243,8 +238,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -253,8 +248,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         }
       ],
@@ -262,16 +262,6 @@
         {
           "hex": "#a0522d",
           "name": "sienna",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#4682b4",
-          "name": "steelblue",
           "reference": "css4"
         },
         {
@@ -285,25 +275,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#b22222",
-          "name": "firebrick",
+          "hex": "#4682b4",
+          "name": "steelblue",
           "reference": "css4"
         },
         {
           "hex": "#778899",
           "name": "lightslategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#bfbec7",
-          "name": "#bfbec7",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b53019",
-          "name": "#b53019",
+          "hex": "#456798",
+          "name": "#456798",
           "reference": "marekm4"
         },
         {
@@ -312,13 +307,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#456798",
-          "name": "#456798",
+          "hex": "#16174a",
+          "name": "#16174a",
           "reference": "marekm4"
         },
         {
-          "hex": "#16174a",
-          "name": "#16174a",
+          "hex": "#b53019",
+          "name": "#b53019",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#bfbec7",
+          "name": "#bfbec7",
           "reference": "marekm4"
         }
       ]
@@ -357,8 +357,8 @@
     "wof:country": "XX",
     "wof:created": 1578952111,
     "wof:depicts": [
-      1159284907,
-      1511939409
+      1511939409,
+      1159284907
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -381,7 +381,7 @@
       }
     ],
     "wof:id": 1527837551,
-    "wof:lastmodified": 1756946780,
+    "wof:lastmodified": 1756972925,
     "wof:name": "timetable: Northwest Airlines",
     "wof:parent_id": 1511939409,
     "wof:placetype": "custom",
@@ -399,5 +399,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

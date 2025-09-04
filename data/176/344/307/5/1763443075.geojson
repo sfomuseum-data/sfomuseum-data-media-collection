@@ -193,13 +193,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -208,13 +213,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
@@ -230,11 +230,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
@@ -242,6 +237,11 @@
         {
           "hex": "#696969",
           "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
@@ -294,11 +294,11 @@
     "wof:country": "US",
     "wof:created": 1649404482,
     "wof:depicts": [
-      1159284261,
       102534365,
       1159291129,
       1159293697,
-      1511926381
+      1511926381,
+      1159284261
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -333,7 +333,7 @@
       }
     ],
     "wof:id": 1763443075,
-    "wof:lastmodified": 1756946830,
+    "wof:lastmodified": 1756972999,
     "wof:name": "slide: Delta Air Lines, Lockheed L-1011 TriStar, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1511926381,
     "wof:placetype": "custom",
@@ -350,5 +350,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
+  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
 }

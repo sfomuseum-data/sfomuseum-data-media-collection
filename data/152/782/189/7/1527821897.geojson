@@ -200,6 +200,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -207,11 +212,6 @@
         {
           "hex": "#000000",
           "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
@@ -225,13 +225,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         }
       ],
@@ -247,6 +247,11 @@
           "reference": "css4"
         },
         {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
@@ -259,11 +264,6 @@
         {
           "hex": "#a9a9a9",
           "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
           "reference": "css4"
         }
       ],
@@ -333,7 +333,7 @@
       }
     ],
     "wof:id": 1527821897,
-    "wof:lastmodified": 1756946772,
+    "wof:lastmodified": 1756972900,
     "wof:name": "negative: San Francisco Airport, storm damage, 1951",
     "wof:parent_id": 1511943819,
     "wof:placetype": "custom",
@@ -351,5 +351,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

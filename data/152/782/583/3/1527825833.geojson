@@ -185,8 +185,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -200,13 +205,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         }
       ],
@@ -234,13 +234,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#b7b7b7",
-          "name": "#b7b7b7",
+          "hex": "#3c3c3c",
+          "name": "#3c3c3c",
           "reference": "marekm4"
         },
         {
-          "hex": "#3c3c3c",
-          "name": "#3c3c3c",
+          "hex": "#b7b7b7",
+          "name": "#b7b7b7",
           "reference": "marekm4"
         }
       ]
@@ -273,14 +273,14 @@
     "wof:country": "US",
     "wof:created": 1578950279,
     "wof:depicts": [
+      85922583,
+      102527513,
+      1159285141,
+      1159288051,
       1511946869,
       1108830801,
       85633793,
-      85688637,
-      85922583,
-      1159285141,
-      102527513,
-      1159288051
+      85688637
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -303,7 +303,7 @@
       }
     ],
     "wof:id": 1527825833,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972905,
     "wof:name": "negative: SFO Helicopter Airlines, downtown San Francisco heliport construction",
     "wof:parent_id": 1511946869,
     "wof:placetype": "custom",
@@ -321,5 +321,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

@@ -179,11 +179,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -194,6 +189,11 @@
           "reference": "crayola"
         },
         {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
           "hex": "#757575",
           "name": "Sonic Silver",
           "reference": "crayola"
@@ -201,8 +201,18 @@
       ],
       "css4": [
         {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
           "hex": "#808080",
           "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -214,27 +224,17 @@
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b8b8b8",
-          "name": "#b8b8b8",
+          "hex": "#464646",
+          "name": "#464646",
           "reference": "marekm4"
         },
         {
-          "hex": "#464646",
-          "name": "#464646",
+          "hex": "#b8b8b8",
+          "name": "#b8b8b8",
           "reference": "marekm4"
         }
       ]
@@ -291,7 +291,7 @@
       }
     ],
     "wof:id": 1527825269,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972904,
     "wof:name": "negative: San Francisco International Airport (SFO), Belford Brown and George Hansen",
     "wof:parent_id": 1511946285,
     "wof:placetype": "custom",
@@ -309,5 +309,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

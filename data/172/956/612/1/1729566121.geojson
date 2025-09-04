@@ -264,31 +264,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
           "hex": "#bab86c",
           "name": "Olive Green",
           "reference": "crayola"
@@ -297,14 +272,34 @@
           "hex": "#cd9575",
           "name": "Antique Brass",
           "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
         {
           "hex": "#bdb76b",
           "name": "darkkhaki",
@@ -321,40 +316,30 @@
           "reference": "css4"
         },
         {
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
+        },
+        {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
         },
         {
-          "hex": "#d2b48c",
-          "name": "tan",
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
+          "hex": "#974a3d",
+          "name": "#974a3d",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#4b4f3a",
           "name": "#4b4f3a",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b09874",
-          "name": "#b09874",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#985042",
-          "name": "#985042",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b6a160",
-          "name": "#b6a160",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#c2ae98",
-          "name": "#c2ae98",
           "reference": "marekm4"
         },
         {
@@ -363,13 +348,28 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#974a3d",
-          "name": "#974a3d",
+          "hex": "#b6a160",
+          "name": "#b6a160",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b09874",
+          "name": "#b09874",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#c2ae98",
+          "name": "#c2ae98",
           "reference": "marekm4"
         },
         {
           "hex": "#bda68f",
           "name": "#bda68f",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#985042",
+          "name": "#985042",
           "reference": "marekm4"
         }
       ]
@@ -410,12 +410,12 @@
     "wof:country": "XX",
     "wof:created": 1607095911,
     "wof:depicts": [
-      1159285393,
-      1159289931,
       1159287531,
       1159293593,
       1159289873,
-      1729564143
+      1729564143,
+      1159285393,
+      1159289931
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -438,7 +438,7 @@
       }
     ],
     "wof:id": 1729566121,
-    "wof:lastmodified": 1756946793,
+    "wof:lastmodified": 1756972953,
     "wof:name": "safety information card: TWA (Trans World Airlines), Boeing 747SP",
     "wof:parent_id": 1729564143,
     "wof:placetype": "custom",
@@ -456,5 +456,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

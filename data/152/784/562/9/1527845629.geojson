@@ -205,8 +205,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cc6666",
+          "name": "Fuzzy Wuzzy",
           "reference": "crayola"
         },
         {
@@ -220,35 +225,35 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cc6666",
-          "name": "Fuzzy Wuzzy",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
-        },
         {
           "hex": "#dc143c",
           "name": "crimson",
           "reference": "css4"
         },
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
+          "hex": "#191970",
+          "name": "midnightblue",
           "reference": "css4"
         },
         {
-          "hex": "#191970",
-          "name": "midnightblue",
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -260,17 +265,12 @@
           "hex": "#ff0000",
           "name": "red",
           "reference": "css4"
-        },
-        {
-          "hex": "#cd5c5c",
-          "name": "indianred",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#dd2010",
-          "name": "#dd2010",
+          "hex": "#dfd8cf",
+          "name": "#dfd8cf",
           "reference": "marekm4"
         },
         {
@@ -279,8 +279,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#dfd8cf",
-          "name": "#dfd8cf",
+          "hex": "#dd2010",
+          "name": "#dd2010",
           "reference": "marekm4"
         }
       ]
@@ -344,7 +344,7 @@
       }
     ],
     "wof:id": 1527845629,
-    "wof:lastmodified": 1756946784,
+    "wof:lastmodified": 1756972938,
     "wof:name": "timetable: JAL (Japan Air Lines), international",
     "wof:parent_id": 1511939271,
     "wof:placetype": "custom",
@@ -362,5 +362,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

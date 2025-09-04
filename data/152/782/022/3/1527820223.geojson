@@ -290,33 +290,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
+        },
+        {
           "hex": "#cdc5c2",
           "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
           "reference": "crayola"
         },
         {
@@ -325,30 +305,60 @@
           "reference": "crayola"
         },
         {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#708090",
-          "name": "slategrey",
-          "reference": "css4"
-        },
         {
           "hex": "#a52a2a",
           "name": "brown",
           "reference": "css4"
         },
         {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#8b4513",
           "name": "saddlebrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         },
         {
@@ -362,28 +372,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#483d8b",
           "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -393,6 +393,16 @@
         }
       ],
       "marekm4": [
+        {
+          "hex": "#444b5f",
+          "name": "#444b5f",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#dad6c4",
+          "name": "#dad6c4",
+          "reference": "marekm4"
+        },
         {
           "hex": "#b82719",
           "name": "#b82719",
@@ -411,16 +421,6 @@
         {
           "hex": "#3d3f60",
           "name": "#3d3f60",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#dad6c4",
-          "name": "#dad6c4",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#444b5f",
-          "name": "#444b5f",
           "reference": "marekm4"
         },
         {
@@ -467,9 +467,9 @@
     "wof:country": "US",
     "wof:created": 1578949388,
     "wof:depicts": [
+      1511909301,
       1159286839,
-      1159284989,
-      1511909301
+      1159284989
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -501,7 +501,7 @@
       }
     ],
     "wof:id": 1527820223,
-    "wof:lastmodified": 1756946771,
+    "wof:lastmodified": 1756972897,
     "wof:name": "airmail flight cover: Pan American World Airways, first airmail flight, Djakarta - San Francisco route",
     "wof:parent_id": 1511909301,
     "wof:placetype": "custom",
@@ -519,5 +519,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

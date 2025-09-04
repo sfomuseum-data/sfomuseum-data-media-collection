@@ -295,28 +295,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a5694f",
+          "name": "Sepia",
           "reference": "crayola"
         },
         {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#a2add0",
-          "name": "Wild Blue Yonder",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
           "reference": "crayola"
         },
         {
@@ -330,8 +320,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6699cc",
+          "name": "Blue Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
           "reference": "crayola"
         },
         {
@@ -340,57 +340,12 @@
           "reference": "crayola"
         },
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
-          "reference": "css4"
-        },
-        {
-          "hex": "#4682b4",
-          "name": "steelblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#191970",
-          "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
         {
           "hex": "#dcdcdc",
           "name": "gainsboro",
@@ -400,17 +355,72 @@
           "hex": "#5f9ea0",
           "name": "cadetblue",
           "reference": "css4"
+        },
+        {
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faebd7",
+          "name": "antiquewhite",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#14203f",
-          "name": "#14203f",
+          "hex": "#97615d",
+          "name": "#97615d",
           "reference": "marekm4"
         },
         {
-          "hex": "#d9dedb",
-          "name": "#d9dedb",
+          "hex": "#8f593b",
+          "name": "#8f593b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#3d8fb7",
+          "name": "#3d8fb7",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#14203f",
+          "name": "#14203f",
           "reference": "marekm4"
         },
         {
@@ -424,18 +434,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#97615d",
-          "name": "#97615d",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#3d8fb7",
-          "name": "#3d8fb7",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#8f593b",
-          "name": "#8f593b",
+          "hex": "#d9dedb",
+          "name": "#d9dedb",
           "reference": "marekm4"
         }
       ]
@@ -498,7 +498,7 @@
       }
     ],
     "wof:id": 1762708245,
-    "wof:lastmodified": 1756946805,
+    "wof:lastmodified": 1756973030,
     "wof:name": "postcard: West Coast Airlines, Fairchild F-27, San Francisco",
     "wof:parent_id": 1762691491,
     "wof:placetype": "custom",
@@ -515,5 +515,5 @@
     -122.385834,
     37.616611
   ],
-  "geometry": {"type":"Polygon","coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]]}
+  "geometry": {"coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]],"type":"Polygon"}
 }

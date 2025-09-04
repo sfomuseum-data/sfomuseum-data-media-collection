@@ -188,8 +188,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -203,13 +208,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         }
       ],
@@ -217,6 +217,11 @@
         {
           "hex": "#696969",
           "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -228,22 +233,17 @@
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#82867d",
-          "name": "#82867d",
+          "hex": "#7d8279",
+          "name": "#7d8279",
           "reference": "marekm4"
         },
         {
-          "hex": "#7d8279",
-          "name": "#7d8279",
+          "hex": "#82867d",
+          "name": "#82867d",
           "reference": "marekm4"
         },
         {
@@ -329,7 +329,7 @@
       }
     ],
     "wof:id": 1763441853,
-    "wof:lastmodified": 1756946830,
+    "wof:lastmodified": 1756972997,
     "wof:name": "photograph: San Francisco International Airport (SFO), fuel service system",
     "wof:parent_id": 1511957603,
     "wof:placetype": "custom",
@@ -346,5 +346,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

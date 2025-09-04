@@ -215,28 +215,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
+        },
+        {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#c46210",
-          "name": "Alloy Orange",
           "reference": "crayola"
         },
         {
@@ -245,15 +230,35 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#000000",
+          "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#b22222",
-          "name": "firebrick",
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#ff7f50",
+          "name": "coral",
           "reference": "css4"
         },
         {
@@ -272,20 +277,15 @@
           "reference": "css4"
         },
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#ff7f50",
-          "name": "coral",
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#ee8543",
-          "name": "#ee8543",
+          "hex": "#e7e0db",
+          "name": "#e7e0db",
           "reference": "marekm4"
         },
         {
@@ -294,13 +294,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#e44418",
-          "name": "#e44418",
+          "hex": "#ee8543",
+          "name": "#ee8543",
           "reference": "marekm4"
         },
         {
-          "hex": "#e7e0db",
-          "name": "#e7e0db",
+          "hex": "#e44418",
+          "name": "#e44418",
           "reference": "marekm4"
         }
       ]
@@ -339,9 +339,9 @@
     "wof:country": "XX",
     "wof:created": 1578952470,
     "wof:depicts": [
-      1159284505,
       1159287275,
-      1511933627
+      1511933627,
+      1159284505
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -364,7 +364,7 @@
       }
     ],
     "wof:id": 1527839893,
-    "wof:lastmodified": 1756946781,
+    "wof:lastmodified": 1756972929,
     "wof:name": "timetable: Horizon Air",
     "wof:parent_id": 1511933627,
     "wof:placetype": "custom",
@@ -382,5 +382,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

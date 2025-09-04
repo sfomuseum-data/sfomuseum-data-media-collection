@@ -186,16 +186,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -204,14 +194,19 @@
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
         {
           "hex": "#c0c0c0",
           "name": "silver",
@@ -223,6 +218,11 @@
           "reference": "css4"
         },
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
@@ -230,13 +230,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#bcbcbc",
-          "name": "#bcbcbc",
+          "hex": "#454545",
+          "name": "#454545",
           "reference": "marekm4"
         },
         {
-          "hex": "#454545",
-          "name": "#454545",
+          "hex": "#bcbcbc",
+          "name": "#bcbcbc",
           "reference": "marekm4"
         }
       ]
@@ -275,12 +275,12 @@
     "wof:country": "US",
     "wof:created": 1578950320,
     "wof:depicts": [
+      102527513,
+      1159284989,
       1159289651,
       1159293593,
       1511943317,
-      1159286839,
-      102527513,
-      1159284989
+      1159286839
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -303,7 +303,7 @@
       }
     ],
     "wof:id": 1527826107,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972905,
     "wof:name": "negative: San Francisco International Airport (SFO), dedication of Terminal Building",
     "wof:parent_id": 1511943317,
     "wof:placetype": "custom",
@@ -321,5 +321,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

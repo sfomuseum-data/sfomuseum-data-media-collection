@@ -235,8 +235,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#edd19c",
+          "name": "Maize",
+          "reference": "crayola"
+        },
+        {
           "hex": "#d68a59",
           "name": "Raw Sienna",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#319177",
+          "name": "Illuminating Emerald",
           "reference": "crayola"
         },
         {
@@ -260,18 +270,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#edd19c",
-          "name": "Maize",
-          "reference": "crayola"
-        },
-        {
           "hex": "#c46210",
           "name": "Alloy Orange",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#319177",
-          "name": "Illuminating Emerald",
           "reference": "crayola"
         }
       ],
@@ -282,13 +282,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#008080",
-          "name": "teal",
+          "hex": "#f5deb3",
+          "name": "wheat",
           "reference": "css4"
         },
         {
-          "hex": "#f5deb3",
-          "name": "wheat",
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
           "reference": "css4"
         },
         {
@@ -302,27 +302,22 @@
           "reference": "css4"
         },
         {
+          "hex": "#cd853f",
+          "name": "peru",
+          "reference": "css4"
+        },
+        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
         },
         {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
-          "reference": "css4"
-        },
-        {
-          "hex": "#cd853f",
-          "name": "peru",
+          "hex": "#008080",
+          "name": "teal",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#b04929",
-          "name": "#b04929",
-          "reference": "marekm4"
-        },
         {
           "hex": "#2e7987",
           "name": "#2e7987",
@@ -334,13 +329,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#b29954",
-          "name": "#b29954",
+          "hex": "#233119",
+          "name": "#233119",
           "reference": "marekm4"
         },
         {
-          "hex": "#233119",
-          "name": "#233119",
+          "hex": "#b04929",
+          "name": "#b04929",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#b29954",
+          "name": "#b29954",
           "reference": "marekm4"
         }
       ]
@@ -379,9 +379,9 @@
     "wof:country": "XX",
     "wof:created": 1578951254,
     "wof:depicts": [
-      1159288851,
       1511940227,
-      1159283597
+      1159283597,
+      1159288851
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -404,7 +404,7 @@
       }
     ],
     "wof:id": 1527832099,
-    "wof:lastmodified": 1756946776,
+    "wof:lastmodified": 1756972917,
     "wof:name": "timetable: Air Canada",
     "wof:parent_id": 1511940227,
     "wof:placetype": "custom",
@@ -422,5 +422,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

@@ -220,18 +220,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#714b23",
+          "name": "Raw Umber",
           "reference": "crayola"
         },
         {
@@ -240,13 +235,18 @@
           "reference": "crayola"
         },
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
         },
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -257,18 +257,13 @@
       ],
       "css4": [
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
         },
         {
-          "hex": "#a0522d",
-          "name": "sienna",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -277,8 +272,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -287,20 +282,25 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#9f8a71",
-          "name": "#9f8a71",
+          "hex": "#c7bfb1",
+          "name": "#c7bfb1",
           "reference": "marekm4"
         },
         {
-          "hex": "#4c3832",
-          "name": "#4c3832",
+          "hex": "#9f8a71",
+          "name": "#9f8a71",
           "reference": "marekm4"
         },
         {
@@ -309,8 +309,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#c7bfb1",
-          "name": "#c7bfb1",
+          "hex": "#4c3832",
+          "name": "#4c3832",
           "reference": "marekm4"
         }
       ]
@@ -341,13 +341,13 @@
     "wof:country": "US",
     "wof:created": 1649404872,
     "wof:depicts": [
-      1159284973,
-      102527513,
-      1159286629,
       1762760675,
       1159289759,
       1159291223,
-      1159284913
+      1159284913,
+      1159284973,
+      102527513,
+      1159286629
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -391,7 +391,7 @@
       }
     ],
     "wof:id": 1763444743,
-    "wof:lastmodified": 1756946831,
+    "wof:lastmodified": 1756973002,
     "wof:name": "photograph: San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760675,
     "wof:placetype": "custom",
@@ -408,5 +408,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

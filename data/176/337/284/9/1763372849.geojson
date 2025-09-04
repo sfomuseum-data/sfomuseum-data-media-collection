@@ -212,11 +212,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
           "hex": "#757575",
           "name": "Sonic Silver",
           "reference": "crayola"
@@ -229,6 +224,11 @@
         {
           "hex": "#979aaa",
           "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         }
       ],
@@ -244,17 +244,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#524e4c",
+          "name": "#524e4c",
+          "reference": "marekm4"
+        },
         {
           "hex": "#534f4d",
           "name": "#534f4d",
@@ -263,11 +268,6 @@
         {
           "hex": "#9c9a9a",
           "name": "#9c9a9a",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#524e4c",
-          "name": "#524e4c",
           "reference": "marekm4"
         },
         {
@@ -308,9 +308,9 @@
     "wof:country": "XX",
     "wof:created": 1648626214,
     "wof:depicts": [
+      1159287531,
       1511927833,
-      1159285395,
-      1159287531
+      1159285395
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -332,7 +332,7 @@
       }
     ],
     "wof:id": 1763372849,
-    "wof:lastmodified": 1756946827,
+    "wof:lastmodified": 1756972981,
     "wof:name": "spoon: Transcontinental \u0026 Western Air (TWA)",
     "wof:parent_id": 1511927833,
     "wof:placetype": "custom",
@@ -349,5 +349,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

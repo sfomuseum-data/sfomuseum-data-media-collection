@@ -204,18 +204,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
           "hex": "#ff2b2b",
           "name": "Orange Red",
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
           "reference": "crayola"
         },
         {
-          "hex": "#fddde6",
-          "name": "Piggy Pink",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -227,14 +232,14 @@
           "hex": "#6e5160",
           "name": "Eggplant",
           "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#ffe4e1",
           "name": "mistyrose",
@@ -246,13 +251,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#dc143c",
-          "name": "crimson",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#faebd7",
+          "name": "antiquewhite",
           "reference": "css4"
         },
         {
@@ -261,13 +261,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
+          "hex": "#dc143c",
+          "name": "crimson",
           "reference": "css4"
         }
       ],
@@ -356,7 +356,7 @@
       }
     ],
     "wof:id": 1527829073,
-    "wof:lastmodified": 1756946775,
+    "wof:lastmodified": 1756972909,
     "wof:name": "airmail flight cover: United States Air Mail, first airmail flight, FAM-19, Honolulu - Noumea (New Caledonia) route",
     "wof:parent_id": 1511907225,
     "wof:placetype": "custom",
@@ -374,5 +374,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

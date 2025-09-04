@@ -215,8 +215,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ffffff",
-          "name": "White",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -225,18 +225,13 @@
           "reference": "crayola"
         },
         {
+          "hex": "#ffffff",
+          "name": "White",
+          "reference": "crayola"
+        },
+        {
           "hex": "#fddde6",
           "name": "Piggy Pink",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
           "reference": "crayola"
         },
         {
@@ -248,9 +243,24 @@
           "hex": "#8a795d",
           "name": "Shadow",
           "reference": "crayola"
+        },
+        {
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
+          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#faf0e6",
           "name": "linen",
@@ -267,27 +277,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#fdf5e6",
-          "name": "oldlace",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
         },
         {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#fdf5e6",
+          "name": "oldlace",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#24221e",
+          "name": "#24221e",
+          "reference": "marekm4"
+        },
         {
           "hex": "#da0f0e",
           "name": "#da0f0e",
@@ -296,11 +301,6 @@
         {
           "hex": "#f9f3e5",
           "name": "#f9f3e5",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#24221e",
-          "name": "#24221e",
           "reference": "marekm4"
         }
       ]
@@ -364,7 +364,7 @@
       }
     ],
     "wof:id": 1527841641,
-    "wof:lastmodified": 1756946782,
+    "wof:lastmodified": 1756972932,
     "wof:name": "timetable: Pacific Southwest Airlines (PSA), quick reference Palm Springs",
     "wof:parent_id": 1511950615,
     "wof:placetype": "custom",
@@ -382,5 +382,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

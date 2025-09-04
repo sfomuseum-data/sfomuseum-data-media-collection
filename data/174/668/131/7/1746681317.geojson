@@ -232,8 +232,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a57164",
+          "name": "Blast Off Bronze",
           "reference": "crayola"
         },
         {
@@ -247,32 +262,32 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
           "hex": "#9f8170",
           "name": "Beaver",
           "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#a57164",
-          "name": "Blast Off Bronze",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
         {
           "hex": "#bc8f8f",
           "name": "rosybrown",
@@ -281,11 +296,6 @@
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
           "reference": "css4"
         },
         {
@@ -299,23 +309,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#cd853f",
-          "name": "peru",
-          "reference": "css4"
-        },
-        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
           "reference": "css4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#cd853f",
+          "name": "peru",
           "reference": "css4"
         }
       ],
@@ -326,13 +326,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#a98c6c",
-          "name": "#a98c6c",
+          "hex": "#383530",
+          "name": "#383530",
           "reference": "marekm4"
         },
         {
-          "hex": "#383530",
-          "name": "#383530",
+          "hex": "#a98c6c",
+          "name": "#a98c6c",
           "reference": "marekm4"
         },
         {
@@ -397,7 +397,7 @@
       }
     ],
     "wof:id": 1746681317,
-    "wof:lastmodified": 1756946795,
+    "wof:lastmodified": 1756973069,
     "wof:name": "The story of gliding",
     "wof:parent_id": 1511917149,
     "wof:placetype": "custom",
@@ -414,5 +414,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

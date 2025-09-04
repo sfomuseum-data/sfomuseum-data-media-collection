@@ -174,6 +174,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -187,14 +192,14 @@
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#696969",
           "name": "dimgrey",
@@ -203,11 +208,6 @@
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -257,8 +257,8 @@
     "wof:country": "US",
     "wof:created": 1578950307,
     "wof:depicts": [
-      1511947059,
-      102527513
+      102527513,
+      1511947059
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -281,7 +281,7 @@
       }
     ],
     "wof:id": 1527826025,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972905,
     "wof:name": "negative: San Francisco International Airport (SFO), construction, damaged equipment",
     "wof:parent_id": 1511947059,
     "wof:placetype": "custom",
@@ -299,5 +299,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

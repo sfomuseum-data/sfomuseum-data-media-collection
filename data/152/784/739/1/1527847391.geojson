@@ -213,23 +213,23 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
           "hex": "#cdc5c2",
           "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
           "reference": "crayola"
         }
       ],
@@ -240,8 +240,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#b22222",
           "name": "firebrick",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -253,29 +263,9 @@
           "hex": "#708090",
           "name": "slategrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#bc1310",
-          "name": "#bc1310",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#3a3c54",
-          "name": "#3a3c54",
-          "reference": "marekm4"
-        },
         {
           "hex": "#cec6b7",
           "name": "#cec6b7",
@@ -284,6 +274,16 @@
         {
           "hex": "#666f8b",
           "name": "#666f8b",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#bc1310",
+          "name": "#bc1310",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#3a3c54",
+          "name": "#3a3c54",
           "reference": "marekm4"
         }
       ]
@@ -322,11 +322,11 @@
     "wof:country": "XX",
     "wof:created": 1578953666,
     "wof:depicts": [
+      1159288671,
+      1159293777,
       1159291963,
       1511928003,
-      1159284093,
-      1159288671,
-      1159293777
+      1159284093
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -349,7 +349,7 @@
       }
     ],
     "wof:id": 1527847391,
-    "wof:lastmodified": 1756946785,
+    "wof:lastmodified": 1756972941,
     "wof:name": "timetable: Capital Airlines",
     "wof:parent_id": 1511928003,
     "wof:placetype": "custom",
@@ -367,5 +367,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

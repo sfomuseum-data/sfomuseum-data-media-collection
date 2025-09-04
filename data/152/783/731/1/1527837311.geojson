@@ -210,23 +210,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
           "reference": "crayola"
         },
         {
@@ -235,25 +230,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#d68a59",
-          "name": "Raw Sienna",
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a5694f",
+          "name": "Sepia",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#cd853f",
-          "name": "peru",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
           "hex": "#c0c0c0",
           "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#cd853f",
+          "name": "peru",
           "reference": "css4"
         },
         {
@@ -265,22 +260,17 @@
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
           "hex": "#455996",
           "name": "#455996",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#ca863b",
-          "name": "#ca863b",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#c1bec0",
-          "name": "#c1bec0",
           "reference": "marekm4"
         },
         {
@@ -291,6 +281,16 @@
         {
           "hex": "#21242f",
           "name": "#21242f",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#c1bec0",
+          "name": "#c1bec0",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#ca863b",
+          "name": "#ca863b",
           "reference": "marekm4"
         }
       ]
@@ -329,9 +329,9 @@
     "wof:country": "XX",
     "wof:created": 1578952073,
     "wof:depicts": [
-      1511951097,
       1159288343,
-      1159283927
+      1159283927,
+      1511951097
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -354,7 +354,7 @@
       }
     ],
     "wof:id": 1527837311,
-    "wof:lastmodified": 1756946779,
+    "wof:lastmodified": 1756972925,
     "wof:name": "timetable: American Trans Air",
     "wof:parent_id": 1511951097,
     "wof:placetype": "custom",
@@ -372,5 +372,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

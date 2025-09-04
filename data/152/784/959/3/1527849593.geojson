@@ -220,6 +220,16 @@
           "reference": "crayola"
         },
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
           "hex": "#6699cc",
           "name": "Blue Gray",
           "reference": "crayola"
@@ -233,42 +243,12 @@
           "hex": "#2e5894",
           "name": "B'dazzled Blue",
           "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#191970",
           "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -277,8 +257,28 @@
           "reference": "css4"
         },
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#c0c0c0",
           "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         }
       ],
@@ -289,11 +289,6 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#263e61",
-          "name": "#263e61",
-          "reference": "marekm4"
-        },
-        {
           "hex": "#bbb9b7",
           "name": "#bbb9b7",
           "reference": "marekm4"
@@ -301,6 +296,11 @@
         {
           "hex": "#6888a7",
           "name": "#6888a7",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#263e61",
+          "name": "#263e61",
           "reference": "marekm4"
         }
       ]
@@ -339,9 +339,9 @@
     "wof:country": "XX",
     "wof:created": 1578954047,
     "wof:depicts": [
-      1159287361,
       1511928123,
-      1159285067
+      1159285067,
+      1159287361
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -364,7 +364,7 @@
       }
     ],
     "wof:id": 1527849593,
-    "wof:lastmodified": 1756946787,
+    "wof:lastmodified": 1756972946,
     "wof:name": "timetable: Republic Airlines",
     "wof:parent_id": 1511928123,
     "wof:placetype": "custom",
@@ -382,5 +382,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

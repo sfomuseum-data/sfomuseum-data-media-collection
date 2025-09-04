@@ -192,6 +192,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
@@ -202,11 +207,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
           "reference": "crayola"
@@ -214,18 +214,13 @@
       ],
       "css4": [
         {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
           "hex": "#dcdcdc",
           "name": "gainsboro",
           "reference": "css4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -234,8 +229,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
           "reference": "css4"
         }
       ],
@@ -291,11 +291,11 @@
     "wof:country": "XX",
     "wof:created": 1578952551,
     "wof:depicts": [
-      1159288779,
-      1159285423,
       1511928409,
       1159285413,
-      1159285417
+      1159285417,
+      1159288779,
+      1159285423
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -318,7 +318,7 @@
       }
     ],
     "wof:id": 1527840435,
-    "wof:lastmodified": 1756946781,
+    "wof:lastmodified": 1756972930,
     "wof:name": "timetable: United Airlines",
     "wof:parent_id": 1511928409,
     "wof:placetype": "custom",
@@ -336,5 +336,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

@@ -286,8 +286,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -296,18 +301,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#85754e",
-          "name": "Gold Fusion",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -321,13 +316,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#85754e",
+          "name": "Gold Fusion",
           "reference": "crayola"
         }
       ],
@@ -338,23 +338,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
-          "reference": "css4"
-        },
-        {
           "hex": "#bdb76b",
           "name": "darkkhaki",
           "reference": "css4"
         },
         {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#faebd7",
+          "name": "antiquewhite",
           "reference": "css4"
         },
         {
@@ -363,13 +353,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#faf0e6",
-          "name": "linen",
+          "hex": "#708090",
+          "name": "slategrey",
           "reference": "css4"
         },
         {
-          "hex": "#708090",
-          "name": "slategrey",
+          "hex": "#faf0e6",
+          "name": "linen",
           "reference": "css4"
         },
         {
@@ -383,20 +373,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#6c8c91",
-          "name": "#6c8c91",
+          "hex": "#4c4649",
+          "name": "#4c4649",
           "reference": "marekm4"
         },
         {
-          "hex": "#f5e9d7",
-          "name": "#f5e9d7",
+          "hex": "#6c8c91",
+          "name": "#6c8c91",
           "reference": "marekm4"
         },
         {
@@ -405,18 +405,18 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#4c4649",
-          "name": "#4c4649",
+          "hex": "#b99a66",
+          "name": "#b99a66",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#f5e9d7",
+          "name": "#f5e9d7",
           "reference": "marekm4"
         },
         {
           "hex": "#465d96",
           "name": "#465d96",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b99a66",
-          "name": "#b99a66",
           "reference": "marekm4"
         }
       ]
@@ -483,7 +483,7 @@
       }
     ],
     "wof:id": 1527833383,
-    "wof:lastmodified": 1756946777,
+    "wof:lastmodified": 1756972919,
     "wof:name": "airmail flight cover: Charles Lindbergh, 50th Anniversary",
     "wof:parent_id": 1511953171,
     "wof:placetype": "custom",
@@ -501,5 +501,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

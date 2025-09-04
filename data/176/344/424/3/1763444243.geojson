@@ -235,28 +235,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#a2add0",
-          "name": "Wild Blue Yonder",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#7366bd",
           "name": "Blue Violet",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a2add0",
+          "name": "Wild Blue Yonder",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         },
         {
@@ -268,27 +263,17 @@
           "hex": "#926eae",
           "name": "Violet (Purple)",
           "reference": "crayola"
+        },
+        {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#87cefa",
-          "name": "lightskyblue",
-          "reference": "css4"
-        },
-        {
           "hex": "#6495ed",
           "name": "cornflowerblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#6a5acd",
-          "name": "slateblue",
           "reference": "css4"
         },
         {
@@ -297,8 +282,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#708090",
-          "name": "slategrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -307,12 +292,32 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#708090",
+          "name": "slategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#87cefa",
+          "name": "lightskyblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#6a5acd",
+          "name": "slateblue",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#6071c4",
+          "name": "#6071c4",
+          "reference": "marekm4"
+        },
         {
           "hex": "#9aa8f1",
           "name": "#9aa8f1",
@@ -326,11 +331,6 @@
         {
           "hex": "#41374a",
           "name": "#41374a",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#6071c4",
-          "name": "#6071c4",
           "reference": "marekm4"
         },
         {
@@ -376,13 +376,13 @@
     "wof:country": "US",
     "wof:created": 1649404758,
     "wof:depicts": [
-      1159293593,
-      1159289949,
-      1762761323,
       1159285413,
       102534365,
       1159288779,
-      1159289953
+      1159289953,
+      1159293593,
+      1159289949,
+      1762761323
     ],
     "wof:geomhash": "77a82701a46db2e186f0b44b621d9ccd",
     "wof:hierarchy": [
@@ -417,7 +417,7 @@
       }
     ],
     "wof:id": 1763444243,
-    "wof:lastmodified": 1756946831,
+    "wof:lastmodified": 1756973001,
     "wof:name": "slide: United Airlines, Boeing 767-200, John F. Kennedy International Airport (JFK)",
     "wof:parent_id": 1762761323,
     "wof:placetype": "custom",
@@ -434,5 +434,5 @@
     -73.787845,
     40.643286
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-73.787845,40.643286]]}
+  "geometry": {"coordinates":[[-73.787845,40.643286]],"type":"MultiPoint"}
 }

@@ -185,16 +185,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
           "hex": "#95918c",
           "name": "Gray",
           "reference": "crayola"
@@ -203,12 +193,22 @@
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -217,30 +217,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
         },
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
+          "hex": "#778899",
+          "name": "lightslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#2f2f2f",
-          "name": "#2f2f2f",
+          "hex": "#d3d3d3",
+          "name": "#d3d3d3",
           "reference": "marekm4"
         },
         {
-          "hex": "#d3d3d3",
-          "name": "#d3d3d3",
+          "hex": "#2f2f2f",
+          "name": "#2f2f2f",
           "reference": "marekm4"
         }
       ]
@@ -273,15 +273,15 @@
     "wof:country": "US",
     "wof:created": 1578950337,
     "wof:depicts": [
-      85688637,
       1159288051,
+      1108830801,
+      1511947253,
+      102527513,
+      85688637,
       1159285141,
       1159291711,
       85633793,
-      1108830801,
-      85922583,
-      1511947253,
-      102527513
+      85922583
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -304,7 +304,7 @@
       }
     ],
     "wof:id": 1527826225,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972906,
     "wof:name": "negative: SFO Helicopter Airlines, downtown San Francisco heliport",
     "wof:parent_id": 1511947253,
     "wof:placetype": "custom",
@@ -322,5 +322,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

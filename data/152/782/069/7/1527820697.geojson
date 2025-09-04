@@ -210,11 +210,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
@@ -225,8 +220,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#efdecd",
-          "name": "Almond",
+          "hex": "#ea7e5d",
+          "name": "Burnt Sienna",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -235,8 +235,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ea7e5d",
-          "name": "Burnt Sienna",
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         }
       ],
@@ -247,23 +247,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
           "hex": "#fa8072",
           "name": "salmon",
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#ff4500",
           "name": "orangered",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -275,14 +270,14 @@
           "hex": "#a52a2a",
           "name": "brown",
           "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#f3430b",
-          "name": "#f3430b",
-          "reference": "marekm4"
-        },
         {
           "hex": "#e7e6db",
           "name": "#e7e6db",
@@ -291,6 +286,11 @@
         {
           "hex": "#11133c",
           "name": "#11133c",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#f3430b",
+          "name": "#f3430b",
           "reference": "marekm4"
         }
       ]
@@ -330,9 +330,9 @@
     "wof:country": "US",
     "wof:created": 1578949460,
     "wof:depicts": [
+      1159286839,
       1159284991,
-      1511930873,
-      1159286839
+      1511930873
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -364,7 +364,7 @@
       }
     ],
     "wof:id": 1527820697,
-    "wof:lastmodified": 1756946772,
+    "wof:lastmodified": 1756972898,
     "wof:name": "ticket jacket: Pan American Airways System",
     "wof:parent_id": 1511930873,
     "wof:placetype": "custom",
@@ -382,5 +382,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

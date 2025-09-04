@@ -195,16 +195,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#714b23",
-          "name": "Raw Umber",
-          "reference": "crayola"
-        },
-        {
           "hex": "#9c2542",
           "name": "Big Dip O' Ruby",
           "reference": "crayola"
@@ -215,6 +205,16 @@
           "reference": "crayola"
         },
         {
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -222,18 +222,13 @@
       ],
       "css4": [
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#f5deb3",
           "name": "wheat",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
-          "hex": "#8b4513",
-          "name": "saddlebrown",
           "reference": "css4"
         },
         {
@@ -242,8 +237,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#8b4513",
+          "name": "saddlebrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         }
       ],
@@ -300,9 +300,9 @@
     "wof:country": "US",
     "wof:created": 1578951260,
     "wof:depicts": [
-      1511922947,
       1159283597,
-      1159288851
+      1159288851,
+      1511922947
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -334,7 +334,7 @@
       }
     ],
     "wof:id": 1527832141,
-    "wof:lastmodified": 1756946776,
+    "wof:lastmodified": 1756972917,
     "wof:name": "timetable: Air Canada, North America",
     "wof:parent_id": 1511922947,
     "wof:placetype": "custom",
@@ -352,5 +352,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

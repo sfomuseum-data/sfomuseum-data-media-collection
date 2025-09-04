@@ -210,6 +210,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -220,27 +225,42 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#deaa88",
           "name": "Tumbleweed",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
           "reference": "crayola"
         },
         {
           "hex": "#ffae42",
           "name": "Yellow Orange",
           "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
         {
           "hex": "#daa520",
           "name": "goldenrod",
@@ -255,37 +275,17 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
-        },
-        {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#d3b010",
-          "name": "#d3b010",
+          "hex": "#1f1c2a",
+          "name": "#1f1c2a",
           "reference": "marekm4"
         },
         {
-          "hex": "#1f1c2a",
-          "name": "#1f1c2a",
+          "hex": "#d3b010",
+          "name": "#d3b010",
           "reference": "marekm4"
         },
         {
@@ -329,9 +329,9 @@
     "wof:country": "XX",
     "wof:created": 1578952455,
     "wof:depicts": [
-      1159284507,
       1159288859,
-      1511936569
+      1511936569,
+      1159284507
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -354,7 +354,7 @@
       }
     ],
     "wof:id": 1527839789,
-    "wof:lastmodified": 1756946781,
+    "wof:lastmodified": 1756972929,
     "wof:name": "timetable: Hughes Airwest",
     "wof:parent_id": 1511936569,
     "wof:placetype": "custom",
@@ -372,5 +372,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

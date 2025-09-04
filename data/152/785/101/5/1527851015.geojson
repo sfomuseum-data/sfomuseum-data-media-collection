@@ -187,8 +187,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
@@ -197,13 +202,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         }
       ],
@@ -231,13 +231,8 @@
       ],
       "marekm4": [
         {
-          "hex": "#82817e",
-          "name": "#82817e",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#807f7d",
-          "name": "#807f7d",
+          "hex": "#6d6b6b",
+          "name": "#6d6b6b",
           "reference": "marekm4"
         },
         {
@@ -246,8 +241,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#6d6b6b",
-          "name": "#6d6b6b",
+          "hex": "#82817e",
+          "name": "#82817e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#807f7d",
+          "name": "#807f7d",
           "reference": "marekm4"
         }
       ]
@@ -280,9 +280,9 @@
     "wof:country": "XX",
     "wof:created": 1578954287,
     "wof:depicts": [
-      1511922607,
       1159284711,
-      1159288215
+      1159288215,
+      1511922607
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -305,7 +305,7 @@
       }
     ],
     "wof:id": 1527851015,
-    "wof:lastmodified": 1756946788,
+    "wof:lastmodified": 1756972958,
     "wof:name": "soup bowl: Lufthansa German Airlines",
     "wof:parent_id": 1511922607,
     "wof:placetype": "custom",
@@ -323,5 +323,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

@@ -181,13 +181,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -203,16 +203,6 @@
       ],
       "css4": [
         {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#808080",
           "name": "grey",
           "reference": "css4"
@@ -221,14 +211,19 @@
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#5b5026",
-          "name": "#5b5026",
-          "reference": "marekm4"
-        },
         {
           "hex": "#877749",
           "name": "#877749",
@@ -242,6 +237,11 @@
         {
           "hex": "#d6ceb5",
           "name": "#d6ceb5",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#5b5026",
+          "name": "#5b5026",
           "reference": "marekm4"
         }
       ]
@@ -274,10 +274,10 @@
     "wof:country": "XX",
     "wof:created": 1578955050,
     "wof:depicts": [
-      85633793,
-      1511942735,
       85921881,
-      85688637
+      85688637,
+      85633793,
+      1511942735
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -300,7 +300,7 @@
       }
     ],
     "wof:id": 1527855889,
-    "wof:lastmodified": 1756946791,
+    "wof:lastmodified": 1756972971,
     "wof:name": "photograph: San Francisco Bay Area aerial, Civic Auditorium, Oakland",
     "wof:parent_id": 1511942735,
     "wof:placetype": "custom",
@@ -318,5 +318,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

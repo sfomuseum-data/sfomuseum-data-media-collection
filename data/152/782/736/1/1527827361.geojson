@@ -197,18 +197,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
         },
         {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
@@ -217,8 +217,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
           "reference": "crayola"
         }
       ],
@@ -229,13 +229,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -244,20 +239,25 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#424242",
-          "name": "#424242",
+          "hex": "#b7b7b7",
+          "name": "#b7b7b7",
           "reference": "marekm4"
         },
         {
-          "hex": "#b7b7b7",
-          "name": "#b7b7b7",
+          "hex": "#424242",
+          "name": "#424242",
           "reference": "marekm4"
         }
       ]
@@ -302,13 +302,13 @@
     "wof:country": "US",
     "wof:created": 1578950514,
     "wof:depicts": [
-      1159287531,
       1159293593,
       1159289885,
       1159285393,
       1511948399,
       102527513,
-      1159289873
+      1159289873,
+      1159287531
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -331,7 +331,7 @@
       }
     ],
     "wof:id": 1527827361,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972907,
     "wof:name": "negative: San Francisco International Airport (SFO), inaugural TWA (Trans World Airlines) Boeing 747 flight",
     "wof:parent_id": 1511948399,
     "wof:placetype": "custom",
@@ -349,5 +349,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

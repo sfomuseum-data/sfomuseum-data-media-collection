@@ -235,18 +235,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#fcd975",
-          "name": "Goldenrod",
-          "reference": "crayola"
-        },
-        {
           "hex": "#efdecd",
           "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#c46210",
-          "name": "Alloy Orange",
           "reference": "crayola"
         },
         {
@@ -263,9 +253,29 @@
           "hex": "#1164b4",
           "name": "Green Blue",
           "reference": "crayola"
+        },
+        {
+          "hex": "#c46210",
+          "name": "Alloy Orange",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#fcd975",
+          "name": "Goldenrod",
+          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#daa520",
+          "name": "goldenrod",
+          "reference": "css4"
+        },
         {
           "hex": "#b22222",
           "name": "firebrick",
@@ -277,23 +287,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#deb887",
           "name": "burlywood",
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b8860b",
-          "name": "darkgoldenrod",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -302,20 +302,15 @@
           "reference": "css4"
         },
         {
-          "hex": "#daa520",
-          "name": "goldenrod",
+          "hex": "#b8860b",
+          "name": "darkgoldenrod",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#343329",
-          "name": "#343329",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#e1a019",
-          "name": "#e1a019",
+          "hex": "#1269ae",
+          "name": "#1269ae",
           "reference": "marekm4"
         },
         {
@@ -324,13 +319,18 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#343329",
+          "name": "#343329",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#c82f1c",
           "name": "#c82f1c",
           "reference": "marekm4"
         },
         {
-          "hex": "#1269ae",
-          "name": "#1269ae",
+          "hex": "#e1a019",
+          "name": "#e1a019",
           "reference": "marekm4"
         }
       ]
@@ -369,9 +369,9 @@
     "wof:country": "XX",
     "wof:created": 1578951777,
     "wof:depicts": [
-      1159285393,
       1511950497,
-      1159287531
+      1159287531,
+      1159285393
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -394,7 +394,7 @@
       }
     ],
     "wof:id": 1527835457,
-    "wof:lastmodified": 1756946778,
+    "wof:lastmodified": 1756972922,
     "wof:name": "timetable: TWA (Trans World Airlines)",
     "wof:parent_id": 1511950497,
     "wof:placetype": "custom",
@@ -412,5 +412,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

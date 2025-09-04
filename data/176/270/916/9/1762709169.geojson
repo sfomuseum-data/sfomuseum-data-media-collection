@@ -275,28 +275,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
           "hex": "#fddde6",
           "name": "Piggy Pink",
           "reference": "crayola"
         },
         {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#eceabe",
-          "name": "Spring Green",
+          "hex": "#714b23",
+          "name": "Raw Umber",
           "reference": "crayola"
         },
         {
@@ -305,8 +290,23 @@
           "reference": "crayola"
         },
         {
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
           "hex": "#efdecd",
           "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -315,8 +315,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#9f8170",
-          "name": "Beaver",
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
           "reference": "crayola"
         },
         {
@@ -326,6 +326,41 @@
         }
       ],
       "css4": [
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#faf0e6",
+          "name": "linen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f5deb3",
+          "name": "wheat",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
         {
           "hex": "#ffe4c4",
           "name": "bisque",
@@ -337,62 +372,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5deb3",
-          "name": "wheat",
-          "reference": "css4"
-        },
-        {
           "hex": "#000000",
           "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#faf0e6",
-          "name": "linen",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#dbd2ca",
-          "name": "#dbd2ca",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#261b0d",
-          "name": "#261b0d",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a28b75",
-          "name": "#a28b75",
-          "reference": "marekm4"
-        },
         {
           "hex": "#8a745b",
           "name": "#8a745b",
@@ -401,6 +386,21 @@
         {
           "hex": "#ebe1c3",
           "name": "#ebe1c3",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#a28b75",
+          "name": "#a28b75",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#dbd2ca",
+          "name": "#dbd2ca",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#261b0d",
+          "name": "#261b0d",
           "reference": "marekm4"
         }
       ]
@@ -435,10 +435,10 @@
     "wof:country": "XY",
     "wof:created": 1641349666,
     "wof:depicts": [
-      1159290421,
       1159285865,
       1159287765,
-      1762686469
+      1762686469,
+      1159290421
     ],
     "wof:geomhash": "ed7c2ab3547fc3916b5edc33488deaa7",
     "wof:hierarchy": [
@@ -460,7 +460,7 @@
       }
     ],
     "wof:id": 1762709169,
-    "wof:lastmodified": 1756946806,
+    "wof:lastmodified": 1756973033,
     "wof:name": "postcard: Transports Aeriens Intercontinentaux (TAI), Douglas DC-4",
     "wof:parent_id": 1762686469,
     "wof:placetype": "custom",
@@ -477,5 +477,5 @@
     -122.385834,
     37.616611
   ],
-  "geometry": {"type":"Polygon","coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]]}
+  "geometry": {"coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]],"type":"Polygon"}
 }

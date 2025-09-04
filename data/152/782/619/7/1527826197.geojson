@@ -213,18 +213,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6",
-          "name": "Piggy Pink",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
           "hex": "#000000",
           "name": "Black",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
           "reference": "crayola"
         },
         {
@@ -233,17 +233,12 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
@@ -255,8 +250,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#e6e6fa",
+          "name": "lavender",
           "reference": "css4"
         },
         {
@@ -265,20 +265,20 @@
           "reference": "css4"
         },
         {
-          "hex": "#e6e6fa",
-          "name": "lavender",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#cecece",
-          "name": "#cecece",
+          "hex": "#1a1a1a",
+          "name": "#1a1a1a",
           "reference": "marekm4"
         },
         {
-          "hex": "#1a1a1a",
-          "name": "#1a1a1a",
+          "hex": "#cecece",
+          "name": "#cecece",
           "reference": "marekm4"
         }
       ]
@@ -314,15 +314,15 @@
     "wof:country": "",
     "wof:created": 1578950333,
     "wof:depicts": [
-      1159288051,
       85922583,
+      85688637,
+      1108830801,
+      85633793,
+      1159288051,
       1159285141,
       1511947225,
       102527513,
-      1159291711,
-      85688637,
-      1108830801,
-      85633793
+      1159291711
     ],
     "wof:geomhash": "c33d27ce7b8227f0c7bb530e1c5e532e",
     "wof:hierarchy": [
@@ -345,7 +345,7 @@
       }
     ],
     "wof:id": 1527826197,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972906,
     "wof:name": "negative: SFO Helicopter Airlines, downtown San Francisco heliport",
     "wof:parent_id": 1511947225,
     "wof:placetype": "custom",
@@ -363,5 +363,5 @@
     -122.392416,
     37.794542
   ],
-  "geometry": {"type":"Point","coordinates":[-122.392416,37.794542]}
+  "geometry": {"coordinates":[-122.392416,37.794542],"type":"Point"}
 }

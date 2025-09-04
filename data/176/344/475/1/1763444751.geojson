@@ -191,6 +191,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
           "hex": "#757575",
           "name": "Sonic Silver",
           "reference": "crayola"
@@ -198,11 +203,6 @@
         {
           "hex": "#cdc5c2",
           "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -218,18 +218,8 @@
       ],
       "css4": [
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
           "reference": "css4"
         },
         {
@@ -238,8 +228,18 @@
           "reference": "css4"
         },
         {
+          "hex": "#000000",
+          "name": "black",
+          "reference": "css4"
+        },
+        {
           "hex": "#696969",
           "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         }
       ],
@@ -282,13 +282,13 @@
     "wof:country": "US",
     "wof:created": 1649404873,
     "wof:depicts": [
-      1159285067,
       102527513,
       1159291223,
       1159287361,
       1762760949,
       1159283849,
-      1159284973
+      1159284973,
+      1159285067
     ],
     "wof:geomhash": "bf40c3bc435019ba74db5659992d9e04",
     "wof:hierarchy": [
@@ -332,7 +332,7 @@
       }
     ],
     "wof:id": 1763444751,
-    "wof:lastmodified": 1756946831,
+    "wof:lastmodified": 1756973002,
     "wof:name": "photograph: Republic Airlines, Douglas DC-9, San Francisco International Airport (SFO)",
     "wof:parent_id": 1762760949,
     "wof:placetype": "custom",
@@ -349,5 +349,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

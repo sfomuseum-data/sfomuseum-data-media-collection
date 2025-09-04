@@ -371,6 +371,16 @@
           "reference": "crayola"
         },
         {
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
+          "reference": "crayola"
+        },
+        {
           "hex": "#a5694f",
           "name": "Sepia",
           "reference": "crayola"
@@ -381,13 +391,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -399,32 +414,17 @@
           "hex": "#bab86c",
           "name": "Olive Green",
           "reference": "crayola"
-        },
-        {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -443,18 +443,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -463,30 +453,25 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#d2b48c",
+          "name": "tan",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#615044",
-          "name": "#615044",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#e2c498",
-          "name": "#e2c498",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#beae97",
-          "name": "#beae97",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#a09670",
-          "name": "#a09670",
+          "hex": "#43362c",
+          "name": "#43362c",
           "reference": "marekm4"
         },
         {
@@ -495,13 +480,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#9e6456",
-          "name": "#9e6456",
+          "hex": "#e2c498",
+          "name": "#e2c498",
           "reference": "marekm4"
         },
         {
-          "hex": "#516441",
-          "name": "#516441",
+          "hex": "#615044",
+          "name": "#615044",
           "reference": "marekm4"
         },
         {
@@ -510,8 +495,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#43362c",
-          "name": "#43362c",
+          "hex": "#a09670",
+          "name": "#a09670",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#516441",
+          "name": "#516441",
           "reference": "marekm4"
         },
         {
@@ -520,8 +510,18 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#beae97",
+          "name": "#beae97",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#676057",
           "name": "#676057",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#9e6456",
+          "name": "#9e6456",
           "reference": "marekm4"
         }
       ]
@@ -570,9 +570,9 @@
     "wof:country": "XX",
     "wof:created": 1578951618,
     "wof:depicts": [
-      1159287531,
       1159285395,
-      1511954125
+      1511954125,
+      1159287531
     ],
     "wof:geomhash": "7d1551da4d2999c77d1178a3a8085464",
     "wof:hierarchy": [
@@ -595,7 +595,7 @@
       }
     ],
     "wof:id": 1527834433,
-    "wof:lastmodified": 1756946778,
+    "wof:lastmodified": 1756972920,
     "wof:name": "airmail flight cover: Transcontinental \u0026 Western Air (TWA), Santa Fe, New Mexico",
     "wof:parent_id": 1511954125,
     "wof:placetype": "custom",
@@ -623,5 +623,5 @@
     -101.840963,
     35.681375
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-105.945888,35.681375],[-101.840963,35.221849]]}
+  "geometry": {"coordinates":[[-105.945888,35.681375],[-101.840963,35.221849]],"type":"MultiPoint"}
 }

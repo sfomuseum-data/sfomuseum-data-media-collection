@@ -195,11 +195,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#58427c",
-          "name": "Cyber Grape",
-          "reference": "crayola"
-        },
-        {
           "hex": "#1a4876",
           "name": "Midnight Blue",
           "reference": "crayola"
@@ -207,6 +202,11 @@
         {
           "hex": "#c5d0e6",
           "name": "Periwinkle",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#58427c",
+          "name": "Cyber Grape",
           "reference": "crayola"
         }
       ],
@@ -217,13 +217,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
+          "hex": "#191970",
+          "name": "midnightblue",
           "reference": "css4"
         },
         {
@@ -232,12 +227,22 @@
           "reference": "css4"
         },
         {
-          "hex": "#191970",
-          "name": "midnightblue",
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#5f6296",
+          "name": "#5f6296",
+          "reference": "marekm4"
+        },
         {
           "hex": "#0d135b",
           "name": "#0d135b",
@@ -246,11 +251,6 @@
         {
           "hex": "#d2d5e0",
           "name": "#d2d5e0",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#5f6296",
-          "name": "#5f6296",
           "reference": "marekm4"
         }
       ]
@@ -289,9 +289,9 @@
     "wof:country": "XX",
     "wof:created": 1578953014,
     "wof:depicts": [
-      1159285529,
       1511938109,
-      1159287341
+      1159287341,
+      1159285529
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -314,7 +314,7 @@
       }
     ],
     "wof:id": 1527843283,
-    "wof:lastmodified": 1756946783,
+    "wof:lastmodified": 1756972934,
     "wof:name": "timetable: Wien Air Alaska",
     "wof:parent_id": 1511938109,
     "wof:placetype": "custom",
@@ -332,5 +332,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

@@ -219,8 +219,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -229,18 +229,13 @@
           "reference": "crayola"
         },
         {
+          "hex": "#714b23",
+          "name": "Raw Umber",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cd9575",
-          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
@@ -249,17 +244,37 @@
           "reference": "crayola"
         },
         {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#cd9575",
+          "name": "Antique Brass",
           "reference": "crayola"
         },
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bdb76b",
+          "name": "darkkhaki",
+          "reference": "css4"
+        },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
@@ -276,37 +291,12 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
           "hex": "#a9a9a9",
           "name": "darkgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bdb76b",
-          "name": "darkkhaki",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a0522d",
-          "name": "sienna",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#2f2721",
-          "name": "#2f2721",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#8f713e",
-          "name": "#8f713e",
-          "reference": "marekm4"
-        },
         {
           "hex": "#bd9c60",
           "name": "#bd9c60",
@@ -315,6 +305,16 @@
         {
           "hex": "#a9a8a7",
           "name": "#a9a8a7",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#8f713e",
+          "name": "#8f713e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#2f2721",
+          "name": "#2f2721",
           "reference": "marekm4"
         }
       ]
@@ -343,9 +343,9 @@
     "wof:country": "XY",
     "wof:created": 1654329683,
     "wof:depicts": [
-      1159284389,
       1159287841,
-      1779590479
+      1779590479,
+      1159284389
     ],
     "wof:geomhash": "ed7c2ab3547fc3916b5edc33488deaa7",
     "wof:hierarchy": [
@@ -367,7 +367,7 @@
       }
     ],
     "wof:id": 1779590719,
-    "wof:lastmodified": 1756946836,
+    "wof:lastmodified": 1756973061,
     "wof:name": "flight officer cap badge: Finnair",
     "wof:parent_id": 1779590479,
     "wof:placetype": "custom",
@@ -384,5 +384,5 @@
     -122.385834,
     37.616611
   ],
-  "geometry": {"type":"Polygon","coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]]}
+  "geometry": {"coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]],"type":"Polygon"}
 }

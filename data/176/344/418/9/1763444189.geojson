@@ -211,6 +211,16 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
           "hex": "#6699cc",
           "name": "Blue Gray",
           "reference": "crayola"
@@ -221,45 +231,20 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
           "hex": "#7366bd",
           "name": "Blue Violet",
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#c5d0e6",
-          "name": "Periwinkle",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#4682b4",
-          "name": "steelblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -268,15 +253,30 @@
           "reference": "css4"
         },
         {
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#4682b4",
+          "name": "steelblue",
+          "reference": "css4"
+        },
+        {
           "hex": "#d3d3d3",
           "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#aab4c5",
-          "name": "#aab4c5",
+          "hex": "#5c74a4",
+          "name": "#5c74a4",
           "reference": "marekm4"
         },
         {
@@ -285,8 +285,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#5c74a4",
-          "name": "#5c74a4",
+          "hex": "#aab4c5",
+          "name": "#aab4c5",
           "reference": "marekm4"
         },
         {
@@ -328,12 +328,12 @@
     "wof:country": "XX",
     "wof:created": 1649404746,
     "wof:depicts": [
-      1511926149,
-      1159284925,
       1159289891,
       1159286755,
       1159293593,
-      1159289873
+      1159289873,
+      1511926149,
+      1159284925
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -356,7 +356,7 @@
       }
     ],
     "wof:id": 1763444189,
-    "wof:lastmodified": 1756946831,
+    "wof:lastmodified": 1756973001,
     "wof:name": "slide: Olympic Airlines, Boeing 747-200",
     "wof:parent_id": 1511926149,
     "wof:placetype": "custom",
@@ -373,5 +373,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

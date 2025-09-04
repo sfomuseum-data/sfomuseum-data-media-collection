@@ -206,6 +206,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -213,11 +218,6 @@
         {
           "hex": "#efdecd",
           "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -238,13 +238,18 @@
       ],
       "css4": [
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         },
         {
@@ -258,13 +263,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -273,8 +273,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         }
       ],
@@ -285,13 +285,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#5a5b49",
-          "name": "#5a5b49",
+          "hex": "#c2bfae",
+          "name": "#c2bfae",
           "reference": "marekm4"
         },
         {
-          "hex": "#c2bfae",
-          "name": "#c2bfae",
+          "hex": "#5a5b49",
+          "name": "#5a5b49",
           "reference": "marekm4"
         }
       ]
@@ -347,7 +347,7 @@
       }
     ],
     "wof:id": 1527855431,
-    "wof:lastmodified": 1756946791,
+    "wof:lastmodified": 1756972970,
     "wof:name": "photograph: San Francisco Bay Area aerial, city with clouds",
     "wof:parent_id": 1511942191,
     "wof:placetype": "custom",
@@ -365,5 +365,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

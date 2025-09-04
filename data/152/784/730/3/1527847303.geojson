@@ -196,8 +196,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#fddde6",
-          "name": "Piggy Pink",
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -206,8 +206,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -216,12 +216,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#fddde6",
+          "name": "Piggy Pink",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#f5f5dc",
+          "name": "beige",
+          "reference": "css4"
+        },
         {
           "hex": "#dcdcdc",
           "name": "gainsboro",
@@ -245,11 +250,6 @@
         {
           "hex": "#696969",
           "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5f5dc",
-          "name": "beige",
           "reference": "css4"
         }
       ],
@@ -300,10 +300,10 @@
     "wof:country": "XX",
     "wof:created": 1578953651,
     "wof:depicts": [
-      1159284505,
-      1511932899,
       1159287275,
-      1159283813
+      1159283813,
+      1159284505,
+      1511932899
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -326,7 +326,7 @@
       }
     ],
     "wof:id": 1527847303,
-    "wof:lastmodified": 1756946785,
+    "wof:lastmodified": 1756972941,
     "wof:name": "timetable: Alaska Airlines, including Horizon Air",
     "wof:parent_id": 1511932899,
     "wof:placetype": "custom",
@@ -344,5 +344,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

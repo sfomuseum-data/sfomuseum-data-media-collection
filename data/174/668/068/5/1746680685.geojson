@@ -224,18 +224,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#ff2b2b",
           "name": "Orange Red",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#979aaa",
-          "name": "Manatee",
           "reference": "crayola"
         },
         {
@@ -249,6 +239,21 @@
           "reference": "crayola"
         },
         {
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
           "hex": "#58427c",
           "name": "Cyber Grape",
           "reference": "crayola"
@@ -257,17 +262,17 @@
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
           "reference": "css4"
         },
         {
@@ -291,13 +296,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
-          "hex": "#191970",
-          "name": "midnightblue",
+          "hex": "#c0c0c0",
+          "name": "silver",
           "reference": "css4"
         }
       ],
@@ -356,9 +356,9 @@
     "wof:country": "XX",
     "wof:created": 1637706341,
     "wof:depicts": [
-      1159287531,
       1511950537,
-      1159285393
+      1159285393,
+      1159287531
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -380,7 +380,7 @@
       }
     ],
     "wof:id": 1746680685,
-    "wof:lastmodified": 1756946795,
+    "wof:lastmodified": 1756972922,
     "wof:name": "timetable: TWA (Trans World Airlines)",
     "wof:parent_id": 1511950537,
     "wof:placetype": "custom",
@@ -397,5 +397,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

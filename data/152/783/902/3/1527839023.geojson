@@ -200,8 +200,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cc6666",
-          "name": "Fuzzy Wuzzy",
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
@@ -210,8 +210,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ffffff",
-          "name": "White",
+          "hex": "#cc6666",
+          "name": "Fuzzy Wuzzy",
           "reference": "crayola"
         },
         {
@@ -220,12 +220,22 @@
           "reference": "crayola"
         },
         {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
+          "hex": "#ffffff",
+          "name": "White",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
+        },
         {
           "hex": "#191970",
           "name": "midnightblue",
@@ -242,22 +252,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#a52a2a",
-          "name": "brown",
-          "reference": "css4"
-        },
-        {
           "hex": "#b22222",
           "name": "firebrick",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#221c5e",
+          "name": "#221c5e",
+          "reference": "marekm4"
+        },
         {
           "hex": "#ba1411",
           "name": "#ba1411",
@@ -266,11 +271,6 @@
         {
           "hex": "#faf4eb",
           "name": "#faf4eb",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#221c5e",
-          "name": "#221c5e",
           "reference": "marekm4"
         }
       ]
@@ -309,9 +309,9 @@
     "wof:country": "XX",
     "wof:created": 1578952336,
     "wof:depicts": [
+      1511932179,
       1159288545,
-      1159284941,
-      1511932179
+      1159284941
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -334,7 +334,7 @@
       }
     ],
     "wof:id": 1527839023,
-    "wof:lastmodified": 1756946780,
+    "wof:lastmodified": 1756972928,
     "wof:name": "timetable: Ozark Airlines",
     "wof:parent_id": 1511932179,
     "wof:placetype": "custom",
@@ -352,5 +352,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

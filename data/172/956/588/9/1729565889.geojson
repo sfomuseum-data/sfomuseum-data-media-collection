@@ -258,8 +258,28 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#eceabe",
+          "name": "Spring Green",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
+          "reference": "crayola"
+        },
+        {
           "hex": "#979aaa",
           "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#a5694f",
+          "name": "Sepia",
           "reference": "crayola"
         },
         {
@@ -271,42 +291,12 @@
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#eceabe",
-          "name": "Spring Green",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#a5694f",
-          "name": "Sepia",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#a0522d",
-          "name": "sienna",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
+          "hex": "#ffe4c4",
+          "name": "bisque",
           "reference": "css4"
         },
         {
@@ -315,8 +305,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a0522d",
+          "name": "sienna",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
           "reference": "css4"
         },
         {
@@ -330,20 +330,20 @@
           "reference": "css4"
         },
         {
-          "hex": "#ffe4c4",
-          "name": "bisque",
+          "hex": "#faebd7",
+          "name": "antiquewhite",
           "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#3d3b31",
-          "name": "#3d3b31",
+          "hex": "#906053",
+          "name": "#906053",
           "reference": "marekm4"
         },
         {
-          "hex": "#906053",
-          "name": "#906053",
+          "hex": "#3d3b31",
+          "name": "#3d3b31",
           "reference": "marekm4"
         },
         {
@@ -399,10 +399,10 @@
     "wof:country": "XX",
     "wof:created": 1607041514,
     "wof:depicts": [
-      1159293697,
-      1159291129,
       1729564417,
-      1159285393
+      1159285393,
+      1159293697,
+      1159291129
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -425,7 +425,7 @@
       }
     ],
     "wof:id": 1729565889,
-    "wof:lastmodified": 1756946793,
+    "wof:lastmodified": 1756972944,
     "wof:name": "postcard: TWA (Trans World Airlines), Lockheed L-1011 TriStar",
     "wof:parent_id": 1729564417,
     "wof:placetype": "custom",
@@ -443,5 +443,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

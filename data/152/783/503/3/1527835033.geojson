@@ -200,8 +200,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#efdecd",
+          "name": "Almond",
           "reference": "crayola"
         },
         {
@@ -210,30 +215,20 @@
           "reference": "crayola"
         },
         {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
           "reference": "crayola"
         },
         {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
-        },
-        {
-          "hex": "#efdecd",
-          "name": "Almond",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#b22222",
-          "name": "firebrick",
+          "hex": "#ffebcd",
+          "name": "blanchedalmond",
           "reference": "css4"
         },
         {
@@ -247,8 +242,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#ffebcd",
-          "name": "blanchedalmond",
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -259,13 +259,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#0d0f31",
-          "name": "#0d0f31",
+          "hex": "#f3e7d4",
+          "name": "#f3e7d4",
           "reference": "marekm4"
         },
         {
-          "hex": "#f3e7d4",
-          "name": "#f3e7d4",
+          "hex": "#0d0f31",
+          "name": "#0d0f31",
           "reference": "marekm4"
         },
         {
@@ -309,9 +309,9 @@
     "wof:country": "XX",
     "wof:created": 1578951713,
     "wof:depicts": [
-      1511952877,
       1159288301,
-      1159284217
+      1159284217,
+      1511952877
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -334,7 +334,7 @@
       }
     ],
     "wof:id": 1527835033,
-    "wof:lastmodified": 1756946778,
+    "wof:lastmodified": 1756972921,
     "wof:name": "luggage label: Canadian Pacific Airlines",
     "wof:parent_id": 1511952877,
     "wof:placetype": "custom",
@@ -352,5 +352,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

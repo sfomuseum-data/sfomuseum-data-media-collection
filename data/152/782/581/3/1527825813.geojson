@@ -185,8 +185,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         },
         {
@@ -200,8 +200,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -212,6 +212,11 @@
       ],
       "css4": [
         {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
@@ -219,11 +224,6 @@
         {
           "hex": "#778899",
           "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -273,14 +273,14 @@
     "wof:country": "US",
     "wof:created": 1578950276,
     "wof:depicts": [
-      1159288051,
-      1108830801,
-      85688637,
       1159285141,
-      1511946849,
       102527513,
       85922583,
-      85633793
+      85633793,
+      1159288051,
+      85688637,
+      1511946849,
+      1108830801
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -303,7 +303,7 @@
       }
     ],
     "wof:id": 1527825813,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972905,
     "wof:name": "negative: SFO Helicopter Airlines, downtown San Francisco heliport construction",
     "wof:parent_id": 1511946849,
     "wof:placetype": "custom",
@@ -321,5 +321,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

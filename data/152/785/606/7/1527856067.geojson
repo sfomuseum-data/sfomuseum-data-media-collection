@@ -206,8 +206,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#deaa88",
-          "name": "Tumbleweed",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
@@ -221,35 +231,35 @@
           "reference": "crayola"
         },
         {
+          "hex": "#deaa88",
+          "name": "Tumbleweed",
+          "reference": "crayola"
+        },
+        {
           "hex": "#9f8170",
           "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#cdc5c2",
-          "name": "Silver",
           "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
         {
           "hex": "#696969",
           "name": "dimgrey",
           "reference": "css4"
         },
         {
-          "hex": "#c0c0c0",
-          "name": "silver",
+          "hex": "#d2b48c",
+          "name": "tan",
           "reference": "css4"
         },
         {
@@ -261,37 +271,27 @@
           "hex": "#556b2f",
           "name": "darkolivegreen",
           "reference": "css4"
-        },
-        {
-          "hex": "#d2b48c",
-          "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#d4ccaf",
-          "name": "#d4ccaf",
-          "reference": "marekm4"
-        },
         {
           "hex": "#948e6e",
           "name": "#948e6e",
           "reference": "marekm4"
         },
         {
-          "hex": "#595439",
-          "name": "#595439",
+          "hex": "#d4ccaf",
+          "name": "#d4ccaf",
           "reference": "marekm4"
         },
         {
           "hex": "#837c5e",
           "name": "#837c5e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#595439",
+          "name": "#595439",
           "reference": "marekm4"
         }
       ]
@@ -347,7 +347,7 @@
       }
     ],
     "wof:id": 1527856067,
-    "wof:lastmodified": 1756946791,
+    "wof:lastmodified": 1756972971,
     "wof:name": "photograph: San Francisco Bay Area aerial, Tiburon",
     "wof:parent_id": 1511942933,
     "wof:placetype": "custom",
@@ -365,5 +365,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

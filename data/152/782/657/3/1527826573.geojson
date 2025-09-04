@@ -180,6 +180,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#757575",
+          "name": "Sonic Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#6e5160",
           "name": "Eggplant",
           "reference": "crayola"
@@ -190,18 +195,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
-          "reference": "crayola"
-        },
-        {
           "hex": "#b0b7c6",
           "name": "Cadet Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#757575",
-          "name": "Sonic Silver",
+          "hex": "#979aaa",
+          "name": "Manatee",
           "reference": "crayola"
         }
       ],
@@ -224,13 +224,13 @@
       ],
       "marekm4": [
         {
-          "hex": "#585858",
-          "name": "#585858",
+          "hex": "#a1a1a1",
+          "name": "#a1a1a1",
           "reference": "marekm4"
         },
         {
-          "hex": "#a1a1a1",
-          "name": "#a1a1a1",
+          "hex": "#585858",
+          "name": "#585858",
           "reference": "marekm4"
         }
       ]
@@ -263,10 +263,10 @@
     "wof:country": "US",
     "wof:created": 1578950388,
     "wof:depicts": [
-      1159287531,
-      1159285393,
       1511947613,
-      102527513
+      102527513,
+      1159287531,
+      1159285393
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -289,7 +289,7 @@
       }
     ],
     "wof:id": 1527826573,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972906,
     "wof:name": "photograph: San Francisco International Airport (SFO), construction",
     "wof:parent_id": 1511947613,
     "wof:placetype": "custom",
@@ -307,5 +307,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

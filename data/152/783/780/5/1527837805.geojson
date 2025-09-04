@@ -183,13 +183,8 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#ff2b2b",
+          "name": "Orange Red",
           "reference": "crayola"
         },
         {
@@ -198,8 +193,13 @@
           "reference": "crayola"
         },
         {
-          "hex": "#ff2b2b",
-          "name": "Orange Red",
+          "hex": "#414a4c",
+          "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
           "reference": "crayola"
         }
       ],
@@ -207,6 +207,11 @@
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a52a2a",
+          "name": "brown",
           "reference": "css4"
         },
         {
@@ -218,14 +223,14 @@
           "hex": "#f5deb3",
           "name": "wheat",
           "reference": "css4"
-        },
-        {
-          "hex": "#a52a2a",
-          "name": "brown",
-          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#c41c08",
+          "name": "#c41c08",
+          "reference": "marekm4"
+        },
         {
           "hex": "#3b372b",
           "name": "#3b372b",
@@ -234,11 +239,6 @@
         {
           "hex": "#e2d2b9",
           "name": "#e2d2b9",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#c41c08",
-          "name": "#c41c08",
           "reference": "marekm4"
         }
       ]
@@ -277,10 +277,10 @@
     "wof:country": "XX",
     "wof:created": 1578952150,
     "wof:depicts": [
-      1511933887,
-      1159287407,
       1159284907,
-      1159284913
+      1159284913,
+      1511933887,
+      1159287407
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -303,7 +303,7 @@
       }
     ],
     "wof:id": 1527837805,
-    "wof:lastmodified": 1756946780,
+    "wof:lastmodified": 1756972926,
     "wof:name": "timetable: Northwest Orient Airlines",
     "wof:parent_id": 1511933887,
     "wof:placetype": "custom",
@@ -321,5 +321,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

@@ -330,8 +330,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#714b23",
-          "name": "Raw Umber",
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cd4a4c",
+          "name": "Mahogany",
           "reference": "crayola"
         },
         {
@@ -340,33 +345,23 @@
           "reference": "crayola"
         },
         {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
+          "hex": "#c54b8c",
+          "name": "Mulberry",
           "reference": "crayola"
         },
         {
-          "hex": "#a5694f",
-          "name": "Sepia",
+          "hex": "#9c2542",
+          "name": "Big Dip O' Ruby",
           "reference": "crayola"
         },
         {
-          "hex": "#e7c697",
-          "name": "Gold",
+          "hex": "#714b23",
+          "name": "Raw Umber",
           "reference": "crayola"
         },
         {
           "hex": "#414a4c",
           "name": "Outer Space",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#d68a59",
-          "name": "Raw Sienna",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#c54b8c",
-          "name": "Mulberry",
           "reference": "crayola"
         },
         {
@@ -380,25 +375,25 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cd4a4c",
-          "name": "Mahogany",
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#9c2542",
-          "name": "Big Dip O' Ruby",
+          "hex": "#a5694f",
+          "name": "Sepia",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#d68a59",
+          "name": "Raw Sienna",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#db7093",
-          "name": "palevioletred",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f4a460",
-          "name": "sandybrown",
+          "hex": "#f5deb3",
+          "name": "wheat",
           "reference": "css4"
         },
         {
@@ -407,38 +402,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#800000",
-          "name": "maroon",
+          "hex": "#483d8b",
+          "name": "darkslateblue",
           "reference": "css4"
         },
         {
-          "hex": "#b22222",
-          "name": "firebrick",
-          "reference": "css4"
-        },
-        {
-          "hex": "#deb887",
-          "name": "burlywood",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a52a2a",
-          "name": "brown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#8b4513",
-          "name": "saddlebrown",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5deb3",
-          "name": "wheat",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d2691e",
-          "name": "chocolate",
+          "hex": "#db7093",
+          "name": "palevioletred",
           "reference": "css4"
         },
         {
@@ -447,20 +417,65 @@
           "reference": "css4"
         },
         {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
+        },
+        {
+          "hex": "#d2691e",
+          "name": "chocolate",
+          "reference": "css4"
+        },
+        {
+          "hex": "#b22222",
+          "name": "firebrick",
+          "reference": "css4"
+        },
+        {
+          "hex": "#8b4513",
+          "name": "saddlebrown",
           "reference": "css4"
         },
         {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#deb887",
+          "name": "burlywood",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f4a460",
+          "name": "sandybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#a52a2a",
+          "name": "brown",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#b73722",
-          "name": "#b73722",
+          "hex": "#3b2424",
+          "name": "#3b2424",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#284d8e",
+          "name": "#284d8e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#bb4433",
+          "name": "#bb4433",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#eac0a2",
+          "name": "#eac0a2",
           "reference": "marekm4"
         },
         {
@@ -484,23 +499,8 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#3b2424",
-          "name": "#3b2424",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#eac0a2",
-          "name": "#eac0a2",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#284d8e",
-          "name": "#284d8e",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#bb4433",
-          "name": "#bb4433",
+          "hex": "#b73722",
+          "name": "#b73722",
           "reference": "marekm4"
         },
         {
@@ -546,9 +546,9 @@
     "wof:country": "XX",
     "wof:created": 1607040147,
     "wof:depicts": [
-      1159285393,
       1729563937,
-      1159287531
+      1159287531,
+      1159285393
     ],
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
@@ -571,7 +571,7 @@
       }
     ],
     "wof:id": 1729565493,
-    "wof:lastmodified": 1756946793,
+    "wof:lastmodified": 1756972934,
     "wof:name": "ticket jacket: TWA (Trans World Airlines)",
     "wof:parent_id": 1729563937,
     "wof:placetype": "custom",
@@ -589,5 +589,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
+  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
 }

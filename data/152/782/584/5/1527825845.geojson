@@ -198,6 +198,11 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
+        },
+        {
           "hex": "#000000",
           "name": "Black",
           "reference": "crayola"
@@ -213,11 +218,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
@@ -225,18 +225,13 @@
       ],
       "css4": [
         {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#000000",
           "name": "black",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         },
         {
@@ -245,13 +240,18 @@
           "reference": "css4"
         },
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         }
       ],
@@ -302,14 +302,14 @@
     "wof:country": "US",
     "wof:created": 1578950281,
     "wof:depicts": [
-      85688637,
-      85633793,
       1511946879,
       102527513,
-      1108830801,
-      1159285141,
       85922583,
-      1159288051
+      1159288051,
+      85688637,
+      85633793,
+      1108830801,
+      1159285141
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -332,7 +332,7 @@
       }
     ],
     "wof:id": 1527825845,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972905,
     "wof:name": "negative: SFO Helicopter Airlines, downtown San Francisco heliport design drawing",
     "wof:parent_id": 1511946879,
     "wof:placetype": "custom",
@@ -350,5 +350,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

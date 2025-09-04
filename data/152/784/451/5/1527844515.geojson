@@ -216,13 +216,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#1a4876",
-          "name": "Midnight Blue",
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         },
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#1a4876",
+          "name": "Midnight Blue",
           "reference": "crayola"
         },
         {
@@ -236,11 +241,6 @@
           "reference": "crayola"
         },
         {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#dbd7d2",
           "name": "Timberwolf",
           "reference": "crayola"
@@ -248,13 +248,18 @@
       ],
       "css4": [
         {
+          "hex": "#008080",
+          "name": "teal",
+          "reference": "css4"
+        },
+        {
           "hex": "#191970",
           "name": "midnightblue",
           "reference": "css4"
         },
         {
-          "hex": "#008b8b",
-          "name": "darkcyan",
+          "hex": "#a9a9a9",
+          "name": "darkgrey",
           "reference": "css4"
         },
         {
@@ -263,35 +268,30 @@
           "reference": "css4"
         },
         {
-          "hex": "#008080",
-          "name": "teal",
+          "hex": "#5f9ea0",
+          "name": "cadetblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#008b8b",
+          "name": "darkcyan",
           "reference": "css4"
         },
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
-        },
-        {
-          "hex": "#5f9ea0",
-          "name": "cadetblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#a9a9a9",
-          "name": "darkgrey",
-          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#0e609f",
-          "name": "#0e609f",
+          "hex": "#5e99b7",
+          "name": "#5e99b7",
           "reference": "marekm4"
         },
         {
-          "hex": "#5e99b7",
-          "name": "#5e99b7",
+          "hex": "#0e609f",
+          "name": "#0e609f",
           "reference": "marekm4"
         },
         {
@@ -340,10 +340,10 @@
     "wof:country": "XX",
     "wof:created": 1578953208,
     "wof:depicts": [
-      1159285415,
-      1159288779,
       1511910263,
-      1159290443
+      1159290443,
+      1159285415,
+      1159288779
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -366,7 +366,7 @@
       }
     ],
     "wof:id": 1527844515,
-    "wof:lastmodified": 1756946784,
+    "wof:lastmodified": 1756972936,
     "wof:name": "route map: United Air Lines, domestic routes",
     "wof:parent_id": 1511910263,
     "wof:placetype": "custom",
@@ -384,5 +384,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

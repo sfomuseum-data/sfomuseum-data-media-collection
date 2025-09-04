@@ -195,18 +195,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#000000",
-          "name": "Black",
-          "reference": "crayola"
-        },
-        {
           "hex": "#efdecd",
           "name": "Almond",
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -218,17 +213,22 @@
           "hex": "#c46210",
           "name": "Alloy Orange",
           "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
+          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#8b0000",
+          "name": "darkred",
           "reference": "css4"
         },
         {
-          "hex": "#8b0000",
-          "name": "darkred",
+          "hex": "#faebd7",
+          "name": "antiquewhite",
           "reference": "css4"
         },
         {
@@ -242,12 +242,17 @@
           "reference": "css4"
         },
         {
-          "hex": "#faebd7",
-          "name": "antiquewhite",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#b31502",
+          "name": "#b31502",
+          "reference": "marekm4"
+        },
         {
           "hex": "#efeadc",
           "name": "#efeadc",
@@ -256,11 +261,6 @@
         {
           "hex": "#1e1310",
           "name": "#1e1310",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#b31502",
-          "name": "#b31502",
           "reference": "marekm4"
         }
       ]
@@ -324,7 +324,7 @@
       }
     ],
     "wof:id": 1527846289,
-    "wof:lastmodified": 1756946785,
+    "wof:lastmodified": 1756972939,
     "wof:name": "timetable: Empire Airlines",
     "wof:parent_id": 1511933495,
     "wof:placetype": "custom",
@@ -342,5 +342,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

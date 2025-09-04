@@ -229,23 +229,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#f0e891",
-          "name": "Green Yellow",
-          "reference": "crayola"
-        },
-        {
           "hex": "#8a795d",
           "name": "Shadow",
           "reference": "crayola"
         },
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
+          "hex": "#f0e891",
+          "name": "Green Yellow",
           "reference": "crayola"
         },
         {
-          "hex": "#979aaa",
-          "name": "Manatee",
+          "hex": "#6699cc",
+          "name": "Blue Gray",
           "reference": "crayola"
         },
         {
@@ -259,13 +254,18 @@
           "reference": "crayola"
         },
         {
-          "hex": "#6699cc",
-          "name": "Blue Gray",
+          "hex": "#bab86c",
+          "name": "Olive Green",
           "reference": "crayola"
         },
         {
-          "hex": "#bab86c",
-          "name": "Olive Green",
+          "hex": "#979aaa",
+          "name": "Manatee",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         }
       ],
@@ -276,13 +276,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#778899",
-          "name": "lightslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -291,13 +286,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#f0e68c",
-          "name": "khaki",
-          "reference": "css4"
-        },
-        {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#778899",
+          "name": "lightslategrey",
           "reference": "css4"
         },
         {
@@ -306,13 +296,23 @@
           "reference": "css4"
         },
         {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f0e68c",
+          "name": "khaki",
+          "reference": "css4"
+        },
+        {
           "hex": "#556b2f",
           "name": "darkolivegreen",
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
@@ -367,8 +367,8 @@
     "wof:country": "US",
     "wof:created": 1578950326,
     "wof:depicts": [
-      1511947173,
-      102527513
+      102527513,
+      1511947173
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -391,7 +391,7 @@
       }
     ],
     "wof:id": 1527826145,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972905,
     "wof:name": "negative: San Francisco International Airport (SFO), construction and maintenance equipment",
     "wof:parent_id": 1511947173,
     "wof:placetype": "custom",
@@ -409,5 +409,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

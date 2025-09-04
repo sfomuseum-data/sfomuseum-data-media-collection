@@ -187,16 +187,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#6e5160",
-          "name": "Eggplant",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#b0b7c6",
-          "name": "Cadet Blue",
-          "reference": "crayola"
-        },
-        {
           "hex": "#cdc5c2",
           "name": "Silver",
           "reference": "crayola"
@@ -207,13 +197,23 @@
           "reference": "crayola"
         },
         {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
+          "hex": "#6e5160",
+          "name": "Eggplant",
           "reference": "crayola"
         },
         {
           "hex": "#414a4c",
           "name": "Outer Space",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#b0b7c6",
+          "name": "Cadet Blue",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
           "reference": "crayola"
         }
       ],
@@ -221,11 +221,6 @@
         {
           "hex": "#c0c0c0",
           "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -237,17 +232,22 @@
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
         }
       ],
       "marekm4": [
         {
-          "hex": "#c8c8c8",
-          "name": "#c8c8c8",
+          "hex": "#404040",
+          "name": "#404040",
           "reference": "marekm4"
         },
         {
-          "hex": "#404040",
-          "name": "#404040",
+          "hex": "#c8c8c8",
+          "name": "#c8c8c8",
           "reference": "marekm4"
         }
       ]
@@ -310,7 +310,7 @@
       }
     ],
     "wof:id": 1527826771,
-    "wof:lastmodified": 1756946774,
+    "wof:lastmodified": 1756972906,
     "wof:name": "negative: San Francisco International Airport (SFO), aerial",
     "wof:parent_id": 1511947811,
     "wof:placetype": "custom",
@@ -328,5 +328,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

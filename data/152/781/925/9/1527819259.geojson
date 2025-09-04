@@ -206,13 +206,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
           "hex": "#c46210",
           "name": "Alloy Orange",
           "reference": "crayola"
         },
         {
-          "hex": "#b4674d",
-          "name": "Brown",
+          "hex": "#000000",
+          "name": "Black",
           "reference": "crayola"
         },
         {
@@ -226,13 +231,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#000000",
-          "name": "Black",
+          "hex": "#b4674d",
+          "name": "Brown",
           "reference": "crayola"
         }
       ],
@@ -240,16 +240,6 @@
         {
           "hex": "#000000",
           "name": "black",
-          "reference": "css4"
-        },
-        {
-          "hex": "#800000",
-          "name": "maroon",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
           "reference": "css4"
         },
         {
@@ -261,9 +251,24 @@
           "hex": "#a0522d",
           "name": "sienna",
           "reference": "css4"
+        },
+        {
+          "hex": "#800000",
+          "name": "maroon",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
         }
       ],
       "marekm4": [
+        {
+          "hex": "#cf8e5d",
+          "name": "#cf8e5d",
+          "reference": "marekm4"
+        },
         {
           "hex": "#d6c1b4",
           "name": "#d6c1b4",
@@ -277,11 +282,6 @@
         {
           "hex": "#36140f",
           "name": "#36140f",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#cf8e5d",
-          "name": "#cf8e5d",
           "reference": "marekm4"
         }
       ]
@@ -356,7 +356,7 @@
       }
     ],
     "wof:id": 1527819259,
-    "wof:lastmodified": 1756946770,
+    "wof:lastmodified": 1756972895,
     "wof:name": "timetable: Mexicana de Aviación, Pan American World Airways",
     "wof:parent_id": 1511930933,
     "wof:placetype": "custom",
@@ -374,5 +374,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

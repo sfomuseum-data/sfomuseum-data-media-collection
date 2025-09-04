@@ -192,11 +192,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
@@ -204,6 +199,11 @@
         {
           "hex": "#6e5160",
           "name": "Eggplant",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
           "reference": "crayola"
         },
         {
@@ -219,6 +219,11 @@
       ],
       "css4": [
         {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
           "hex": "#c0c0c0",
           "name": "silver",
           "reference": "css4"
@@ -229,18 +234,13 @@
           "reference": "css4"
         },
         {
-          "hex": "#2f4f4f",
-          "name": "darkslategrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
           "hex": "#808080",
           "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#2f4f4f",
+          "name": "darkslategrey",
           "reference": "css4"
         }
       ],
@@ -251,13 +251,13 @@
           "reference": "marekm4"
         },
         {
-          "hex": "#36382a",
-          "name": "#36382a",
+          "hex": "#85867a",
+          "name": "#85867a",
           "reference": "marekm4"
         },
         {
-          "hex": "#85867a",
-          "name": "#85867a",
+          "hex": "#36382a",
+          "name": "#36382a",
           "reference": "marekm4"
         }
       ]
@@ -296,11 +296,11 @@
     "wof:country": "US",
     "wof:created": 1578955220,
     "wof:depicts": [
-      85688637,
       85633793,
       1360695653,
       1511910165,
-      85921881
+      85921881,
+      85688637
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -323,7 +323,7 @@
       }
     ],
     "wof:id": 1527856977,
-    "wof:lastmodified": 1756946791,
+    "wof:lastmodified": 1756973031,
     "wof:name": "report: California Railroad Commission, Decision No. 8960",
     "wof:parent_id": 1511910165,
     "wof:placetype": "custom",
@@ -341,5 +341,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

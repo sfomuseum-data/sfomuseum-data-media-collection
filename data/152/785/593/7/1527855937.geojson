@@ -191,23 +191,23 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#bab86c",
-          "name": "Olive Green",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
-          "reference": "crayola"
-        },
-        {
           "hex": "#414a4c",
           "name": "Outer Space",
           "reference": "crayola"
         },
         {
+          "hex": "#bab86c",
+          "name": "Olive Green",
+          "reference": "crayola"
+        },
+        {
           "hex": "#8a795d",
           "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#9f8170",
+          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -218,8 +218,8 @@
       ],
       "css4": [
         {
-          "hex": "#808080",
-          "name": "grey",
+          "hex": "#696969",
+          "name": "dimgrey",
           "reference": "css4"
         },
         {
@@ -233,8 +233,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
+          "hex": "#808080",
+          "name": "grey",
           "reference": "css4"
         },
         {
@@ -245,6 +245,11 @@
       ],
       "marekm4": [
         {
+          "hex": "#9b9273",
+          "name": "#9b9273",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#cec8b3",
           "name": "#cec8b3",
           "reference": "marekm4"
@@ -252,11 +257,6 @@
         {
           "hex": "#373527",
           "name": "#373527",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#9b9273",
-          "name": "#9b9273",
           "reference": "marekm4"
         },
         {
@@ -294,10 +294,10 @@
     "wof:country": "XX",
     "wof:created": 1578955058,
     "wof:depicts": [
-      85921881,
-      85688637,
       85633793,
-      1511942783
+      1511942783,
+      85921881,
+      85688637
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -320,7 +320,7 @@
       }
     ],
     "wof:id": 1527855937,
-    "wof:lastmodified": 1756946791,
+    "wof:lastmodified": 1756972971,
     "wof:name": "photograph: San Francisco Bay Area aerial, ferry terminal, Oakland",
     "wof:parent_id": 1511942783,
     "wof:placetype": "custom",
@@ -338,5 +338,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

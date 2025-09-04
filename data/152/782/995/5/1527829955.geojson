@@ -254,8 +254,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#95918c",
-          "name": "Gray",
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#414a4c",
+          "name": "Outer Space",
           "reference": "crayola"
         },
         {
@@ -269,8 +274,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#414a4c",
-          "name": "Outer Space",
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
           "reference": "crayola"
         },
         {
@@ -279,45 +284,20 @@
           "reference": "crayola"
         },
         {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
-          "reference": "crayola"
-        },
-        {
           "hex": "#fdd9b5",
           "name": "Apricot",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#cd5c5c",
-          "name": "indianred",
-          "reference": "css4"
-        },
-        {
           "hex": "#d2b48c",
           "name": "tan",
-          "reference": "css4"
-        },
-        {
-          "hex": "#f5deb3",
-          "name": "wheat",
-          "reference": "css4"
-        },
-        {
-          "hex": "#ffe4c4",
-          "name": "bisque",
-          "reference": "css4"
-        },
-        {
-          "hex": "#bc8f8f",
-          "name": "rosybrown",
           "reference": "css4"
         },
         {
@@ -326,13 +306,33 @@
           "reference": "css4"
         },
         {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#bc8f8f",
+          "name": "rosybrown",
+          "reference": "css4"
+        },
+        {
+          "hex": "#cd5c5c",
+          "name": "indianred",
+          "reference": "css4"
+        },
+        {
+          "hex": "#ffe4c4",
+          "name": "bisque",
+          "reference": "css4"
+        },
+        {
           "hex": "#2f4f4f",
           "name": "darkslategrey",
           "reference": "css4"
         },
         {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
+          "hex": "#f5deb3",
+          "name": "wheat",
           "reference": "css4"
         }
       ],
@@ -423,7 +423,7 @@
       }
     ],
     "wof:id": 1527829955,
-    "wof:lastmodified": 1756946776,
+    "wof:lastmodified": 1756972911,
     "wof:name": "airmail flight cover: United States Air Mail, AM-111, New York - New Jersey route",
     "wof:parent_id": 1511909501,
     "wof:placetype": "custom",
@@ -441,5 +441,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

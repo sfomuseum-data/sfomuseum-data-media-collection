@@ -277,28 +277,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
+        },
+        {
           "hex": "#000000",
           "name": "Black",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#757575",
-          "name": "Sonic Silver",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#95918c",
-          "name": "Gray",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#dbd7d2",
-          "name": "Timberwolf",
-          "reference": "crayola"
-        },
-        {
-          "hex": "#9f8170",
-          "name": "Beaver",
           "reference": "crayola"
         },
         {
@@ -307,50 +292,45 @@
           "reference": "crayola"
         },
         {
-          "hex": "#cdc5c2",
-          "name": "Silver",
+          "hex": "#757575",
+          "name": "Sonic Silver",
           "reference": "crayola"
         },
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
+          "hex": "#9f8170",
+          "name": "Beaver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#95918c",
+          "name": "Gray",
           "reference": "crayola"
         },
         {
           "hex": "#714b23",
           "name": "Raw Umber",
           "reference": "crayola"
+        },
+        {
+          "hex": "#cdc5c2",
+          "name": "Silver",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#dbd7d2",
+          "name": "Timberwolf",
+          "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#808080",
-          "name": "grey",
-          "reference": "css4"
-        },
         {
           "hex": "#d3d3d3",
           "name": "lightgrey",
           "reference": "css4"
         },
         {
-          "hex": "#696969",
-          "name": "dimgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#000000",
-          "name": "black",
+          "hex": "#708090",
+          "name": "slategrey",
           "reference": "css4"
         },
         {
@@ -364,27 +344,32 @@
           "reference": "css4"
         },
         {
-          "hex": "#708090",
-          "name": "slategrey",
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#808080",
+          "name": "grey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#696969",
+          "name": "dimgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#000000",
+          "name": "black",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#c3bfb7",
-          "name": "#c3bfb7",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#8e715e",
-          "name": "#8e715e",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#727489",
-          "name": "#727489",
-          "reference": "marekm4"
-        },
         {
           "hex": "#433637",
           "name": "#433637",
@@ -393,6 +378,21 @@
         {
           "hex": "#a38c6a",
           "name": "#a38c6a",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#727489",
+          "name": "#727489",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#8e715e",
+          "name": "#8e715e",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#c3bfb7",
+          "name": "#c3bfb7",
           "reference": "marekm4"
         }
       ]
@@ -445,7 +445,7 @@
       }
     ],
     "wof:id": 1527827539,
-    "wof:lastmodified": 1756946775,
+    "wof:lastmodified": 1756972907,
     "wof:name": "negative: San Francisco International Airport (SFO), Pancake Palace restaurant",
     "wof:parent_id": 1511948573,
     "wof:placetype": "custom",
@@ -463,5 +463,5 @@
     -122.384293,
     37.617706
   ],
-  "geometry": {"type":"Point","coordinates":[-122.384293,37.617706]}
+  "geometry": {"coordinates":[-122.384293,37.617706],"type":"Point"}
 }

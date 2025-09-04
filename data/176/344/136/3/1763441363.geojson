@@ -211,11 +211,6 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#8a795d",
-          "name": "Shadow",
-          "reference": "crayola"
-        },
-        {
           "hex": "#85754e",
           "name": "Gold Fusion",
           "reference": "crayola"
@@ -239,9 +234,24 @@
           "hex": "#714b23",
           "name": "Raw Umber",
           "reference": "crayola"
+        },
+        {
+          "hex": "#8a795d",
+          "name": "Shadow",
+          "reference": "crayola"
         }
       ],
       "css4": [
+        {
+          "hex": "#556b2f",
+          "name": "darkolivegreen",
+          "reference": "css4"
+        },
+        {
+          "hex": "#c0c0c0",
+          "name": "silver",
+          "reference": "css4"
+        },
         {
           "hex": "#696969",
           "name": "dimgrey",
@@ -263,16 +273,6 @@
           "reference": "css4"
         },
         {
-          "hex": "#556b2f",
-          "name": "darkolivegreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#c0c0c0",
-          "name": "silver",
-          "reference": "css4"
-        },
-        {
           "hex": "#d2b48c",
           "name": "tan",
           "reference": "css4"
@@ -285,6 +285,11 @@
           "reference": "marekm4"
         },
         {
+          "hex": "#877745",
+          "name": "#877745",
+          "reference": "marekm4"
+        },
+        {
           "hex": "#584925",
           "name": "#584925",
           "reference": "marekm4"
@@ -292,11 +297,6 @@
         {
           "hex": "#9f9862",
           "name": "#9f9862",
-          "reference": "marekm4"
-        },
-        {
-          "hex": "#877745",
-          "name": "#877745",
           "reference": "marekm4"
         }
       ]
@@ -378,7 +378,7 @@
       }
     ],
     "wof:id": 1763441363,
-    "wof:lastmodified": 1756946829,
+    "wof:lastmodified": 1756972993,
     "wof:name": "photograph: San Francisco International Airport (SFO), Central Terminal construction",
     "wof:parent_id": 1511957199,
     "wof:placetype": "custom",
@@ -395,5 +395,5 @@
     -122.370943,
     37.61799
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799]]}
+  "geometry": {"coordinates":[[-122.370943,37.61799]],"type":"MultiPoint"}
 }

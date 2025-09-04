@@ -225,18 +225,13 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#87a96b",
-          "name": "Asparagus",
-          "reference": "crayola"
-        },
-        {
           "hex": "#1974d2",
           "name": "Navy Blue",
           "reference": "crayola"
         },
         {
-          "hex": "#c5d0e6",
-          "name": "Periwinkle",
+          "hex": "#1164b4",
+          "name": "Green Blue",
           "reference": "crayola"
         },
         {
@@ -245,8 +240,8 @@
           "reference": "crayola"
         },
         {
-          "hex": "#3bb08f",
-          "name": "Jungle Green",
+          "hex": "#c5d0e6",
+          "name": "Periwinkle",
           "reference": "crayola"
         },
         {
@@ -255,32 +250,17 @@
           "reference": "crayola"
         },
         {
-          "hex": "#1164b4",
-          "name": "Green Blue",
+          "hex": "#87a96b",
+          "name": "Asparagus",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#3bb08f",
+          "name": "Jungle Green",
           "reference": "crayola"
         }
       ],
       "css4": [
-        {
-          "hex": "#8fbc8f",
-          "name": "darkseagreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#d3d3d3",
-          "name": "lightgrey",
-          "reference": "css4"
-        },
-        {
-          "hex": "#3cb371",
-          "name": "mediumseagreen",
-          "reference": "css4"
-        },
-        {
-          "hex": "#dcdcdc",
-          "name": "gainsboro",
-          "reference": "css4"
-        },
         {
           "hex": "#bdb76b",
           "name": "darkkhaki",
@@ -292,17 +272,32 @@
           "reference": "css4"
         },
         {
+          "hex": "#d3d3d3",
+          "name": "lightgrey",
+          "reference": "css4"
+        },
+        {
+          "hex": "#dcdcdc",
+          "name": "gainsboro",
+          "reference": "css4"
+        },
+        {
+          "hex": "#3cb371",
+          "name": "mediumseagreen",
+          "reference": "css4"
+        },
+        {
           "hex": "#008080",
           "name": "teal",
+          "reference": "css4"
+        },
+        {
+          "hex": "#8fbc8f",
+          "name": "darkseagreen",
           "reference": "css4"
         }
       ],
       "marekm4": [
-        {
-          "hex": "#0e4b9e",
-          "name": "#0e4b9e",
-          "reference": "marekm4"
-        },
         {
           "hex": "#288fc2",
           "name": "#288fc2",
@@ -321,6 +316,11 @@
         {
           "hex": "#649e69",
           "name": "#649e69",
+          "reference": "marekm4"
+        },
+        {
+          "hex": "#0e4b9e",
+          "name": "#0e4b9e",
           "reference": "marekm4"
         }
       ]
@@ -359,9 +359,9 @@
     "wof:country": "XX",
     "wof:created": 1578953698,
     "wof:depicts": [
-      1159284153,
       1511940527,
-      1159288057
+      1159288057,
+      1159284153
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -384,7 +384,7 @@
       }
     ],
     "wof:id": 1527847579,
-    "wof:lastmodified": 1756946785,
+    "wof:lastmodified": 1756972941,
     "wof:name": "timetable: China Airlines",
     "wof:parent_id": 1511940527,
     "wof:placetype": "custom",
@@ -402,5 +402,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

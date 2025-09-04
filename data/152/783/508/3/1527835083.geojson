@@ -200,13 +200,18 @@
     "millsfield:images_colors_refs": {
       "crayola": [
         {
-          "hex": "#2e5894",
-          "name": "B'dazzled Blue",
+          "hex": "#efcdb8",
+          "name": "Desert Sand",
           "reference": "crayola"
         },
         {
-          "hex": "#efcdb8",
-          "name": "Desert Sand",
+          "hex": "#e7c697",
+          "name": "Gold",
+          "reference": "crayola"
+        },
+        {
+          "hex": "#2e5894",
+          "name": "B'dazzled Blue",
           "reference": "crayola"
         },
         {
@@ -218,17 +223,22 @@
           "hex": "#979aaa",
           "name": "Manatee",
           "reference": "crayola"
-        },
-        {
-          "hex": "#e7c697",
-          "name": "Gold",
-          "reference": "crayola"
         }
       ],
       "css4": [
         {
-          "hex": "#4682b4",
-          "name": "steelblue",
+          "hex": "#191970",
+          "name": "midnightblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#483d8b",
+          "name": "darkslateblue",
+          "reference": "css4"
+        },
+        {
+          "hex": "#f5deb3",
+          "name": "wheat",
           "reference": "css4"
         },
         {
@@ -242,18 +252,8 @@
           "reference": "css4"
         },
         {
-          "hex": "#f5deb3",
-          "name": "wheat",
-          "reference": "css4"
-        },
-        {
-          "hex": "#191970",
-          "name": "midnightblue",
-          "reference": "css4"
-        },
-        {
-          "hex": "#483d8b",
-          "name": "darkslateblue",
+          "hex": "#4682b4",
+          "name": "steelblue",
           "reference": "css4"
         }
       ],
@@ -309,9 +309,9 @@
     "wof:country": "XX",
     "wof:created": 1578951721,
     "wof:depicts": [
-      1159287841,
       1159284389,
-      1511952901
+      1511952901,
+      1159287841
     ],
     "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
     "wof:hierarchy": [
@@ -334,7 +334,7 @@
       }
     ],
     "wof:id": 1527835083,
-    "wof:lastmodified": 1756946778,
+    "wof:lastmodified": 1756972921,
     "wof:name": "luggage label: Finnair",
     "wof:parent_id": 1511952901,
     "wof:placetype": "custom",
@@ -352,5 +352,5 @@
     -122.386155,
     37.616358
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"coordinates":[-122.386155,37.616358],"type":"Point"}
 }

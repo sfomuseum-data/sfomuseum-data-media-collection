@@ -8,10 +8,25 @@
     "date:inception_upper": "1946-12-31",
     "edtf:cessation": "1946~",
     "edtf:inception": "1946~",
-    "geom:area": 2.477324999997507e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635756125121,
-    "geom:longitude": -122.38615532866096,
+    "geom:area": 0,
+    "geom:bbox": "-147.629116,64.829440,-147.629116,64.829440",
+    "geom:latitude": 64.82944,
+    "geom:longitude": -147.629116,
+    "georef:depicted": [
+      {
+        "georef:label": "location",
+        "wof:depicts": [
+          85915635
+        ]
+      }
+    ],
+    "georef:whosonfirst_belongsto": [
+      85633793,
+      85688573,
+      85915635,
+      102081397,
+      102191575
+    ],
     "media:fingerprint": "6360297267a1ca20005ffbeecd793669fef183e1",
     "media:imagehash_avg": "a:ffcf0300005b01ff",
     "media:imagehash_diff": "d:3f1f3f1e5f939b13",
@@ -144,17 +159,16 @@
     "sfomuseum:object_id": 225733,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference",
+    "src:geom_alt": [
+      "georef_location"
+    ],
     "wof:belongsto": [
-      102527513,
-      1159162825,
       102191575,
       85633793,
-      102087579,
-      85922583,
-      1847553197,
-      85688637,
-      1159160869
+      102081397,
+      85915635,
+      85688573
     ],
     "wof:country": "XY",
     "wof:created": 1681201048,
@@ -164,27 +178,20 @@
       1847553197,
       1159284991
     ],
-    "wof:geomhash": "ed7c2ab3547fc3916b5edc33488deaa7",
+    "wof:geomhash": "53c65b8dc3d289adbe6731a5f2c93619",
     "wof:hierarchy": [
       {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
         "continent_id": 102191575,
         "country_id": 85633793,
-        "county_id": 102087579,
+        "county_id": 102081397,
         "custom_id": 1847553657,
         "image_id": 1847553657,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1847553197,
-        "region_id": 85688637,
-        "wing_id": 1159160869
+        "locality_id": 85915635,
+        "region_id": 85688573
       }
     ],
     "wof:id": 1847553657,
-    "wof:lastmodified": 1757697650,
+    "wof:lastmodified": 1760568679,
     "wof:name": "photograph: Lockheed 18 Lodestar, Fairbanks, Alaska",
     "wof:parent_id": 1847553197,
     "wof:placetype": "custom",
@@ -196,10 +203,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386472,
-    37.616105,
-    -122.385834,
-    37.616611
+    -147.629116,
+    64.82944,
+    -147.629116,
+    64.82944
   ],
-  "geometry": {"type":"Polygon","coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-147.629116,64.82944]]}
 }

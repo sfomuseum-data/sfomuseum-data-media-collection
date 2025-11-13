@@ -10,9 +10,45 @@
     "edtf:date": "1935-04-16",
     "edtf:inception": "1935-04-16",
     "geom:area": 0,
-    "geom:bbox": "-122.386155,37.616358,-122.386155,37.616358",
-    "geom:latitude": 37.616358,
-    "geom:longitude": -122.386155,
+    "geom:bbox": "-157.837169,21.330576,-73.767075,40.713095",
+    "geom:latitude": 33.273893,
+    "geom:longitude": -118.01183866666668,
+    "georef:depicted": [
+      {
+        "georef:label": "to",
+        "wof:depicts": [
+          85825929
+        ]
+      },
+      {
+        "georef:label": "from",
+        "wof:depicts": [
+          85937601
+        ]
+      },
+      {
+        "georef:label": "postmark",
+        "wof:depicts": [
+          85922583,
+          85937601
+        ]
+      }
+    ],
+    "georef:whosonfirst_belongsto": [
+      85688543,
+      102082377,
+      102087579,
+      85688671,
+      85977539,
+      421205767,
+      85937601,
+      102191575,
+      85922583,
+      85825929,
+      85633793,
+      102085417,
+      85688637
+    ],
     "iso:country": "XX",
     "media:fingerprint": "e47925b81e605bf2a70b7847f7b311f9c07e79bc",
     "media:imagehash_avg": "a:ffb6ffff99909018",
@@ -197,19 +233,26 @@
     "sfomuseum:object_id": 139733,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference",
+    "src:geom_alt": [
+      "georef_to",
+      "georef_from",
+      "georef_postmark"
+    ],
     "wof:belongsto": [
-      1511214215,
-      1511954455,
-      102527513,
       102191575,
       85633793,
-      1511213159,
       85922583,
       102087579,
-      1511214277,
-      1511214203,
-      85688637
+      85688637,
+      421205767,
+      102082377,
+      85977539,
+      85825929,
+      85688543,
+      102085417,
+      85937601,
+      85688671
     ],
     "wof:breaches": [],
     "wof:country": "XX",
@@ -219,28 +262,40 @@
       1159286839,
       1159284991
     ],
-    "wof:geomhash": "bd906905ce4be6c0651c90b0fc24804c",
+    "wof:geomhash": "22c7be77a68471b3501e486171e282cd",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213159,
-        "building_id": 1511214277,
-        "campus_id": 102527513,
-        "concourse_id": 1511214215,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "custom_id": 1527853763,
         "image_id": 1527853763,
         "locality_id": 85922583,
-        "media_id": 1527853763,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "venue_id": 1511954455,
-        "wing_id": 1511214203
+        "region_id": 85688637
+      },
+      {
+        "borough_id": 421205767,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "custom_id": 1527853763,
+        "image_id": 1527853763,
+        "locality_id": 85977539,
+        "neighbourhood_id": 85825929,
+        "region_id": 85688543
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085417,
+        "custom_id": 1527853763,
+        "image_id": 1527853763,
+        "locality_id": 85937601,
+        "region_id": 85688671
       }
     ],
     "wof:id": 1527853763,
-    "wof:lastmodified": 1757623123,
+    "wof:lastmodified": 1763063628,
     "wof:name": "airmail flight cover: Pan American Airways, first Pacific survey flight, California - Hawaii and return route",
     "wof:parent_id": 1511954455,
     "wof:placetype": "custom",
@@ -253,10 +308,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386155,
-    37.616358,
-    -122.386155,
-    37.616358
+    -157.837169,
+    21.330576,
+    -73.767075,
+    40.713095
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386155,37.616358]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-73.767075,40.713095],[-157.837169,21.330576],[-122.431272,37.778008]]}
 }

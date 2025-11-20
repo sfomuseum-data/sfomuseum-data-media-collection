@@ -8,10 +8,28 @@
     "date:inception_upper": "1979-12-31",
     "edtf:cessation": "197X",
     "edtf:inception": "197X",
-    "geom:area": 2.477324999997507e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635756125121,
-    "geom:longitude": -122.38615532866096,
+    "geom:area": 0,
+    "geom:bbox": "-96.850523,32.845849,-96.850523,32.845849",
+    "geom:latitude": 32.845849,
+    "geom:longitude": -96.850523,
+    "georef:depicted": [
+      {
+        "georef:label": "location",
+        "wof:depicts": [
+          102525799
+        ]
+      }
+    ],
+    "georef:lastmodified": 1763671801,
+    "georef:whosonfirst_belongsto": [
+      102080647,
+      102525799,
+      85870475,
+      85633793,
+      102191575,
+      85688753,
+      101724385
+    ],
     "iso:country": "US",
     "media:fingerprint": "7f599ea4b24aad809b6c5ddb9bdbee81b06bbde0",
     "media:imagehash_avg": "a:fffffffd00000001",
@@ -195,17 +213,18 @@
     "sfomuseum:object_id": 181667,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference",
+    "src:geom_alt": [
+      "georef_location"
+    ],
     "wof:belongsto": [
-      102527513,
-      1159162825,
       102191575,
       85633793,
-      102087579,
-      85922583,
-      1762687003,
-      85688637,
-      1159160869
+      102525799,
+      102080647,
+      101724385,
+      85870475,
+      85688753
     ],
     "wof:country": "US",
     "wof:created": 1641350209,
@@ -215,27 +234,22 @@
       1159289653,
       1159293593
     ],
-    "wof:geomhash": "ed7c2ab3547fc3916b5edc33488deaa7",
+    "wof:geomhash": "42dd1ec39178ce2bb4b39f3b7cc00612",
     "wof:hierarchy": [
       {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
+        "campus_id": 102525799,
         "continent_id": 102191575,
         "country_id": 85633793,
-        "county_id": 102087579,
+        "county_id": 102080647,
         "custom_id": 1762710731,
         "image_id": 1762710731,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1762687003,
-        "region_id": 85688637,
-        "wing_id": 1159160869
+        "locality_id": 101724385,
+        "neighbourhood_id": 85870475,
+        "region_id": 85688753
       }
     ],
     "wof:id": 1762710731,
-    "wof:lastmodified": 1757626976,
+    "wof:lastmodified": 1763671801,
     "wof:name": "postcard: Dallas Love Field, Boeing 707",
     "wof:parent_id": 1762687003,
     "wof:placetype": "custom",
@@ -247,10 +261,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386472,
-    37.616105,
-    -122.385834,
-    37.616611
+    -96.850523,
+    32.845849,
+    -96.850523,
+    32.845849
   ],
-  "geometry": {"type":"Polygon","coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-96.850523,32.845849]]}
 }

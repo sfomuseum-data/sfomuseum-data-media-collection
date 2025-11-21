@@ -8,10 +8,29 @@
     "date:inception_upper": "1991-12-31",
     "edtf:cessation": "1991",
     "edtf:inception": "1991",
-    "geom:area": 2.477324999997507e-7,
-    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
-    "geom:latitude": 37.61635756125121,
-    "geom:longitude": -122.38615532866096,
+    "geom:area": 0,
+    "geom:bbox": "-118.389510,33.942593,-118.389510,33.942593",
+    "geom:latitude": 33.942593,
+    "geom:longitude": -118.38951,
+    "georef:depicted": [
+      {
+        "georef:label": "location",
+        "wof:depicts": [
+          102533795
+        ]
+      }
+    ],
+    "georef:lastmodified": 1763767444,
+    "georef:whosonfirst_belongsto": [
+      102191575,
+      85856747,
+      102086957,
+      85688637,
+      85923517,
+      102533795,
+      85633793,
+      1108692797
+    ],
     "media:fingerprint": "ea23cd48243f8b0c79e55cc9258446a1159765f0",
     "media:imagehash_avg": "a:91000135859d89ff",
     "media:imagehash_diff": "d:2323696969291bd9",
@@ -154,17 +173,19 @@
     "sfomuseum:object_id": 140171,
     "sfomuseum:placetype": "image",
     "sfomuseum:primary_image": 1,
-    "src:geom": "sfomuseum",
+    "src:geom": "sfomuseum#georeference",
+    "src:geom_alt": [
+      "georef_location"
+    ],
     "wof:belongsto": [
-      102527513,
-      1159162825,
       102191575,
       85633793,
-      102087579,
-      85922583,
-      1897913821,
       85688637,
-      1159160869
+      102533795,
+      102086957,
+      85923517,
+      1108692797,
+      85856747
     ],
     "wof:country": "XY",
     "wof:created": 1712993626,
@@ -174,27 +195,23 @@
       102533795,
       1159286839
     ],
-    "wof:geomhash": "ed7c2ab3547fc3916b5edc33488deaa7",
+    "wof:geomhash": "fecd3d7ab1fc2bc81dc4fce83bbb8c45",
     "wof:hierarchy": [
       {
-        "building_id": -1,
-        "campus_id": 102527513,
-        "collection_id": 1159162825,
-        "concourse_id": 1159162825,
+        "campus_id": 102533795,
         "continent_id": 102191575,
         "country_id": 85633793,
-        "county_id": 102087579,
+        "county_id": 102086957,
         "custom_id": 1897914571,
         "image_id": 1897914571,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "object_id": 1897913821,
-        "region_id": 85688637,
-        "wing_id": 1159160869
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1897914571,
-    "wof:lastmodified": 1757698858,
+    "wof:lastmodified": 1763767444,
     "wof:name": "photograph: Pan American World Airways, Los Angeles International Airport",
     "wof:parent_id": 1897913821,
     "wof:placetype": "custom",
@@ -206,10 +223,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386472,
-    37.616105,
-    -122.385834,
-    37.616611
+    -118.38951,
+    33.942593,
+    -118.38951,
+    33.942593
   ],
-  "geometry": {"type":"Polygon","coordinates":[[[-122.386472,37.616318],[-122.386435,37.616233],[-122.386376,37.616178],[-122.386301,37.616131],[-122.386161,37.616105],[-122.386022,37.616131],[-122.385914,37.616186],[-122.385855,37.616267],[-122.385834,37.616369],[-122.385871,37.616467],[-122.385941,37.616543],[-122.386054,37.616603],[-122.386183,37.616611],[-122.386306,37.616573],[-122.386419,37.616509],[-122.386467,37.616411],[-122.386472,37.616318]]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.38951,33.942593]]}
 }

@@ -2,8 +2,12 @@
   "id": 2015007113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "1970-12-01",
+    "date:cessation_upper": "1970-12-31",
+    "date:inception_lower": "1970-09-01",
+    "date:inception_upper": "1970-09-30",
+    "edtf:cessation": "1970-12",
+    "edtf:inception": "1970-09",
     "geom:area": 2.475047457570636e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635747477365,
@@ -84,8 +88,14 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/201/500/711/3/2015007113_{secret}_{label}.{extention}",
+    "millsfield:airline_id": [
+      1159284989
+    ],
     "millsfield:category_id": 1762679663,
     "millsfield:collection_id": 1511214203,
+    "millsfield:company_id": [
+      1159286839
+    ],
     "millsfield:images_colors": [
       {
         "hex": "#b3b5ae",
@@ -145,7 +155,7 @@
       2015007113
     ],
     "millsfield:similar": {},
-    "millsfield:subcategory_id": 1511213187,
+    "millsfield:subcategory_id": 1511213429,
     "mz:is_current": 1,
     "sfomuseum:filename": "D73AF5A5-958C-4B62-91D8-DF03D1143DE2.jpeg",
     "sfomuseum:image_id": 315257,
@@ -169,6 +179,8 @@
     "wof:country": "XY",
     "wof:created": 1773387415,
     "wof:depicts": [
+      1159284989,
+      1159286839,
       1981317689
     ],
     "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
@@ -190,7 +202,7 @@
       }
     ],
     "wof:id": 2015007113,
-    "wof:lastmodified": 1773646344,
+    "wof:lastmodified": 1774078490,
     "wof:name": "amenity kit: unknown airline",
     "wof:parent_id": 1981317689,
     "wof:placetype": "custom",

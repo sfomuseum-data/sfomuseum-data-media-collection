@@ -2,12 +2,12 @@
   "id": 1762891931,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1970-01-01",
-    "date:cessation_upper": "1970-12-31",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-12-31",
-    "edtf:cessation": "1970~",
-    "edtf:inception": "1970~",
+    "date:cessation_lower": "1987-01-01",
+    "date:cessation_upper": "1987-12-31",
+    "date:inception_lower": "1987-01-01",
+    "date:inception_upper": "1987-12-31",
+    "edtf:cessation": "1987~",
+    "edtf:inception": "1987~",
     "geom:area": 2.477324999997507e-7,
     "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
     "geom:latitude": 37.61635756125121,
@@ -88,6 +88,9 @@
     "media:uri_template": "https://static.sfomuseum.org/media/176/289/193/1/1762891931_{secret}_{label}.{extension}",
     "millsfield:aircraft_id": [
       1159289519
+    ],
+    "millsfield:airport_id": [
+      102530049
     ],
     "millsfield:category_id": 1511214209,
     "millsfield:collection_id": 1511214207,
@@ -310,7 +313,8 @@
     "wof:depicts": [
       1159289519,
       1159293741,
-      1762828955
+      1762828955,
+      102530049
     ],
     "wof:geomhash": "ed7c2ab3547fc3916b5edc33488deaa7",
     "wof:hierarchy": [
@@ -332,7 +336,7 @@
       }
     ],
     "wof:id": 1762891931,
-    "wof:lastmodified": 1774080131,
+    "wof:lastmodified": 1779866592,
     "wof:name": "photograph: BAC One-Eleven",
     "wof:parent_id": 1762828955,
     "wof:placetype": "custom",
